@@ -1,0 +1,115 @@
+# Template per una nuova conferenza.
+# 1. Copia questo file in conferences/<slug>.yml (es. conferences/weis2024.yml)
+# 2. Crea conferences/<slug>.html con solo:
+#      ---
+#      layout: conference
+#      ---
+# 3. Compila i campi. Tutti i campi sono opzionali tranne name e year.
+#    NON iniziare il file con "---" altrimenti Jekyll lo tratta come pagina.
+
+name: "WEIS 2024"
+full_name: "The 23rd Workshop on the Economics of Information Security"
+edition: 23
+year: 2024
+location: "City, Country"
+venue: "Venue name"
+start_date: "2024-01-01"
+end_date: "2024-01-02"
+website: "https://example.org/"
+
+# Link utili (chiave libera -> URL). Puoi usare source_urls oppure archive_urls.
+source_urls:
+  program: "https://example.org/program"
+  accepted_papers: "https://example.org/papers"
+
+hosts:
+  - "Host institution"
+
+sponsors:
+  - "Sponsor name"
+
+important_dates:
+  submission: "2024-01-01"
+  notification: "2024-02-01"
+  camera_ready: "2024-03-01"
+
+organization:
+  general_chairs:
+    - name: "Name Surname"
+      affiliation: "Institution"
+  pc_chairs:
+    - name: "Name Surname"
+      affiliation: "Institution"
+  program_committee:
+    - name: "Name Surname"
+      affiliation: "Institution"
+
+invited_speakers:
+  - name: "Name Surname"
+    affiliation: "Institution"
+
+awards:
+  - award: "Best Paper"
+    prize: "1000 CHF"
+    title: "Paper title"
+
+# Tipi di evento supportati: opening, keynote, session, panel, social,
+# rump_session, poster_session (qualsiasi altro tipo viene comunque mostrato).
+program:
+  - date: "2024-01-01"
+    events:
+      - type: opening
+        title: "Welcome address"
+        time: "09:00-09:15"
+        speakers:
+          - name: "Name Surname"
+            affiliation: "Institution"
+
+      - type: keynote
+        number: 1
+        title: "Keynote title"
+        time: "09:15-10:00"
+        speaker:
+          name: "Name Surname"
+          affiliation: "Institution"
+        chair:
+          name: "Name Surname"
+          affiliation: "Institution"
+
+      - type: session
+        number: 1
+        title: "Session title"
+        time: "10:00-11:00"
+        chair:
+          name: "Name Surname"
+          affiliation: "Institution"
+        papers:
+          - title: "Paper title"
+            time: "10:00"
+            url: "https://example.org/paper.pdf"
+            award: "Best Paper"
+            authors:
+              - name: "Name Surname"
+                affiliation: "Institution"
+                presenter: true
+
+      - type: panel
+        title: "Panel title"
+        time: "11:00-12:00"
+        panelists:
+          - name: "Name Surname"
+            affiliation: "Institution"
+            moderator: true
+
+      - type: poster_session
+        title: "Poster Session"
+        time: "12:00-13:00"
+        posters:
+          - title: "Poster title"
+            authors:
+              - name: "Name Surname"
+
+      - type: social
+        title: "Gala Dinner"
+        time: "19:00-22:00"
+        venue: "Restaurant"

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<h2>Conferences</h2>
+
+{% comment %} Build "year|slug" strings so the hash can be sorted by year {% endcomment %}
+{% assign entries = "" | split: "" %}
+{% for item in site.data %}
+  {% if item[1].name %}
+    {% assign entry = item[1].year | append: "|" | append: item[0] %}
+    {% assign entries = entries | push: entry %}
+  {% endif %}
+{% endfor %}
+{% assign entries = entries | sort | reverse %}
+
+<table>
+  <thead>
+    <tr><th>Year</th><th>Conference</th><th>Location</th><th>Dates</th><th>Files</th></tr>
+  </thead>
+  <tbody>
+  {% for entry in entries %}
+    {% assign slug = entry | split: "|" | last %}
+    {% assign c = site.data[slug] %}
+    <tr>
+      <td>{{ c.year }}</td>
+      <td><a href="{{ '/conferences/' | append: slug | append: '.html' | relative_url }}"><strong>{{ c.name }}</strong></a><br><small>{{ c.full_name }}</small></td>
+      <td>{{ c.location }}</td>
+      <td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td>
+      <td><a href="{{ '/conferences/' | append: slug | append: '.yml' | relative_url }}">yml</a></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<p><small>{{ entries | size }} conference{% if entries.size != 1 %}s{% endif %} in the archive.</small></p>

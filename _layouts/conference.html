@@ -1,0 +1,139 @@
+---
+layout: default
+---
+{% assign key = page.name | split: "." | first %}
+{% assign c = site.data[key] %}
+
+{% if c == nil %}
+<p><strong>No data found:</strong> expected file <code>conferences/{{ key }}.yml</code>.</p>
+{% else %}
+
+<h2>Overview</h2>
+<table>
+  <tbody>
+    {% if c.full_name %}<tr><th>Full name</th><td>{{ c.full_name }}</td></tr>{% endif %}
+    {% if c.edition %}<tr><th>Edition</th><td>{{ c.edition }}</td></tr>{% endif %}
+    {% if c.year %}<tr><th>Year</th><td>{{ c.year }}</td></tr>{% endif %}
+    {% if c.start_date %}<tr><th>Dates</th><td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td></tr>{% endif %}
+    {% if c.location %}<tr><th>Location</th><td>{{ c.location }}</td></tr>{% endif %}
+    {% if c.venue %}<tr><th>Venue</th><td>{{ c.venue }}</td></tr>{% endif %}
+    {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a></td></tr>{% endif %}
+    {% if c.hosts %}<tr><th>Hosts</th><td>{{ c.hosts | join: ", " }}</td></tr>{% endif %}
+    {% if c.sponsors %}<tr><th>Sponsors</th><td>{{ c.sponsors | join: ", " }}</td></tr>{% endif %}
+    <tr><th>Source</th><td><a href="{{ '/conferences/' | append: key | append: '.yml' | relative_url }}">{{ key }}.yml</a></td></tr>
+  </tbody>
+</table>
+
+{% assign links = c.source_urls | default: c.archive_urls %}
+{% if links %}
+<h3>Links</h3>
+<ul>
+  {% for l in links %}
+  <li>{{ l[0] | replace: "_", " " | capitalize }}: <a href="{{ l[1] }}">{{ l[1] }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if c.important_dates %}
+<h2>Important dates</h2>
+<table>
+  <tbody>
+    {% for d in c.important_dates %}
+    <tr><th>{{ d[0] | replace: "_", " " | capitalize }}</th><td>{{ d[1] }}</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+{% if c.organization %}
+<h2>Organization</h2>
+{% for group in c.organization %}
+<h3>{{ group[0] | replace: "_", " " | capitalize }}</h3>
+<ul>
+  {% for p in group[1] %}
+  <li>{{ p.name }}{% if p.affiliation and p.affiliation != "" %} — {{ p.affiliation }}{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endif %}
+
+{% if c.invited_speakers %}
+<h2>Invited speakers</h2>
+<ul>
+  {% for p in c.invited_speakers %}
+  <li>{{ p.name }}{% if p.affiliation and p.affiliation != "" %} — {{ p.affiliation }}{% endif %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if c.awards %}
+<h2>Awards</h2>
+<table>
+  <thead><tr><th>Award</th><th>Prize</th><th>Title</th></tr></thead>
+  <tbody>
+    {% for a in c.awards %}
+    <tr><td>{{ a.award }}</td><td>{{ a.prize }}</td><td>{{ a.title }}</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+{% if c.program %}
+<h2>Program</h2>
+{% for day in c.program %}
+<h3>{{ day.date }}</h3>
+<table>
+  <thead><tr><th>Time</th><th>Type</th><th>Details</th></tr></thead>
+  <tbody>
+  {% for e in day.events %}
+    <tr>
+      <td>{{ e.time }}</td>
+      <td>{{ e.type | replace: "_", " " | capitalize }}{% if e.number %} {{ e.number }}{% endif %}</td>
+      <td>
+        <strong>{{ e.title }}</strong>
+        {% if e.venue %}<br>Venue: {{ e.venue }}{% endif %}
+        {% if e.speaker %}<br>Speaker: {{ e.speaker.name }}{% if e.speaker.affiliation and e.speaker.affiliation != "" %} ({{ e.speaker.affiliation }}){% endif %}{% endif %}
+        {% if e.speakers %}<br>Speakers: {% include people.html people=e.speakers %}{% endif %}
+        {% if e.chair %}<br>Chair: {{ e.chair.name }}{% if e.chair.affiliation and e.chair.affiliation != "" %} ({{ e.chair.affiliation }}){% endif %}{% endif %}
+        {% if e.panelists %}<br>Panelists: {% include people.html people=e.panelists %}{% endif %}
+
+        {% if e.papers %}
+        <ul>
+          {% for paper in e.papers %}
+          <li>
+            {% if paper.time %}<em>{{ paper.time }}</em> {% endif %}
+            {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+            {% if paper.award %} <strong>[{{ paper.award }}]</strong>{% endif %}
+            {% if paper.authors %}<br><small>{% include people.html people=paper.authors %}</small>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if e.panel %}
+        <p>
+          {% if e.panel.time %}<em>{{ e.panel.time }}</em> {% endif %}Panel: <strong>{{ e.panel.title }}</strong>
+          {% if e.panel.panelists %}<br><small>{% include people.html people=e.panel.panelists %}</small>{% endif %}
+        </p>
+        {% endif %}
+
+        {% if e.posters %}
+        <ul>
+          {% for poster in e.posters %}
+          <li>
+            {% if poster.url %}<a href="{{ poster.url }}">{{ poster.title }}</a>{% else %}{{ poster.title }}{% endif %}
+            {% if poster.award %} <strong>[{{ poster.award }}]</strong>{% endif %}
+            {% if poster.authors %}<br><small>{% include people.html people=poster.authors %}</small>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+{% endif %}
+
+{% endif %}

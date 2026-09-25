@@ -1,3 +1,16 @@
-remote_theme: pages-themes/cayman@v0.2.0
+title: SECON
+description: Archive of conferences on the economics of information security
+
+# Ogni file conferences/<slug>.yml diventa site.data.<slug>
+data_dir: conferences
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+
+exclude:
+  - pages-themes-cayman-56aa6db
+  - _templates
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md

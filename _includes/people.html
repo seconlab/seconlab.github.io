@@ -1,0 +1,4 @@
+{%- comment -%} Usage: {% include people.html people=list %} — renders "Name (Affiliation)" comma-separated {%- endcomment -%}
+{%- for p in include.people -%}
+{{ p.name }}{% if p.affiliation and p.affiliation != "" %} ({{ p.affiliation }}){% endif %}{% if p.presenter %} <em>(presenter)</em>{% endif %}{% if p.moderator %} <em>(moderator)</em>{% endif %}{% unless forloop.last %}, {% endunless %}
+{%- endfor -%}
