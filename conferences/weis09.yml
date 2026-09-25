@@ -1,0 +1,407 @@
+name: "WEIS 2009"
+full_name: "The Eighth Workshop on the Economics of Information Security"
+edition: 8
+year: 2009
+location: "London, England"
+venue: "University College London"
+start_date: "2009-06-24"
+end_date: "2009-06-25"
+website: "http://weis09.infosecon.net/"
+archive_urls:
+  home: "https://web.archive.org/web/20120119153046/http://weis09.infosecon.net/index.html"
+  programme: "https://web.archive.org/web/20120118110046/http://weis09.infosecon.net/programme.html"
+
+sponsors:
+  - "Hewlett-Packard Laboratories"
+  - "ESRC"
+  - "Unisys"
+
+important_dates:
+  submission: "2009-03-07"
+  notification: "2009-04-10"
+
+organization:
+  general_chairs:
+    - name: "David Pym"
+      affiliation: "HP Labs, Bristol and University of Bath, UK"
+    - name: "M. Angela Sasse"
+      affiliation: "University College London, UK"
+  pc_chairs:
+    - name: "Christos Ioannidis"
+      affiliation: "University of Bath, UK"
+    - name: "Tyler Moore"
+      affiliation: "Harvard University, USA"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University, USA"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge, UK"
+    - name: "Rainer Boehme"
+      affiliation: "Technische Universitaet Dresden, Germany"
+    - name: "Jean Camp"
+      affiliation: "Indiana University, USA"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas, USA"
+    - name: "Nicolas Courtois"
+      affiliation: "University College London, UK"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University, Israel"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland, USA"
+    - name: "Eric Johnson"
+      affiliation: "Dartmouth College, USA"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland, USA"
+    - name: "Tyler Moore"
+      affiliation: "Harvard University, USA"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota, USA"
+    - name: "Andy Ozment"
+      affiliation: "Office of the Secretary of Defense, USA"
+    - name: "David Pym"
+      affiliation: "HP Labs Bristol & University of Bath, UK"
+    - name: "M. Angela Sasse"
+      affiliation: "University College London, UK"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research, USA"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane, USA"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie-Mellon University, USA"
+    - name: "Catherine Tucker"
+      affiliation: "Massachusetts Institute of Technology, USA"
+
+program:
+  - date: "2009-06-24"
+    events:
+      - type: opening
+        title: "Opening Remarks"
+        time: "08:30-08:45"
+
+      - type: keynote
+        number: 1
+        title: "Computer Mediated Transactions"
+        time: "08:45-09:30"
+        speaker:
+          name: "Hal Varian"
+          affiliation: "Google"
+        chair:
+          name: "Christos Ioannidis"
+          affiliation: "University of Bath"
+
+      - type: session
+        number: 1
+        title: "Identity theft"
+        time: "09:30-10:30"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "Social Insecurity: The Unintended Consequences of Identity Fraud Prevention Policies"
+            time: "09:30"
+            url: "http://weis09.infosecon.net/files/102/index.html"
+            authors:
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "Ralph Gross"
+                affiliation: "Carnegie Mellon University"
+          - title: "Data Breaches and Identity Theft"
+            time: "10:00"
+            url: "http://weis09.infosecon.net/files/121/index.html"
+            authors:
+              - name: "William Roberds"
+                affiliation: "Federal Reserve Bank of Atlanta"
+              - name: "Stacey Schreft"
+                affiliation: "The Mutual Fund Research Center, LLC"
+
+      - type: session
+        number: 2
+        title: "Modelling uncertainty's effects"
+        time: "11:00-12:00"
+        chair:
+          name: "Jean Camp"
+          affiliation: "University of Indiana"
+        papers:
+          - title: "The Iterated Weakest Link - A Model of Adaptive Security Investment"
+            time: "11:00"
+            url: "http://weis09.infosecon.net/files/152/index.html"
+            authors:
+              - name: "Rainer Boehme"
+                affiliation: "Technische Universitat Dresden"
+              - name: "Tyler Moore"
+                affiliation: "Harvard University"
+          - title: "The Price of Uncertainty in Security Games"
+            time: "11:20"
+            url: "http://weis09.infosecon.net/files/161/index.html"
+            authors:
+              - name: "Jens Grossklags"
+                affiliation: "UC Berkeley"
+              - name: "Benjamin Johnson"
+                affiliation: "Carnegie Mellon University, CyLab"
+              - name: "Nicolas Christin"
+                affiliation: "Carnegie Mellon University, CyLab"
+          - title: "Nobody Sells Gold for the Price of Silver: Dishonesty, Uncertainty and the Underground Economy"
+            time: "11:40"
+            url: "http://weis09.infosecon.net/files/133/index.html"
+            authors:
+              - name: "Cormac Herley"
+                affiliation: "Microsoft Research"
+              - name: "Dinei Florencio"
+                affiliation: "Microsoft Research"
+
+      - type: keynote
+        number: 2
+        title: "Security and Human Behaviour"
+        time: "12:00-12:45"
+        speaker:
+          name: "Bruce Schneier"
+          affiliation: "BT Counterpane"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "Harvard University"
+
+      - type: session
+        number: 3
+        title: "Future directions in the economics of information security"
+        time: "14:00-15:45"
+        chair:
+          name: "Andrew Odlyzko"
+          affiliation: "University of Minnesota"
+        papers:
+          - title: "Cyber Attacks: Cross-Country Interdependence and Enforcement"
+            time: "14:00"
+            url: "http://weis09.infosecon.net/files/153/index.html"
+            authors:
+              - name: "Qiu-Hong Wang"
+                affiliation: "University of Singapore"
+              - name: "Seung-Hyun Kim"
+                affiliation: "University of Singapore"
+        panel:
+          title: "A Broader View of Cyber Security Economics"
+          time: "14:30"
+          panelists:
+            - name: "Lance Hoffman"
+              affiliation: "George Washington University"
+            - name: "Shari Lawrence Pfleeger"
+              affiliation: "The RAND Corporation"
+            - name: "David Good"
+              affiliation: "Cambridge University"
+            - name: "Ann Cavoukian"
+              affiliation: "Information and Privacy Commissioner, Province of Ontario"
+            - name: "Alessandro Acquisti"
+              affiliation: "Carnegie Mellon University"
+
+      - type: session
+        number: 4
+        title: "Economics of privacy"
+        time: "16:15-18:05"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "The Impact of Relative Standards on Concern About Privacy"
+            time: "16:15"
+            url: "http://weis09.infosecon.net/files/132/index.html"
+            authors:
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "Leslie John"
+                affiliation: "Carnegie Mellon University"
+              - name: "George Loewenstein"
+                affiliation: "Carnegie Mellon University"
+          - title: "The Policy Maker's Anguish: regulating personal data behaviour between paradoxes and dilemmas"
+            time: "16:45"
+            url: "http://weis09.infosecon.net/files/119/index.html"
+            authors:
+              - name: "Ramón Compañó"
+                affiliation: "European Commission Joint Research Centre IPTS"
+              - name: "Wainer Lusoli"
+                affiliation: "European Commission Joint Research Centre IPTS; Visiting Research Fellow, University of Chester"
+          - title: "The Privacy Jungle: On the Market for Data Protection in Social Networks"
+            time: "17:05"
+            url: "http://weis09.infosecon.net/files/156/index.html"
+            authors:
+              - name: "Joseph Bonneau"
+                affiliation: "University of Cambridge"
+              - name: "Soren Preibusch"
+                affiliation: "University of Cambridge"
+          - title: "HIPAA Compliance: An Examination of Institutional and Market Forces"
+            time: "17:35"
+            url: "http://weis09.infosecon.net/files/151/index.html"
+            authors:
+              - name: "Ajit Appari"
+                affiliation: "Tuck School of Business at Dartmouth"
+              - name: "Denise Anthony"
+                affiliation: "Department of Sociology, Dartmouth College"
+              - name: "Eric Johnson"
+                affiliation: "Tuck School of Business at Dartmouth"
+
+      - type: social
+        title: "Conference Dinner"
+        time: "19:30-21:30"
+        venue: "Florence Hall at the Royal Institute of British Architects"
+
+  - date: "2009-06-25"
+    events:
+      - type: keynote
+        number: 3
+        title: "From Mathematical Modelling to Automation: Turning Research on the Economics of Security into Economic Value"
+        time: "09:00-09:45"
+        speaker:
+          name: "Martin Sadler"
+          affiliation: "Hewlett-Packard Laboratories"
+        chair:
+          name: "Angela Sasse"
+          affiliation: "UCL"
+
+      - type: session
+        number: 5
+        title: "Options"
+        time: "09:45-10:15"
+        chair:
+          name: "Andy Ozment"
+          affiliation: ""
+        papers:
+          - title: "Valuating Privacy with Option Pricing Theory"
+            time: "09:45"
+            url: "http://weis09.infosecon.net/files/128/index.html"
+            authors:
+              - name: "Stefan Berthold"
+                affiliation: "Technische Universitat Dresden"
+              - name: "Rainer Boehme"
+                affiliation: "Technische Universitat Dresden"
+          - title: "Optimal Timing of Information Security Investment: A Real Options Approach"
+            time: "10:15"
+            url: "http://weis09.infosecon.net/files/112/index.html"
+            authors:
+              - name: "Ken-ichi Tatsumi"
+                affiliation: "Gakushuin University"
+              - name: "Makoto Goto"
+                affiliation: "Waseda University"
+
+      - type: session
+        number: 6
+        title: "Misaligned incentives in systems"
+        time: "11:15-12:05"
+        chair:
+          name: "Eric Johnson"
+          affiliation: "Dartmouth College"
+        papers:
+          - title: "Security Economics and Critical National Infrastructure"
+            time: "11:15"
+            url: "http://weis09.infosecon.net/files/124/index.html"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+              - name: "Shailendra Fuloria"
+                affiliation: "University of Cambridge"
+          - title: "Internet Multi-Homing Problems: Explanations from Economics"
+            time: "11:45"
+            url: "http://weis09.infosecon.net/files/135/index.html"
+            authors:
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+
+      - type: session
+        number: 7
+        title: "Security outsourcing and risk analysis"
+        time: "12:05-12:45"
+        chair:
+          name: "Shari Lawrence-Pfleeger"
+          affiliation: "RAND"
+        papers:
+          - title: "The Impact of Information Security Ratings on Vendor Competition"
+            time: "12:05"
+            url: "http://weis09.infosecon.net/files/134/index.html"
+            authors:
+              - name: "Zach Zhou"
+                affiliation: "Dartmouth College"
+              - name: "M. Eric Johnson"
+                affiliation: "Dartmouth College"
+          - title: "The Risk of Risk Analysis-And its relation to the Economics of Insider Threats"
+            time: "12:25"
+            url: "http://weis09.infosecon.net/files/111/index.html"
+            authors:
+              - name: "Christian W Probst"
+                affiliation: "Technical University of Denmark"
+              - name: "Jeffrey Hunker"
+                affiliation: "Carnegie Mellon University"
+
+      - type: keynote
+        number: 4
+        title: "Strategy and Budgeting in Practice - Art or Science?"
+        time: "14:00-14:45"
+        speaker:
+          name: "Robert Coles"
+          affiliation: "Merrill Lynch"
+        chair:
+          name: "David Pym"
+          affiliation: "Hewlett-Packard Laboratories"
+
+      - type: session
+        number: 8
+        title: "Cyber-insurance"
+        time: "14:45-15:35"
+        chair:
+          name: "Rainer Boehme"
+          affiliation: "TU Dresden"
+        papers:
+          - title: "Competitive Cyber-Insurance and Internet Security"
+            time: "14:45"
+            url: "http://weis09.infosecon.net/files/146/index.html"
+            authors:
+              - name: "Nikhil Shetty"
+                affiliation: "UC Berkeley"
+              - name: "Galina Schwartz"
+                affiliation: "UC Berkeley"
+              - name: "Mark Felegyhazi"
+                affiliation: "ICSI Berkeley"
+              - name: "Jean Walrand"
+                affiliation: "UC Berkeley"
+          - title: "Potential Rating Indicators for Cyberinsurance: An Exploratory Qualitative Study"
+            time: "15:15"
+            url: "http://weis09.infosecon.net/files/141/index.html"
+            authors:
+              - name: "Frank Innerhofer-Oberperfler"
+                affiliation: "Research Group Quality Engineering, Institute of Computer Science, University of Innsbruck"
+              - name: "Ruth Breu"
+                affiliation: "Research Group Quality Engineering, Institute of Computer Science, University of Innsbruck"
+
+      - type: session
+        number: 9
+        title: "Modelling security dynamics"
+        time: "16:00-17:10"
+        chair:
+          name: "Bruce Schneier"
+          affiliation: "BT Counterpane"
+        papers:
+          - title: "Economics of Malware: Epidemic Risks Model, Network Externalities and Incentives"
+            time: "16:00"
+            url: "http://weis09.infosecon.net/files/127/index.html"
+            authors:
+              - name: "Marc LeLarge"
+                affiliation: "INRIA-ENS"
+          - title: "Modeling the economic incentives of DDoS attacks: femtocell case study"
+            time: "16:30"
+            url: "http://weis09.infosecon.net/files/113/index.html"
+            authors:
+              - name: "Vicente Segura"
+                affiliation: "Telefónica I+D"
+              - name: "Javier Lahuerta"
+                affiliation: "Telefónica I+D"
+          - title: "Modelling the Security Ecosystem- The Dynamics of (In)Security"
+            time: "16:50"
+            url: "http://weis09.infosecon.net/files/103/index.html"
+            authors:
+              - name: "Stefan Frei"
+                affiliation: "ETH Zurich"
+              - name: "Dominik Schatzmann"
+                affiliation: "ETH Zurich"
+              - name: "Bernhard Plattner"
+                affiliation: "ETH Zurich"
+              - name: "Brian Trammell"
+                affiliation: "Hitachi Europe"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "17:15-18:30"

@@ -1,0 +1,587 @@
+name: "WEIS 2023"
+full_name: "The 22nd Workshop on the Economics of Information Security"
+edition: 22
+year: 2023
+location: "Geneva, Switzerland"
+venue: "Campus Biotech"
+start_date: "2023-07-05"
+end_date: "2023-07-07"
+website: "https://weis2023.econinfosec.org/"
+source_urls:
+  program: "https://weis2023.econinfosec.org/program-2/"
+  accepted_papers: "https://weis2023.econinfosec.org/accepted-papers/"
+  invited_speakers: "https://weis2023.econinfosec.org/invited-speakers/"
+  rump_talks: "https://weis2023.econinfosec.org/rump-talks/"
+  organization: "https://weis2023.econinfosec.org/organization/organization-2/"
+  call_for_papers: "https://weis2023.econinfosec.org/call-for-papers/"
+
+hosts:
+  - "University of Geneva"
+  - "United Nations Institute for Training and Research (UNITAR)"
+
+sponsors:
+  - "Marsh McLennan (Platinum)"
+
+important_dates:
+  submission: "2023-03-05"
+  submission_original: "2023-02-28"
+  notification: "2023-05-15"
+  camera_ready: "2023-06-10"
+
+organization:
+  general_chairs:
+    - name: "Thomas Maillart"
+      affiliation: "University of Geneva, Switzerland"
+  pc_chairs:
+    - name: "Svetlana Abramova"
+      affiliation: "Universität Innsbruck, Austria"
+    - name: "Josephine Wolff"
+      affiliation: "Tufts University, USA"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Alice Hutchings"
+      affiliation: "University of Cambridge"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Andrew Reddie"
+      affiliation: "UC Berkeley"
+    - name: "Anne E. Boustead"
+      affiliation: "University of Arizona"
+    - name: "Arrah-Marie Jo"
+      affiliation: "Institut Mines Télécom, IMT Atlantique"
+    - name: "Bruce Schneier"
+      affiliation: "Harvard Kennedy School"
+    - name: "Carly Beckerman"
+      affiliation: "Durham University"
+    - name: "Chris Hoofnagle"
+      affiliation: "UC Berkeley"
+    - name: "Daniel W Woods"
+      affiliation: "University of Edinburgh"
+    - name: "Dann Arce"
+      affiliation: "University of Texas at Dallas"
+    - name: "David Pym"
+      affiliation: "UCL & Institute of Philosophy, University of London"
+    - name: "Galina Schwartz"
+      affiliation: "CyberBlocks"
+    - name: "Gregory Falco"
+      affiliation: "Johns Hopkins University"
+    - name: "Jens Grossklags"
+      affiliation: "Technical University of Munich"
+    - name: "Julia Bernd"
+      affiliation: "ICSI"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Lei Zhou"
+      affiliation: "University of Maryland"
+    - name: "Lisa Yeo"
+      affiliation: "University of California Merced"
+    - name: "M. R. Sauter"
+      affiliation: "University of Maryland"
+    - name: "Martin Eling"
+      affiliation: "University of St.Gallen"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Masarah Paquet-Clouston"
+      affiliation: "Université de Montréal"
+    - name: "Mathias Humbert"
+      affiliation: "University of Lausanne"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan, Ann Arbor"
+    - name: "Nathan Good"
+      affiliation: "Good Research"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University and CEPR"
+    - name: "Nicholas Weaver"
+      affiliation: "ICSI"
+    - name: "Oshrat Ayalon"
+      affiliation: "Max Planck Institute for Software Systems"
+    - name: "Paulina Jo Pesch"
+      affiliation: "University of Innsbruck & University of Münster"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Sarah Bana"
+      affiliation: "Chapman University"
+    - name: "Sasha Romanosky"
+      affiliation: "RAND Corporation"
+    - name: "Serge Egelman"
+      affiliation: "ICSI & UC Berkeley, AppCensus"
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+    - name: "Ying Lei Toh"
+      affiliation: "Federal Reserve of Kansas City"
+
+invited_speakers:
+  - name: "Mihoko Kumamoto"
+    affiliation: "Director, UNITAR, Division for Prosperity"
+  - name: "Dingchen Ning"
+    affiliation: "Institute of Insurance Economics, University of Saint Gallen"
+  - name: "Zeina Zakhour"
+    affiliation: "Vice-president, Global CTO for Digital Security, Eviden (Atos)"
+  - name: "Jean-Marc Rickli"
+    affiliation: "Head of Global and Emerging Risks, Geneva Centre for Security Policy (GCSP)"
+  - name: "Vagisha Srivastava"
+    affiliation: "PhD Candidate, Georgia Institute of Technology"
+  - name: "Scott Stransky"
+    affiliation: "Head of the Marsh McLennan Cyber Risk Intelligence Center"
+  - name: "Alain Mermoud"
+    affiliation: "Head of the Technology Monitoring Team, Cyber-Defence Campus, armasuisse Science and Technology"
+  - name: "Marieke Hood"
+    affiliation: "Executive Director of Impact Translator, GESDA"
+  - name: "Tal Goldstein"
+    affiliation: "Head of Strategy and Policy, World Economic Forum Centre for Cybersecurity"
+  - name: "Kurt Nielsen"
+    affiliation: "CEO & Co-Founder, Partisia Blockchain"
+  - name: "Carol Aplin"
+    affiliation: "Principal Cyber Modeler, Marsh McLennan Cyber Risk Analytics Center"
+  - name: "Stéphane Duguin"
+    affiliation: "CEO, CyberPeace Institute"
+  - name: "Victoria Wang"
+    affiliation: "Board member, SDG China Executive Committee"
+  - name: "Ben Segal"
+    affiliation: "Honorary Staff Member, CERN"
+  - name: "Steve Ramsden"
+    affiliation: "CISO and Digital Innovation, international organization based in Geneva"
+  - name: "Gazmend Huskaj"
+    affiliation: "Head of Cyber Security, Geneva Centre for Security Policy (GCSP)"
+  - name: "Nicholas Niggli"
+    affiliation: "Deputy Secretary General, Republic and State of Geneva"
+  - name: "Fabian Hofmann"
+    affiliation: "Centre on Conflict, Development and Peacebuilding (CCDP), Geneva Graduate Institute"
+
+awards:
+  - award: "Best Paper"
+    prize: "1000 CHF"
+    title: "M&A Effect on Data Breaches in Hospitals: 2010-2022"
+  - award: "Best Talk"
+    prize: "750 CHF"
+    title: "The Potential of Self-Regulation for Front-Running Prevention on DEXes"
+  - award: "Best Poster"
+    prize: "250 CHF"
+    title: "Consumer Insurance and Cyber Losses: Gaps, Coverage, and Pricing"
+
+program:
+  - date: "2023-07-04"
+    events:
+      - type: social
+        title: "Informal get-together"
+        time: "19:00-21:00"
+        venue: "Panoramic terrace of Campus Biotech Innovation Park"
+
+  - date: "2023-07-05"
+    events:
+      - type: social
+        title: "CERN Visit"
+        time: "08:30-11:00"
+        venue: "CERN"
+
+      - type: opening
+        title: "Welcome address"
+        time: "13:00-13:30"
+        speakers:
+          - name: "Thomas Maillart"
+            affiliation: "University of Geneva"
+          - name: "Jonas Haertle"
+            affiliation: "Chief of the Office of the Executive Director, UNITAR"
+
+      - type: session
+        number: 1
+        title: "Cyber Incidents and Insurance"
+        time: "13:30-14:45"
+        chair:
+          name: "Mingyan Liu"
+          affiliation: "University of Michigan, Ann Arbor"
+        papers:
+          - title: "Time Dynamics of Cyber Risk"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-eling.pdf"
+            authors:
+              - name: "Martin Eling"
+                affiliation: "University of St.Gallen"
+              - name: "Rustam Ibragimov"
+                affiliation: "Imperial College London"
+              - name: "Dingchen Ning"
+                affiliation: "University of St. Gallen"
+                presenter: true
+          - title: "M&A Effect on Data Breaches in Hospitals: 2010-2022"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-clement.pdf"
+            award: "Best Paper"
+            authors:
+              - name: "Nan Clement"
+                affiliation: "University of Texas at Dallas"
+                presenter: true
+          - title: "Does Decomposing Losses Improve Our Understanding of the Financial Impact of Data Breaches?"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-theriot.pdf"
+            authors:
+              - name: "Justin Theriot"
+                affiliation: "RiskLens"
+                presenter: true
+              - name: "Benjamin Gowan"
+                affiliation: "RiskLens"
+
+      - type: panel
+        title: "Incentivizing Cyber Resilience"
+        time: "15:00-16:00"
+        panelists:
+          - name: "Dingchen Ning"
+            affiliation: "Institute of Insurance Economics, University of Saint Gallen"
+          - name: "Tal Goldstein"
+            affiliation: "Centre for Cybersecurity, World Economic Forum"
+          - name: "Thomas Maillart"
+            affiliation: "University of Geneva"
+          - name: "Scott Stransky"
+            affiliation: "Marsh McLennan Cyber Risk Intelligence Center"
+            moderator: true
+
+      - type: session
+        number: 2
+        title: "Online Crime"
+        time: "16:15-17:15"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "The University of Tulsa"
+        papers:
+          - title: "Argot as a Trust Signal: Slang, Jargon & Reputation on a Large Cybercrime Forum"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-hughes.pdf"
+            authors:
+              - name: "Jack Hughes"
+                affiliation: "University of Cambridge"
+                presenter: true
+              - name: "Andrew Caines"
+                affiliation: "University of Cambridge"
+              - name: "Alice Hutchings"
+                affiliation: "University of Cambridge"
+          - title: "You Can Tell a Cybercriminal by the Company they Keep: A Framework to Infer the Relevance of Underground Communities to the Threat Landscape"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-campobasso.pdf"
+            authors:
+              - name: "Michele Campobasso"
+                affiliation: "Eindhoven University of Technology"
+                presenter: true
+              - name: "Radu Rădulescu"
+                affiliation: "Eindhoven University of Technology"
+              - name: "Sylvan Brons"
+                affiliation: "Eindhoven University of Technology"
+              - name: "Luca Allodi"
+                affiliation: "Eindhoven University of Technology"
+
+      - type: social
+        title: "Gala Dinner"
+        time: "19:00-22:00"
+        venue: "United Nations Beach Club"
+
+  - date: "2023-07-06"
+    events:
+      - type: session
+        number: 3
+        title: "Open Source Security"
+        time: "09:00-10:15"
+        chair:
+          name: "Susan Landau"
+          affiliation: ""
+        papers:
+          - title: "Enhancing Vulnerability Prioritization: Data-Driven Exploit Predictions with Community-Driven Insights"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jacobs.pdf"
+            authors:
+              - name: "Jay Jacobs"
+                affiliation: "Cyentia"
+              - name: "Sasha Romanosky"
+                affiliation: "RAND Corporation"
+              - name: "Octavian Suciu"
+                affiliation: "University of Maryland"
+              - name: "Ben Edwards"
+                affiliation: "Cyentia Institute"
+              - name: "Armin Sarabi"
+                affiliation: "University of Michigan"
+                presenter: true
+          - title: "A Theory of Open Source Security: The Spillover of Security Knowledge in Vulnerability Disclosures through Software Supply Chains"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-lin.pdf"
+            authors:
+              - name: "Yu-Kai Lin"
+                affiliation: "Georgia State University"
+                presenter: true
+              - name: "Weifeng Li"
+                affiliation: "University of Georgia"
+          - title: "Cyberattacks, Media Coverage and Municipal Finance"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-andreadis.pdf"
+            authors:
+              - name: "Lefteris Andreadis"
+                affiliation: "Cyprus University of Technology"
+                presenter: true
+              - name: "Elena Kalotychou"
+                affiliation: "Cyprus University of Technology"
+              - name: "Christodoulos Louca"
+                affiliation: "Cyprus University of Technology"
+              - name: "Christian Lundblad"
+                affiliation: "University of North Carolina, Chapel Hill"
+              - name: "Christos Makridis"
+                affiliation: "Stanford University"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "10:15-10:45"
+        chair:
+          name: "Svetlana Abramova"
+          affiliation: "Universität Innsbruck"
+
+      - type: panel
+        title: "Open Source Intelligence and Information Security"
+        time: "11:00-12:00"
+        panelists:
+          - name: "Stéphane Duguin"
+            affiliation: "CyberPeace Institute"
+          - name: "Kurt Nielsen"
+            affiliation: "Partisia Blockchain"
+          - name: "Gazmend Huskaj"
+            affiliation: "Geneva Centre for Security Policy (GCSP)"
+          - name: "Nicholas Niggli"
+            affiliation: "Republic and State of Geneva"
+            moderator: true
+
+      - type: session
+        number: 4
+        title: "Digital Sovereignty"
+        time: "13:30-14:30"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "Trade-offs in Automating Platform Regulatory Compliance By Algorithm: Evidence from the COVID-19 Pandemic"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-cecere.pdf"
+            authors:
+              - name: "Grazia Cecere"
+                affiliation: "Institut Mines Telecom, Business School"
+              - name: "Clara Jean"
+                affiliation: "Grenoble Ecole de Management"
+                presenter: true
+              - name: "Vincent Lefrere"
+                affiliation: "Institut Mines Telecom, Business School"
+              - name: "Catherine Tucker"
+                affiliation: "MIT Sloan School of Management and NBER"
+          - title: "Municipal Cyber Risk"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jensen.pdf"
+            authors:
+              - name: "Jonathan Jensen"
+                affiliation: "Massachusetts Institute of Technology"
+              - name: "Fiona Paine"
+                affiliation: "Massachusetts Institute of Technology"
+                presenter: true
+
+      - type: panel
+        title: "Digital Sovereignty"
+        time: "15:00-16:00"
+        panelists:
+          - name: "Mihoko Kumamoto"
+            affiliation: "UNITAR, Division for Prosperity"
+          - name: "Victoria Wang"
+            affiliation: "SDG China Executive Committee"
+          - name: "Alain Mermoud"
+            affiliation: "Cyber-Defence Campus, armasuisse Science and Technology"
+          - name: "Vagisha Srivastava"
+            affiliation: "Georgia Institute of Technology"
+          - name: "Jean-Marc Rickli"
+            affiliation: "Geneva Centre for Security Policy (GCSP)"
+            moderator: true
+
+      - type: session
+        number: 5
+        title: "Security Games"
+        time: "16:15-17:00"
+        chair:
+          name: "Dann Arce"
+          affiliation: "University of Texas at Dallas"
+        papers:
+          - title: "Attackers and Defenders in Cybersecurity and their Optimal Investment Decisions"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-ebel.pdf"
+            authors:
+              - name: "Austin Ebel"
+                affiliation: "New York University"
+                presenter: true
+              - name: "Debasis Mitra"
+                affiliation: "Columbia University"
+          - title: "Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-huang.pdf"
+            authors:
+              - name: "Ziyuan Huang"
+                affiliation: "University of Michigan, Ann Arbor"
+                presenter: true
+              - name: "Parinaz Naghizadeh"
+                affiliation: "The Ohio State University"
+              - name: "Mingyan Liu"
+                affiliation: "University of Michigan, Ann Arbor"
+
+      - type: poster_session
+        title: "Poster Session"
+        time: "17:00-18:00"
+        posters:
+          - title: "A History of Cyber Risk Transfer"
+            authors:
+              - name: "Daniel W. Woods"
+              - name: "Josephine Wolff"
+          - title: "A Typology Framework to Quantify Business Cyber Security Behavior: Analysis from the UK Cyber Security Breaches Survey"
+            authors:
+              - name: "Anna Cartwright"
+              - name: "Edward Cartwright"
+          - title: "Consumer Insurance and Cyber Losses: Gaps, Coverage, and Pricing"
+            award: "Best Poster"
+            authors:
+              - name: "Margherita Marinetti"
+              - name: "Rachiyta Jain"
+              - name: "Daniel W. Woods"
+          - title: "Data and Statecraft: Why and How States Localize Data"
+            authors:
+              - name: "Sanghyun Han"
+          - title: "Measuring the Performance of Information Security Investments: An Empirical Analysis by Cybersecurity Sectors using Crunchbase Data"
+            authors:
+              - name: "Loïc Maréchal"
+              - name: "Alain Mermoud"
+              - name: "Dimitri Percia David"
+              - name: "Mathias Humbert"
+
+      - type: social
+        title: "Informal get-together"
+        time: "19:00-22:00"
+        venue: "Halles de l'île"
+
+  - date: "2023-07-07"
+    events:
+      - type: session
+        number: 6
+        title: "Future Economics of Security"
+        time: "09:00-10:15"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "University of Innsbruck"
+        papers:
+          - title: "The Potential of Self-Regulation for Front-Running Prevention on DEXes"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-heimbach.pdf"
+            award: "Best Talk"
+            authors:
+              - name: "Lioba Heimbach"
+                affiliation: "ETH Zurich"
+                presenter: true
+              - name: "Eric Schertenleib"
+                affiliation: "ETH Zurich"
+              - name: "Roger Wattenhofer"
+                affiliation: "ETH Zurich"
+          - title: "Secure and Efficient Networks"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-stupak.pdf"
+            authors:
+              - name: "Oleh Stupak"
+                affiliation: "University of Cambridge"
+                presenter: true
+          - title: "Birds of a Feather? A Comparative Analysis of DDoS Victimisation by IoT Botnet and Amplification Attacks"
+            url: "https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-vetrivel.pdf"
+            authors:
+              - name: "Swaathi Vetrivel"
+                affiliation: "Delft University of Technology"
+                presenter: true
+              - name: "Arman Noroozian"
+                affiliation: "University of Amsterdam"
+              - name: "Daisuke Makita"
+                affiliation: "Yokohama National University"
+              - name: "Katsunari Yoshioka"
+                affiliation: "Yokohama National University"
+              - name: "Michel van Eeten"
+                affiliation: "Delft University of Technology"
+              - name: "Carlos H. Gañán"
+                affiliation: "Delft University of Technology"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "10:15-10:45"
+        chair:
+          name: "Josephine Wolff"
+          affiliation: "Tufts University"
+
+      - type: panel
+        title: "Future Economics of Security"
+        time: "11:00-12:00"
+        panelists:
+          - name: "Zeina Zakhour"
+            affiliation: "Eviden, an Atos business"
+          - name: "Marieke Hood"
+            affiliation: "Geneva Science Diplomacy Anticipator (GESDA)"
+          - name: "Ben Segal"
+            affiliation: "CERN"
+          - name: "Steve Ramsden"
+            affiliation: "International organization based in Geneva"
+            moderator: true
+
+      - type: closing
+        title: "Awards Ceremony & Closing Remarks"
+        time: "12:00-12:30"
+
+      - type: hackathon
+        title: "Digital Sovereignty Hackathon (start)"
+        time: "17:30"
+
+  - date: "2023-07-08"
+    events:
+      - type: hackathon
+        title: "Digital Sovereignty Hackathon (end)"
+        time: "17:30"
+
+  - date: "2023-07-09"
+    events:
+      - type: social
+        title: "Day trip to la Gruyère"
+        time: "08:30-21:00"
+
+rump_talks:
+  - title: "ExtremeBB: A Database for Research into Online Hate, Harassment, the Manosphere and Extremism"
+    speaker:
+      name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+  - title: "Quantifying the Social Cost of Data Breaches"
+    speaker:
+      name: "Mingyan Liu"
+      affiliation: "University of Michigan, Ann Arbor"
+  - title: "On Gaps in Enterprise Cyber Attack Reporting"
+    speaker:
+      name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+  - title: "How Cryptocurrency Exchange Interruptions Create Arbitrage Opportunities"
+    speaker:
+      name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+  - title: "The Untrue Cost of Cybercrime"
+    speaker:
+      name: "Boris Hemkemeier"
+      affiliation: "Commerzbank"
+  - title: "Collecting Scientific Evidence on Control Measures"
+    speaker:
+      name: "Daniel W. Woods"
+      affiliation: "University of Edinburgh"
+  - title: "Challenges in Cyber Risk Quantification & Management"
+    speaker:
+      name: "Aljona Rebakovski"
+      affiliation: "Commerzbank"
+  - title: "Reflecting on Industrial Policy"
+    speaker:
+      name: "Sanghyun Han"
+      affiliation: "Georgia Institute of Technology"
+  - title: "Simulating Cooperation & Resilience with Agent-Based Models"
+    speaker:
+      name: "Sébastien Gillard"
+      affiliation: "University of Geneva"
+  - title: "SBOM: Citrus or Solution to Lemons Market?"
+    speaker:
+      name: "Jean Camp"
+      affiliation: "Indiana University"
+  - title: "Putting the Lie to Data Brokers' Claims: Help Wanted"
+    speaker:
+      name: "Serge Egelman"
+      affiliation: "ICSI & UC Berkeley, AppCensus"
+  - title: "WEIS'24"
+    speaker:
+      name: "Dann Arce"
+      affiliation: "University of Texas at Dallas"
