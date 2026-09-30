@@ -1,0 +1,487 @@
+name: "WEIS 2012"
+full_name: "The 11th Workshop on the Economics of Information Security"
+edition: 11
+year: 2012
+location: "Berlin, Germany"
+venue: "Berlin Brandenburg Academy of Sciences (BBAW), Jaegerstrasse 22-23, 10117 Berlin (entrance Markgrafenstrasse 38)"
+start_date: "2012-06-25"
+end_date: "2012-06-26"
+website: "http://weis2012.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150530054405/http://weis2012.econinfosec.org/index.html"
+  program: "https://web.archive.org/web/20150529054345/http://weis2012.econinfosec.org/program.html"
+  organization: "https://web.archive.org/web/20130928092713/http://weis2012.econinfosec.org/organization.html"
+  call_for_papers: "https://web.archive.org/web/20130928093216/http://weis2012.econinfosec.org/cfpart.html"
+  registration: "https://web.archive.org/web/20130928092630/http://weis2012.econinfosec.org/registration.html"
+  travel: "https://web.archive.org/web/20150530054411/http://weis2012.econinfosec.org/travel.html"
+  imprint: "https://web.archive.org/web/20130928092800/http://weis2012.econinfosec.org/imprint.html"
+  papers_directory: "https://web.archive.org/web/20130815123737/http://weis2012.econinfosec.org/papers/"
+  presentations_directory: "https://web.archive.org/web/20130702091507/http://weis2012.econinfosec.org/presentation/"
+  liveblog: "http://www.lightbluetouchpaper.org/2012/06/25/workshop-on-the-economics-of-informtaion-security-2012/"
+  edited_proceedings: "http://www.springer.com/computer/security+and+cryptology/book/978-3-642-39497-3"
+
+hosts:
+  - "DIW Berlin"
+
+sponsors:
+  - "Volkswagen Stiftung (Volkswagen Foundation)"
+  - "Google Inc."
+  - "Siemens"
+  - "Facebook"
+
+important_dates:
+  submission: "2012-02-24"
+  notification: "2012-04-13"
+  travel_grant_application: "2012-04-20"
+  camera_ready: "2012-06-01"
+  early_registration: "2012-05-31"
+  standard_registration: "2012-06-19"
+
+organization:
+  general_chairs:
+    - name: "Gert G. Wagner"
+      affiliation: "DIW Berlin"
+    - name: "Nicola Jentzsch"
+      affiliation: "DIW Berlin"
+  pc_chairs:
+    - name: "Rainer Böhme"
+      affiliation: "University of Münster"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Rainer Böhme"
+      affiliation: "University of Münster"
+    - name: "L. Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Jonathan Cave"
+      affiliation: "RAND Europe"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Benjamin Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Jeremy Epstein"
+      affiliation: "SRI International"
+    - name: "Allan Friedman"
+      affiliation: "Brookings Institution"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+    - name: "Thorsten Holz"
+      affiliation: "Ruhr-University Bochum"
+    - name: "Jean-Pierre Hubaux"
+      affiliation: "EPFL Lausanne"
+    - name: "Nicola Jentzsch"
+      affiliation: "DIW Berlin"
+    - name: "M. Eric Johnson"
+      affiliation: "Dartmouth Tuck School of Business"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Kanta Matsuura"
+      affiliation: "University of Tokyo"
+    - name: "Tyler Moore"
+      affiliation: "Wellesley College"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "David Pym"
+      affiliation: "University of Aberdeen"
+    - name: "Brent Rowe"
+      affiliation: "RTI International"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Richard Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Liad Wagman"
+      affiliation: "Illinois Institute of Technology"
+    - name: "Rick Wash"
+      affiliation: "Michigan State University"
+  local_organization:
+    - name: "Denis Huschka"
+      affiliation: "GWI Berlin / German Data Forum"
+  webmaster:
+    - name: "Lars Greiving"
+      affiliation: "University of Münster"
+    - name: "Malte Möser"
+      affiliation: "University of Münster"
+  artwork:
+    - name: "Claudia Kreutz"
+      affiliation: "GWI Berlin / German Data Forum"
+
+invited_speakers:
+  - name: "Nicolas Zimmer"
+    affiliation: "Permanent Secretary for Economics, Technology and Research of Berlin"
+  - name: "Gert G. Wagner"
+    affiliation: "DIW Berlin"
+  - name: "Bruce Schneier"
+    affiliation: "BT Counterpane"
+  - name: "Ross Anderson"
+    affiliation: "University of Cambridge"
+
+program:
+  - date: "2012-06-24"
+    events:
+      - type: social
+        title: "Welcome Reception"
+        time: "18:00-20:00"
+        venue: "Open air bar \"Shan Rahimkhan\", Gendarmenmarkt"
+
+  - date: "2012-06-25"
+    events:
+      - type: opening
+        title: "Opening – Welcome Address"
+        time: "09:00-09:10"
+        speakers:
+          - name: "Nicolas Zimmer"
+            affiliation: "Permanent Secretary for Economics, Technology and Research of Berlin"
+
+      - type: session
+        number: 1
+        title: "Privacy Economics"
+        time: "09:10-10:40"
+        chair:
+          name: "M. Eric Johnson"
+          affiliation: "Dartmouth Tuck School of Business"
+        papers:
+          - title: "Empirical Analysis of Data Breach Litigation"
+            url: "http://weis2012.econinfosec.org/papers/Romanosky_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Acquisti_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Sasha Romanosky"
+                affiliation: "Carnegie Mellon University"
+              - name: "David Hoffman"
+                affiliation: "Temple University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+          - title: "Is Patient Data Better Protected in Competitive Healthcare Markets?"
+            url: "http://weis2012.econinfosec.org/papers/Gaynor_WEIS2012.pdf"
+            authors:
+              - name: "Martin S. Gaynor"
+                affiliation: "Carnegie Mellon University"
+              - name: "Muhammad Zia Hydari"
+                affiliation: "Carnegie Mellon University"
+              - name: "Rahul Telang"
+                affiliation: "Carnegie Mellon University"
+          - title: "The Privacy Economics of Voluntary Over-disclosure in Web Forms"
+            url: "http://weis2012.econinfosec.org/papers/Preibusch_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Preibusch_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Sören Preibusch"
+                affiliation: "University of Cambridge"
+              - name: "Kat Krol"
+                affiliation: "University College London"
+              - name: "Alastair R. Beresford"
+                affiliation: "University of Cambridge"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:40-11:10"
+
+      - type: panel
+        title: "When Will Privacy Policy Learn from Privacy Economics?"
+        time: "11:10-12:30"
+        panelists:
+          - name: "Nicola Jentzsch"
+            affiliation: "DIW Berlin"
+            moderator: true
+          - name: "Alessandro Acquisti"
+            affiliation: "Carnegie Mellon University"
+          - name: "Jonathan Cave"
+            affiliation: "RAND Europe"
+          - name: "Alexander Dix"
+            affiliation: "Berlin Commissioner for Data Protection"
+          - name: "Bertin Martens"
+            affiliation: "European Commission"
+          - name: "Sarah Spiekermann"
+            affiliation: "Vienna University of Economics and Business"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-14:00"
+
+      - type: session
+        number: 2
+        title: "Security Economics"
+        time: "14:00-15:30"
+        chair:
+          name: "Michel van Eeten"
+          affiliation: "Delft University of Technology"
+        papers:
+          - title: "Security Resources, Capabilities and Cultural Values: Links to Security Performance and Compliance"
+            url: "http://weis2012.econinfosec.org/papers/Kwon_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Kwon_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Juhee Kwon"
+                affiliation: "Dartmouth College"
+              - name: "M. Eric Johnson"
+                affiliation: "Dartmouth College"
+          - title: "Software Security Economics: Theory, in Practice"
+            url: "http://weis2012.econinfosec.org/papers/Neuhaus_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Neuhaus_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Stephan Neuhaus"
+                affiliation: "ETH Zürich"
+              - name: "Bernhard Plattner"
+                affiliation: "ETH Zürich"
+          - title: "Sectoral and Regional Interdependency of Japanese Firms under the Influence of Information Security Risks"
+            url: "http://weis2012.econinfosec.org/papers/Jenjarrussakul_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Jenjarrussakul_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Bongkot Jenjarrussakul"
+                affiliation: "University of Tokyo"
+              - name: "Hideyuki Tanaka"
+                affiliation: "University of Tokyo"
+              - name: "Kanta Matsuura"
+                affiliation: "University of Tokyo"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 3
+        title: "Studying the Attacker"
+        time: "16:00-17:20"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "Why Do Nigerian Scammers Say They Are From Nigeria?"
+            url: "http://weis2012.econinfosec.org/papers/Herley_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Herley_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Cormac Herley"
+                affiliation: "Microsoft Research"
+          - title: "Analysis of eCrime in Crowd-sourced Labor Markets: Mechanical Turk vs. Freelancer"
+            url: "http://weis2012.econinfosec.org/papers/Garg_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Garg_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Vaibhav Garg"
+                affiliation: "Indiana University"
+              - name: "Chris Kanich"
+                affiliation: "UC San Diego"
+              - name: "L. Jean Camp"
+                affiliation: "Indiana University"
+          - title: "Can We Afford Integrity by Proof-of-Work? Scenarios Inspired by the Bitcoin Currency"
+            url: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2041492"
+            slides: "http://weis2012.econinfosec.org/presentation/Breuker_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Jörg Becker"
+                affiliation: "University of Münster"
+              - name: "Dominic Breuker"
+                affiliation: "University of Münster"
+              - name: "Tobias Heide"
+                affiliation: "University of Münster"
+              - name: "Justus Holler"
+                affiliation: "University of Münster"
+              - name: "Hans Peter Rauer"
+                affiliation: "University of Münster"
+              - name: "Rainer Böhme"
+                affiliation: "University of Münster"
+
+      - type: social
+        title: "Social Event & Conference Dinner (Dinner Speech)"
+        time: "18:30-22:00"
+        speakers:
+          - name: "Gert G. Wagner"
+            affiliation: "DIW Berlin"
+
+  - date: "2012-06-26"
+    events:
+      - type: session
+        number: 4
+        title: "Cost of Security"
+        time: "09:00-10:30"
+        chair:
+          name: "Jeremy Epstein"
+          affiliation: "SRI International"
+        papers:
+          - title: "Measuring the Cost of Cybercrime"
+            url: "http://weis2012.econinfosec.org/papers/Anderson_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Moore_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+              - name: "Chris Barton"
+                affiliation: "Cloudmark"
+              - name: "Rainer Böhme"
+                affiliation: "University of Münster"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+              - name: "Michel van Eeten"
+                affiliation: "Delft University of Technology"
+              - name: "Michael Levi"
+                affiliation: "Cardiff University"
+              - name: "Tyler Moore"
+                affiliation: "Wellesley College"
+              - name: "Stefan Savage"
+                affiliation: "UC San Diego"
+          - title: "A Closer Look at Information Security Costs"
+            url: "http://weis2012.econinfosec.org/papers/Brecht_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Nowey_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Matthias Brecht"
+                affiliation: "University of Regensburg"
+              - name: "Thomas Nowey"
+                affiliation: "Krones AG"
+          - title: "IT Security Investment and Gordon-Loeb's 1/e Rule"
+            url: "http://weis2012.econinfosec.org/papers/Baryshnikov_WEIS2012.pdf"
+            authors:
+              - name: "Yuliy Baryshnikov"
+                affiliation: "University of Illinois at Urbana-Champaign"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 5
+        title: "Management of Information Security"
+        time: "11:00-12:20"
+        chair:
+          name: "Rahul Telang"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "Who Sometimes Violates the Rule of the Organizations? An Empirical Study on Information Security Behaviors and Awareness"
+            url: "http://weis2012.econinfosec.org/papers/Takemura_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Takemura_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Toshihiko Takemura"
+                affiliation: "Kansai University"
+              - name: "Ayako Komatsu"
+                affiliation: "Information Technology Promotion Agency, Japan"
+          - title: "To Invest or Not to Invest? Assessing the Economic Viability of a Policy and Security Configuration Management Tool"
+            url: "http://weis2012.econinfosec.org/papers/Demetz_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Demetz_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Lukas Demetz"
+                affiliation: "University of Innsbruck"
+              - name: "Daniel Bachlechner"
+                affiliation: "University of Innsbruck"
+          - title: "Online Promiscuity: Prophylactic Patching and the Spread of Computer Transmitted Infections"
+            url: "http://weis2012.econinfosec.org/papers/Kelley_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Kelley_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Timothy Kelley"
+                affiliation: "Indiana University"
+              - name: "L. Jean Camp"
+                affiliation: "Indiana University"
+          - title: "Contagion in Cybersecurity Attacks"
+            url: "http://weis2012.econinfosec.org/papers/Baldwin_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Williams_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Adrian Baldwin"
+                affiliation: "Hewlett-Packard Laboratories"
+              - name: "Iffat Gheyas"
+                affiliation: "University of Aberdeen"
+              - name: "Christos Ioannidis"
+                affiliation: "University of Bath"
+              - name: "David Pym"
+                affiliation: "University of Aberdeen"
+              - name: "Julian Williams"
+                affiliation: "University of Aberdeen"
+
+      - type: break
+        title: "Lunch (with PC Meeting)"
+        time: "12:20-14:00"
+
+      - type: session
+        number: 6
+        title: "Privacy, Security, and Marketing"
+        time: "14:00-15:20"
+        chair:
+          name: "Nicolas Christin"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "The Effect of Fraud Investigation Cost on Pay-Per-Click Advertising"
+            url: "http://weis2012.econinfosec.org/papers/Chen_WEIS2012.pdf"
+            authors:
+              - name: "Min Chen"
+                affiliation: "Richard Stockton College of New Jersey"
+              - name: "Varghese Jacob"
+                affiliation: "University of Texas at Dallas"
+              - name: "Suresh Radhakrishnan"
+                affiliation: "University of Texas at Dallas"
+              - name: "Young Ryu"
+                affiliation: "University of Texas at Dallas"
+          - title: "Ad-blocking Games: Monetizing Online Content Under the Threat of Ad Avoidance"
+            url: "http://weis2012.econinfosec.org/papers/Vratonjic_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Vratonjic_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Nevena Vratonjic"
+                affiliation: "EPFL Lausanne"
+              - name: "Mohammad Hossein Manshaei"
+                affiliation: "Isfahan University of Technology, Iran"
+              - name: "Jens Grossklags"
+                affiliation: "Penn State University"
+              - name: "Jean-Pierre Hubaux"
+                affiliation: "EPFL Lausanne"
+          - title: "Choice Architecture and Smartphone Privacy: There's a Price for That"
+            url: "http://weis2012.econinfosec.org/papers/Egelman_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Egelman_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Serge Egelman"
+                affiliation: "UC Berkeley"
+              - name: "Adrienne Porter Felt"
+                affiliation: "UC Berkeley"
+              - name: "David Wagner"
+                affiliation: "UC Berkeley"
+          - title: "Would You Sell Your Mother's Data? Personal Data Disclosure in a Simulated Credit Card Application"
+            url: "http://weis2012.econinfosec.org/papers/Malheiros_WEIS2012.pdf"
+            slides: "http://weis2012.econinfosec.org/presentation/Malheiros_presentation_WEIS2012.pdf"
+            authors:
+              - name: "Miguel Malheiros"
+                affiliation: "University College London"
+              - name: "Sascha Brostoff"
+                affiliation: "University College London"
+              - name: "Charlene Jennett"
+                affiliation: "University College London"
+              - name: "Angela Sasse"
+                affiliation: "University College London"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:20-15:45"
+
+      - type: session
+        number: 7
+        title: "Ten Years of WEIS: Taking Stock and Looking Ahead"
+        time: "15:45-16:30"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "'Maybe We Spend Too Much?'"
+            note: "Invited talk (no paper)."
+            authors:
+              - name: "Bruce Schneier"
+                affiliation: "BT Counterpane"
+          - title: "'No, We Don't Spend Enough!'"
+            note: "Invited talk (no paper)."
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:30-17:50"
+
+      - type: closing
+        title: "Adjourn"
+        time: "17:50-18:00"

@@ -23,10 +23,10 @@ layout: default
     {% assign c = site.data[slug] %}
     <tr>
       <td>{{ c.year }}</td>
-      <td><a href="{{ '/conferences/' | append: slug | append: '.html' | relative_url }}"><strong>{{ c.name }}</strong></a><br><small>{{ c.full_name }}</small></td>
+      <td><a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}"><strong>{{ c.name }}</strong></a><br><small>{{ c.full_name }}</small></td>
       <td>{{ c.location }}</td>
       <td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td>
-      <td><a href="{{ '/conferences/' | append: slug | append: '.yml' | relative_url }}">yml</a></td>
+      <td><a href="{{ '/conferences/yml/' | append: slug | append: '.yml' | relative_url }}">yml</a></td>
     </tr>
   {% endfor %}
   </tbody>

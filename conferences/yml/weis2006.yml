@@ -1,0 +1,345 @@
+name: "WEIS 2006"
+full_name: "The Fifth Workshop on the Economics of Information Security"
+edition: 5
+year: 2006
+location: "Cambridge, England, UK"
+venue: "Robinson College, University of Cambridge"
+start_date: "2006-06-26"
+end_date: "2006-06-28"
+website: "http://weis2006.econinfosec.org/"
+archive_urls:
+  home: "https://www.econinfosec.org/archive/weis2006/index.html"
+  programme: "https://www.econinfosec.org/archive/weis2006/prog.html"
+  call_for_papers: "https://www.econinfosec.org/archive/weis2006/cfp.html"
+  call_for_papers_pdf: "https://www.econinfosec.org/archive/weis2006/WEIS06-cfp.pdf"
+  registration: "https://www.econinfosec.org/archive/weis2006/registration.html"
+  travel: "https://www.econinfosec.org/archive/weis2006/travel.html"
+  wayback_home: "https://web.archive.org/web/20070624001954/http://weis2006.econinfosec.org/index.html"
+  wayback_programme: "https://web.archive.org/web/20070624001800/http://weis2006.econinfosec.org/prog.html"
+
+hosts:
+  - "University of Cambridge"
+
+sponsors:
+  - "Institute for Information Infrastructure Protection (I3P)"
+  - "Microsoft Research"
+  - "Foundation for Information Policy Research (FIPR)"
+
+co_located_events:
+  - title: "Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Robinson College (WEIS participants invited to the Wednesday afternoon opening session)"
+    date: "2006-06-28 to 2006-06-30"
+    url: "http://petworkshop.org/2006/program.html"
+
+important_dates:
+  submission: "2006-03-20"
+  notification: "2006-04-24"
+  early_registration: "2006-05-12"
+  online_registration_closes: "2006-06-22"
+  workshop: "2006-06-26 to 2006-06-28"
+
+organization:
+  pc_chairs:
+    - name: "Ross Anderson"
+      affiliation: "Cambridge"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon"
+    - name: "Jean Camp"
+      affiliation: "University of Indiana"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "Tulane University"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Stuart Schechter"
+      affiliation: "MIT Lincoln Laboratory"
+    - name: "Bruce Schneier"
+      affiliation: "Counterpane"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon"
+    - name: "Hal Varian"
+      affiliation: "UC Berkeley"
+  webmaster:
+    - name: "Tyler Moore"
+      affiliation: "University of Cambridge Computer Laboratory"
+
+program:
+  - date: "2006-06-25"
+    events:
+      - type: social
+        title: "Punting on the Cam"
+        time: "afternoon (time TBD)"
+
+  - date: "2006-06-26"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "08:00-08:45"
+        venue: "Robinson College"
+
+      - type: session
+        number: 1
+        title: "Session 1"
+        time: "09:00-10:30"
+        papers:
+          - title: "Models and Measures for Correlation in Cyber-Insurance"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/16.pdf"
+            authors:
+              - name: "Rainer Boehme"
+              - name: "Gaurav Kataria"
+          - title: "The Effect of Stock Spam on Financial Markets"
+            url: "http://ssrn.com/abstract=897431"
+            authors:
+              - name: "Rainer Boehme"
+              - name: "Thorsten Holz"
+          - title: "The Economics of Digital Forensics"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/14.pdf"
+            authors:
+              - name: "Tyler Moore"
+
+      - type: break
+        title: "Tea"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Session 2"
+        time: "11:00-12:30"
+        papers:
+          - title: "Understanding and Influencing Attackers' Decisions: Implications for Security Investment Strategies"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/3.pdf"
+            authors:
+              - name: "Marco Cremonini"
+              - name: "Dmitri Nizovtsev"
+          - title: "On the Gordon & Loeb Model for Information Security Investment"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/12.pdf"
+            authors:
+              - name: "Jan Willemson"
+          - title: "Economics of Information Security Investment in the Case of Simultaneous Attacks"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/15.pdf"
+            authors:
+              - name: "C. Derrick Huang"
+              - name: "Qing Hu"
+              - name: "Ravi S. Behara"
+
+      - type: session
+        number: 3
+        title: "Session 3"
+        time: "14:00-15:30"
+        papers:
+          - title: "Enterprise Information Security: Who Should Manage it and How?"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/21.pdf"
+            authors:
+              - name: "Vineet Kumar"
+              - name: "Rahul Telang"
+              - name: "Tridas Mukhopadhyay"
+          - title: "Hackers, Users, Information Security"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/54.pdf"
+            authors:
+              - name: "I.P.L. Png"
+              - name: "Candy Q. Tang"
+              - name: "Qiu-Hong Wang"
+          - title: "A Model for Opportunistic Network Exploits: The Case of P2P Worms"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/30.pdf"
+            authors:
+              - name: "Michael Collins"
+              - name: "Carrie Gates"
+              - name: "Gaurav Kataria"
+
+      - type: break
+        title: "Coffee"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 4
+        title: "Session 4"
+        time: "16:00-17:30"
+        papers:
+          - title: "Predictors of Home-Based Wireless Security"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/51.pdf"
+            authors:
+              - name: "Matthew Hottell"
+              - name: "Drew Carter"
+              - name: "Matthew Deniszczuk"
+          - title: "Proof of Work can Work"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/50.pdf"
+            authors:
+              - name: "Debin Liu"
+              - name: "L Jean Camp"
+          - title: "The Topology of Covert Conflict"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/38.pdf"
+            authors:
+              - name: "Shishir Nagaraja"
+              - name: "Ross Anderson"
+
+      - type: social
+        title: "Drinks Reception"
+        time: "17:30-18:30"
+        venue: "Robinson College"
+
+  - date: "2006-06-27"
+    events:
+      - type: session
+        number: 1
+        title: "Session 1"
+        time: "09:00-10:30"
+        papers:
+          - title: "Costs to the U.S. Economy of Information Infrastructure Failures: Estimates from Field Studies and Economic Data"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/4.pdf"
+            authors:
+              - name: "Scott Dynes"
+              - name: "Eva Andrijicic"
+              - name: "M Eric Johnson"
+          - title: "The Potential for Underinvestment in Internet Security: Implications for Regulatory Policy"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/24.pdf"
+            authors:
+              - name: "Alfredo Garcia"
+              - name: "Barry Horowitz"
+          - title: "Bootstrapping the Adoption of Internet Security Protocols"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/46.pdf"
+            authors:
+              - name: "Andy Ozment"
+              - name: "Stuart E. Schechter"
+
+      - type: break
+        title: "Tea"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Session 2"
+        time: "11:00-12:30"
+        papers:
+          - title: "The Economic Impact of Regulatory Information Disclosure on Information Security Investments, Competition, and Social Welfare"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/37.pdf"
+            authors:
+              - name: "Anindya Ghose"
+              - name: "Uday Rajan"
+          - title: "Opt In Versus Opt Out: A Free-Entry Analysis of Privacy Policies"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/34.pdf"
+            authors:
+              - name: "Jan Bouckaert"
+              - name: "Hans Degryse"
+          - title: "Reliable, Usable Signaling to Defeat Masquerade Attacks"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/48.pdf"
+            authors:
+              - name: "L Jean Camp"
+
+      - type: session
+        number: 3
+        title: "Session 3"
+        time: "14:00-15:30"
+        papers:
+          - title: "Economics of Security Patch Management"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/5.pdf"
+            authors:
+              - name: "Huseyin Cavusoglu"
+              - name: "Hasan Cavusoglu"
+              - name: "Jun Zhang"
+          - title: "Emerging Economic Models for Vulnerability Research"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/17.pdf"
+            authors:
+              - name: "Michael Sutton"
+              - name: "Frank Nagle"
+          - title: "Competitive and Strategic Effects in the Timing of Patch Release"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/35.pdf"
+            authors:
+              - name: "Ashish Arora"
+              - name: "Christopher M. Forman"
+              - name: "Anand Nandkumar"
+              - name: "Rahul Telang"
+
+      - type: break
+        title: "Coffee"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 4
+        title: "Session 4"
+        time: "16:00-17:30"
+        papers:
+          - title: "Private Sector Cyber Security Investment: An Empirical Analysis"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/18.pdf"
+            authors:
+              - name: "Brent R. Rowe"
+              - name: "Michael P. Gallaher"
+          - title: "An Empirical Analysis of Security Investment in Countermeasures Based on an Enterprise Survey in Japan"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/9.pdf"
+            authors:
+              - name: "Wei Liu"
+              - name: "Hideyuki Tanaka"
+              - name: "Kanta Matsuura"
+          - title: "Justifying Spam and E-mail Virus Security Investments: A Case Study"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/13.pdf"
+            authors:
+              - name: "Hemantha Herath"
+              - name: "Tejaswini Herath"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "17:30-18:30"
+
+      - type: social
+        title: "Workshop Banquet"
+        time: "20:00"
+        venue: "St John's College"
+
+  - date: "2006-06-28"
+    events:
+      - type: session
+        number: 1
+        title: "Session 1"
+        time: "09:00-10:30"
+        papers:
+          - title: "The Economics of Mass Surveillance and the Questionable Value of Anonymous Communications"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/36.pdf"
+            authors:
+              - name: "George Danezis"
+              - name: "Bettina Wittneben"
+          - title: "Is There a Cost to Privacy Breaches? An Event Study"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/40.pdf"
+            authors:
+              - name: "Alessandro Acquisti"
+              - name: "Allan Friedman"
+              - name: "Rahul Telang"
+          - title: "Financial Privacy for Free? US Consumers' Response to FACTA"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/45.pdf"
+            authors:
+              - name: "Alessandro Acquisti"
+              - name: "Bin Zhang"
+
+      - type: break
+        title: "Tea"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Session 2"
+        time: "11:00-12:30"
+        papers:
+          - title: "Anonymity Loves Company: Usability and the Network Effect"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/41.pdf"
+            authors:
+              - name: "Roger Dingledine"
+              - name: "Nick Mathewson"
+          - title: "Collaborative Scheduling: Threats and Promises"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/43.pdf"
+            authors:
+              - name: "Rachel Greenstadt"
+              - name: "Michael D. Smith"
+          - title: "Adverse Selection in Online 'Trust' Certifications"
+            url: "https://www.econinfosec.org/archive/weis2006/docs/10.pdf"
+            authors:
+              - name: "Benjamin Edelman"
+
+      - type: closing
+        title: "Close of workshop"
+        time: "12:30"
+
+      - type: co_located
+        title: "PET 2006 opening session (Sixth Workshop on Privacy-Enhancing Technologies; WEIS participants invited free of charge)"
+        time: "14:00"
+        venue: "Robinson College"

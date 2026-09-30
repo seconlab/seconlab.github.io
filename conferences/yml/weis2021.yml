@@ -1,0 +1,314 @@
+name: "WEIS 2021"
+full_name: "The 20th Workshop on the Economics of Information Security"
+edition: 20
+year: 2021
+location: "Virtual (online)"
+venue: "Online"
+start_date: "2021-06-28"
+end_date: "2021-06-29"
+website: "https://weis2021.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2021.econinfosec.org/"
+  agenda: "https://weis2021.econinfosec.org/program/agenda/"
+  call_for_papers: "https://weis2021.econinfosec.org/program/call-for-papers/"
+  organizing_committee: "https://weis2021.econinfosec.org/organization/organizing-committee/"
+  registration: "https://weis2021.econinfosec.org/registration/"
+  sponsorship: "https://weis2021.econinfosec.org/sponsorship/"
+
+sponsors:
+  - "National Science Foundation"
+
+important_dates:
+  submission: "2021-04-01"
+  notification: "2021-05-27"
+  camera_ready: "2021-06-14"
+
+organization:
+  pc_chairs:
+    - name: "Daniel Arce"
+      affiliation: "The University of Texas at Dallas"
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Alisa Frik"
+      affiliation: "ICSI / UC Berkeley"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Anthony Vance"
+      affiliation: "Virginia Tech"
+    - name: "Ariel Zetlin-Jones"
+      affiliation: "Carnegie Mellon University"
+    - name: "Arrah-Marie Jo"
+      affiliation: "École Mines Télécom (IMT Atlantique)"
+    - name: "Atin Basuchoudhary"
+      affiliation: "Virginia Military Institute"
+    - name: "Bruce Schneier"
+      affiliation: "Harvard Kennedy School"
+    - name: "Bryan Routledge"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Daniel W Woods"
+      affiliation: "University of Innsbruck"
+    - name: "David Pym"
+      affiliation: "UCL & Institute of Philosophy, University of London"
+    - name: "Eric Jardine"
+      affiliation: "Virginia Tech"
+    - name: "Erin Kenneally"
+      affiliation: "Elchemy"
+    - name: "Fabio Massacci"
+      affiliation: "University of Trento, Vrije Universiteit Amsterdam"
+    - name: "Frank Nagle"
+      affiliation: "Harvard University"
+    - name: "Galina Schwartz"
+      affiliation: "Cyber Blocks"
+    - name: "Jens Grossklags"
+      affiliation: "Technical University of Munich"
+    - name: "Jessica Staddon"
+      affiliation: "Google"
+    - name: "Jon Lindsay"
+      affiliation: "University of Toronto"
+    - name: "Josephine Wolff"
+      affiliation: "Tufts University"
+    - name: "Julian Williams"
+      affiliation: "Durham University"
+    - name: "Julie Cohen"
+      affiliation: "Georgetown University"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Kévin Huguenin"
+      affiliation: "University of Lausanne (UNIL)"
+    - name: "L Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Lei Zhou"
+      affiliation: "University of Maryland"
+    - name: "Lisa Yeo"
+      affiliation: "UC Merced"
+    - name: "Marie Vasek"
+      affiliation: "UCL"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Masarah Paquet-Clouston"
+      affiliation: "GoSecure"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan, Ann Arbor"
+    - name: "Mols Sauter"
+      affiliation: "University of Maryland"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Nicola Searle"
+      affiliation: "Goldsmiths, University of London"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Rebekah Overdorf"
+      affiliation: "EPFL"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Robin Dillon-Merrill"
+      affiliation: "Georgetown University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Sasha Romanosky"
+      affiliation: "RAND"
+    - name: "Svetlana Abramova"
+      affiliation: "University of Innsbruck"
+    - name: "Thomas Maillart"
+      affiliation: "University of Geneva"
+    - name: "Veronica Marotta"
+      affiliation: "University of Minnesota"
+    - name: "Ying Lei Toh"
+      affiliation: "Federal Reserve Bank of Kansas City"
+
+# All times are Eastern Daylight Time (UTC-4), as stated on the agenda page.
+program:
+  - date: "2021-06-28"
+    events:
+      - type: opening
+        title: "Opening Remarks"
+        time: "09:00-09:10 (EDT)"
+
+      - type: session
+        number: 1
+        title: "Cybercrime"
+        time: "09:10-10:10 (EDT)"
+        chair:
+          name: "Marie Vasek"
+        papers:
+          - title: "Measuring the Deterioration of Trust on the Dark Web: Evidence from Operation Bayonet"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-chua.pdf"
+            authors:
+              - name: "Scott Lee Chua"
+          - title: "Measuring Cybercrime as a Service (CaaS) Offerings in a Cybercrime Forum"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-akyazi.pdf"
+            authors:
+              - name: "Ugur Akyazi"
+              - name: "Michel van Eeten"
+              - name: "Carlos Ganan"
+          - title: "Silicon Den: Cybercrime is Entrepreneurship"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-anderson.pdf"
+            authors:
+              - name: "Ross Anderson"
+              - name: "Rainer Böhme"
+              - name: "Richard Clayton"
+              - name: "Ben Collier"
+
+      - type: break
+        title: "Break"
+        time: "10:10-10:30 (EDT)"
+
+      - type: session
+        number: 2
+        title: "Post-Breach Activities"
+        time: "10:30-11:30 (EDT)"
+        chair:
+          name: "Erin Kenneally"
+        papers:
+          - title: "How Cyber Insurance Shapes Incident Response: A Mixed Methods Study"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-woods.pdf"
+            authors:
+              - name: "Daniel W Woods"
+              - name: "Rainer Böhme"
+          - title: "Cybersecurity Information Sharing: Analysing an Email Corpus of Coordinated Vulnerability Disclosure"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sridhar.pdf"
+            authors:
+              - name: "Kiran Sridhar"
+              - name: "Allen Householder"
+              - name: "Jonathan Spring"
+              - name: "Daniel Woods"
+          - title: "The value of data: Estimating the value individuals put on access to their computer files"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-cartwright.pdf"
+            authors:
+              - name: "Anna Cartwright"
+              - name: "Edward Cartwright"
+              - name: "Lian Xue"
+
+      - type: break
+        title: "Break"
+        time: "11:30-12:00 (EDT)"
+
+      - type: session
+        number: 3
+        title: "Vulnerabilities"
+        time: "12:00-13:00 (EDT)"
+        chair:
+          name: "Mingyan Liu"
+        papers:
+          - title: "IoT Marketplace: Willingness-To-Pay vs. Willingness-To-Accept"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-gopavaram.pdf"
+            authors:
+              - name: "Shakthidhar Gopavaram"
+              - name: "Jayati Dev"
+              - name: "Sanchari Das"
+              - name: "L. Jean Camp"
+          - title: "Super-Spreaders: Quantifying the Role of IoT Manufacturers in Device Infections"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-rodriguez.pdf"
+            authors:
+              - name: "Elsa Rodriguez"
+              - name: "Arman Noroozian"
+              - name: "Michel Van Eeten"
+              - name: "Carlos Gañán"
+          - title: "On the Benefits of Bug Bounty Programs: A Study of Chromium Vulnerabilities"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sivagnanam.pdf"
+            authors:
+              - name: "Amutheezan Sivagnanam"
+              - name: "Soodeh Atefi"
+              - name: "Afiya Ayman"
+              - name: "Jens Grossklags"
+              - name: "Aron Laszka"
+
+  - date: "2021-06-29"
+    events:
+      - type: session
+        number: 4
+        title: "Empirical Models"
+        time: "09:00-10:00 (EDT)"
+        chair:
+          name: "Sam Ransbotham"
+        papers:
+          - title: "The Impact of Data Breach Announcements on Company Value in European Markets"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-ford.pdf"
+            authors:
+              - name: "Adrian Ford"
+              - name: "Ameer Al-Nemrat"
+              - name: "Seyed Ali Ghorashi"
+              - name: "Julia Davidson"
+          - title: "Surprisingly Small: The Effect of Trade Secret Breaches on Firm Performance"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-searle.pdf"
+            authors:
+              - name: "Nicola Searle"
+              - name: "Andrew Vivian"
+          - title: "Behavioral advertising and consumer welfare: An empirical investigation"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-schnadower.pdf"
+            authors:
+              - name: "Eduardo Abraham Schnadower Mustri"
+              - name: "Alessandro Acquisti"
+              - name: "Idris Adjerid"
+
+      - type: break
+        title: "Break"
+        time: "10:00-10:20 (EDT)"
+
+      - type: session
+        number: 5
+        title: "Strategic Models"
+        time: "10:20-11:20 (EDT)"
+        chair:
+          name: "Ying Lei Toh"
+        papers:
+          - title: "A Model of Information Security and Competition"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-de-corniere.pdf"
+            authors:
+              - name: "Alexandre de Corniere"
+              - name: "Greg Taylor"
+          - title: "Deterrence, Backup, or Insurance: A Game-Theoretic Analysis of Ransomware"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-yin.pdf"
+            authors:
+              - name: "Tongxin Yin"
+              - name: "Armin Sarabi"
+              - name: "Mingyan Liu"
+          - title: "Omnichannel Cybersecurity: Optimizing Security by Leveraging Asymmetric Motivation"
+            url: "https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-oriot.pdf"
+            authors:
+              - name: "Spencer Oriot"
+              - name: "Josiah Dykstra"
+              - name: "Adam Williams"
+
+      - type: break
+        title: "Break"
+        time: "11:20-11:50 (EDT)"
+
+      - type: panel
+        number: 6
+        title: "WEIS at 20 Years: Panel Discussion"
+        time: "11:50-12:50 (EDT)"
+        panelists:
+          - name: "Alessandro Acquisti"
+          - name: "Ross Anderson"
+          - name: "Rainer Böhme"
+          - name: "L Jean Camp"
+          - name: "Lawrence Gordon"
+          - name: "Martin Loeb"
+          - name: "Kanta Matsuura"
+          - name: "Andrew Odlyzko"
+
+      - type: rump_session
+        number: 7
+        title: "Rump Session"
+        time: "12:50-13:50 (EDT)"
+        chair:
+          name: "Tyler Moore"
+
+      - type: closing
+        title: "Concluding Remarks"
+        time: "13:50-14:00 (EDT)"

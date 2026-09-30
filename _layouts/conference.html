@@ -5,7 +5,7 @@ layout: default
 {% assign c = site.data[key] %}
 
 {% if c == nil %}
-<p><strong>No data found:</strong> expected file <code>conferences/{{ key }}.yml</code>.</p>
+<p><strong>No data found:</strong> expected file <code>conferences/yml/{{ key }}.yml</code>.</p>
 {% else %}
 
 <h2>Overview</h2>
@@ -20,7 +20,7 @@ layout: default
     {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a></td></tr>{% endif %}
     {% if c.hosts %}<tr><th>Hosts</th><td>{{ c.hosts | join: ", " }}</td></tr>{% endif %}
     {% if c.sponsors %}<tr><th>Sponsors</th><td>{{ c.sponsors | join: ", " }}</td></tr>{% endif %}
-    <tr><th>Source</th><td><a href="{{ '/conferences/' | append: key | append: '.yml' | relative_url }}">{{ key }}.yml</a></td></tr>
+    <tr><th>Source</th><td><a href="{{ '/conferences/yml/' | append: key | append: '.yml' | relative_url }}">{{ key }}.yml</a></td></tr>
   </tbody>
 </table>
 
@@ -95,6 +95,7 @@ layout: default
         {% if e.speaker %}<br>Speaker: {{ e.speaker.name }}{% if e.speaker.affiliation and e.speaker.affiliation != "" %} ({{ e.speaker.affiliation }}){% endif %}{% endif %}
         {% if e.speakers %}<br>Speakers: {% include people.html people=e.speakers %}{% endif %}
         {% if e.chair %}<br>Chair: {{ e.chair.name }}{% if e.chair.affiliation and e.chair.affiliation != "" %} ({{ e.chair.affiliation }}){% endif %}{% endif %}
+        {% if e.chairs %}<br>Chairs: {% include people.html people=e.chairs %}{% endif %}
         {% if e.panelists %}<br>Panelists: {% include people.html people=e.panelists %}{% endif %}
 
         {% if e.papers %}
@@ -103,8 +104,10 @@ layout: default
           <li>
             {% if paper.time %}<em>{{ paper.time }}</em> {% endif %}
             {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}
+            {% if paper.slides %} [<a href="{{ paper.slides }}">slides</a>]{% endif %}
             {% if paper.award %} <strong>[{{ paper.award }}]</strong>{% endif %}
             {% if paper.authors %}<br><small>{% include people.html people=paper.authors %}</small>{% endif %}
+            {% if paper.note %}<br><small><em>{{ paper.note }}</em></small>{% endif %}
           </li>
           {% endfor %}
         </ul>

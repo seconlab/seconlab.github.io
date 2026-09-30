@@ -1,0 +1,370 @@
+name: "WEIS 2011"
+full_name: "The 10th Workshop on the Economics of Information Security"
+edition: 10
+year: 2011
+location: "Fairfax, VA, USA"
+venue: "The Mason Inn Conference Center & Hotel, 4352 Mason Pond Drive, Fairfax, Virginia 22030 (George Mason University, Fairfax Campus)"
+start_date: "2011-06-14"
+end_date: "2011-06-15"
+website: "http://weis2011.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150218180117/http://weis2011.econinfosec.org/"
+  program: "https://web.archive.org/web/20150529054321/http://weis2011.econinfosec.org/program.html"
+  organization: "https://web.archive.org/web/20120111024603/http://weis2011.econinfosec.org/org.html"
+  call_for_participation: "https://web.archive.org/web/20120104060031/http://weis2011.econinfosec.org/cfpart.html"
+  registration: "https://web.archive.org/web/20110928061605/http://weis2011.econinfosec.org/registration.html"
+  travel: "https://web.archive.org/web/20110928061331/http://weis2011.econinfosec.org/travel.html"
+  accommodation: "https://web.archive.org/web/20110927202329/http://weis2011.econinfosec.org/accommodation.html"
+  papers_directory: "https://web.archive.org/web/20130101030946/http://weis2011.econinfosec.org/papers/"
+
+hosts:
+  - "Center for Infrastructure Protection and Homeland Security (CIP/HS), George Mason University"
+  - "Interdisciplinary Center for Economic Science (ICES), George Mason University"
+
+sponsors:
+  - "Association for Enterprise Information (AFEI) (Promotional Partner)"
+  - "Security Analysis and Risk Management Association (SARMA) (Promotional Partner)"
+
+co_located_events:
+  - title: "Workshop on Cybersecurity Incentives (WoCI) (separate registration)"
+    date: "2011-06-16"
+    url: "http://cip.gmu.edu/woci2011.html"
+
+important_dates:
+  submission: "2011-03-10 (extended from 2011-02-28)"
+  notification: "2011-04-11"
+  camera_ready: "2011-05-14 (site reads \"May 14, 2010\")"
+  student_stipend_request: "2011-05-27"
+
+organization:
+  general_chairs:
+    - name: "Tim Clancy"
+      affiliation: "George Mason University"
+    - name: "Dan Houser"
+      affiliation: "George Mason University"
+  pc_chairs:
+    - name: "Bruce Schneier"
+      affiliation: "BT"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Matt Blaze"
+      affiliation: "University of Pennsylvania"
+    - name: "Rainer Böhme"
+      affiliation: "University of Muenster, Germany"
+    - name: "L. Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ben Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Allan Friedman"
+      affiliation: "Brookings Institution"
+    - name: "Jeremy Epstein"
+      affiliation: "SRI International"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+    - name: "Lance Hoffman"
+      affiliation: "The George Washington University"
+    - name: "Thorsten Holz"
+      affiliation: "Ruhr-University Bochum"
+    - name: "M. Eric Johnson"
+      affiliation: "Dartmouth Tuck School of Business"
+    - name: "John Kelsey"
+      affiliation: "NIST"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Tyler Moore"
+      affiliation: "Harvard University / Wellesley College"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "David Pym"
+      affiliation: "University of Aberdeen"
+    - name: "Brent Rowe"
+      affiliation: "RTI International"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research"
+    - name: "Richard Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+
+invited_speakers:
+  - name: "Christopher Greer"
+    affiliation: "Assistant Director, Information Technology R&D, Office of Science and Technology Policy, The White House"
+  - name: "Kevin McCabe"
+    affiliation: "Professor of Economics and Director, Center for the Study of Neuroeconomics, George Mason University"
+
+program:
+  - date: "2011-06-13"
+    events:
+      - type: social
+        title: "Welcome Reception"
+        time: "18:00-20:00"
+        venue: "George Mason University Hotel and Conference Center"
+
+  - date: "2011-06-14"
+    events:
+      - type: opening
+        title: "Welcome"
+        time: "09:00-09:10"
+
+      - type: keynote
+        number: 1
+        title: "Keynote Address"
+        time: "09:10-10:10"
+        slides: "http://weis2011.econinfosec.org/presentations/Greer_WEIS_June2011.ppt"
+        speaker:
+          name: "Christopher Greer"
+          affiliation: "Assistant Director, Information Technology R&D, Office of Science and Technology Policy, The White House"
+
+      - type: break
+        title: "Break"
+        time: "10:10-10:40"
+
+      - type: session
+        number: 1
+        title: "Attacks"
+        time: "10:40-12:00"
+        papers:
+          - title: "The Impact of Immediate Disclosure on Attack Diffusion and Volume"
+            url: "http://weis2011.econinfosec.org/papers/The%20Impact%20of%20Immediate%20Disclosure%20on%20Attack%20Diffusion%20and%20.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/RansbothamMitra_ImmDisc_20110612.pptx"
+            authors:
+              - name: "Sam Ransbotham"
+              - name: "Sabyasachi Mitra"
+          - title: "Where Do All the Attacks Go?"
+            url: "http://weis2011.econinfosec.org/papers/Where%20Do%20All%20the%20Attacks%20Go.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Florencio%20and%20Herley%20--%20Where%20Do%20All%20the%20Attacks%20Go.pptx"
+            authors:
+              - name: "Dinei Florencio"
+              - name: "Cormac Herley"
+          - title: "Sex, Lies and Cyber-crime Surveys"
+            url: "http://weis2011.econinfosec.org/papers/Sex,%20Lies%20and%20Cyber-crime%20Surveys.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Florencio%20and%20Herley%20--%20Sex,%20Lies%20and%20Cybercrime%20Surveys%20-%20WEIS.pptx"
+            authors:
+              - name: "Dinei Florencio"
+              - name: "Cormac Herley"
+          - title: "The Underground Economy of Fake Antivirus Software"
+            url: "http://weis2011.econinfosec.org/papers/The%20Underground%20Economy%20of%20Fake%20Antivirus%20Software.pdf"
+            authors:
+              - name: "Brett Stone-Gross"
+              - name: "Ryan Abman"
+              - name: "Richard A. Kemmerer"
+              - name: "Christopher Kruegel"
+              - name: "Douglas G. Steigerwald"
+
+      - type: break
+        title: "Lunch"
+        time: "12:00-13:30"
+
+      - type: session
+        number: 2
+        title: "Identity"
+        time: "13:30-14:50"
+        papers:
+          - title: "The Inconvenient Truth about Web Certificates"
+            url: "http://weis2011.econinfosec.org/papers/The%20Inconvenient%20Truth%20about%20Web%20Certificates.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/WEIS11-NevenaVratonjic.pptx"
+            authors:
+              - name: "Nevena Vratonjic"
+              - name: "Julien Freudiger"
+              - name: "Vincent Bindschaedler"
+              - name: "Jean-Pierre Hubaux"
+          - title: "Social Networks, Personalized Advertising, and Privacy Controls"
+            url: "http://weis2011.econinfosec.org/papers/Social%20Networks,%20Personalized%20Advertising,%20and%20Privacy%20Cont.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Catherine%20Tucker.pdf"
+            authors:
+              - name: "Catherine Tucker"
+          - title: "Economic Tussles in Federated Identity Management"
+            url: "http://weis2011.econinfosec.org/papers/Economic%20Tussles%20in%20Federated%20Identity%20Management.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Moore%20Landau%20weis11identity.pptx"
+            authors:
+              - name: "Susan Landau"
+              - name: "Tyler Moore"
+          - title: "Negative Information Looms Longer than Positive Information"
+            slides: "http://weis2011.econinfosec.org/presentations/Brandimarte_WEIS_Presentation.pptx"
+            note: "No paper PDF linked on the program (presentation only)."
+            authors:
+              - name: "Laura Brandimarte"
+              - name: "Alessandro Acquisti"
+              - name: "Joachim Vosgerau"
+
+      - type: break
+        title: "Break"
+        time: "14:50-15:20"
+
+      - type: session
+        number: 3
+        title: "Resilience"
+        time: "15:20-16:00"
+        papers:
+          - title: "Resilience of the Internet Interconnection Ecosystem"
+            url: "http://weis2011.econinfosec.org/papers/Resilience%20of%20the%20Internet%20Interconnection%20Ecosystem.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Hall,%20Anderson%20et%20al%20Interdomain-WEIS.ppt"
+            authors:
+              - name: "Chris Hall"
+              - name: "Ross Anderson"
+              - name: "Richard Clayton"
+              - name: "Evangelos Ouzounis"
+              - name: "Panagiotis Trimintzios"
+          - title: "Modeling Internet-Scale Policies for Cleaning up Malware"
+            url: "http://weis2011.econinfosec.org/papers/Modeling%20Internet-Scale%20Policies%20for%20Cleaning%20up%20Malware.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/shofmeyr-presentation.pdf"
+            authors:
+              - name: "Steven Hofmeyr"
+              - name: "Tyler Moore"
+              - name: "Stephanie Forrest"
+              - name: "Benjamin Edwards"
+              - name: "George Stelle"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:00-17:00"
+
+      - type: social
+        title: "Conference Dinner"
+        time: "18:00-20:00"
+        venue: "George Mason University Hotel and Conference Center"
+
+  - date: "2011-06-15"
+    events:
+      - type: keynote
+        number: 2
+        title: "Invited Talk: Neuroeconomics, Experimental Economics: What They Can Tell US About Human Risk Decisionmaking"
+        time: "09:10-10:10"
+        slides: "http://weis2011.econinfosec.org/presentations/McCabe%20Talk%202011.pptx"
+        speaker:
+          name: "Kevin McCabe"
+          affiliation: "Professor of Economics and Director, Center for the Study of Neuroeconomics, George Mason University"
+
+      - type: break
+        title: "Break"
+        time: "10:10-10:40"
+
+      - type: session
+        number: 4
+        title: "Theory"
+        time: "10:40-12:00"
+        papers:
+          - title: "Fixed Costs, Investment Rigidities, and Risk Aversion in Information Security: A Utility-theoretic Approach"
+            url: "http://weis2011.econinfosec.org/papers/Fixed%20Costs,%20Investment%20Rigidities,%20and%20Risk%20Aversion%20in%20In.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Ioannidis%20Pym%20Williams%20--%20WEIS-Talk-June-2011Alt.pdf"
+            authors:
+              - name: "Christos Ioannidis"
+              - name: "David Pym"
+              - name: "Julian Williams"
+          - title: "Who Should be Responsible for Software Security? A Comparative Analysis of Liability Policies in Network Environments"
+            url: "http://weis2011.econinfosec.org/papers/Who%20Should%20be%20Responsible%20for%20Software%20Security.%20A%20Comparat.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Terrence%20August%20-%20WEIS%202011.ppt"
+            authors:
+              - name: "Terrence August"
+              - name: "Tunay Tunca"
+          - title: "An Organizational Learning Perspective on Proactive vs. Reactive investment in Information Security"
+            url: "http://weis2011.econinfosec.org/papers/An%20Organizational%20Learning%20Perspective%20on%20Proactive%20vs.%20Rea.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Kwon%20%26%20Johnson%203rd-WEIS-Slides.pptx"
+            authors:
+              - name: "Juhee Kwon"
+              - name: "M. Eric Johnson"
+          - title: "Assessing Home Internet Users' Demand for Security: Will They Pay ISPs?"
+            url: "http://weis2011.econinfosec.org/papers/Assessing%20Home%20Internet%20Users%20Demand%20for%20Security%20-%20Will%20T.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Rowe,%20Wood%20--%204th%20Home%20Interner%20User%20Demand%20Assessment.pptx"
+            authors:
+              - name: "Dallas Wood"
+              - name: "Brent Rowe"
+
+      - type: break
+        title: "Lunch"
+        time: "12:00-13:30"
+
+      - type: panel
+        title: "Federal R&D Initiatives in Cyber Economics"
+        time: "13:30-14:30"
+        panelists:
+          - name: "L. Jean Camp"
+            affiliation: "Indiana University"
+            moderator: true
+          - name: "Members of the Federal Cyber Security R&D Working Group (NITRD, DHS S&T, NSF, DARPA)"
+            affiliation: ""
+        papers:
+          - title: "Presentation 1"
+            slides: "http://weis2011.econinfosec.org/presentations/Croson%20GMU%20CyberSecurity%20Panel.pptx"
+            note: "Panelist not named on the program (slide file: Croson GMU CyberSecurity Panel.pptx)."
+          - title: "Presentation 2"
+            slides: "http://weis2011.econinfosec.org/presentations/Landwher%20--%20110615%20NSF%20TwC%20for%20WEIS.pptx"
+            note: "Panelist not named on the program (slide file: Landwher -- 110615 NSF TwC for WEIS.pptx)."
+
+      - type: session
+        number: 5
+        title: "Paying for Security"
+        time: "14:30-15:30"
+        papers:
+          - title: "Information Targeting and Coordination: An Experimental Study"
+            url: "http://weis2011.econinfosec.org/papers/Information%20Targeting%20and%20Coordination%20-%20An%20Experimental%20St.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Hashim%20et%20al%20WEIS%20Information%20Targeting%20and%20Coordination%2006142011.pptx"
+            authors:
+              - name: "Matthew Hashim"
+              - name: "Sandra Maximiano"
+              - name: "Karthik Kannan"
+          - title: "Security Standardization in the Presence of Unverifiable Control"
+            url: "http://weis2011.econinfosec.org/papers/Security%20Standardization%20in%20the%20Presence%20of%20Unverifiable%20Co.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Chul%20Ho%20Lee%20et%20al%20standard%20in%20the%20presence%20of%20unverifiable%20control.ppt"
+            authors:
+              - name: "Chul H. Lee"
+              - name: "Xianjun Geng"
+              - name: "Srinivasan Raghunathan"
+          - title: "Economic Methods and Decision Making by Security Professionals"
+            url: "http://weis2011.econinfosec.org/papers/Economic%20methods%20and%20decision%20making%20by%20security%20profession.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Simon%20Shiu%20et%20al%20Decision%20Making%20weis%202011.pptx"
+            authors:
+              - name: "Simon Shiu"
+              - name: "Adrian Baldwin"
+              - name: "Yolanta Beres"
+              - name: "Marco Cassa Mont"
+              - name: "Geoff Duggan"
+
+      - type: break
+        title: "Break"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 6
+        title: "Privacy"
+        time: "16:00-17:00"
+        papers:
+          - title: "Real Name Verification Law on the Internet: a Poison or Cure for Privacy?"
+            url: "http://weis2011.econinfosec.org/papers/Real%20Name%20Verification%20Law%20on%20the%20Internet%20-%20A%20Poison%20or%20Cu.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Daegon%20Cho%20WEIS2011_FINAL.pptx"
+            authors:
+              - name: "Daegon Cho"
+          - title: "Health Disclosure Laws and Health Information Exchanges"
+            url: "http://weis2011.econinfosec.org/papers/HIE%20Disclosure%20Paper%20WEIS%202011.pdf"
+            slides: "http://weis2011.econinfosec.org/presentations/Adjerid--HIE%20Presentation%20WEIS%202011.pptx"
+            authors:
+              - name: "Idris Adjerid"
+              - name: "Alessandro Acquisti"
+              - name: "Rema Padman"
+              - name: "Rahul Telang"
+              - name: "Julia Adler-Milstein"
+          - title: "The Privacy Landscape: Product Differentiation on Data Collection"
+            url: "http://weis2011.econinfosec.org/papers/The%20privacy%20landscape%20-%20Product%20differentiation%20on%20data%20col.pdf"
+            authors:
+              - name: "Sören Preibusch"
+              - name: "Joseph Bonneau"
+
+      - type: closing
+        title: "Adjourn"
+        time: ""

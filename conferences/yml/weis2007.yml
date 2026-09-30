@@ -1,0 +1,500 @@
+name: "WEIS 2007"
+full_name: "The Sixth Workshop on the Economics of Information Security"
+edition: 6
+year: 2007
+location: "Pittsburgh, PA, USA"
+venue: "Carnegie Mellon University (Collaborative Innovation Center, Room 1201)"
+start_date: "2007-06-07"
+end_date: "2007-06-08"
+website: "http://weis2007.econinfosec.org/"
+archive_urls:
+  home: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/index.htm"
+  program: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/program.htm"
+  organization: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/organization.htm"
+  call_for_papers: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/call_for_papers.htm"
+  registration: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/registration.htm"
+  travel: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/travel.htm"
+  scholarships: "https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/scholarships.htm"
+
+hosts:
+  - "The Heinz School, Carnegie Mellon University"
+  - "CyLab, Carnegie Mellon University"
+
+sponsors:
+  - "The Heinz School, Carnegie Mellon University"
+  - "CyLab, Carnegie Mellon University"
+  - "Institute for Information Infrastructure Protection (I3P)"
+  - "Microsoft"
+
+important_dates:
+  submission: "2007-03-01"
+  notification: "2007-04-10"
+  student_scholarship_application: "2007-05-01"
+  registration_deadline: "2007-05-07"
+  workshop: "2007-06-07 to 2007-06-08"
+
+organization:
+  general_chairs:
+    - name: "Sasha Romanosky"
+      affiliation: "Carnegie Mellon University"
+  pc_chairs:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+  program_committee:
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "UT Dallas"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Anindya Ghose"
+      affiliation: "New York University"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Jens Grossklags"
+      affiliation: "UC Berkeley"
+    - name: "Eric Johnson"
+      affiliation: "Dartmouth College"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Tyler Moore"
+      affiliation: "Cambridge University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Ivan Png"
+      affiliation: "National University of Singapore"
+    - name: "Stuart Schechter"
+      affiliation: "MIT Lincoln Laboratory"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Peter Swire"
+      affiliation: "Ohio State University"
+    - name: "Curtis Taylor"
+      affiliation: "Duke University"
+    - name: "Hal Varian"
+      affiliation: "UC Berkeley"
+  local_planning_committee:
+    - name: "Geraldine Halloran"
+      affiliation: "Workshop coordinator, The Heinz School"
+    - name: "Sasha Romanosky"
+      affiliation: "Carnegie Mellon University (General Chair)"
+    - name: "Stuart Schechter"
+      affiliation: "Submissions & reviews engine developer, MIT Lincoln Laboratory"
+    - name: "Gary Franko"
+      affiliation: "Senior multimedia designer, The Heinz School"
+    - name: "Robert Taylor"
+      affiliation: "Online registrations, The Heinz School"
+    - name: "James Rosen"
+      affiliation: "The Heinz School"
+  steering_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "UT Dallas"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Stuart Schechter"
+      affiliation: "MIT Lincoln Laboratory"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Hal Varian"
+      affiliation: "UC Berkeley"
+
+invited_speakers:
+  - name: "George Loewenstein"
+    affiliation: "Herbert A. Simon Professor of Economics and Psychology, Carnegie Mellon University"
+  - name: "Neil Gandal"
+    affiliation: "Tel Aviv University"
+  - name: "Mark Wessel"
+    affiliation: "Dean, H. John Heinz III School of Public Policy & Management, Carnegie Mellon University"
+
+program:
+  - date: "2007-06-06"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "18:00-20:00"
+        venue: "Grand Room, Posner Hall (3rd floor, Tepper School of Business), Carnegie Mellon University"
+
+      - type: social
+        title: "Welcome Reception"
+        time: "18:00-20:00"
+        venue: "Grand Room, Posner Hall"
+
+  - date: "2007-06-07"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "08:00-12:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+
+      - type: break
+        title: "Breakfast"
+        time: "07:30-08:15"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+
+      - type: opening
+        title: "Welcome Address"
+        time: "08:15-08:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        speakers:
+          - name: "Mark Wessel"
+            affiliation: "Dean, H. John Heinz III School of Public Policy & Management, Carnegie Mellon University"
+
+      - type: session
+        number: 1
+        title: "Disclosure"
+        time: "08:30-10:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Anindya Ghose"
+          affiliation: "New York University"
+        papers:
+          - title: "The legitimate vulnerability market: the secretive world of 0-day exploit sales"
+            url: "http://weis2007.econinfosec.org/papers/29.pdf"
+            authors:
+              - name: "Charles Miller"
+                affiliation: "Independent Security Evaluators"
+          - title: "Inadvertent Disclosure - Information Leaks in the Extended Enterprise"
+            url: "http://weis2007.econinfosec.org/papers/43.pdf"
+            authors:
+              - name: "M. Eric Johnson"
+                affiliation: "Dartmouth College"
+              - name: "Scott Dynes"
+                affiliation: "Dartmouth College"
+          - title: "Network Security: Vulnerabilities and Disclosure Policy"
+            url: "http://weis2007.econinfosec.org/papers/68.doc"
+            authors:
+              - name: "Jay Pil Choi"
+                affiliation: "Michigan State University"
+              - name: "Chaim Fershtman"
+                affiliation: "Tel Aviv University"
+              - name: "Neil Gandal"
+                affiliation: "Tel Aviv University"
+          - title: "The Countervailing Incentive of Restricted Patch Distribution: Economic and Policy Implications"
+            url: "http://weis2007.econinfosec.org/papers/45.pdf"
+            authors:
+              - name: "Mohammad S. Rahman"
+                affiliation: "Purdue University"
+              - name: "Karthik Kannan"
+                affiliation: "Purdue University"
+              - name: "Mohit Tawarmalani"
+                affiliation: "Purdue University"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Privacy"
+        time: "11:00-12:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Lorrie Cranor"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "On the Viability of Privacy-Enhancing Technologies in a Self-Regulated Business-to-Consumer Market: Will Privacy Remain a Luxury Good?"
+            url: "http://weis2007.econinfosec.org/papers/30.pdf"
+            authors:
+              - name: "Rainer Böhme"
+                affiliation: "Technische Universität Dresden"
+              - name: "Sven Koble"
+                affiliation: "Technische Universität Dresden"
+          - title: "When 25 Cents is too much: An Experiment on Willingness-To-Sell and Willingness-To-Protect Personal Information"
+            url: "http://weis2007.econinfosec.org/papers/66.pdf"
+            authors:
+              - name: "Jens Grossklags"
+                affiliation: "University of California at Berkeley"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+
+      - type: break
+        title: "Lunch"
+        time: "12:00-13:00"
+        venue: "Newell-Simon Hall Atrium"
+
+      - type: keynote
+        number: 1
+        title: "Searching for Security in all the Wrong Places: A psychological perspective on individual concern for privacy"
+        time: "13:00-14:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        speaker:
+          name: "George Loewenstein"
+          affiliation: "Herbert A. Simon Professor of Economics and Psychology, Carnegie Mellon University"
+
+      - type: session
+        number: 3
+        title: "Security Investments"
+        time: "14:00-15:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Martin Loeb"
+          affiliation: "University of Maryland"
+        papers:
+          - title: "Optimally Securing Enterprise Information Systems and Assets"
+            url: "http://weis2007.econinfosec.org/papers/64.pdf"
+            authors:
+              - name: "Vineet Kumar"
+                affiliation: "Carnegie Mellon University"
+              - name: "Rahul Telang"
+                affiliation: "Carnegie Mellon University"
+              - name: "Tridas Mukhopadhyay"
+                affiliation: "Carnegie Mellon University"
+          - title: "Interdependence of Reliability and Security"
+            url: "http://weis2007.econinfosec.org/papers/71.pdf"
+            authors:
+              - name: "Peter Honeyman"
+                affiliation: "University of Michigan"
+              - name: "Galina A. Schwartz"
+                affiliation: "University of California Berkeley"
+              - name: "Ari Van Assche"
+                affiliation: "HEC Montréal"
+          - title: "A Framework for Classifying and Comparing Models of Cyber Security Investment to Support Policy and Decision-Making"
+            url: "http://weis2007.econinfosec.org/papers/76.pdf"
+            authors:
+              - name: "Rachel Rue"
+                affiliation: "RAND Corporation"
+              - name: "Shari Lawrence Pfleeger"
+                affiliation: "RAND Corporation"
+              - name: "David Ortiz"
+                affiliation: "RAND Corporation"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 4
+        title: "Managed Security Service Providers"
+        time: "16:00-17:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Bruce Schneier"
+          affiliation: "BT Counterpane"
+        papers:
+          - title: "Growth and sustainability of MSSP networks"
+            url: "http://weis2007.econinfosec.org/papers/65.pdf"
+            authors:
+              - name: "Alok Gupta"
+                affiliation: "University of Minnesota"
+              - name: "Dmitry Zhdanov"
+                affiliation: "University of Minnesota"
+          - title: "Will Outsourcing IT Security Lead to a Higher Social Level of Security?"
+            url: "http://weis2007.econinfosec.org/papers/47.pdf"
+            authors:
+              - name: "Brent Rowe"
+                affiliation: "RTI International"
+          - title: "Measuring Security Investment Benefit for Off the Shelf Software Systems - A Stakeholder Value Driven Approach"
+            url: "http://weis2007.econinfosec.org/papers/46.pdf"
+            authors:
+              - name: "Yue Chen"
+                affiliation: "University of Southern California"
+              - name: "Barry Boehm"
+                affiliation: "University of Southern California"
+              - name: "Luke Sheppard"
+                affiliation: "University of Southern California"
+
+      - type: social
+        title: "Banquet Dinner (free access to the Chihuly exhibition; music by The Chris Hemingway Trio)"
+        time: "18:00-21:00"
+        venue: "Phipps Conservatory and Botanical Gardens, Schenley Park"
+
+  - date: "2007-06-08"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "08:00-12:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+
+      - type: break
+        title: "Breakfast"
+        time: "07:30-08:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+
+      - type: session
+        number: 5
+        title: "Privacy-Personalization"
+        time: "08:30-10:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Srinivasan Raghunathan"
+          affiliation: "University of Texas at Dallas"
+        papers:
+          - title: "Incentive Design for Free but No Free Disposal Services: The Case of Personalization under Privacy Concerns"
+            url: "http://weis2007.econinfosec.org/papers/48.pdf"
+            authors:
+              - name: "Ramnath K. Chellappa"
+                affiliation: "Emory University Atlanta"
+              - name: "Shivendu Shivendu"
+                affiliation: "University of Southern California"
+          - title: "The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study"
+            url: "http://weis2007.econinfosec.org/papers/57.pdf"
+            authors:
+              - name: "Janice Tsai"
+                affiliation: "Carnegie Mellon University"
+              - name: "Serge Egelman"
+                affiliation: "Carnegie Mellon University"
+              - name: "Lorrie Cranor"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+          - title: "Economics of User Segmentation, Profiling, and Detection in Security"
+            url: "http://weis2007.econinfosec.org/papers/42.doc"
+            authors:
+              - name: "Srinivasan Raghunathan"
+                affiliation: "The University of Texas at Dallas"
+              - name: "Huseyin Cavusoglu"
+                affiliation: "The University of Texas at Dallas"
+              - name: "Byungwan Koh"
+                affiliation: "The University of Texas at Dallas"
+              - name: "Bin Mai"
+                affiliation: "Northwestern State University"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 6
+        title: "Empirics of Information Security"
+        time: "10:30-12:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "The Deterrent Effect of Enforcement Against Computer Hackers: Cross-Country Evidence"
+            url: "http://weis2007.econinfosec.org/papers/77.pdf"
+            authors:
+              - name: "Ivan Png"
+                affiliation: "National University of Singapore"
+              - name: "Chen Yu Wang"
+                affiliation: "National University of Singapore"
+          - title: "An Empirical Analysis of the Current State of Phishing Attack and Defence"
+            url: "http://weis2007.econinfosec.org/papers/51.pdf"
+            authors:
+              - name: "Tyler Moore"
+                affiliation: "University of Cambridge"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+          - title: "Privacy, Network Effects and Electronic Medical Record Technology Adoption"
+            url: "http://weis2007.econinfosec.org/papers/54.pdf"
+            authors:
+              - name: "Amalia R. Miller"
+                affiliation: "University of Virginia"
+              - name: "Catherine E. Tucker"
+                affiliation: "MIT"
+
+      - type: tutorial
+        title: "Box Lunch and Tutorial: Writing an economics paper - A tutorial for information security experts"
+        time: "12:00-13:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        speaker:
+          name: "Neil Gandal"
+          affiliation: "Tel Aviv University"
+        papers:
+          - title: "Writing an economics paper - A tutorial for information security experts"
+            url: "http://weis2007.econinfosec.org/papers/gandal_econ_tutorial.pdf"
+            authors:
+              - name: "Neil Gandal"
+                affiliation: "Tel Aviv University"
+
+      - type: break
+        title: "Short Break"
+        time: "13:30-14:00"
+
+      - type: rump_session
+        number: 7
+        title: "Rump Sessions"
+        time: "14:00-15:00"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Jean Camp"
+          affiliation: "Indiana University"
+        papers:
+          - title: "Assessing the Value of Investments in Network Security Operations: A Systems Analytics Approach"
+            authors:
+              - name: "Jonathan Griffin"
+                affiliation: "HP Laboratories"
+              - name: "Brian Monahan"
+                affiliation: "HP Laboratories"
+              - name: "David Pym"
+                affiliation: "HP Laboratories"
+              - name: "Mike Wonham"
+                affiliation: "HP Laboratories"
+              - name: "Mike Yearworth"
+                affiliation: "HP Laboratories"
+          - title: "The Gordon-Loeb Investment Model Generalized: Time Dependent Multiple Threats and Breach Losses over an Investment Period"
+            authors:
+              - name: "Rolf Hulthen"
+                affiliation: "TeliaSonera"
+          - title: "An Uneasy Relationship: Cyber Security Information Sharing, Communications Privacy, and the Boundaries of the Firm"
+            authors:
+              - name: "Aaron Burstein"
+                affiliation: "University of California, Berkeley"
+          - title: "Hiding, Seeking, and the Evolution of Privacy Behavior"
+            authors:
+              - name: "Stefan Dodds"
+                affiliation: "Carleton University"
+          - title: "A Reputation Mechanism for Software Vulnerability Disclosure and Patch Release"
+            authors:
+              - name: "Xia Zhao"
+                affiliation: "University of Texas at Austin"
+              - name: "Jianqing Chen"
+                affiliation: "University of Texas at Austin"
+              - name: "Andrew B. Whinston"
+                affiliation: "University of Texas at Austin"
+          - title: "A Survival Analysis of Disclosed Security Breaches"
+            authors:
+              - name: "Xiaodong Jin"
+              - name: "Dan Yomine"
+
+      - type: session
+        number: 8
+        title: "Risk"
+        time: "15:00-16:30"
+        venue: "Collaborative Innovation Center (CIC), Room 1201"
+        chair:
+          name: "Karthik Kannan"
+          affiliation: "Purdue University"
+        papers:
+          - title: "Mental Models of Computer Security Risks"
+            url: "http://weis2007.econinfosec.org/papers/80.pdf"
+            authors:
+              - name: "Farzaneh Asgharpour"
+                affiliation: "Indiana University"
+              - name: "Debin Liu"
+                affiliation: "Indiana University"
+              - name: "L. Jean Camp"
+                affiliation: "Indiana University"
+          - title: "Cyber-Insurance: Copula Pricing Framework and Implications for Risk Management"
+            url: "http://weis2007.econinfosec.org/papers/24.pdf"
+            authors:
+              - name: "Hemantha S. B. Herath"
+                affiliation: "Brock University"
+              - name: "Tejaswini C. Herath"
+                affiliation: "University at Buffalo"
+          - title: "Strategic Defense and Attack of Complex Networks"
+            url: "http://weis2007.econinfosec.org/papers/19.doc"
+            authors:
+              - name: "Kjell Hausken"
+                affiliation: "University of Stavanger"
+
+      - type: closing
+        title: "End of Workshop"
+        time: "16:30"

@@ -1,0 +1,395 @@
+name: "WEIS 2022"
+full_name: "The 21st Workshop on the Economics of Information Security"
+edition: 21
+year: 2022
+location: "Tulsa, Oklahoma, USA"
+venue: "Hyatt Regency Tulsa, 100 E 2nd St, Tulsa, OK 74103"
+start_date: "2022-06-21"
+end_date: "2022-06-22"
+website: "https://weis2022.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2022.econinfosec.org/"
+  agenda: "https://weis2022.econinfosec.org/program/agenda/"
+  accepted_papers: "https://weis2022.econinfosec.org/program/accepted-papers/"
+  call_for_papers: "https://weis2022.econinfosec.org/program/call-for-papers/"
+  organizing_committee: "https://weis2022.econinfosec.org/organization/organizing-committee/"
+  venue: "https://weis2022.econinfosec.org/travel/venue/"
+  sponsorship: "https://weis2022.econinfosec.org/sponsorship/"
+
+hosts:
+  - "School of Cyber Studies, The University of Tulsa"
+
+sponsors:
+  - "Marsh McLennan (Platinum Sponsor)"
+  - "Software Engineering Institute, Carnegie Mellon University (Gold Sponsor)"
+  - "National Science Foundation (Student Travel Awards)"
+
+important_dates:
+  submission: "2022-03-07"
+  notification: "2022-04-25"
+  camera_ready: "2022-05-26"
+
+organization:
+  general_chairs:
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+  pc_chairs:
+    - name: "Sadia Afroz"
+      affiliation: "ICSI / UC Berkeley"
+    - name: "Laura Brandimarte"
+      affiliation: "The University of Arizona"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Arrah-Marie Jo"
+      affiliation: "Institut Mines Télécom"
+    - name: "Atin Basuchoudhary"
+      affiliation: "Virginia Military Institute"
+    - name: "Bradley Brummel"
+      affiliation: "The University of Tulsa"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Daniel W Woods"
+      affiliation: "University of Innsbruck"
+    - name: "Dann Arce"
+      affiliation: "UT Dallas"
+    - name: "David Pym"
+      affiliation: "UCL & Institute of Philosophy, University of London"
+    - name: "Eric Jardine"
+      affiliation: "Virginia Tech"
+    - name: "Erin Kenneally"
+      affiliation: "Elchemy"
+    - name: "Fabio Massacci"
+      affiliation: "University of Trento"
+    - name: "Frank Nagle"
+      affiliation: "Harvard Business School"
+    - name: "Galina Schwartz"
+      affiliation: "Cyberblocks"
+    - name: "Ido Kilovaty"
+      affiliation: "The University of Tulsa"
+    - name: "Jens Grossklags"
+      affiliation: "Technical University of Munich"
+    - name: "Josephine Wolff"
+      affiliation: "Fletcher School of Law and Diplomacy, Tufts University"
+    - name: "Julian Williams"
+      affiliation: "Durham University"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Kévin Huguenin"
+      affiliation: "University of Lausanne"
+    - name: "L Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Lawrence (Larry) A. Gordon"
+      affiliation: "University of Maryland"
+    - name: "Lei Zhou"
+      affiliation: "University of Maryland"
+    - name: "Lisa Yeo"
+      affiliation: "UC Merced"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan, Ann Arbor"
+    - name: "mols sauter"
+      affiliation: "University of Maryland"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University and CEPR"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Sal Aurigemma"
+      affiliation: "University of Tulsa"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Svetlana Abramova"
+      affiliation: "University of Innsbruck"
+    - name: "Thomas Maillart"
+      affiliation: "University of Geneva"
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+    - name: "Veronica Marotta"
+      affiliation: "University of Minnesota"
+    - name: "Ying Lei Toh"
+      affiliation: "Federal Reserve of Kansas City"
+
+invited_speakers:
+  - name: "Scott Stransky"
+    affiliation: "Managing Director, Head of the Cyber Risk Analytics Center at Marsh McLennan"
+  - name: "Erin Kenneally"
+    affiliation: "Global Director, Cyber Insurance at SentinelOne"
+  - name: "Daniel Woods"
+    affiliation: "University of Edinburgh / BUiD"
+
+program:
+  - date: "2022-06-20"
+    events:
+      - type: social
+        title: "Optional Walking Tour of Downtown Tulsa Art Deco Architecture"
+        time: "15:00-16:30"
+
+      - type: social
+        title: "Welcome Reception"
+        time: "17:00-19:00"
+        venue: "James E McNellie's Pub, 409 E 1st St, Side Bar Room"
+
+  - date: "2022-06-21"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "07:00-08:45"
+        venue: "Promenade C, Hyatt Regency"
+
+      - type: opening
+        title: "Opening Remarks"
+        time: "08:45-09:00"
+        venue: "Promenade D, Hyatt Regency"
+        speakers:
+          - name: "Brad Carson"
+            affiliation: "President, The University of Tulsa"
+          - name: "Laura Brandimarte"
+            affiliation: "WEIS 2022 Program Chair"
+          - name: "Sadia Afroz"
+            affiliation: "WEIS 2022 Program Chair"
+          - name: "Tyler Moore"
+            affiliation: "WEIS 2022 General Chair"
+
+      - type: session
+        number: 1
+        title: "Data Privacy Market"
+        time: "09:00-10:30"
+        venue: "Promenade D"
+        papers:
+          - title: "Exploring the role of data enclosure in the digital political economy"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-kuerbis.pdf"
+            authors:
+              - name: "Brenden Kuerbis"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Milton Mueller"
+                affiliation: "Georgia Institute of Technology"
+          - title: "Impact of App Privacy Label Disclosure on Demand: An Empirical Analysis"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-telang.pdf"
+            authors:
+              - name: "Rahul Telang"
+                affiliation: "Carnegie Mellon University"
+              - name: "Rajiv Garg"
+                affiliation: "Emory University"
+          - title: "Prior Fraud Exposure and Precautionary Credit Market Behavior"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/07/weis22-toh.pdf"
+            authors:
+              - name: "Ying Lei Toh"
+                affiliation: "Federal Reserve Bank of Kansas City"
+              - name: "Nathan Blascak"
+                affiliation: "Federal Reserve Bank of Philadelphia"
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:00"
+        venue: "Promenade Foyer / Williams Green"
+
+      - type: session
+        number: 2
+        title: "Cyber Incidents I"
+        time: "11:00-12:30"
+        venue: "Promenade D"
+        papers:
+          - title: "Contagion or competitive effects?: Lenders’ response to peer firm cyberattacks"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-sheneman.pdf"
+            authors:
+              - name: "Amy Sheneman"
+                affiliation: "The Ohio State University"
+          - title: "Empirically Evaluating the Effect of Cybersecurity Precautions on Incidents in Israeli Enterprises"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-gandal.pdf"
+            authors:
+              - name: "Neil Gandal"
+                affiliation: "Tel Aviv University and CEPR"
+              - name: "Tyler Moore"
+                affiliation: "University of Tulsa"
+              - name: "Michael Riordan"
+                affiliation: "Columbia University"
+              - name: "Noa Barnir"
+                affiliation: "Tel Aviv University"
+          - title: "No research, no risk? An empirical study of determinants of information leakage attacks"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-stupak.pdf"
+            authors:
+              - name: "Oleh Stupak"
+                affiliation: "University of Oxford, Oxford Internet Institute"
+
+      - type: break
+        title: "Lunch Break"
+        time: "12:30-13:45"
+        venue: "Promenade C"
+
+      - type: panel
+        number: 3
+        title: "The present and future state of cyber-insurance: research and practice"
+        time: "13:45-14:45"
+        venue: "Promenade D"
+        panelists:
+          - name: "Scott Stransky"
+            affiliation: "Managing Director, Head of the Cyber Risk Analytics Center at Marsh McLennan"
+          - name: "Erin Kenneally"
+            affiliation: "Global Director, Cyber Insurance at SentinelOne"
+          - name: "Daniel Woods"
+            affiliation: "University of Edinburgh / BUiD"
+
+      - type: break
+        title: "Break"
+        time: "14:45-15:15"
+        venue: "Promenade Foyer / Williams Green"
+
+      - type: session
+        number: 4
+        title: "Cyber-incidents II"
+        time: "15:15-17:15"
+        venue: "Promenade D"
+        papers:
+          - title: "Reducing Attack Surface by Learning Adversarial Bag of Tricks"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-casey.pdf"
+            authors:
+              - name: "William Casey"
+                affiliation: "USNA"
+              - name: "J Goohs"
+                affiliation: "US Navy"
+          - title: "Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-gillard.pdf"
+            authors:
+              - name: "Sébastien Gillard"
+                affiliation: "Department of Defense Economics, Military Academy at ETH Zurich"
+              - name: "Dimitri Percia David"
+                affiliation: "Information Science Institute, University of Geneva"
+              - name: "Alain Mermoud"
+                affiliation: "Cyber-Defence Campus, armasuisse Science and Technology"
+              - name: "Thomas Maillart"
+                affiliation: "Information Science Institute, University of Geneva"
+          - title: "Treating the Symptoms or the Cause? Talent Acquisition in Response to Data Breaches"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-bana.pdf"
+            authors:
+              - name: "Sarah Bana"
+                affiliation: "Stanford"
+              - name: "Erik Brynjolfsson"
+                affiliation: "Stanford"
+              - name: "Wang Jin"
+                affiliation: "MIT"
+              - name: "Sebastian Steffen"
+                affiliation: "MIT"
+              - name: "Xiupeng Wang"
+                affiliation: "Skidmore"
+          - title: "Information Frictions and Heterogeneity in Valuations of Personal Data"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-collis.pdf"
+            authors:
+              - name: "Avinash Collis"
+                affiliation: "University of Texas at Austin"
+              - name: "Alex Moehring"
+                affiliation: "MIT"
+              - name: "Ananya Sen"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+
+      - type: social
+        title: "Conference Dinner"
+        time: "18:30"
+        venue: "Lowood Modern Woodfire, 817 E 3rd St, Tulsa, OK 74120"
+
+  - date: "2022-06-22"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "07:00-09:00"
+        venue: "Promenade C"
+
+      - type: session
+        number: 5
+        title: "Cryptocurrencies"
+        time: "09:00-10:30"
+        venue: "Promenade D, Hyatt Regency"
+        papers:
+          - title: "Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-piet.pdf"
+            authors:
+              - name: "Julien Piet"
+                affiliation: "UC Berkeley"
+              - name: "Jaiden Fairoze"
+                affiliation: "UC Berkeley"
+              - name: "Nicholas Weaver"
+                affiliation: "UC Berkeley and ICSI"
+          - title: "Breaking the Stablecoin Buck: Measuring the Impact of Security Breach and Liquidation Shocks"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-morin.pdf"
+            authors:
+              - name: "Andrew Morin"
+                affiliation: "The University of Tulsa"
+              - name: "Tyler Moore"
+                affiliation: "The University of Tulsa"
+              - name: "Eric Olson"
+                affiliation: "The University of Tulsa"
+          - title: "Pricing Security in Proof-of-Work Systems"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-bissias.pdf"
+            authors:
+              - name: "George Bissias"
+                affiliation: "University of Massachusetts Amherst"
+              - name: "Rainer Böhme"
+                affiliation: "University of Innsbruck"
+              - name: "David Thibodeau"
+                affiliation: "University of Massachusetts Amherst"
+              - name: "Brian Neil Levine"
+                affiliation: "University of Massachusetts Amherst"
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:00"
+        venue: "Promenade Foyer / Williams Green"
+
+      - type: session
+        number: 6
+        title: "Cybercrime market"
+        time: "11:00-12:30"
+        venue: "Promenade D"
+        papers:
+          - title: "Characterising 0-Day Exploit Brokers"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-dellago.pdf"
+            authors:
+              - name: "Daniel W Woods"
+                affiliation: "University of Innsbruck"
+              - name: "Matthias Dellago"
+                affiliation: "University of Innsbruck"
+              - name: "Andrew Simpson"
+                affiliation: "University of Oxford"
+          - title: "Modelling Ransomware Attacks using POMDPs"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-skeoch.pdf"
+            authors:
+              - name: "Henry Skeoch"
+                affiliation: "University College London"
+          - title: "A “sophisticated attack”? Innovation, technical sophistication, and creativity in the cybercrime ecosystem"
+            url: "https://weis2022.econinfosec.org/wp-content/uploads/sites/10/2022/06/weis22-collier.pdf"
+            authors:
+              - name: "Ben Collier"
+                affiliation: "University of Edinburgh"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+
+      - type: break
+        title: "Lunch Break"
+        time: "12:30-14:00"
+        venue: "Promenade C"
+
+      - type: rump_session
+        number: 7
+        title: "Rump Session"
+        time: "14:00-15:25"
+        venue: "Promenade D"
+
+      - type: closing
+        title: "Closing Remarks"
+        time: "15:25-15:30"
+        venue: "Promenade D"
+
+      - type: social
+        title: "Optional Walking Tour of Downtown Tulsa Art Deco Architecture"
+        time: "15:30-17:00"

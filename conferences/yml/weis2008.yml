@@ -1,0 +1,609 @@
+name: "WEIS 2008"
+full_name: "The Seventh Workshop on the Economics of Information Security"
+edition: 7
+year: 2008
+location: "Hanover, NH, USA"
+venue: "Tuck School of Business at Dartmouth College (Spanos Auditorium, Room 100, Cummings Hall)"
+start_date: "2008-06-25"
+end_date: "2008-06-28"
+website: "http://weis2008.econinfosec.org/"
+archive_urls:
+  home: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/index.htm"
+  program: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/program.htm"
+  organization: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/organization.htm"
+  call_for_papers: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/call_for_papers.htm"
+  registration: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/registration_with_fees.htm"
+  travel: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/travel.htm"
+  scholarships: "https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/scholarships.htm"
+  video_highlights: "http://mba.tuck.dartmouth.edu/digital/Programs/Seminars/WEIS.html"
+  proceedings_book: "http://www.springer.com/computer/security+and+cryptology/book/978-0-387-09761-9"
+
+hosts:
+  - "Center for Digital Strategies, Tuck School of Business at Dartmouth College"
+  - "Institute for Information Infrastructure Protection (I3P)"
+
+sponsors:
+  - "Center for Digital Strategies, Tuck School of Business at Dartmouth College"
+  - "Institute for Information Infrastructure Protection (I3P)"
+  - "Microsoft"
+  - "Institute for Security, Technology, and Society (ISTS), Dartmouth College"
+
+important_dates:
+  submission: "2008-03-01"
+  notification: "2008-04-10"
+  student_scholarship_application: "2008-04-21"
+  hotel_cutoff: "2008-05-21"
+  workshop: "2008-06-25 to 2008-06-28"
+
+organization:
+  general_chairs:
+    - name: "M. Eric Johnson"
+      affiliation: "Tuck School of Business at Dartmouth College"
+  pc_chairs:
+    - name: "M. Eric Johnson"
+      affiliation: "Dartmouth College"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "UT Dallas"
+    - name: "Ramnath Chellappa"
+      affiliation: "Emory University"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Anindya Ghose"
+      affiliation: "New York University"
+    - name: "Eric Goetz"
+      affiliation: "Dartmouth College"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Karthik Kannan"
+      affiliation: "Purdue University"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Tyler Moore"
+      affiliation: "Cambridge University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Brent Rowe"
+      affiliation: "RTI"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Sean Smith"
+      affiliation: "Dartmouth College"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Hal Varian"
+      affiliation: "UC Berkeley"
+  local_planning_and_organizing_committee:
+    - name: "Hans Brechbühl"
+      affiliation: "Dartmouth College"
+    - name: "Scott Dynes"
+      affiliation: "Dartmouth College"
+    - name: "Eric Goetz"
+      affiliation: "Dartmouth College"
+    - name: "David Kotz"
+      affiliation: "Dartmouth College"
+    - name: "Eric Johnson"
+      affiliation: "Dartmouth College (Chair)"
+    - name: "Xia Zhao"
+      affiliation: "Dartmouth College"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft (Submissions & reviews engine)"
+  steering_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "UT Dallas"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Stuart Schechter"
+      affiliation: "MIT Lincoln Laboratory"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Hal Varian"
+      affiliation: "UC Berkeley"
+
+invited_speakers:
+  - name: "Paul Danos"
+    affiliation: "Dean, Tuck School of Business at Dartmouth"
+  - name: "George Cybenko"
+    affiliation: "Dorothy and Walter Gramm Professor of Engineering, Dartmouth"
+  - name: "Bret Arsenault"
+    affiliation: "Chief Security Advisor, Microsoft"
+  - name: "Charles Palmer"
+    affiliation: "Research Director I3P, Dartmouth"
+  - name: "David Kotz"
+    affiliation: "Professor, Dartmouth"
+
+program:
+  - date: "2008-06-25"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "17:30-20:00"
+        venue: "Conway Foyer (Byrne Hall)"
+
+      - type: social
+        title: "Welcome Reception"
+        time: "18:30-20:00"
+        venue: "Stell Hall"
+
+      - type: social
+        title: "Birds of a Feather Networking and Discussion Opportunity"
+        time: "20:00-23:00"
+        venue: "Locations TBA"
+
+  - date: "2008-06-26"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "07:00-12:00"
+        venue: "Great Hall"
+
+      - type: break
+        title: "Breakfast"
+        time: "07:00-08:15"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+
+      - type: opening
+        title: "Welcome: Conference Welcome and Overview; Welcome to Tuck and Dartmouth"
+        time: "08:00-08:15"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+        speakers:
+          - name: "M. Eric Johnson"
+            affiliation: "Conference Chair, Tuck School of Business at Dartmouth"
+          - name: "Paul Danos"
+            affiliation: "Dean, Tuck School of Business at Dartmouth"
+        papers:
+          - title: "Conference Welcome and Overview"
+            slides: "http://weis2008.econinfosec.org/panels/WelcomeEJ.pdf"
+            authors:
+              - name: "M. Eric Johnson"
+                affiliation: "Tuck School of Business at Dartmouth"
+
+      - type: session
+        number: 1
+        title: "Cyber Policy and Regulation"
+        time: "08:30-10:00"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "Catherine Tucker"
+          affiliation: "MIT"
+        papers:
+          - title: "Nonbanks and Risk in Retail Payments"
+            url: "http://weis2008.econinfosec.org/papers/Sullivan.pdf"
+            authors:
+              - name: "Stuart Weiner"
+                affiliation: "Federal Reserve Bank-Kansas City"
+              - name: "Richard Sullivan"
+                affiliation: "Federal Reserve Bank-Kansas City"
+                presenter: true
+              - name: "Simonetta Rosati"
+                affiliation: "European Central Bank"
+          - title: "Do Data Breach Disclosure Laws Reduce Identity Theft?"
+            url: "http://weis2008.econinfosec.org/papers/Romanosky.pdf"
+            authors:
+              - name: "Sasha Romanosky"
+                affiliation: "Carnegie Mellon University"
+                presenter: true
+              - name: "Rahul Telang"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+          - title: "Security Economics and European Policy"
+            url: "http://weis2008.econinfosec.org/papers/MooreSecurity.pdf"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+              - name: "Rainer Boehme"
+                affiliation: "Dresden University of Technology"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+              - name: "Tyler Moore"
+                affiliation: "University of Cambridge"
+                presenter: true
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:00-10:30"
+
+      - type: panel
+        title: "Media Panel: Communicating Security – The Role of Media: A Journalistic Perspective"
+        time: "10:30-12:00"
+        venue: "Spanos Auditorium"
+        panelists:
+          - name: "Byron Acohido"
+            affiliation: "USA Today"
+          - name: "Scott Berinato"
+            affiliation: "CIO/CSO Magazines"
+          - name: "Brian Grow"
+            affiliation: "BusinessWeek"
+          - name: "Ryan Naraine"
+            affiliation: "ZDNet Magazine"
+          - name: "Dennis G. Fisher"
+            affiliation: "TechTarget"
+          - name: "Eric Johnson"
+            affiliation: "Dartmouth College"
+            moderator: true
+        papers:
+          - title: "Communicating Security – The Role of Media: A Journalistic Perspective (panel slides)"
+            slides: "http://weis2008.econinfosec.org/panels/CommunicatingSecurity.pdf"
+
+      - type: panel
+        title: "Lunch and CISO Panel: CISO Perspective – Evaluating and Communicating Information Risk"
+        time: "12:00-13:20"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+        panelists:
+          - name: "Russ Pierce"
+            affiliation: "Chief Security Architect, CVS Caremark"
+          - name: "Phil Venables"
+            affiliation: "Managing Director and Chief Information Risk Officer, Goldman Sachs"
+          - name: "Kavitha Venkita"
+            affiliation: "Practice Manager, IT Practice, Corporate Executive Board"
+          - name: "Eric Johnson"
+            affiliation: "Dartmouth College"
+            moderator: true
+        papers:
+          - title: "CISO Perspective – Evaluating and Communicating Information Risk (panel slides)"
+            slides: "http://weis2008.econinfosec.org/panels/CISO.pdf"
+
+      - type: session
+        number: 2
+        title: "Risk Management and Security Investment"
+        time: "13:30-15:20"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "Lawrence Gordon"
+          affiliation: "University of Maryland"
+        papers:
+          - title: "Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents"
+            url: "http://weis2008.econinfosec.org/papers/Grossklags.pdf"
+            authors:
+              - name: "Jens Grossklags"
+                affiliation: "UC Berkeley"
+                presenter: true
+              - name: "Nicolas Christin"
+                affiliation: "Carnegie Mellon University"
+              - name: "John Chuang"
+                affiliation: "School of Information, UC Berkeley"
+          - title: "BORIS – Business-Oriented Management of Information Security"
+            url: "http://weis2008.econinfosec.org/papers/Sowa.pdf"
+            authors:
+              - name: "Sebastian Sowa"
+                affiliation: "Ruhr-University of Bochum"
+                presenter: true
+              - name: "Lampros Tsinas"
+                affiliation: "Munich Re"
+              - name: "Roland Gabriel"
+                affiliation: "Ruhr-University of Bochum"
+          - title: "Productivity Space of Information Security in an Extension of the Gordon-Loeb's Investment Model"
+            url: "http://weis2008.econinfosec.org/papers/Matsuura.pdf"
+            authors:
+              - name: "Kanta Matsuura"
+                affiliation: "The University of Tokyo"
+                presenter: true
+          - title: "Communicating the Economic Value of Security Investments; Value at Security Risk"
+            url: "http://weis2008.econinfosec.org/papers/Hulthen.pdf"
+            authors:
+              - name: "Rolf Hulthén"
+                affiliation: "TeliaSonera AB"
+                presenter: true
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:20-15:45"
+
+      - type: session
+        number: 3
+        title: "Technology and Policy Adoption"
+        time: "15:45-17:25"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "L. Jean Camp"
+          affiliation: "Indiana University"
+        papers:
+          - title: "Modelling the Human and Technological Costs and Benefits of USB Memory Stick Security"
+            url: "http://weis2008.econinfosec.org/papers/Pym.pdf"
+            authors:
+              - name: "Adam Beautement"
+                affiliation: "UCL"
+              - name: "Robert Coles"
+                affiliation: "Merrill Lynch"
+              - name: "Jonathan Griffin"
+                affiliation: "HP Labs"
+              - name: "Christos Ioannidis"
+                affiliation: "University of Bath"
+              - name: "Brian Monahan"
+                affiliation: "HP Labs"
+              - name: "David Pym"
+                affiliation: "HP Labs and University of Bath"
+                presenter: true
+              - name: "Angela Sasse"
+                affiliation: "UCL"
+              - name: "Mike Wonham"
+                affiliation: "HP Labs"
+          - title: "Information Governance: Flexibility and Control through Escalation and Incentives"
+            url: "http://weis2008.econinfosec.org/papers/Zhao.pdf"
+            authors:
+              - name: "Xia Zhao"
+                affiliation: "Dartmouth College"
+                presenter: true
+              - name: "Eric Johnson"
+                affiliation: "Dartmouth College"
+          - title: "Firms' Optimal Digital Rights Management (DRM) Strategies: The Effects of Public Copy Protection and DRM Compatibility"
+            url: "http://weis2008.econinfosec.org/papers/Bae.pdf"
+            authors:
+              - name: "Sang Hoo Bae"
+                affiliation: "Clark University"
+                presenter: true
+              - name: "Pilsik Choi"
+                affiliation: "Clark University"
+          - title: "Diffusion and Adoption of IPv6 in the United States"
+            url: "http://weis2008.econinfosec.org/papers/Elmore.pdf"
+            authors:
+              - name: "Hillary Elmore"
+                affiliation: "Indiana University Bloomington"
+              - name: "L. Jean Camp"
+                affiliation: "Indiana University Bloomington"
+                presenter: true
+              - name: "Brandon Stephens"
+                affiliation: "Indiana University Bloomington"
+
+      - type: social
+        title: "Group Photo"
+        time: "17:30"
+        venue: "Tuck Steps"
+
+      - type: social
+        title: "Buses depart for dinner"
+        time: "17:45"
+
+      - type: social
+        title: "Conference Dinner"
+        time: "18:30"
+        venue: "Simon Pearce Restaurant, Quechee, Vermont"
+
+  - date: "2008-06-27"
+    events:
+      - type: registration
+        title: "Registration"
+        time: "07:30-12:00"
+        venue: "Great Hall"
+
+      - type: break
+        title: "Breakfast"
+        time: "07:00-08:15"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+
+      - type: keynote
+        number: 1
+        title: "Welcome: Security Perspectives"
+        time: "08:00-08:15"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+        speaker:
+          name: "George Cybenko"
+          affiliation: "Dorothy and Walter Gramm Professor of Engineering, Dartmouth"
+
+      - type: session
+        number: 4
+        title: "Combating Cybercrime"
+        time: "08:30-10:10"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "Reinterpreting the Disclosure Debate for Web Infections"
+            url: "http://weis2008.econinfosec.org/papers/Greenstadt.pdf"
+            authors:
+              - name: "Oliver Day"
+                affiliation: "Harvard University"
+              - name: "Rachel Greenstadt"
+                affiliation: "Harvard University"
+                presenter: true
+              - name: "Brandon Palmen"
+                affiliation: "Harvard University"
+          - title: "The Impact of Incentives on Notice and Take-down"
+            url: "http://weis2008.econinfosec.org/papers/MooreImpact.pdf"
+            authors:
+              - name: "Tyler Moore"
+                affiliation: "University of Cambridge"
+                presenter: true
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+          - title: "Studying Malicious Websites and the Underground Economy on the Chinese Web"
+            url: "http://weis2008.econinfosec.org/papers/Holz.pdf"
+            authors:
+              - name: "Jianwei Zhuge"
+                affiliation: "Peking University"
+              - name: "Thorsten Holz"
+                affiliation: "University of Mannheim"
+              - name: "Chengyu Song"
+                affiliation: "Peking University"
+                presenter: true
+              - name: "Jinpeng Guo"
+                affiliation: "Peking University"
+              - name: "Xinhui Han"
+                affiliation: "Peking University"
+              - name: "Wei Zou"
+                affiliation: "Peking University"
+          - title: "Botnet Economics: Uncertainty Matters"
+            url: "http://weis2008.econinfosec.org/papers/Liao.pdf"
+            authors:
+              - name: "Zhen Li"
+                affiliation: "Albion College"
+              - name: "Qi Liao"
+                affiliation: "University of Notre Dame"
+                presenter: true
+              - name: "Aaron Striegel"
+                affiliation: "University of Notre Dame"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:10-10:30"
+
+      - type: panel
+        title: "Cybercrime Panel: Investigating and Prosecuting Cybercrime"
+        time: "10:30-12:00"
+        venue: "Spanos Auditorium"
+        panelists:
+          - name: "Kathryn Warma"
+            affiliation: "Assistant U.S. Attorney, Washington"
+          - name: "Jim Burrell"
+            affiliation: "Assistant Special Agent in Charge, Boston, FBI"
+          - name: "Lucy H. Carrillo"
+            affiliation: "Assistant Attorney General, New Hampshire Criminal Justice Bureau"
+          - name: "William Cantwell"
+            affiliation: "New Hampshire State Police"
+          - name: "Eric Goetz"
+            affiliation: "I3P"
+            moderator: true
+        papers:
+          - title: "Investigating and Prosecuting Cybercrime (panel slides)"
+            slides: "http://weis2008.econinfosec.org/panels/Cybercrime.pdf"
+
+      - type: keynote
+        number: 2
+        title: "Lunch talk: End-to-End Trust"
+        time: "12:00-13:15"
+        venue: "PepsiCo Dining Hall (Byrne Hall)"
+        speaker:
+          name: "Bret Arsenault"
+          affiliation: "Chief Security Advisor, Microsoft"
+
+      - type: session
+        number: 5
+        title: "Disclosure and Firm Valuation"
+        time: "13:30-14:30"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "Rahul Telang"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "The Impact of Information Disclosure on Stock Market Returns: The Sarbanes-Oxley Act and the Role of Media as an Information Intermediary"
+            url: "http://weis2008.econinfosec.org/papers/Ghose.pdf"
+            authors:
+              - name: "Karthik Balakrishnan"
+                affiliation: "NYU Stern School"
+              - name: "Anindya Ghose"
+                affiliation: "NYU Stern School"
+                presenter: true
+              - name: "Panos Ipeirotis"
+                affiliation: "NYU Stern School"
+          - title: "Reading the Disclosures with New Eyes: Bridging the Gap between Information Security Disclosures and Incidents"
+            url: "http://weis2008.econinfosec.org/papers/Wang.pdf"
+            authors:
+              - name: "Ta-Wei Wang"
+                affiliation: "Purdue University"
+                presenter: true
+              - name: "Jackie Rees"
+                affiliation: "Purdue University"
+              - name: "Karthik Kannan"
+                affiliation: "Purdue University"
+          - title: "Cyber Insurance as an Incentive for IT Security"
+            url: "http://weis2008.econinfosec.org/papers/Lelarge.pdf"
+            authors:
+              - name: "Jean Bolot"
+                affiliation: "Sprint"
+              - name: "Marc Lelarge"
+                affiliation: "INRIA-ENS"
+                presenter: true
+
+      - type: break
+        title: "Coffee Break"
+        time: "14:30-15:00"
+
+      - type: session
+        number: 6
+        title: "Privacy and Trust"
+        time: "15:00-16:30"
+        venue: "Spanos Auditorium"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "The Economics of Covert Community Detection and Hiding"
+            url: "http://weis2008.econinfosec.org/papers/Nagaraja.pdf"
+            authors:
+              - name: "Shishir Nagaraja"
+                affiliation: "University of Cambridge"
+                presenter: true
+          - title: "Conformity or Diversity: Social Implications of Transparency in Personal Data Processing"
+            url: "http://weis2008.econinfosec.org/papers/Bohme.pdf"
+            authors:
+              - name: "Rainer Böhme"
+                affiliation: "TU Dresden"
+                presenter: true
+          - title: "Is Distributed Trust More Trustworthy?"
+            url: "http://weis2008.econinfosec.org/papers/Nielsen.pdf"
+            authors:
+              - name: "Kurt Nielsen"
+                affiliation: "University of Copenhagen"
+                presenter: true
+          - title: "Competition for Information under Privacy Concerns"
+            url: "http://weis2008.econinfosec.org/papers/Chellappa.pdf"
+            authors:
+              - name: "Ramnath Chellappa"
+                affiliation: "Emory University"
+                presenter: true
+              - name: "Raymond Sin"
+                affiliation: "Hong Kong University of Science and Technology"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:45-18:00"
+        venue: "Whittemore Tent"
+        speakers:
+          - name: "Angela Sasse"
+            affiliation: "University College London"
+          - name: "Adam Beautement"
+            affiliation: "University College London"
+          - name: "Forrest Hare"
+            affiliation: "George Mason University"
+          - name: "Se-Hak Chun"
+            affiliation: "Seoul National University of Technology"
+
+      - type: social
+        title: "Dinner"
+        time: "18:00"
+        venue: "Tuck School of Business"
+
+  - date: "2008-06-28"
+    events:
+      - type: keynote
+        number: 3
+        title: "Breakfast talk: Security Research at I3P/ISTS"
+        time: "08:00-09:30"
+        venue: "Hanover Inn, Hanover, New Hampshire"
+        speakers:
+          - name: "Charles Palmer"
+            affiliation: "Research Director I3P, Dartmouth"
+          - name: "David Kotz"
+            affiliation: "Professor, Dartmouth"
+
+      - type: social
+        title: "Day Trip: hike to Mount Cardigan (led by Prof. David Kotz, Dartmouth) or walking tour of Woodstock, VT (optional hike of Mt Tom)"
+        time: "09:30-16:00"
+
+      - type: closing
+        title: "Transportation returns to the Hanover Inn; End of Workshop"
+        time: "15:00"

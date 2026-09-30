@@ -1,0 +1,489 @@
+name: "WEIS 2015"
+full_name: "The 14th Workshop on the Economics of Information Security"
+edition: 14
+year: 2015
+location: "Delft, the Netherlands"
+venue: "TU Delft Science Center, Mijnbouwstraat 120, 2628RX Delft (policy panels on 24 June at The Hague Security Delta Campus)"
+start_date: "2015-06-22"
+end_date: "2015-06-23"
+website: "http://weis2015.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150815002412/http://weis2015.econinfosec.org/index.html"
+  programme: "https://web.archive.org/web/20150709055944/http://weis2015.econinfosec.org/program.html"
+  organization: "https://web.archive.org/web/20150422015508/http://weis2015.econinfosec.org/organization.html"
+  call_for_papers: "https://web.archive.org/web/20150812081720/http://weis2015.econinfosec.org/cfp.html"
+  venue: "https://web.archive.org/web/20150131083741/http://weis2015.econinfosec.org/venue.html"
+  travel_and_registration: "https://web.archive.org/web/20150421231310/http://weis2015.econinfosec.org/travel.html"
+  liveblog: "https://www.lightbluetouchpaper.org/2015/06/22/weis-2015-liveblog/"
+
+hosts:
+  - "Delft University of Technology (TU Delft)"
+  - "The Hague Security Delta (HSD)"
+
+sponsors:
+  - "NCSC (National Cyber Security Centre, the Netherlands)"
+  - "SIDN"
+  - "National Science Foundation (NSF)"
+  - "US Department of Homeland Security (DHS)"
+  - "LDE Centre for Safety and Security (Leiden-Delft-Erasmus)"
+  - "College of Information Sciences and Technology (IST), Penn State University"
+  - "NLnet Foundation"
+
+important_dates:
+  submission: "2015-03-06"
+  notification: "2015-04-17"
+  camera_ready: "2015-05-15"
+  travel_grant_application: "2015-05-11"
+
+organization:
+  general_chairs:
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Tansu Alpcan"
+      affiliation: "The University of Melbourne"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Terrence August"
+      affiliation: "UC San Diego"
+    - name: "Johannes Bauer"
+      affiliation: "Michigan State University"
+    - name: "Rainer Böhme"
+      affiliation: "University of Münster"
+    - name: "Joseph Bonneau"
+      affiliation: "Google"
+    - name: "Laura Brandimarte"
+      affiliation: "Carnegie Mellon University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Jonathan Cave"
+      affiliation: "RAND Europe"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ben Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Serge Egelman"
+      affiliation: "UC Berkeley"
+    - name: "Stephanie Forrest"
+      affiliation: "University of New Mexico"
+    - name: "Allan Friedman"
+      affiliation: "Brookings Institution"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+    - name: "Cormac Herley"
+      affiliation: "Microsoft Research"
+    - name: "Andre Hoogstrate"
+      affiliation: "Netherlands Forensics Institute"
+    - name: "Thorsten Holz"
+      affiliation: "Ruhr-Universität Bochum"
+    - name: "Benjamin Johnson"
+      affiliation: "UC Berkeley"
+    - name: "Eric Johnson"
+      affiliation: "Vanderbilt University"
+    - name: "Aron Laszka"
+      affiliation: "Vanderbilt University"
+    - name: "Marc Lelarge"
+      affiliation: "INRIA-ENS"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Katerina Mitrokotsa"
+      affiliation: "Chalmers University of Technology"
+    - name: "Tyler Moore"
+      affiliation: "Southern Methodist University"
+    - name: "Milton Mueller"
+      affiliation: "Syracuse University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Wolter Pieters"
+      affiliation: "TU Delft & University of Twente"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Christian Rossow"
+      affiliation: "Saarland University"
+    - name: "Brent Rowe"
+      affiliation: "RTI International"
+    - name: "Bruce Schneier"
+      affiliation: "Co3 Systems"
+    - name: "Galina Schwartz"
+      affiliation: "UC Berkeley"
+    - name: "Richard Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Nico van Eijk"
+      affiliation: "University of Amsterdam"
+    - name: "Julian Williams"
+      affiliation: "Durham University"
+  host_organizers:
+    - name: "Hadi Asghari"
+      affiliation: ""
+    - name: "Carlos Gañán"
+      affiliation: ""
+  grant_chair_for_us_students:
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+  accommodation_and_hospitality:
+    - name: "Corporate Meeting Partner"
+      affiliation: ""
+  graphic_designer:
+    - name: "Samad Khatibi"
+      affiliation: ""
+
+invited_speakers:
+  - name: "Marietje Schaake"
+    affiliation: "Member of the European Parliament"
+  - name: "Bruce Schneier"
+    affiliation: "Security technologist & CTO Resilient Systems"
+
+awards:
+  - award: "Best Paper Award (selected by conference attendees)"
+    prize: ""
+    title: "Hype and Heavy Tails: A Closer Look at Data Breaches"
+
+program:
+  - date: "2015-06-21"
+    events:
+      - type: social
+        title: "Welcome Reception (with light dinner)"
+        time: "18:00-21:00"
+        venue: "Delft City Hall"
+
+  - date: "2015-06-22"
+    events:
+      - type: break
+        title: "Registration and Light Breakfast"
+        time: "08:30-09:00"
+
+      - type: opening
+        title: "Opening Address"
+        time: "09:00-09:10"
+        speakers:
+          - name: "Jeroen van der Hoven"
+            affiliation: "Dean of the Technology, Policy and Management Faculty"
+
+      - type: keynote
+        number: 1
+        title: "Keynote & Discussion: The Meaning of Democratic Values in a Digitized World"
+        time: "09:10-10:10"
+        speaker:
+          name: "Marietje Schaake"
+          affiliation: "Member of the European Parliament"
+        panelists:
+          - name: "Michel van Eeten"
+            affiliation: "Delft University of Technology"
+            moderator: true
+          - name: "Ross Anderson"
+            affiliation: "Cambridge University"
+          - name: "Allan Friedman"
+            affiliation: "NTIA, US Department of Commerce"
+          - name: "Bruce Schneier"
+            affiliation: "Resilient Systems"
+          - name: "Ashkan Soltani"
+            affiliation: "US Federal Trade Commission"
+
+      - type: break
+        title: "Coffee break"
+        time: "10:10-10:40"
+
+      - type: session
+        number: 1
+        title: "Economics of Data Breaches"
+        time: "10:40-12:20"
+        chairs:
+          - name: "Alessandro Acquisti"
+            affiliation: "Carnegie Mellon University"
+          - name: "Rahul Telang"
+            affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "The Economics of Mandatory Security Breach Reporting to Authorities"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_laube.pdf"
+            authors:
+              - name: "Stefan Laube"
+              - name: "Rainer Böhme"
+          - title: "Data Breaches and the Dilemmas in Notifying Customers"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_bisogni.pdf"
+            authors:
+              - name: "Fabio Bisogni"
+          - title: "Hype and Heavy Tails: A Closer Look at Data Breaches"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_edwards.pdf"
+            award: "Best Paper Award"
+            authors:
+              - name: "Benjamin Edwards"
+              - name: "Steven Hofmeyr"
+              - name: "Stephanie Forrest"
+          - title: "The Market Effect of Healthcare Security: Do Patients Care about Data Breaches?"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_kwon.pdf"
+            authors:
+              - name: "Juhee Kwon"
+              - name: "Eric Johnson"
+
+      - type: break
+        title: "Lunch"
+        time: "12:20-13:45"
+        venue: "Science Center garden"
+
+      - type: session
+        number: 2
+        title: "Privacy Economics"
+        time: "13:45-15:25"
+        chairs:
+          - name: "Carlos Gañán"
+            affiliation: ""
+          - name: "Andrew Odlyzko"
+            affiliation: "University of Minnesota"
+        papers:
+          - title: "Online Self-Disclosure and Offline Threat Detection"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_acquisti.pdf"
+            note: "Only the abstract was published online; the full paper was available on request from the authors."
+            authors:
+              - name: "Alessandro Acquisti"
+              - name: "Laura Brandimarte"
+              - name: "Jeff Hancock"
+          - title: "What is a Cookie Worth?"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_aziz.pdf"
+            authors:
+              - name: "Arslan Aziz"
+              - name: "Rahul Telang"
+          - title: "Caviar and Yachts: How Your Purchase Data May Come Back to Haunt You"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_johnson.pdf"
+            authors:
+              - name: "Benjamin Johnson"
+              - name: "Paul Laskowski"
+              - name: "Thomas Maillart"
+              - name: "John Chuang"
+              - name: "Nicolas Christin"
+          - title: "The Value of Privacy: Keeping the Money Where the Mouth is"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_cofone.pdf"
+            authors:
+              - name: "Ignacio Cofone"
+
+      - type: break
+        title: "Coffee break"
+        time: "15:25-15:55"
+
+      - type: session
+        number: 3
+        title: "Security Behavior and Design"
+        time: "15:55-17:35"
+        chairs:
+          - name: "Serge Egelman"
+            affiliation: "UC Berkeley"
+          - name: "Tyler Moore"
+            affiliation: "Southern Methodist University"
+        papers:
+          - title: "An Empirical Study of Namecoin and Lessons for Decentralized Namespace Design"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_kalodner.pdf"
+            authors:
+              - name: "Harry Kalodner"
+              - name: "Miles Carlsten"
+              - name: "Paul Ellenbogen"
+              - name: "Joseph Bonneau"
+              - name: "Arvind Narayanan"
+          - title: "User Acceptance Factors for Anonymous Credentials: An Empirical Investigation"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_benenson.pdf"
+            authors:
+              - name: "Zinaida Benenson"
+              - name: "Anna Girard"
+              - name: "Ioannis Krontiris"
+          - title: "Deception by Design: Evidence-Based Signaling Games for Network Defense"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_pawlick.pdf"
+            authors:
+              - name: "Jeffrey Pawlick"
+              - name: "Quanyan Zhu"
+          - title: "Experimental Elicitation of Risk Behaviour amongst Information Security Professionals"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_mersinas.pdf"
+            authors:
+              - name: "Konstantinos Mersinas"
+              - name: "Bjoern Hartig"
+              - name: "Keith Martin"
+              - name: "Andrew Seltzer"
+
+      - type: social
+        title: "Social Event & Conference Dinner"
+        time: "18:00-22:30"
+        venue: "Parker Beachclub, Kijkduin, The Hague (transport provided from the conference venue and back to the hotels)"
+
+  - date: "2015-06-23"
+    events:
+      - type: break
+        title: "Light Breakfast"
+        time: "08:30-09:00"
+
+      - type: keynote
+        number: 2
+        title: "Keynote & Discussion: The Future of Cyberattack - Lessons from Sony"
+        time: "09:00-10:15"
+        speaker:
+          name: "Bruce Schneier"
+          affiliation: "Security technologist & CTO Resilient Systems"
+        panelists:
+          - name: "Michel van Eeten"
+            affiliation: "Delft University of Technology"
+            moderator: true
+          - name: "Rainer Böhme"
+            affiliation: "University of Innsbruck"
+          - name: "Jonathan Cave"
+            affiliation: "University of Warwick"
+          - name: "Allan Friedman"
+            affiliation: "NTIA, US Department of Commerce"
+
+      - type: break
+        title: "Coffee break"
+        time: "10:15-10:45"
+
+      - type: session
+        number: 4
+        title: "Underground Markets"
+        time: "10:45-12:25"
+        chairs:
+          - name: "Hadi Asghari"
+            affiliation: ""
+          - name: "Jens Grossklags"
+            affiliation: "Penn State University"
+        papers:
+          - title: "Concentrating Correctly on Cybercrime Concentration"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_clayton.pdf"
+            authors:
+              - name: "Richard Clayton"
+              - name: "Tyler Moore"
+              - name: "Nicolas Christin"
+          - title: "Deception in Online Auction Marketplaces: Incentives and Personality Shape Seller Honesty"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_glass.pdf"
+            authors:
+              - name: "Brian Glass"
+              - name: "Michelle Baddeley"
+              - name: "M. Angela Sasse"
+          - title: "Framing Dependencies Introduced by Underground Commoditization"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_thomas.pdf"
+            authors:
+              - name: "Kurt Thomas"
+              - name: "Danny Yuxing Huang"
+              - name: "David Wang"
+              - name: "Elie Bursztein"
+              - name: "Chris Grier"
+              - name: "Tom Holt"
+              - name: "Christopher Kruegel"
+              - name: "Damon McCoy"
+              - name: "Stefan Savage"
+              - name: "Giovanni Vigna"
+          - title: "No Please, After You: Detecting Fraud in Affiliate Marketing Networks"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_snyder.pdf"
+            authors:
+              - name: "Peter Snyder"
+              - name: "Chris Kanich"
+
+      - type: break
+        title: "Lunch (also PC meeting at collegezaal)"
+        time: "12:25-14:00"
+        venue: "Science Center garden"
+
+      - type: session
+        number: 5
+        title: "Security Investments"
+        time: "14:00-15:15"
+        chairs:
+          - name: "Rainer Böhme"
+            affiliation: "University of Münster"
+          - name: "Wolter Pieters"
+            affiliation: "TU Delft & University of Twente"
+        papers:
+          - title: "Prioritizing Security Spending: A Quantitative Analysis of Risk Distributions for Different Business Profiles"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_sarabi.pdf"
+            authors:
+              - name: "Armin Sarabi"
+              - name: "Parinaz Naghizadeh"
+              - name: "Yang Liu"
+              - name: "Mingyan Liu"
+          - title: "Policy, Statistics, and Questions: Reflections on UK Cyber Security Disclosures"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_heitzenrater.pdf"
+            authors:
+              - name: "Chad Heitzenrater"
+              - name: "Andrew Simpson"
+          - title: "Attack-Deterring and Damage-Control Investments in Cybersecurity"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_lam.pdf"
+            authors:
+              - name: "Wing Man Wynne Lam"
+
+      - type: break
+        title: "Coffee break"
+        time: "15:15-15:45"
+
+      - type: session
+        number: 6
+        title: "Security of Intermediaries"
+        time: "15:45-16:35"
+        chairs:
+          - name: "Terrence August"
+            affiliation: "UC San Diego"
+          - name: "David Pym"
+            affiliation: "University College London"
+        papers:
+          - title: "Designing Cybersecurity Policies"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_he.pdf"
+            authors:
+              - name: "Shu He"
+              - name: "Gene Moo Lee"
+              - name: "John Quarterman"
+              - name: "Andrew Whinston"
+          - title: "Understanding the Role of Sender Reputation in Abuse Reporting and Cleanup"
+            url: "http://weis2015.econinfosec.org/papers/WEIS_2015_cetin.pdf"
+            authors:
+              - name: "Orcun Cetin"
+              - name: "Mohammad Hanif Jhaveri"
+              - name: "Carlos Gañán"
+              - name: "Michel van Eeten"
+              - name: "Tyler Moore"
+
+      - type: award
+        title: "Best Paper Award to Benjamin Edwards, Steven Hofmeyr & Stephanie Forrest (selected by conference attendees)"
+        time: "16:40-16:45"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:45-17:30"
+
+      - type: closing
+        title: "Closing Remarks & Reception"
+        time: "17:45-18:45"
+        venue: "Science Center garden"
+
+  - date: "2015-06-24"
+    events:
+      - type: panel
+        number: 1
+        title: "Policy Panel 1 - Intellectual Property (invite only)"
+        time: ""
+        venue: "The Hague Security Delta Campus"
+
+      - type: panel
+        number: 2
+        title: "Policy Panel 2 - Responsible Disclosure (invite only)"
+        time: ""
+        venue: "The Hague Security Delta Campus"
+
+      - type: panel
+        number: 3
+        title: "Policy Panel 3 - Data Breach Notification (invite only)"
+        time: ""
+        venue: "The Hague Security Delta Campus"
+
+      - type: panel
+        number: 4
+        title: "Policy Panel 4 - Cyber Opportunities (invite only)"
+        time: ""
+        venue: "The Hague Security Delta Campus"

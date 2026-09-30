@@ -4,16 +4,16 @@ Archivio statico di conferenze (Jekyll + tema Cayman, pubblicato con GitHub Page
 
 ## Struttura
 
-- `conferences/<slug>.yml` — i dati della conferenza (una per file).
-- `conferences/<slug>.html` — pagina della conferenza; contiene solo `layout: conference`.
+- `conferences/yml/<slug>.yml` — i dati della conferenza (una per file).
+- `conferences/pages/<slug>.html` — pagina della conferenza; contiene solo `layout: conference`.
 - `_layouts/conference.html` — renderizza il YAML in HTML.
 - `index.html` — elenco di tutte le conferenze, ordinate per anno.
 - `_templates/conference.yml` — template da copiare per una nuova conferenza.
 
 ## Aggiungere una conferenza
 
-1. Copia `_templates/conference.yml` in `conferences/<slug>.yml` (es. `weis2024.yml`) e compilalo.
-2. Crea `conferences/<slug>.html` con questo contenuto:
+1. Copia `_templates/conference.yml` in `conferences/yml/<slug>.yml` (es. `weis2024.yml`) e compilalo.
+2. Crea `conferences/pages/<slug>.html` con questo contenuto:
 
    ```
    ---

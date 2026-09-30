@@ -1,0 +1,456 @@
+name: "WEIS 2019"
+full_name: "The 18th Workshop on the Economics of Information Security"
+edition: 18
+year: 2019
+location: "Boston, Massachusetts, USA"
+venue: "Harvard School of Engineering and Applied Sciences, Maxwell Dworkin G-115 (Lessing Lecture Hall)"
+start_date: "2019-06-03"
+end_date: "2019-06-04"
+website: "https://weis2019.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2019.econinfosec.org/"
+  agenda: "https://weis2019.econinfosec.org/program/agenda/"
+  call_for_papers: "https://weis2019.econinfosec.org/program/call-for-papers/"
+  organizing_committee: "https://weis2019.econinfosec.org/organization/organizing-committee/"
+  venue: "https://weis2019.econinfosec.org/venue/"
+  sponsorship: "https://weis2019.econinfosec.org/sponsorship/"
+  travel_grants: "https://weis2019.econinfosec.org/travel-hotel/travel-grants/"
+
+hosts:
+  - "Harvard’s Center for Research in Computation and Society"
+
+sponsors:
+  - "Harvard’s Center for Research in Computation and Society"
+  - "National Science Foundation (Student Travel Grants)"
+
+important_dates:
+  submission: "2019-02-23"
+  notification: "2019-04-10"
+  camera_ready: "2019-05-17"
+
+organization:
+  general_chairs:
+    - name: "Bruce Schneier"
+      affiliation: "IBM Resilient"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Idris Adjerid"
+      affiliation: "Virginia Tech"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Daniel Arce"
+      affiliation: "UT Dallas"
+    - name: "Terrence August"
+      affiliation: "UC San Diego"
+    - name: "Johannes Bauer"
+      affiliation: "Michigan State University"
+    - name: "Jesse Bockstedt"
+      affiliation: "Emory University"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Ben Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Ben Edwards"
+      affiliation: "IBM Research"
+    - name: "Serge Egelman"
+      affiliation: "ICSI & UC Berkeley"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Sol Greenspan"
+      affiliation: "National Science Foundation"
+    - name: "Jens Grossklags"
+      affiliation: "TU Munich"
+    - name: "Chad Heitzenrater"
+      affiliation: "Air Force Research Laboratory"
+    - name: "Kai-Lung Hui"
+      affiliation: "HKUST"
+    - name: "M. Eric Johnson"
+      affiliation: "Vanderbilt University"
+    - name: "Kartik Kannnan"
+      affiliation: "Purdue University"
+    - name: "Aron Laszka"
+      affiliation: "Vanderbilt University"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Thomas Maillart"
+      affiliation: "University of Geneva"
+    - name: "Fabio Massacci"
+      affiliation: "University of Trento"
+    - name: "Kanta Matsuura"
+      affiliation: "University of Tokyo"
+    - name: "Damon McCoy"
+      affiliation: "New York University"
+    - name: "Sabyasachi Mitra"
+      affiliation: "Georgia Tech"
+    - name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+    - name: "Frank Nagle"
+      affiliation: "Harvard Business School"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Min-Seok Pang"
+      affiliation: "Temple University"
+    - name: "Wolter Pieters"
+      affiliation: "TU Delft"
+    - name: "Lorenzo Pupillo"
+      affiliation: "CEPS"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Sasha Romanosky"
+      affiliation: "RAND"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Marie Vasek"
+      affiliation: "University of New Mexico"
+    - name: "Liad Wagman"
+      affiliation: "Illinois Institute of Technology"
+    - name: "Julian Williams"
+      affiliation: "Durham University"
+    - name: "Dmitry Zhdanov"
+      affiliation: "Georgia State University"
+
+invited_speakers:
+  - name: "Peter Swire"
+    affiliation: "Professor of Law, Georgia Institute of Technology"
+
+program:
+  - date: "2019-06-02"
+    events:
+      - type: social
+        title: "Welcome Reception"
+        time: "17:30-19:30"
+        venue: "Russell House Tavern"
+
+  - date: "2019-06-03"
+    events:
+      - type: break
+        title: "Registration"
+        time: "08:00-09:00"
+
+      - type: opening
+        title: "Welcome"
+        time: "09:00-09:10"
+        speakers:
+          - name: "Bruce Schneier"
+            affiliation: "IBM Resilient"
+          - name: "Sam Ransbotham"
+            affiliation: "Boston College"
+
+      - type: keynote
+        number: 1
+        title: "The Pedagogic Cybersecurity Framework and the Non-Code Aspects of Cybersecurity"
+        time: "09:10-09:40"
+        speaker:
+          name: "Peter Swire"
+          affiliation: "Professor of Law, Georgia Institute of Technology"
+
+      - type: session
+        number: 1
+        title: "Advancing Research"
+        time: "09:40-10:55"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "A Research Agenda for Cyber Risk and Cyber Insurance"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_35.pdf"
+            authors:
+              - name: "Gregory Falco"
+              - name: "Martin Eling"
+              - name: "Danielle Jablanski"
+              - name: "Lawrence A. Gordon"
+              - name: "Shaun Shuxun Wang"
+              - name: "Joan Schmit"
+              - name: "Russell Thomas"
+              - name: "Mauro Elvedi"
+              - name: "Thomas Maillart"
+              - name: "Emy Donavan"
+              - name: "Simon Dejung"
+              - name: "Matthias Weber"
+              - name: "Eric Durand"
+              - name: "Franklin Nutter"
+              - name: "Uzi Scheffer"
+              - name: "Gil Arazi"
+              - name: "Gilbert Ohana"
+              - name: "Herb Lin"
+          - title: "Valuing Cybersecurity Research Datasets"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_41.pdf"
+            authors:
+              - name: "Tyler Moore"
+              - name: "Erin Kenneally"
+              - name: "Michael Collett"
+              - name: "Prakash Thapa"
+          - title: "Measuring the Changing Cost of Cybercrime"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf"
+            authors:
+              - name: "Ross Anderson"
+              - name: "Chris Barton"
+              - name: "Rainer Böhme"
+              - name: "Richard Clayton"
+              - name: "Carlos Ganan"
+              - name: "Tom Grasso"
+              - name: "Michael Levi"
+              - name: "Marie Vasek"
+              - name: "Tyler Moore"
+
+      - type: break
+        title: "Break"
+        time: "10:55-11:25"
+
+      - type: session
+        number: 2
+        title: "Mitigating Threat"
+        time: "11:25-12:40"
+        chair:
+          name: "Martin Loeb"
+          affiliation: "University of Maryland"
+        papers:
+          - title: "The County Fair Cyber Loss Distribution: Drawing Inferences from Insurance Prices"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_19.pdf"
+            authors:
+              - name: "Daniel Woods"
+              - name: "Tyler Moore"
+              - name: "Andrew Simpson"
+          - title: "The Stock Market Impact of Information Security Investments: The Case of Security Standards"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_22.pdf"
+            authors:
+              - name: "Dennis D. Malliouris"
+              - name: "Andrew C. Simpson"
+          - title: "Exponential Discounting in Security Games of Timing"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_54.pdf"
+            authors:
+              - name: "Jonathan Merlevede"
+              - name: "Benjamin Johnson"
+              - name: "Jens Grossklags"
+              - name: "Tom Holvoet"
+
+      - type: break
+        title: "Lunch"
+        time: "12:40-13:55"
+
+      - type: session
+        number: 3
+        title: "Reducing Externalities"
+        time: "13:55-15:10"
+        chair:
+          name: "Dmitry Zhdanov"
+          affiliation: "Georgia State University"
+        papers:
+          - title: "Economics of Ransomware Attacks"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_60.pdf"
+            authors:
+              - name: "Terrence August"
+              - name: "Duy Dao"
+              - name: "Marius Florin Niculescu"
+          - title: "Cybersecurity and Platform Competition"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_51.pdf"
+            authors:
+              - name: "Daniel Arce"
+          - title: "Improving Vulnerability Remediation Through Better Exploit Prediction"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_53.pdf"
+            authors:
+              - name: "Jay Jacobs"
+              - name: "Sasha Romanosky"
+              - name: "Idris Adjerid"
+              - name: "Wade Baker"
+
+      - type: break
+        title: "Break"
+        time: "15:10-15:40"
+
+      - type: session
+        number: 4
+        title: "Short Papers"
+        time: "15:40-16:55"
+        chair:
+          name: "Sasha Romanosky"
+          affiliation: "RAND"
+        papers:
+          - title: "Bug Bounty Programs, Security Investment and Law Enforcement: A Security Game Perspective"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_36.pdf"
+            authors:
+              - name: "Jiali Zhou"
+              - name: "Kai-Lung Hui"
+          - title: "Identifying the Arbitrageurs on Mt. Gox: First Evidence from the Leaked Dataset"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_44.pdf"
+            authors:
+              - name: "Pietro Saggese"
+              - name: "Rainer Böhme"
+          - title: "Does Sharing Make My Data More Insecure? An Empirical Study on Health Information Exchange and Data Breaches"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/06/WEIS_2019_paper_56.pdf"
+            authors:
+              - name: "Leting Zhang"
+              - name: "Min-Seok Pang"
+              - name: "Sunil Wattal"
+          - title: "Hey Google, What Exactly Do Your Security Patches Tell Us? A Large-Scale Empirical Study on Android Patched Vulnerabilities"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_59.pdf"
+            authors:
+              - name: "Sadegh Farhang"
+              - name: "Mehmet Bahadir Kirdan"
+              - name: "Aron Laszka"
+              - name: "Jens Grossklags"
+
+      - type: announcements
+        title: "Announcements"
+        time: "16:55-17:05"
+
+      - type: meeting
+        title: "Steering Committee meeting"
+        time: "17:05-18:05"
+
+      - type: social
+        title: "Dinner"
+        time: "18:30-22:00"
+        venue: "Kirkland Tap & Trotter"
+
+  - date: "2019-06-04"
+    events:
+      - type: break
+        title: "Registration"
+        time: "08:30-09:00"
+
+      - type: announcements
+        title: "Announcements"
+        time: "09:00-09:10"
+
+      - type: session
+        number: 5
+        title: "Securing Currency"
+        time: "09:10-10:50"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "University of Innsbruck"
+        papers:
+          - title: "Why Bitcoin will Fail to Scale"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_5.pdf"
+            authors:
+              - name: "Nikhil Malik"
+              - name: "Manmohan Aseri"
+              - name: "Param Vir Singh"
+              - name: "Kannan Srinivasan"
+          - title: "The Economics of Cryptocurrency Pump and Dump Schemes"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_14.pdf"
+            authors:
+              - name: "James Hamrick"
+              - name: "Farhang Rouhi"
+              - name: "Arghya Mukherjee"
+              - name: "Amir Feder"
+              - name: "Neil Gandal"
+              - name: "Tyler Moore"
+              - name: "Marie Vasek"
+          - title: "A Deep Dive into Bitcoin Mining Pools: An Empirical Analysis of Mining Shares"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_30.pdf"
+            authors:
+              - name: "Matteo Romiti"
+              - name: "Aljosha Judmayer"
+              - name: "Alexei Zamyatin"
+              - name: "Bernhard Haslhofer"
+          - title: "Diversification Across Mining Pools: Optimal Mining Strategies under PoW"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_40.pdf"
+            authors:
+              - name: "Panagiotis Chatzigiannis"
+              - name: "Foteini Baldimtsi"
+              - name: "Igor Griva"
+              - name: "Jiasun Li"
+
+      - type: break
+        title: "Break"
+        time: "10:50-11:20"
+
+      - type: session
+        number: 6
+        title: "Disclosing Problems"
+        time: "11:20-12:35"
+        chair:
+          name: "Frank Nagle"
+          affiliation: "Harvard Business School"
+        papers:
+          - title: "The Economic Cost of Cybersecurity Breaches: A Broad-Based Analysis"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_13.pdf"
+            authors:
+              - name: "Jacob Haislip"
+              - name: "Kalin Kolev"
+              - name: "Robert Pinsker"
+              - name: "Thomas Steffen"
+          - title: "Software Vulnerability Disclosure and Security Investment"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_18.pdf"
+            authors:
+              - name: "Arrah-Marie Jo"
+          - title: "Do Data Breach Disclosure Laws Increase Firms’ Investment in Securing Their Digital Infrastructure?"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_33.pdf"
+            authors:
+              - name: "Raviv Murciano-Goroff"
+
+      - type: break
+        title: "Lunch"
+        time: "12:35-13:50"
+
+      - type: session
+        number: 7
+        title: "Notifying and Tracking"
+        time: "13:50-15:30"
+        chair:
+          name: "Jean Camp"
+          affiliation: "Indiana University"
+        papers:
+          - title: "Fixing HTTPS Misconfigurations at Scale: An Experiment with Security Notifications"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_16.pdf"
+            authors:
+              - name: "Eric Zeng"
+              - name: "Frank Li"
+              - name: "Emily Stark"
+              - name: "Adrienne Porter Felt"
+              - name: "Parisa Tabriz"
+          - title: "Delaying Informed Consent: An Empirical Investigation of Mobile Apps’ Upgrade Decisions"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_58.pdf"
+            authors:
+              - name: "Raveesh Mayya"
+              - name: "Siva Viswanathan"
+          - title: "The Impact of Ad-Blockers on Consumer Behavior: A Lab Experiment"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_34.pdf"
+            authors:
+              - name: "Alisa Frik"
+              - name: "Amelia Haviland"
+              - name: "Alessandro Acquisti"
+          - title: "Online Tracking and Publishers’ Revenues: An Empirical Analysis"
+            url: "https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf"
+            authors:
+              - name: "Veronica Marotta"
+              - name: "Vibhanshu Abhishek"
+              - name: "Alessandro Acquisti"
+
+      - type: break
+        title: "Break"
+        time: "15:30-16:00"
+
+      - type: rump_session
+        number: 8
+        title: "New Ideas (Rump Session)"
+        time: "16:00-16:55"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "University of Tulsa"
+
+      - type: closing
+        title: "Closing Remarks"
+        time: "16:55-17:05"

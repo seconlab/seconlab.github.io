@@ -1,0 +1,506 @@
+name: "WEIS 2010"
+full_name: "The 9th Workshop on the Economics of Information Security"
+edition: 9
+year: 2010
+location: "Cambridge, MA, USA"
+venue: "Northwest Building, School of Engineering and Applied Sciences (SEAS), Harvard University, 52 Oxford Street, Cambridge, MA 02138 (reception: Maxwell Dworkin Building, 33 Oxford Street)"
+start_date: "2010-06-07"
+end_date: "2010-06-08"
+website: "http://weis2010.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150815065631/http://weis2010.econinfosec.org/"
+  program: "https://web.archive.org/web/20150509091758/http://weis2010.econinfosec.org/program.html"
+  accepted_papers: "https://web.archive.org/web/20100416183824/http://weis2010.econinfosec.org/accepted.html"
+  organization: "https://web.archive.org/web/20130815223639/http://weis2010.econinfosec.org/org.html"
+  call_for_papers: "https://web.archive.org/web/20111014222223/http://weis2010.econinfosec.org/cfp.html"
+  call_for_papers_text: "https://web.archive.org/web/20110902055650/http://weis2010.econinfosec.org/weis10cfp.txt"
+  call_for_participation: "https://web.archive.org/web/20140221134024/http://weis2010.econinfosec.org/cfpart.html"
+  submission: "https://web.archive.org/web/20100416183923/http://weis2010.econinfosec.org/submit.html"
+  registration: "https://web.archive.org/web/20130816010920/http://weis2010.econinfosec.org/registration.html"
+  travel: "https://web.archive.org/web/20130816081210/http://weis2010.econinfosec.org/travel.html"
+  accommodation: "https://web.archive.org/web/20130816014146/http://weis2010.econinfosec.org/accommodation.html"
+
+hosts:
+  - "Harvard University, School of Engineering and Applied Sciences (SEAS)"
+
+co_located_events:
+  - title: "11th ACM Conference on Electronic Commerce (EC'10) (separate registration)"
+    date: "2010-06-09 to 2010-06-11"
+    url: "http://www.sigecom.org/ec10/"
+
+important_dates:
+  submission: "2010-02-22"
+  notification: "2010-04-02"
+  camera_ready: "2010-05-14"
+  student_scholarship_request: "2010-05-05"
+
+organization:
+  general_chairs:
+    - name: "Allan Friedman"
+      affiliation: "Harvard University"
+  pc_chairs:
+    - name: "Tyler Moore"
+      affiliation: "Harvard University"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Rainer Böhme"
+      affiliation: "ICSI Berkeley"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Benjamin Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Allan Friedman"
+      affiliation: "Harvard University"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Jens Grossklags"
+      affiliation: "Princeton University"
+    - name: "Thorsten Holz"
+      affiliation: "Technical University of Vienna"
+    - name: "M. Eric Johnson"
+      affiliation: "Dartmouth Tuck School of Business"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Tyler Moore"
+      affiliation: "Harvard University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "David Pym"
+      affiliation: "University of Aberdeen"
+    - name: "Brent Rowe"
+      affiliation: "RTI International"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research"
+    - name: "Bruce Schneier"
+      affiliation: "BT Counterpane"
+    - name: "Richard J. Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Latanya Sweeney"
+      affiliation: "Carnegie Mellon University"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Hal Varian"
+      affiliation: "Google and UC Berkeley"
+    - name: "Jonathan Zittrain"
+      affiliation: "Harvard Law School"
+
+invited_speakers:
+  - name: "Tracey Vispoli"
+    affiliation: "Chubb Insurance"
+
+program:
+  - date: "2010-06-06"
+    events:
+      - type: social
+        title: "Tour of Historical Harvard and Cambridge"
+        time: "16:30-18:00"
+        venue: "Meeting point: Maxwell Dworkin Lobby, 33 Oxford St"
+
+      - type: social
+        title: "Welcome Reception (serving drinks and hors d'oeuvres)"
+        time: "18:00-20:00"
+        venue: "Maxwell Dworkin Lobby, 33 Oxford St"
+
+  - date: "2010-06-07"
+    events:
+      - type: break
+        title: "Breakfast and Registration"
+        time: "08:15-09:00"
+
+      - type: opening
+        title: "Conference Opening"
+        time: "09:00-09:15"
+        speakers:
+          - name: "Tyler Moore"
+            affiliation: "Harvard University"
+          - name: "Allan Friedman"
+            affiliation: "Harvard University"
+
+      - type: keynote
+        number: 1
+        title: "Keynote Address"
+        time: "09:15-10:15"
+        speaker:
+          name: "Tracey Vispoli"
+          affiliation: "Chubb Insurance"
+
+      - type: break
+        title: "Break"
+        time: "10:15-10:45"
+
+      - type: session
+        number: 1
+        title: "Data Breaches and Organizational Security"
+        time: "10:45-12:15"
+        chair:
+          name: "Stuart Schechter"
+          affiliation: "Microsoft Research"
+        papers:
+          - title: "Data Breaches and Identity Theft: When is Mandatory Disclosure Optimal?"
+            url: "http://weis2010.econinfosec.org/papers/session1/weis2010_romanosky.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session1/weis2010_romanosky_pres.pdf"
+            authors:
+              - name: "Sasha Romanosky"
+                affiliation: "Carnegie Mellon"
+              - name: "Richard Sharp"
+                affiliation: "Carnegie Mellon"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon"
+          - title: "Encryption and Data Loss"
+            url: "http://weis2010.econinfosec.org/papers/session1/weis2010_tucker.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session1/weis2010_tucker_pres.pdf"
+            authors:
+              - name: "Amalia R. Miller"
+                affiliation: "MIT"
+              - name: "Catherine Tucker"
+                affiliation: "MIT"
+          - title: "Market Impact on IT Security Spending"
+            slides: "http://weis2010.econinfosec.org/papers/session1/weis2010_yeo_pres.pdf"
+            note: "Final program: paper available by contacting Lisa Yeo (an earlier program snapshot linked papers/session1/weis2010_kolfal.pdf)."
+            authors:
+              - name: "Bora Kolfal"
+                affiliation: "Alberta"
+              - name: "Raymond Patterson"
+                affiliation: "Alberta"
+              - name: "Lisa Yeo"
+                affiliation: "Alberta"
+          - title: "Outsourcing Information Security: Contracting Issues and Security Implications"
+            url: "http://weis2010.econinfosec.org/papers/session1/weis2010_cezar.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session1/weis2010_cezar_pres.pdf"
+            note: "Affiliations on the program: UT Dallas and Middle East Technical University."
+            authors:
+              - name: "Asunur Cezar"
+              - name: "Huseyin Cavusoglu"
+              - name: "Srinivasan Raghunathan"
+
+      - type: break
+        title: "Lunch"
+        time: "12:15-13:45"
+
+      - type: session
+        number: 2
+        title: "Privacy and Controversial Social Issues"
+        time: "13:45-15:15"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "ICSI Berkeley"
+        papers:
+          - title: "Is the Internet for Porn? An Insight Into the Online Adult Industry"
+            url: "http://weis2010.econinfosec.org/papers/session2/weis2010_wondracek.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session2/weis2010_wondracek_pres.pdf"
+            note: "Affiliations on the program: TU Vienna, Institute Eurecom and UCSB."
+            authors:
+              - name: "Gilbert Wondracek"
+              - name: "Thorsten Holz"
+              - name: "Christian Platzer"
+              - name: "Engin Kirda"
+              - name: "Christopher Kruegel"
+          - title: "Guns, Privacy, and Crime"
+            url: "http://weis2010.econinfosec.org/papers/session2/weis2010_acquisti.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session2/weis2010_acquisti_pres.pdf"
+            authors:
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon"
+              - name: "Catherine Tucker"
+                affiliation: "MIT"
+          - title: "Misplaced Confidences: Privacy and the Control Paradox"
+            url: "http://weis2010.econinfosec.org/papers/session2/weis2010_brandimarte.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session2/weis2010_brandimarte_pres.pdf"
+            authors:
+              - name: "Laura Brandimarte"
+                affiliation: "Carnegie Mellon"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon"
+              - name: "George Loewenstein"
+                affiliation: "Carnegie Mellon"
+          - title: "A Welfare Analysis of Secondary Use of Personal Data"
+            url: "http://weis2010.econinfosec.org/papers/session2/weis2010_jentzsch.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session2/weis2010_jentzsch_pres.pdf"
+            authors:
+              - name: "Nicola Jentzsch"
+                affiliation: "German Institute for Economic Research"
+
+      - type: break
+        title: "Break"
+        time: "15:15-15:45"
+
+      - type: session
+        number: 3
+        title: "Empirical Studies"
+        time: "15:45-17:00"
+        chair:
+          name: "Lawrence Gordon"
+          affiliation: "University of Maryland"
+        papers:
+          - title: "The password thicket: technical and market failures in human authentication on the web"
+            url: "http://weis2010.econinfosec.org/papers/session3/weis2010_bonneau.pdf"
+            slides: "http://www.cl.cam.ac.uk/~jcb82/doc/weis2010-slides.pdf"
+            authors:
+              - name: "Joseph Bonneau"
+                affiliation: "Cambridge"
+              - name: "Sören Preibusch"
+                affiliation: "Cambridge"
+          - title: "Please Continue to Hold: An empirical study on user tolerance of security delays"
+            url: "http://weis2010.econinfosec.org/papers/session3/weis2010_egelman.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session3/weis2010_egelman_pres.pdf"
+            note: "Affiliations on the program: Brown, Microsoft Research and Carnegie Mellon."
+            authors:
+              - name: "Serge Egelman"
+              - name: "David Molnar"
+              - name: "Nicolas Christin"
+              - name: "Alessandro Acquisti"
+              - name: "Cormac Herley"
+              - name: "Shriram Krishnamurthi"
+          - title: "Inglourious Installers: Security in the Application Marketplace"
+            url: "http://weis2010.econinfosec.org/papers/session3/weis2010_anderson_j.pdf"
+            authors:
+              - name: "Jonathan Anderson"
+                affiliation: "Cambridge"
+              - name: "Joseph Bonneau"
+                affiliation: "Cambridge"
+              - name: "Frank Stajano"
+                affiliation: "Cambridge"
+
+      - type: closing
+        title: "Adjourn"
+        time: "17:00"
+
+      - type: social
+        title: "Conference Banquet"
+        time: "17:45-19:30"
+        venue: "Legal Sea Foods, Harvard Square"
+
+  - date: "2010-06-08"
+    events:
+      - type: break
+        title: "Breakfast and Registration"
+        time: "08:15-09:00"
+
+      - type: session
+        number: 4
+        title: "Economic and Policy Considerations for ISPs"
+        time: "09:00-10:30"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "Might Governments Clean-up Malware?"
+            url: "http://weis2010.econinfosec.org/papers/session4/weis2010_clayton.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session4/weis2010_clayton_pres.pdf"
+            authors:
+              - name: "Richard Clayton"
+                affiliation: "Cambridge"
+          - title: "The Role of Internet Service Providers in Botnet Mitigation: An Empirical Analysis Based on Spam Data"
+            url: "http://weis2010.econinfosec.org/papers/session4/weis2010_vaneeten.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session4/weis2010_vaneeten_pres.pdf"
+            note: "Affiliations on the program: TU Delft, Michigan State and Trend Micro."
+            authors:
+              - name: "Michel van Eeten"
+              - name: "Johannes M. Bauer"
+              - name: "Hadi Asghari"
+              - name: "Shirin Tabatabaie"
+              - name: "Dave Rand"
+          - title: "Security Games in Online Advertising: Can Ads Help Secure the Web?"
+            url: "http://weis2010.econinfosec.org/papers/session4/weis2010_vratonjic.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session4/weis2010_vratonjic_pres.pdf"
+            note: "Affiliations on the program: EPFL and Harvard."
+            authors:
+              - name: "Nevena Vratonjic"
+              - name: "Jean-Pierre Hubaux"
+              - name: "Maxim Raya"
+              - name: "David Parkes"
+          - title: "Towards a Cooperative Defense Model Against Network Security Attacks"
+            url: "http://weis2010.econinfosec.org/papers/session4/weis2010_narasimhan.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session4/weis2010_rangan_pres.pdf"
+            note: "Affiliations on the program: Anna and IIT Madras. The program's \"Paper\" link points to papers/session4/weis2010_rangan.pdf (not archived); the title link points to weis2010_narasimhan.pdf."
+            authors:
+              - name: "Harikrishna Narasimhan"
+              - name: "Venkatanathan Varadarajan"
+              - name: "Pandu Rangan Chandrasekaran"
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:00"
+
+      - type: panel
+        title: "Policy for Payment System Security"
+        time: "11:00-12:15"
+        panelists:
+          - name: "Tyler Moore"
+            affiliation: "Harvard"
+            moderator: true
+          - name: "Richard J. Sullivan"
+            affiliation: "Federal Reserve Bank of Kansas City"
+          - name: "Mark MacCarthy"
+            affiliation: "Georgetown"
+          - name: "Ross Anderson"
+            affiliation: "Cambridge"
+        papers:
+          - title: "The Changing Nature of US Card Payment Fraud: Issues for Industry and Public Policy"
+            url: "http://weis2010.econinfosec.org/papers/panel/weis2010_sullivan.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/panel/weis2010_sullivan_pres.pdf"
+            authors:
+              - name: "Richard J. Sullivan"
+                affiliation: "Federal Reserve Bank of Kansas City"
+          - title: "Information Security Policy in the U.S. Retail Payments Industry"
+            url: "http://weis2010.econinfosec.org/papers/panel/weis2010_maccarthy.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/panel/weis2010_maccarthy_pres.pdf"
+            authors:
+              - name: "Mark MacCarthy"
+                affiliation: "Georgetown"
+          - title: "Panel presentation (slides only)"
+            slides: "http://weis2010.econinfosec.org/papers/panel/weis2010_anderson_r_pres2.pdf"
+            note: "No paper; presentation only."
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "Cambridge"
+
+      - type: break
+        title: "Lunch"
+        time: "12:15-13:45"
+
+      - type: session
+        number: 5
+        title: "Scale and the Economics of the Cloud"
+        time: "13:45-15:15"
+        chair:
+          name: "Rahul Telang"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "Self Hosting vs. Cloud Hosting: Accounting for the security impact of hosting in the cloud"
+            url: "http://weis2010.econinfosec.org/papers/session5/weis2010_schechter.pdf"
+            authors:
+              - name: "David Molnar"
+                affiliation: "Microsoft Research"
+              - name: "Stuart Schechter"
+                affiliation: "Microsoft Research"
+          - title: "Modeling Cyber-Insurance: Towards A Unifying Framework"
+            url: "http://weis2010.econinfosec.org/papers/session5/weis2010_boehme.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session5/weis2010_boehme_pres.pdf"
+            authors:
+              - name: "Rainer Böhme"
+                affiliation: "ICSI Berkeley"
+              - name: "Galina Schwartz"
+                affiliation: "ICSI Berkeley"
+          - title: "The Plight of the Targeted Attacker in a World of Scale"
+            url: "http://weis2010.econinfosec.org/papers/session5/weis2010_herley.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session5/weis2010_herley_pres.pdf"
+            authors:
+              - name: "Cormac Herley"
+                affiliation: "Microsoft Research"
+          - title: "On the Security Economics of Electricity Metering"
+            url: "http://weis2010.econinfosec.org/papers/session5/weis2010_anderson_r.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session5/weis2010_anderson_r_pres.pdf"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "Cambridge"
+              - name: "Shailendra Fuloria"
+                affiliation: "Cambridge"
+
+      - type: break
+        title: "Break"
+        time: "15:15-15:45"
+
+      - type: session
+        number: 6
+        title: "Open Source and Security Management"
+        time: "15:45-17:00"
+        chair:
+          name: "Nicolas Christin"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "An Empirical Analysis of Exploitation Attempts based on Vulnerabilities in Open Source Software"
+            url: "http://weis2010.econinfosec.org/papers/session6/weis2010_ransbotham.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session6/weis2010_ransbotham_pres.pdf"
+            authors:
+              - name: "Sam Ransbotham"
+                affiliation: "Boston College"
+          - title: "The Mathematics of Obscurity: On the Trustworthiness of Open Source"
+            url: "http://weis2010.econinfosec.org/papers/session6/weis2010_haertig.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session6/weis2010_haertig_pres.pdf"
+            authors:
+              - name: "Hermann Härtig"
+                affiliation: "TU Dresden"
+              - name: "Claude-Joachim Hamann"
+                affiliation: "TU Dresden"
+              - name: "Michael Roitzsch"
+                affiliation: "TU Dresden"
+          - title: "Structured Systems Economics for Security Management"
+            url: "http://weis2010.econinfosec.org/papers/session6/weis2010_beautement.pdf"
+            slides: "http://weis2010.econinfosec.org/papers/session6/weis2010_beautement_pres.pdf"
+            authors:
+              - name: "Adam Beautement"
+                affiliation: "UCL"
+              - name: "David Pym"
+                affiliation: "Aberdeen"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "17:00-18:30"
+        papers:
+          - title: "ISPs as Cyberecurity Providers"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_rowe_pres.pdf"
+            authors:
+              - name: "Brent Rowe"
+          - title: "Security as Goodwill?"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_becker_pres.pdf"
+            authors:
+              - name: "Doron Becker"
+          - title: "Security Investment with Penetration Testing"
+            authors:
+              - name: "Mark Felegyhazi"
+          - title: "Chip and PIN Policy"
+            authors:
+              - name: "Steven Murdoch"
+          - title: "Policy Recommendations for Improving Cybersecurity"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_tmoore_pres.pdf"
+            authors:
+              - name: "Tyler Moore"
+          - title: "Product-Validation Systems and EIS"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_kanta_pres.pdf"
+            authors:
+              - name: "Kanta Matsuura"
+          - title: "Rewards for Returning Lost Property"
+            authors:
+              - name: "Jonathan Anderson"
+          - title: "Consumer Acceptance for Secondary Use"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_haruo_pres.pdf"
+            authors:
+              - name: "Haruo Takasaki"
+          - title: "Announcements"
+            authors:
+              - name: "Russell Cameron Thomas"
+          - title: "Passwords and Intimacy"
+            slides: "http://www.cl.cam.ac.uk/~jcb82/doc/weis2010-rump.pdf"
+            authors:
+              - name: "Joseph Bonneau"
+          - title: "Incentive-based Access Control"
+            slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_liu_pres.pdf"
+            authors:
+              - name: "Debin Liu"
+          - title: "Determining the Difficulty of Security Problems"
+            authors:
+              - name: "Steve Borbash"
+          - title: "We Have Data!"
+            authors:
+              - name: "Roger Dingledine"
+
+      - type: closing
+        title: "Adjourn"
+        time: "18:30"

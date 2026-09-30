@@ -1,6 +1,6 @@
 # Template per una nuova conferenza.
-# 1. Copia questo file in conferences/<slug>.yml (es. conferences/weis2024.yml)
-# 2. Crea conferences/<slug>.html con solo:
+# 1. Copia questo file in conferences/yml/<slug>.yml (es. conferences/yml/weis2024.yml)
+# 2. Crea conferences/pages/<slug>.html con solo:
 #      ---
 #      layout: conference
 #      ---

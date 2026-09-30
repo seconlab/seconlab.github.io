@@ -1,0 +1,401 @@
+name: "WEIS 2016"
+full_name: "The 15th Workshop on the Economics of Information Security"
+edition: 15
+year: 2016
+location: "Berkeley, California, USA"
+venue: "Boalt Hall (UC Berkeley School of Law), room 110, 2778 Bancroft Way, Berkeley, CA 94704"
+start_date: "2016-06-13"
+end_date: "2016-06-14"
+website: "https://weis2016.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2016.econinfosec.org/"
+  program: "https://weis2016.econinfosec.org/program/"
+  accepted_papers: "https://weis2016.econinfosec.org/accepted-papers/"
+  keynote_speaker: "https://weis2016.econinfosec.org/program/keynote-speaker/"
+  call_for_papers: "https://weis2016.econinfosec.org/call-for-papers/"
+  organizing_committee: "https://weis2016.econinfosec.org/organization/"
+  sponsorship: "https://weis2016.econinfosec.org/organization/sponsorship/"
+  travel_and_registration: "https://weis2016.econinfosec.org/travel-registration/"
+  venue: "https://weis2016.econinfosec.org/venue/"
+  news_keynote: "https://weis2016.econinfosec.org/2015/08/18/keynote-hal-varian-google/"
+  news_deadline_extended: "https://weis2016.econinfosec.org/2016/02/25/deadline-extended/"
+
+hosts:
+  - "International Computer Science Institute (ICSI)"
+  - "University of California, Berkeley"
+  - "BLUES — Berkeley Laboratory for Usable and Experimental Security, UC Berkeley"
+  - "Berkeley Center for Law & Technology (BCLT), UC Berkeley School of Law"
+
+sponsors:
+  - "Center for Long-Term Cybersecurity (CLTC), UC Berkeley (Platinum Sponsor)"
+  - "National Science Foundation (Platinum Sponsor)"
+  - "Google (Gold Sponsor)"
+  - "Facebook (Gold Sponsor)"
+  - "Department of Information Security Management, Chungbuk National University (Silver Sponsor)"
+
+important_dates:
+  submission: "2016-03-04"
+  notification: "2016-04-11"
+  camera_ready: "2016-05-09"
+
+organization:
+  general_chairs:
+    - name: "Serge Egelman"
+      affiliation: "University of California, Berkeley / ICSI"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Terrence August"
+      affiliation: "University of California, San Diego"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "John Chuang"
+      affiliation: "University of California, Berkeley"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Michael Collins"
+      affiliation: "RedJack"
+    - name: "George Danezis"
+      affiliation: "University College London"
+    - name: "Benjamin Edelman"
+      affiliation: "Harvard University"
+    - name: "Benjamin Edwards"
+      affiliation: "University of New Mexico"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Stephanie Forrest"
+      affiliation: "University of New Mexico"
+    - name: "Allan Friedman"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Nathan Good"
+      affiliation: "Good Research"
+    - name: "Jens Grossklags"
+      affiliation: "Pennsylvania State University"
+    - name: "Marian Harbach"
+      affiliation: "ICSI"
+    - name: "Cormac Herley"
+      affiliation: "Microsoft Research"
+    - name: "M. Eric Johnson"
+      affiliation: "Vanderbilt University"
+    - name: "Shriram Krishnamurthi"
+      affiliation: "Brown University"
+    - name: "Nektarios Leontiadis"
+      affiliation: "Facebook"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Jonathan Mayer"
+      affiliation: "Stanford University"
+    - name: "Damon McCoy"
+      affiliation: "New York University"
+    - name: "Sarah Meiklejohn"
+      affiliation: "University College London"
+    - name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+    - name: "Milton Mueller"
+      affiliation: "Georgia Tech"
+    - name: "Arvind Narayanan"
+      affiliation: "Princeton University"
+    - name: "Vern Paxson"
+      affiliation: "University of California, Berkeley / ICSI"
+    - name: "Wolter Pieters"
+      affiliation: "Delft University of Technology"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research"
+    - name: "Bruce Schneier"
+      affiliation: "Resilient Systems"
+    - name: "Richard Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Kurt Thomas"
+      affiliation: "Google"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+
+invited_speakers:
+  - name: "Hal Varian"
+    affiliation: "Chief Economist, Google"
+
+program:
+  - date: "2016-06-12"
+    events:
+      - type: social
+        title: "Welcome Reception at Tupper & Reed"
+        time: "17:00-20:00"
+        venue: "Tupper & Reed, Berkeley (one block from Hotel Shattuck Plaza, two blocks from the Berkeley BART station)"
+
+  - date: "2016-06-13"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "08:30-09:00"
+
+      - type: opening
+        title: "Opening Remarks"
+        time: "09:00-09:10"
+        speakers:
+          - name: "Serge Egelman"
+            affiliation: "UC Berkeley / ICSI (Chair, WEIS 2016)"
+
+      - type: keynote
+        title: "Keynote"
+        time: "09:10-10:10"
+        speaker:
+          name: "Hal Varian"
+          affiliation: "Chief Economist, Google"
+
+      - type: break
+        title: "Break"
+        time: "10:10-10:30"
+
+      - type: session
+        number: 1
+        title: "Security Investment"
+        time: "10:30-12:10"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "Whack-a-mole: Asymmetric Conflict and Guerrilla Warfare in Web Security"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_15-2.pdf"
+            authors:
+              - name: "Pern Hui Chia"
+              - name: "John Chuang"
+              - name: "Yanling Chen"
+          - title: "Identifying How Firms Manage Cybersecurity Investment"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_19-1.pdf"
+            authors:
+              - name: "Tyler Moore"
+              - name: "Scott Dynes"
+              - name: "Frederick Chang"
+          - title: "The Days Before Zero Day: Investment Models for Secure Software Engineering"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_21-2.pdf"
+            authors:
+              - name: "Chad Heitzenrater"
+              - name: "Rainer Böhme"
+              - name: "Andrew Simpson"
+          - title: "Data Security in the Digital Age: Reputation and Strategic Interactions in Security Investment"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_34-4.pdf"
+            authors:
+              - name: "Ying Lei Toh"
+
+      - type: break
+        title: "Lunch — Richard Clayton presents a firsthand account and analysis of a recent hotel reservation scam"
+        time: "12:10-13:00"
+        speakers:
+          - name: "Richard Clayton"
+            affiliation: "University of Cambridge"
+
+      - type: session
+        number: 2
+        title: "Online Payments"
+        time: "13:00-14:40"
+        chair:
+          name: "John Chuang"
+          affiliation: "University of California, Berkeley"
+        papers:
+          - title: "The Impact of DDoS and Other Security Shocks on Bitcoin Currency Exchanges: Evidence from Mt. Gox"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_7.pdf"
+            authors:
+              - name: "Neil Gandal"
+              - name: "Tyler Moore"
+              - name: "Amir Feder"
+              - name: "James Hamrick"
+          - title: "Determining an Optimal Threshold on the Online Reserves of a Bitcoin Exchange"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_68-2.pdf"
+            authors:
+              - name: "Samvit Jain"
+              - name: "Edward Felten"
+              - name: "Steven Goldfeder"
+          - title: "Risk Management for Third Party Payment Networks"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_43-1.pdf"
+            authors:
+              - name: "Willem van Driel"
+              - name: "Carlos Gañán"
+              - name: "Maikel Lobbezoo"
+              - name: "Michel van Eeten"
+          - title: "Join Me on a Market for Anonymity"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_58.pdf"
+            authors:
+              - name: "Malte Möser"
+              - name: "Rainer Böhme"
+
+      - type: break
+        title: "Break"
+        time: "14:40-15:00"
+
+      - type: session
+        number: 3
+        title: "User Attitudes and Perceptions"
+        time: "15:00-16:40"
+        chair:
+          name: "Serge Egelman"
+          affiliation: "University of California, Berkeley / ICSI"
+        papers:
+          - title: "Measuring Attitude towards Risk Treatment Actions amongst Information Security Professionals: an Experimental Approach"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_22-5.pdf"
+            authors:
+              - name: "Konstantinos Mersinas"
+              - name: "Bjoern Hartig"
+              - name: "Keith Martin"
+              - name: "Andrew Seltzer"
+          - title: "Consumer Attitudes Toward Data Breach Notifications and Loss of Personal Information"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_11-2.pdf"
+            authors:
+              - name: "Lillian Ablon"
+              - name: "Paul Heaton"
+              - name: "Diana Lavery"
+              - name: "Sasha Romanosky"
+          - title: "International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_78-1.pdf"
+            authors:
+              - name: "Ingolf Becker"
+              - name: "Alice Hutchings"
+              - name: "Ruba Abu-Salma"
+              - name: "Ross Anderson"
+              - name: "Nicholas Bohm"
+              - name: "Steven J. Murdoch"
+              - name: "M. Angela Sasse"
+              - name: "Gianluca Stringhini"
+          - title: "Estimating the costs of consumer-facing cybercrime: A tailored instrument and representative data for six EU countries"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_54-2.pdf"
+            authors:
+              - name: "Markus Riek"
+              - name: "Rainer Böhme"
+              - name: "Michael Ciere"
+              - name: "Carlos Gañán"
+              - name: "Michel van Eeten"
+
+      - type: social
+        title: "Dinner at Revival Bar & Kitchen"
+        time: "18:00-21:00"
+        venue: "Revival Bar & Kitchen, Berkeley (two blocks from Hotel Shattuck Plaza, one block from the Berkeley BART station)"
+
+  - date: "2016-06-14"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "08:30-09:00"
+
+      - type: panel
+        title: "The Security Economics of Surveillance"
+        time: "09:00-10:30"
+        panelists:
+          - name: "Vern Paxson"
+            affiliation: "Professor, University of California at Berkeley"
+          - name: "Ashkan Soltani"
+            affiliation: "former Chief Technologist, Federal Trade Commission"
+          - name: "Martin Libicki"
+            affiliation: "Senior Management Scientist, RAND Corporation"
+          - name: "Susan Landau"
+            affiliation: "Professor of Cybersecurity Policy, Worcester Polytechnic Institute"
+            moderator: true
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:15"
+
+      - type: session
+        number: 4
+        title: "Privacy"
+        time: "11:15-12:30"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "University of Innsbruck"
+        papers:
+          - title: "Privacy and Security Through the Lens of the Federal Trade Commission’s Bureau of Economics"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_36-1.pdf"
+            authors:
+              - name: "Chris Hoofnagle"
+          - title: "Strategic News Bundling and Privacy Breach Disclosures"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_20-1.pdf"
+            authors:
+              - name: "Sebastien Gay"
+          - title: "MyTrackingChoices: Pacifying the Ad-Block War by Enforcing User Privacy Preferences"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_48.pdf"
+            authors:
+              - name: "Jagdish Prasad Achara"
+              - name: "Javier Parra-Arnau"
+              - name: "Claude Castelluccia"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-13:30"
+
+      - type: session
+        number: 5
+        title: "Malware and Other Crime"
+        time: "13:30-14:45"
+        chair:
+          name: "Vern Paxson"
+          affiliation: "University of California, Berkeley / ICSI"
+        papers:
+          - title: "Malware and Market Share"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_4-1.pdf"
+            authors:
+              - name: "Daniel Arce"
+          - title: "National-level risk assessment: A multi-country study of malware infections"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/06/WEIS_2016_paper_38-2-1.pdf"
+            authors:
+              - name: "Fanny Lalonde Lévesque"
+              - name: "José M. Fernandez"
+              - name: "Anil Somayaji"
+              - name: "Dennis Batchelder"
+          - title: "Identity Theft as a Teachable Moment"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_14-1.pdf"
+            authors:
+              - name: "Vyacheslav Mikhed"
+              - name: "Michael Vogan"
+              - name: "Robert Hunt"
+              - name: "Julia Cheney"
+              - name: "Dubravka Ritter"
+
+      - type: break
+        title: "Break"
+        time: "14:45-15:00"
+
+      - type: session
+        number: 6
+        title: "Incentives"
+        time: "15:00-16:15"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "University of Tulsa"
+        papers:
+          - title: "Given Enough Eyeballs, All Bugs Shallow? Revisiting Eric Raymond with Bug Bounty Markets"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2015/08/WEIS_2016_paper_76.pdf"
+            authors:
+              - name: "Thomas Maillart"
+              - name: "Mingyi Zhao"
+              - name: "Jens Grossklags"
+              - name: "John Chuang"
+          - title: "Perverse Incentives in Security Contracts: A Case Study in the Colombian Power Grid"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_71-1.pdf"
+            authors:
+              - name: "Carlos Barreto"
+              - name: "Alvaro A. Cardenas"
+          - title: "Market Segmentation and Software Security: Pricing Patching Rights"
+            url: "https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_33-2.pdf"
+            authors:
+              - name: "Terrence August"
+              - name: "Duy Dao"
+              - name: "Kihoon Kim"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:15-17:15"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "University of Tulsa"

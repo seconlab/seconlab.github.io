@@ -1,0 +1,415 @@
+name: "WEIS 2017"
+full_name: "The 16th Workshop on the Economics of Information Security"
+edition: 16
+year: 2017
+location: "La Jolla (San Diego), California, USA"
+venue: "Rady School of Management, UC San Diego — Wells Fargo Hall, room 1N108"
+start_date: "2017-06-26"
+end_date: "2017-06-27"
+website: "https://weis2017.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2017.econinfosec.org/"
+  program: "https://weis2017.econinfosec.org/program/"
+  call_for_papers: "https://weis2017.econinfosec.org/call-for-papers/"
+  organizing_committee: "https://weis2017.econinfosec.org/organization/"
+  venue: "https://weis2017.econinfosec.org/venue/"
+  travel: "https://weis2017.econinfosec.org/travel/"
+  sponsorship: "https://weis2017.econinfosec.org/sponsorship/"
+  travel_grants: "https://weis2017.econinfosec.org/travel-grants/"
+  registration: "https://weis2017.econinfosec.org/registration/"
+  liveblog: "https://www.lightbluetouchpaper.org/2017/06/26/weis-2017-liveblog/"
+
+hosts:
+  - "Rady School of Management, University of California, San Diego"
+
+sponsors:
+  - "National Science Foundation (Student Travel Grants)"
+  - "MobileIron"
+  - "ID Analytics (a Symantec company)"
+  - "University of California, San Diego"
+  - "Rady School of Management, UC San Diego"
+
+important_dates:
+  submission: "2017-03-07"
+  notification: "2017-04-21"
+  camera_ready: "2017-05-22"
+
+organization:
+  general_chairs:
+    - name: "Terrence August"
+      affiliation: "University of California, San Diego"
+    - name: "Stefan Savage"
+      affiliation: "University of California, San Diego"
+    - name: "Geoffrey M. Voelker"
+      affiliation: "University of California, San Diego"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Idris Adjerid"
+      affiliation: "University of Notre Dame"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Hadi Asghari"
+      affiliation: "Delft University of Technology"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Jonathan Cave"
+      affiliation: "University of Warwick and UK Regulatory Policy Committee"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Ben Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Benjamin Edwards"
+      affiliation: "IBM Research"
+    - name: "Serge Egelman"
+      affiliation: "University of California, Berkeley / ICSI"
+    - name: "Allan Friedman"
+      affiliation: "National Telecommunications and Information Administration"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Jens Grossklags"
+      affiliation: "Technical University of Munich"
+    - name: "Kai-Lung Hui"
+      affiliation: "Hong Kong University of Science and Technology"
+    - name: "Eric Johnson"
+      affiliation: "Owen School at Vanderbilt University"
+    - name: "Chris Kanich"
+      affiliation: "University of Illinois at Chicago"
+    - name: "Aron Laszka"
+      affiliation: "Vanderbilt University"
+    - name: "Thomas Maillart"
+      affiliation: "University of California, Berkeley"
+    - name: "Kanta Matsuura"
+      affiliation: "Institute of Industrial Science, The University of Tokyo"
+    - name: "Jonathan Mayer"
+      affiliation: "Stanford University"
+    - name: "Damon McCoy"
+      affiliation: "New York University"
+    - name: "Saby Mitra"
+      affiliation: "Georgia Institute of Technology"
+    - name: "Katerina Mitrokotsa"
+      affiliation: "Chalmers University of Technology"
+    - name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+    - name: "Milton Mueller"
+      affiliation: "Georgia Institute of Technology"
+    - name: "Arvind Narayanan"
+      affiliation: "Princeton University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Wolter Pieters"
+      affiliation: "Delft University of Technology, TBM-ESS"
+    - name: "Sören Preibusch"
+      affiliation: "Google"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Florian Schaub"
+      affiliation: "University of Michigan"
+    - name: "Galina Schwartz"
+      affiliation: "University of California, Berkeley"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Julian Williams"
+      affiliation: "University of Durham"
+    - name: "Dmitry Zhdanov"
+      affiliation: "Georgia State University"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+
+invited_speakers:
+  - name: "Andrew Serwin"
+    affiliation: "Global Co-chair of Morrison & Foerster’s Privacy + Data Security group"
+
+program:
+  - date: "2017-06-25"
+    events:
+      - type: social
+        title: "Welcome Reception at Rady School of Management"
+        time: "17:00-20:00"
+        venue: "Sky Pavilion, 5th floor of Wells Fargo Hall, Rady School of Management"
+
+  - date: "2017-06-26"
+    events:
+      - type: break
+        title: "Light Breakfast"
+        time: "08:00-09:00"
+        venue: "Multi Purpose Room 1 (MPR 1), ground floor of Otterson Hall"
+
+      - type: opening
+        title: "Welcome Remarks"
+        time: "09:00-09:10"
+
+      - type: session
+        number: 1
+        title: "Security Investment and Performance"
+        time: "09:10-10:50"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "Cambridge University"
+        papers:
+          - title: "When to Invest in Security? Empirical Evidence and a Game-Theoretic Approach for Time-Based Security"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_69.pdf"
+            authors:
+              - name: "Sadegh Farhang"
+              - name: "Jens Grossklags"
+          - title: "Inferring Security Performance of Providers from Noisy and Heterogenous Abuse Datasets"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_60.pdf"
+            authors:
+              - name: "Arman Noroozian"
+              - name: "Michael Ciere"
+              - name: "Maciej Korczynski"
+              - name: "Samaneh Tajalizadehkhoob"
+              - name: "Michel van Eeten"
+          - title: "The effect of competition intensity on software security – An empirical analysis of security patch release on the web browser market"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_10.pdf"
+            authors:
+              - name: "Arrah-Marie Jo"
+          - title: "The Effects of Security Management on Security Events"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_51.pdf"
+            authors:
+              - name: "Frank Nagle"
+              - name: "Sam Ransbotham"
+              - name: "George Westerman"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:50-11:20"
+
+      - type: session
+        title: "Government Perspectives"
+        time: "11:20-12:35"
+        chair:
+          name: "L. Jean Camp"
+          affiliation: "Indiana University"
+        papers:
+          - title: "Cost of a Cyber Incident"
+            authors:
+              - name: "Olga Livingston"
+                affiliation: "DHS"
+              - name: "Matthew Shabat"
+                affiliation: "DHS"
+              - name: "Tony Cheesebrough"
+                affiliation: "DHS"
+          - title: "Privacy and Data Security: An Economic Perspective of Consumer Protection"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_50.pdf"
+            authors:
+              - name: "Andrew Stivers"
+                affiliation: "FTC"
+              - name: "Ginger Jin"
+                affiliation: "FTC"
+          - title: "R&D Strategy for the Cyber Risk Economics (CYRIE) program, Cyber Security Division of DHS"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/08/WEIS_2017_paper_cyrie.pdf"
+            authors:
+              - name: "Erin Kenneally"
+                affiliation: "DHS"
+
+      - type: break
+        title: "Lunch"
+        time: "12:35-13:45"
+        venue: "MPR 1, ground floor of Otterson Hall"
+
+      - type: session
+        number: 2
+        title: "Impact on Businesses and Exchanges"
+        time: "13:45-15:25"
+        chair:
+          name: "Dmitry Zhdanov"
+          affiliation: "Georgia State University"
+        papers:
+          - title: "An Analysis of Pay-per-Install Economics Using Entity Graphs"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_45.pdf"
+            authors:
+              - name: "Platon Kotzias"
+              - name: "Juan Caballero"
+          - title: "Booted: An Analysis of a Payment Intervention on a DDoS-for-Hire Service"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_46.pdf"
+            authors:
+              - name: "Ryan Brunt"
+              - name: "Prakhar Pandey"
+              - name: "Damon McCoy"
+          - title: "Price Manipulation in the Bitcoin Ecosystem"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_21.pdf"
+            authors:
+              - name: "Neil Gandal"
+              - name: "JT Hamrick"
+              - name: "Tyler Moore"
+              - name: "Tali Oberman"
+          - title: "Impact of Security Events and Fraudulent Transactions on Customer Loyalty: A Field Study"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_57.pdf"
+            authors:
+              - name: "Sriram Somanchi"
+              - name: "Rahul Telang"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:25-15:55"
+
+      - type: session
+        number: 3
+        title: "Vulnerabilities"
+        time: "15:55-17:35"
+        chair:
+          name: "Milton Mueller"
+          affiliation: "Georgia Institute of Technology"
+        papers:
+          - title: "Sometimes Three Rights Really Do Make a Wrong: Measuring Cybersecurity and Simpson’s Paradox"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/07/WEIS_2017_paper_18.pdf"
+            authors:
+              - name: "Eric Jardine"
+          - title: "The Work-Averse Cyber Attacker Model: Theory and Evidence From Two Million Attack Signatures"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_13.pdf"
+            authors:
+              - name: "Luca Allodi"
+              - name: "Fabio Massacci"
+              - name: "Julian Williams"
+          - title: "Make Notifications Great Again: Learning How to Notify in the Age of Large-Scale Vulnerability Scanning"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_17.pdf"
+            authors:
+              - name: "Orcun Cetin"
+              - name: "Carlos Gañán"
+              - name: "Maciej Korczyński"
+              - name: "Michel van Eeten"
+          - title: "Standardisation and Certification of the ‘Internet of Things’"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_23.pdf"
+            authors:
+              - name: "Eireann Leverett"
+              - name: "Richard Clayton"
+              - name: "Ross Anderson"
+
+      - type: social
+        title: "Social Event & Workshop Dinner"
+        time: "18:00-22:00"
+        venue: "Birch Aquarium and Scripps Institution of Oceanography (buses leave from Rady at 17:45; return at 21:15, 21:30, 21:45 and 22:00)"
+
+  - date: "2017-06-27"
+    events:
+      - type: break
+        title: "Light Breakfast"
+        time: "08:00-09:00"
+        venue: "MPR 1, ground floor of Otterson Hall"
+
+      - type: session
+        number: 4
+        title: "Security/Data Breaches"
+        time: "09:00-10:40"
+        chair:
+          name: "Kanta Matsuura"
+          affiliation: "Institute of Industrial Science, The University of Tokyo"
+        papers:
+          - title: "Security Breaches in the U.S. Federal Government"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_52.pdf"
+            authors:
+              - name: "Min-Seok Pang"
+              - name: "Huseyin Tanriverdi"
+          - title: "Do Hospital Data Breaches Reduce Patient Care Quality?"
+            url: "https://arxiv.org/abs/1904.02058"
+            authors:
+              - name: "Sung Choi"
+              - name: "M. Eric Johnson"
+          - title: "Do Organizations Learn from a Data Breach?"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_55.pdf"
+            authors:
+              - name: "Joseph Buckman"
+              - name: "Jesse Bockstedt"
+              - name: "Matthew Hashim"
+              - name: "Tiemen Woutersen"
+          - title: "Estimating the size of the iceberg from its tip"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_54.pdf"
+            authors:
+              - name: "Fabio Bisogni"
+              - name: "Hadi Asghari"
+              - name: "Michel van Eeten"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:40-11:10"
+
+      - type: keynote
+        title: "Keynote Address"
+        time: "11:10-12:10"
+        speaker:
+          name: "Andrew Serwin"
+          affiliation: "Global Co-chair of Morrison & Foerster’s Privacy + Data Security group"
+
+      - type: break
+        title: "Lunch"
+        time: "12:10-13:20"
+        venue: "MPR 1, ground floor of Otterson Hall"
+
+      - type: session
+        number: 5
+        title: "Privacy"
+        time: "13:20-14:35"
+        chair:
+          name: "Serge Egelman"
+          affiliation: "University of California, Berkeley / ICSI"
+        papers:
+          - title: "Privacy and Quality"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_12.pdf"
+            authors:
+              - name: "Yassine Lefouilli"
+              - name: "Ying Lei Toh"
+          - title: "An Empirical Investigation of the Antecedents and Consequences of Privacy Uncertainty in the Context of Mobile Apps"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_29.pdf"
+            authors:
+              - name: "Usman Aleem"
+              - name: "Hasan Cavusoglu"
+              - name: "Izak Benbasat"
+          - title: "Online Distractions, Website Blockers, and Economic Productivity: A Randomized Field Experiment"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_26.pdf"
+            authors:
+              - name: "Veronica Marotta"
+              - name: "Alessandro Acquisti"
+
+      - type: break
+        title: "Coffee Break"
+        time: "14:35-15:05"
+
+      - type: session
+        number: 6
+        title: "Cyber Insurance"
+        time: "15:05-16:20"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "University of Innsbruck"
+        papers:
+          - title: "Content Analysis of Cyber Insurance Policies: How do carriers develop policies and price cyber risk?"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_28.pdf"
+            authors:
+              - name: "Sasha Romanosky"
+              - name: "Lillian Ablon"
+              - name: "Andreas Kuehn"
+              - name: "Therese Jones"
+          - title: "Attack-Aware Cyber Insurance of Interdependent Computer Networks"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_38.pdf"
+            authors:
+              - name: "Rui Zhang"
+              - name: "Quanyan Zhu"
+          - title: "Cyberinsurance and Public Policy: Self-Protection and Insurance with Endogenous Adversaries"
+            url: "https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_14.pdf"
+            authors:
+              - name: "Fabio Massacci"
+              - name: "Joe Swierzbinski"
+              - name: "Julian Williams"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:20-17:45"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "University of Tulsa"

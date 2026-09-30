@@ -1,0 +1,374 @@
+name: "WEIS 2020"
+full_name: "The 19th Workshop on the Economics of Information Security"
+edition: 19
+year: 2020
+location: "Virtual (originally planned in Brussels, Belgium)"
+venue: "Online (hosted by the Centre for European Policy Studies, CEPS)"
+start_date: "2020-12-14"
+end_date: "2020-12-15"
+website: "https://weis2020.econinfosec.org/"
+
+source_urls:
+  home: "https://weis2020.econinfosec.org/"
+  agenda: "https://weis2020.econinfosec.org/program/agenda/"
+  call_for_papers: "https://weis2020.econinfosec.org/program/call-for-papers/"
+  organizing_committee: "https://weis2020.econinfosec.org/organization/organizing-committee/"
+  venue: "https://weis2020.econinfosec.org/venue/"
+  registration: "https://weis2020.econinfosec.org/registration/"
+  sponsorship: "https://weis2020.econinfosec.org/sponsorship/"
+
+hosts:
+  - "Centre for European Policy Studies (CEPS), Cybersecurity@CEPS Initiative"
+
+sponsors:
+  - "National Science Foundation"
+  - "DeepIn Research Network"
+
+important_dates:
+  submission: "2020-02-28"
+  notification: "2020-04-24"
+  camera_ready: "2020-05-29"
+
+organization:
+  general_chairs:
+    - name: "Lorenzo Pupillo"
+      affiliation: "CEPS"
+  pc_chairs:
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+  online_chairs:
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Alice Hutchings"
+      affiliation: "University of Cambridge"
+    - name: "Angela Sasse"
+      affiliation: "Ruhr University Bochum"
+    - name: "Ariel Zetlin-Jones"
+      affiliation: "Carnegie Mellon University"
+    - name: "Arrah-Marie Jo"
+      affiliation: "University Paris Dauphine"
+    - name: "Ben Edelman"
+      affiliation: "Microsoft"
+    - name: "Bruce Schneier"
+      affiliation: "Harvard Kennedy School"
+    - name: "Bryan Routledge"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Claire Levallois-Barth"
+      affiliation: "Telecom Paris"
+    - name: "Daniel Arce"
+      affiliation: "University of Texas at Dallas"
+    - name: "Elissa Redmiles"
+      affiliation: "Princeton University"
+    - name: "Erin Kenneally"
+      affiliation: "Cyence"
+    - name: "Fabio Massacci"
+      affiliation: "University of Trento"
+    - name: "Galina Schwartz"
+      affiliation: "UC Berkeley"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Jens Grossklags"
+      affiliation: "TU Munich"
+    - name: "Josephine Wolff"
+      affiliation: "Tufts University"
+    - name: "Julie Cohen"
+      affiliation: "Georgetown University"
+    - name: "Kami Vaniea"
+      affiliation: "University of Edinburgh"
+    - name: "Kanta Matsuura"
+      affiliation: "University of Tokyo"
+    - name: "Katharina Krombholz"
+      affiliation: "CISPA Helmholtz Center for Information Security"
+    - name: "Kevin Huguenin"
+      affiliation: "University of Lausanne"
+    - name: "Kyle Soska"
+      affiliation: "Carnegie Mellon University"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Marie Vasek"
+      affiliation: "University College London"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Rebekah Overdorf"
+      affiliation: "EPFL"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Robin Dillon-Merrill"
+      affiliation: "Georgetown University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Sarah Meiklejohn"
+      affiliation: "University College London"
+    - name: "Serge Egelman"
+      affiliation: "ICSI & UC Berkeley"
+    - name: "Stephanie Forrest"
+      affiliation: "Arizona State University"
+    - name: "Terrence August"
+      affiliation: "UC San Diego"
+    - name: "Tyler Moore"
+      affiliation: "University of Tulsa"
+    - name: "Veronica Marotta"
+      affiliation: "University of Minnesota"
+    - name: "Ying Lei Toh"
+      affiliation: "Kansas City Fed"
+
+# All times are Brussels time (UTC+1), as stated on the agenda page.
+# Each talk: 10 min + 5 min questions; each session ends with a 15-min plenary discussion.
+program:
+  - date: "2020-12-14"
+    events:
+      - type: opening
+        title: "General Remarks"
+        time: "14:00 (UTC+1)"
+
+      - type: session
+        number: 1
+        title: "Vulnerabilities, Risks, and Breaches"
+        time: "14:10-15:10 (UTC+1)"
+        chair:
+          name: "Bryan Routledge"
+        papers:
+          - title: "Prioritizing Vulnerability Response: a Stakeholder-Specific Vulnerability Categorization"
+            time: "14:10"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final6.pdf"
+            authors:
+              - name: "Jonathan Spring"
+                affiliation: "CERT/CC, Software Engineering Institute, Carnegie Mellon University"
+              - name: "Allen Householder"
+                affiliation: "CERT/CC, Software Engineering Institute, Carnegie Mellon University"
+              - name: "Art Manion"
+                affiliation: "CERT/CC, Software Engineering Institute, Carnegie Mellon University"
+              - name: "Eric Hatleback"
+                affiliation: "CERT/CC, Software Engineering Institute, Carnegie Mellon University"
+              - name: "Deana Shick"
+                affiliation: "Rockwell"
+          - title: "Underlying and Consequential Costs of Cyber Security Breaches: Changes in Systematic Risk"
+            time: "14:25"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final14.pdf"
+            authors:
+              - name: "Dennis D. Malliouris"
+                affiliation: "University of Oxford"
+              - name: "Andrew Simpson"
+                affiliation: "University of Oxford"
+          - title: "Cybersecurity Investments and the Cost of Capital"
+            time: "14:40"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final16.pdf"
+            authors:
+              - name: "Taha Havakhor"
+                affiliation: "Temple University"
+              - name: "Mohammad Rahman"
+                affiliation: "Purdue University"
+              - name: "Tianjian Zhang"
+                affiliation: "Oklahoma State University"
+
+      - type: break
+        title: "Virtual Coffee Break (randomly assigned breakout rooms)"
+        time: "15:10-15:30 (UTC+1)"
+
+      - type: session
+        number: 2
+        title: "Firms and Investments"
+        time: "15:30-16:30 (UTC+1)"
+        chair:
+          name: "Kévin Huguenin"
+        papers:
+          - title: "Cyber incidents, security measures and financial returns: Empirical evidence for Dutch firms"
+            time: "15:30"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final3.pdf"
+            authors:
+              - name: "Milena Dinkova"
+                affiliation: "CPB Netherlands Bureau for Economic Policy Analysis"
+              - name: "Ramy El-Dardiry"
+                affiliation: "CPB Netherlands Bureau for Economic Policy Analysis"
+              - name: "Bastiaan Overvest"
+                affiliation: "CPB Netherlands Bureau for Economic Policy Analysis"
+          - title: "Can Insider Trades Reliably Predict Cybersecurity Hazards in Public Firms?"
+            time: "15:45"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final35.pdf"
+            authors:
+              - name: "Taha Havakhor"
+                affiliation: "Temple University"
+              - name: "Obi Ogbanufe"
+                affiliation: "Oklahoma State University"
+              - name: "Anthony Vance"
+                affiliation: "Temple University"
+          - title: "Provider Output and Downstream Firms’ Service Tier Choice"
+            time: "16:00"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final21.pdf"
+            authors:
+              - name: "Hooman Hidaji"
+                affiliation: "University of Calgary"
+              - name: "Lisa Yeo"
+                affiliation: "University of California, Merced"
+
+      - type: break
+        title: "Virtual Coffee Break"
+        time: "16:30-17:00 (UTC+1)"
+
+      - type: panel
+        title: "Dependencies, Vulnerabilities, and Their Impact on Cybersecurity: EU and US Perspectives"
+        time: "17:00-18:00 (UTC+1)"
+        panelists:
+          - name: "Ruth Yodaiken"
+            affiliation: "Federal Trade Commission, USA"
+          - name: "Allan Friedmann"
+            affiliation: "National Telecommunications and Information Administration, USA"
+          - name: "Aristotelis Tzafalias"
+            affiliation: "DG Connect, European Commission, Cybersecurity and Digital Privacy Unit"
+          - name: "Christian D’Cunha"
+            affiliation: "DG Connect, European Commission, Cybersecurity and Digital Privacy Unit"
+          - name: "Ross Anderson"
+            moderator: true
+
+      - type: closing
+        title: "Adjourn"
+        time: "18:00 (UTC+1)"
+
+  - date: "2020-12-15"
+    events:
+      - type: session
+        number: 4
+        title: "Measurements & Case Studies"
+        time: "14:00-15:00 (UTC+1)"
+        chair:
+          name: "Alice Hutchings"
+        papers:
+          - title: "Cybercrime is (often) boring: maintaining the infrastructure of cybercrime economies"
+            time: "14:00"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final10.pdf"
+            authors:
+              - name: "Ben Collier"
+                affiliation: "University of Cambridge"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+              - name: "Alice Hutchings"
+                affiliation: "University of Cambridge"
+              - name: "Daniel Thomas"
+                affiliation: "University of Strathclyde"
+          - title: "SAVing the Internet: Explaining the Adoption of Source Address Validation by Internet Service Providers"
+            time: "14:15"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final31.pdf"
+            authors:
+              - name: "Qasim Lone"
+                affiliation: "TU Delft"
+              - name: "Maciej Korczyński"
+                affiliation: "Univ. Grenoble Alpes"
+              - name: "Carlos H. Gañán"
+                affiliation: "TU Delft"
+              - name: "Michel van Eeten"
+                affiliation: "TU Delft"
+          - title: "The Impact of the GDPR on Content Providers"
+            time: "14:30"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final43.pdf"
+            authors:
+              - name: "Vincent Lefrere"
+                affiliation: "Institut Mines-Télécom"
+              - name: "Logan Warberg"
+                affiliation: "Carnegie Mellon University"
+              - name: "Cristobal Cheyre"
+                affiliation: "Cornell University"
+              - name: "Veronica Marotta"
+                affiliation: "University of Minnesota Twin Cities"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+
+      - type: break
+        title: "Virtual Coffee Break"
+        time: "15:00-15:30 (UTC+1)"
+
+      - type: session
+        number: 5
+        title: "Models"
+        time: "15:30-16:30 (UTC+1)"
+        chair:
+          name: "Robin Dillon-Merrill"
+        papers:
+          - title: "An Economic Model for Quantum-Key Recovery Attacks"
+            time: "15:30"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final39.pdf"
+            authors:
+              - name: "Ben Harsha"
+                affiliation: "Purdue University"
+              - name: "Jeremiah Blocki"
+                affiliation: "Purdue University"
+          - title: "Security-Induced Lock-In in the Cloud"
+            time: "15:45"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final40.pdf"
+            authors:
+              - name: "Daniel Arce"
+                affiliation: "UT Dallas"
+          - title: "The Commodification of Consent"
+            time: "16:00"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final2.pdf"
+            authors:
+              - name: "Daniel Woods"
+                affiliation: "University of Innsbruck"
+              - name: "Rainer Böhme"
+                affiliation: "University of Innsbruck"
+
+      - type: break
+        title: "Virtual Coffee Break"
+        time: "16:30-17:00 (UTC+1)"
+
+      - type: session
+        number: 6
+        title: "Behavioral Aspects"
+        time: "17:00-18:00 (UTC+1)"
+        chair:
+          name: "Rainer Böhme"
+        papers:
+          - title: "The Use of Autonomous Decision Systems"
+            time: "17:00"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final13.pdf"
+            authors:
+              - name: "Robin Dillon-Merrill"
+                affiliation: "Georgetown"
+              - name: "Peter Madsen"
+                affiliation: "BYU"
+              - name: "Bart Roets"
+                affiliation: "INFRABEL"
+              - name: "Taylan Topcu"
+                affiliation: "Virginia Tech"
+              - name: "Kostas Triantis"
+                affiliation: "Virginia Tech"
+          - title: "Understanding the Knowledge Gap: How Security Awareness Influences the Adoption of Industrial IoT"
+            time: "17:15"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final23.pdf"
+            authors:
+              - name: "Verena Schrama"
+                affiliation: "TU Delft"
+              - name: "Carlos H. Gañán"
+                affiliation: "TU Delft"
+              - name: "Doris Aschenbrenner"
+                affiliation: "TU Delft"
+              - name: "Mark de Reuver"
+                affiliation: "TU Delft"
+              - name: "Kevin Borgolte"
+                affiliation: "Princeton University"
+              - name: "Tobias Fiebig"
+                affiliation: "TU Delft"
+          - title: "A Qualitative Model of Older Adults’ Contextual Decision-Making About Information Sharing"
+            time: "17:30"
+            url: "https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final42.pdf"
+            authors:
+              - name: "Alisa Frik"
+                affiliation: "International Computer Science Institute, UC Berkeley"
+              - name: "Julia Bernd"
+                affiliation: "International Computer Science Institute, UC Berkeley"
+              - name: "Serge Egelman"
+                affiliation: "International Computer Science Institute, UC Berkeley"
+
+      - type: closing
+        title: "Adjourn"
+        time: "18:00 (UTC+1)"

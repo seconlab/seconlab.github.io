@@ -1,0 +1,386 @@
+name: "WEIS 2013"
+full_name: "The 12th Workshop on the Economics of Information Security"
+edition: 12
+year: 2013
+location: "Washington, D.C., USA"
+venue: "Rafik B. Hariri Building, Georgetown University (main campus)"
+start_date: "2013-06-11"
+end_date: "2013-06-12"
+website: "http://weis2013.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150530054950/http://weis2013.econinfosec.org/index.html"
+  program: "https://web.archive.org/web/20150529054350/http://weis2013.econinfosec.org/program.html"
+  call_for_papers: "https://web.archive.org/web/20150530054939/http://weis2013.econinfosec.org/cfp.html"
+  call_for_participation: "https://web.archive.org/web/20131102142215/http://weis2013.econinfosec.org/callForParticipation.html"
+  paper_submission: "https://web.archive.org/web/20150530055022/http://weis2013.econinfosec.org/submission.html"
+  travel: "https://web.archive.org/web/20150530054348/http://weis2013.econinfosec.org/travel.html"
+  registration: "https://web.archive.org/web/20150530054955/http://weis2013.econinfosec.org/registration.html"
+  liveblog: "http://www.lightbluetouchpaper.org/2013/06/11/workshop-on-the-economics-of-information-security-2013/"
+  liveblog_garg: "http://www.vaibhavgarg.net/home/vayam-raksamah/weis-2013"
+
+hosts:
+  - "Center for Business and Public Policy, McDonough School of Business, Georgetown University"
+
+important_dates:
+  submission: "2013-03-11"
+  notification: "2013-04-23"
+  hotel_group_rate: "2013-05-24"
+
+organization:
+  pc_chairs:
+    - name: "Allan Friedman"
+      affiliation: "The Brookings Institution"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Rainer Böhme"
+      affiliation: "University of Münster"
+    - name: "Laura Brandimarte"
+      affiliation: "Carnegie Mellon University"
+    - name: "L. Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Huseyin Cavusoglu"
+      affiliation: "University of Texas at Dallas"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Benjamin Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Allan Friedman"
+      affiliation: "The Brookings Institution"
+    - name: "Vaibhav Garg"
+      affiliation: "Indiana University"
+    - name: "Lawrence A. Gordon"
+      affiliation: "University of Maryland"
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+    - name: "Cormac Herley"
+      affiliation: "Microsoft Research"
+    - name: "Martin P. Loeb"
+      affiliation: "University of Maryland"
+    - name: "Kanta Matsuura"
+      affiliation: "University of Tokyo"
+    - name: "Tyler Moore"
+      affiliation: "Southern Methodist University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "David J. Pym"
+      affiliation: "University of Aberdeen"
+    - name: "Brent R. Rowe"
+      affiliation: "RTI International"
+    - name: "Richard J. Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Russell Thomas"
+      affiliation: "George Mason University"
+    - name: "Catherine Tucker"
+      affiliation: "Massachusetts Institute of Technology"
+    - name: "Liad Wagman"
+      affiliation: "Illinois Institute of Technology"
+    - name: "Rich Wash"
+      affiliation: "Michigan State University"
+    - name: "Julian Williams"
+      affiliation: "University of Aberdeen"
+
+invited_speakers:
+  - name: "Eric Zitzewitz"
+    affiliation: "Dartmouth College"
+
+program:
+  - date: "2013-06-10"
+    events:
+      - type: social
+        title: "Evening Welcome Reception"
+        time: "18:00-20:00"
+        venue: "Georgetown Hotel and Conference Center Salon"
+
+  - date: "2013-06-11"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: opening
+        title: "Welcomes"
+        time: "09:00-09:15"
+
+      - type: panel
+        title: "US Government Initiatives to Drive Security Investment"
+        time: "09:15-10:45"
+        panelists:
+          - name: "Tony Cheesebrough"
+            affiliation: "Department of Homeland Security"
+          - name: "Carol Hawk"
+            affiliation: "Department of Energy"
+          - name: "Bob Kolasky"
+            affiliation: "Department of Homeland Security"
+          - name: "Ari Schwartz"
+            affiliation: "Department of Commerce"
+          - name: "Leigh Williams"
+            affiliation: "Department of Treasury"
+
+      - type: break
+        title: "Break"
+        time: "10:45-11:00"
+
+      - type: session
+        number: 1
+        title: "Understanding Information Security through Economic Frameworks"
+        time: "11:00-12:15"
+        papers:
+          - title: "Sustainability in Information Stewardship: Time Preferences, Externalities, and Social Co-ordination"
+            url: "http://weis2013.econinfosec.org/papers/IoannidisPymWilliamsWEIS2013.pdf"
+            authors:
+              - name: "Christos Ioannidis"
+                affiliation: "University of Bath"
+              - name: "David Pym"
+                affiliation: "University of Aberdeen"
+              - name: "Julian Williams"
+                affiliation: "University of Aberdeen"
+          - title: "How Bad Is It? – A Branching Activity Model to Estimate the Impact of Information Security Breaches"
+            url: "http://weis2013.econinfosec.org/papers/ThomasWEIS2013.pdf"
+            authors:
+              - name: "Russell Thomas"
+                affiliation: "George Mason University"
+              - name: "Marcin Antkiewicz"
+                affiliation: "Qualys, Inc."
+              - name: "Patrick Florer"
+                affiliation: "Risk Centric Security, Inc."
+              - name: "Suzanne Widup"
+                affiliation: "Verizon Communications, Inc."
+              - name: "Matthew Woodyard"
+                affiliation: "Zions Bancorporation"
+          - title: "Cloud Implications on Software Network Structure and Security Risks"
+            url: "http://weis2013.econinfosec.org/papers/AugustNiculescuShinWEIS2013.pdf"
+            authors:
+              - name: "Terrence August"
+                affiliation: "University of California, San Diego, Rady School of Management"
+              - name: "Marius Niculescu"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Hyoduk Shin"
+                affiliation: "University of California, San Diego, Rady School of Management"
+
+      - type: keynote
+        title: "Lunch + Keynote: Forensic Economics"
+        time: "12:15-13:45"
+        speaker:
+          name: "Eric Zitzewitz"
+          affiliation: "Dartmouth College"
+
+      - type: session
+        number: 2
+        title: "The Value of Information"
+        time: "13:45-15:25"
+        papers:
+          - title: "The More Social Cues, The Less Trolling? An Empirical Study of Online Commenting Behavior"
+            url: "http://weis2013.econinfosec.org/papers/ChoWEIS2013.pdf"
+            authors:
+              - name: "Daegon Cho"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+          - title: "Consumer Flexibility, Data Quality and Targeted Pricing"
+            url: "http://weis2013.econinfosec.org/papers/SapiSuleymanovaWEIS2013.pdf"
+            authors:
+              - name: "Geza Sapi"
+                affiliation: "Düsseldorf Institute for Competition Economics"
+              - name: "Irina Suleymanova"
+                affiliation: "Düsseldorf Institute for Competition Economics"
+          - title: "Privacy Controls and Information Disclosure Behavior of Online Social Network Users"
+            url: "http://weis2013.econinfosec.org/papers/CavusogluWEIS2013.pdf"
+            authors:
+              - name: "Huseyin Cavusoglu"
+                affiliation: "University of Texas"
+              - name: "Tuan Phan"
+                affiliation: "National University of Singapore"
+              - name: "Hasan Cavusoglu"
+                affiliation: "University of British Columbia"
+          - title: "The Value of Privacy in Web Search"
+            url: "http://weis2013.econinfosec.org/papers/PreibuschWEIS2013.pdf"
+            authors:
+              - name: "Sören Preibusch"
+                affiliation: "Microsoft Research Cambridge UK"
+
+      - type: break
+        title: "Break"
+        time: "15:25-15:50"
+
+      - type: session
+        number: 3
+        title: "Cybersecurity Policy"
+        time: "15:50-17:30"
+        papers:
+          - title: "Einstein on the Breach: Surveillance Technology, Cybersecurity, and Organizational Change"
+            url: "http://weis2013.econinfosec.org/papers/MuellerKuehnWEIS2013.pdf"
+            authors:
+              - name: "Andreas Kuehn"
+                affiliation: "Syracuse University, School of Information Studies"
+              - name: "Milton Mueller"
+                affiliation: "Syracuse University, School of Information Studies"
+          - title: "The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries"
+            url: "http://weis2013.econinfosec.org/papers/KrollDaveyFeltenWEIS2013.pdf"
+            authors:
+              - name: "Joshua Kroll"
+                affiliation: "Princeton University"
+              - name: "Ian Davey"
+                affiliation: "Princeton University"
+              - name: "Edward Felten"
+                affiliation: "Princeton University"
+          - title: "On the Viability of Using Liability to Incentivise Internet Security"
+            url: "http://weis2013.econinfosec.org/papers/FryerMooreChownWEIS2013.pdf"
+            authors:
+              - name: "Huw Fryer"
+                affiliation: "University of Southampton"
+              - name: "Roksana Moore"
+                affiliation: "University of Southampton"
+              - name: "Tim Chown"
+                affiliation: "University of Southampton"
+          - title: "Improving Internet Security Through Social Information and Social Comparison: A Field Quasi-Experiment"
+            url: "http://weis2013.econinfosec.org/papers/TangWEIS2013.pdf"
+            authors:
+              - name: "Qian Tang"
+                affiliation: "University of Texas at Austin"
+              - name: "Leigh Linden"
+                affiliation: "University of Texas at Austin"
+              - name: "John Quarterman"
+                affiliation: "Quarterman Creations"
+              - name: "Andrew Whinston"
+                affiliation: "University of Texas at Austin"
+
+      - type: social
+        title: "Conference Reception and Dinner"
+        time: "18:30"
+
+  - date: "2013-06-12"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: panel
+        title: "Is the Market for Security Working?"
+        time: "09:00-10:30"
+        panelists:
+          - name: "Jeff Brueggeman"
+            affiliation: "AT&T"
+          - name: "Shane Tews"
+            affiliation: "463 Communications"
+          - name: "Nadya Bartol"
+            affiliation: "Utilities Telecom Council"
+
+      - type: break
+        title: "Break"
+        time: "10:30-10:55"
+
+      - type: session
+        number: 4
+        title: "Dynamics of Attack and Defense"
+        time: "10:55-12:10"
+        papers:
+          - title: "Small World: Collisions Among Attacks in a Finite Population"
+            url: "http://weis2013.econinfosec.org/papers/HerleyWEIS2013.pdf"
+            authors:
+              - name: "Cormac Herley"
+                affiliation: "Microsoft Research"
+          - title: "A Behavioral Investigation of the FlipIt Game"
+            url: "http://weis2013.econinfosec.org/papers/NochensonGrossklagsWEIS2013.pdf"
+            authors:
+              - name: "Alan Nochenson"
+                affiliation: "The Pennsylvania State University"
+              - name: "Jens Grossklags"
+                affiliation: "The Pennsylvania State University"
+          - title: "Breaking Our Password Hash Habit: Why the Sharing of Users' Password Choices for Defensive Analysis Is an Underprovisioned Social Good, and What We Can Do to Encourage It"
+            url: "http://weis2013.econinfosec.org/papers/SchechterHerleyWEIS2013.pdf"
+            authors:
+              - name: "Cormac Herley"
+                affiliation: "Microsoft Research"
+              - name: "Stuart Schechter"
+                affiliation: "Microsoft Research"
+
+      - type: break
+        title: "Lunch"
+        time: "12:10-13:10"
+
+      - type: session
+        number: 5
+        title: "Incentives in Technology"
+        time: "13:10-14:25"
+        papers:
+          - title: "Security Economics in the HTTPS Value Chain"
+            url: "http://weis2013.econinfosec.org/papers/AsghariWEIS2013.pdf"
+            authors:
+              - name: "Hadi Asghari"
+                affiliation: "Delft University of Technology"
+              - name: "Michel van Eeten"
+                affiliation: "Delft University of Technology"
+              - name: "Axel Arnbak"
+                affiliation: "University of Amsterdam"
+              - name: "Nico van Eijk"
+                affiliation: "University of Amsterdam"
+          - title: "Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing"
+            url: "http://weis2013.econinfosec.org/papers/WellmanKimDuongWEIS2013.pdf"
+            authors:
+              - name: "Michael Wellman"
+                affiliation: "University of Michigan"
+              - name: "Tae Hyung Kim"
+                affiliation: "University of Michigan"
+              - name: "Quang Duong"
+                affiliation: "University of Michigan"
+          - title: "Incentive Analysis of Bidirectional Filtering in the Internet"
+            url: "http://weis2013.econinfosec.org/papers/KhouzaniSenShroffWEIS2013.pdf"
+            authors:
+              - name: "Mhr Khouzani"
+                affiliation: "University of Southern California"
+              - name: "Soumya Sen"
+                affiliation: "Princeton University"
+              - name: "Ness B. Shroff"
+                affiliation: "The Ohio State University"
+
+      - type: break
+        title: "Break"
+        time: "14:25-14:50"
+
+      - type: session
+        number: 6
+        title: "Data Privacy Policy"
+        time: "14:50-16:05"
+        papers:
+          - title: "Are They Actually Any Different? Comparing 3,422 Financial Institutions' Privacy Practices"
+            url: "http://weis2013.econinfosec.org/papers/CranorWEIS2013.pdf"
+            authors:
+              - name: "Lorrie Cranor"
+                affiliation: "Carnegie Mellon University"
+              - name: "Kelly Idouchi"
+                affiliation: "Carnegie Mellon University"
+              - name: "Pedro Leon"
+                affiliation: "Carnegie Mellon University"
+              - name: "Blase Ur"
+                affiliation: "Carnegie Mellon University"
+              - name: "Manya Sleeper"
+                affiliation: "Carnegie Mellon University"
+          - title: "Data Harvesting 2.0: From the Visible to the Invisible Web"
+            url: "http://weis2013.econinfosec.org/papers/GrumbachWEIS2013.pdf"
+            authors:
+              - name: "Claude Castelluccia"
+                affiliation: "INRIA"
+              - name: "Stephane Grumbach"
+                affiliation: "INRIA"
+              - name: "Lukasz Olejnik"
+                affiliation: "INRIA"
+          - title: "An Experiment in Hiring Discrimination via Online Social Networks"
+            url: "http://weis2013.econinfosec.org/papers/AcquistiFong-abstract-WEIS2013.pdf"
+            note: "Only the abstract is available online."
+            authors:
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "Christina Fong"
+                affiliation: "Carnegie Mellon University"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:05-17:30"

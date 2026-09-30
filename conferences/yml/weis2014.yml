@@ -1,0 +1,514 @@
+name: "WEIS 2014"
+full_name: "The 13th Workshop on the Economics of Information Security"
+edition: 13
+year: 2014
+location: "State College, Pennsylvania, USA"
+venue: "Information Sciences and Technology (IST) Building, The Pennsylvania State University, University Park"
+start_date: "2014-06-23"
+end_date: "2014-06-24"
+website: "http://weis2014.econinfosec.org/"
+
+archive_urls:
+  home: "https://web.archive.org/web/20150530000333/http://weis2014.econinfosec.org/index.php"
+  programme: "https://web.archive.org/web/20150224020431/http://weis2014.econinfosec.org/program.php"
+  accepted_papers: "https://web.archive.org/web/20150503144809/http://weis2014.econinfosec.org/papers.php"
+  invited_speakers: "https://web.archive.org/web/20150530000400/http://weis2014.econinfosec.org/speakers.php"
+  organization: "https://web.archive.org/web/20150530000339/http://weis2014.econinfosec.org/organization.php"
+  call_for_papers: "https://web.archive.org/web/20150529002151/http://weis2014.econinfosec.org/cfpart.php"
+  paper_submission: "https://web.archive.org/web/20150529054517/http://weis2014.econinfosec.org/submission.php"
+  registration: "https://web.archive.org/web/20150530000355/http://weis2014.econinfosec.org/registration.php"
+  venue: "https://web.archive.org/web/20150530000422/http://weis2014.econinfosec.org/venue.php"
+  liveblog: "http://www.lightbluetouchpaper.org/2014/06/25/workshop-on-the-economics-of-informtaion-security-2014/"
+
+hosts:
+  - "College of Information Sciences and Technology (IST), The Pennsylvania State University"
+
+sponsors:
+  - "Cisco"
+  - "National Science Foundation (NSF)"
+  - "US Department of Homeland Security (DHS)"
+
+important_dates:
+  submission: "2014-02-28"
+  notification: "2014-04-08"
+  camera_ready: "2014-05-11"
+  early_registration: "2014-06-10"
+
+organization:
+  general_chairs:
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+  pc_chairs:
+    - name: "Jens Grossklags"
+      affiliation: "Penn State University"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Tansu Alpcan"
+      affiliation: "The University of Melbourne"
+    - name: "Ross Anderson"
+      affiliation: "Cambridge University"
+    - name: "Terrence August"
+      affiliation: "UC San Diego"
+    - name: "Rainer Böhme"
+      affiliation: "University of Münster"
+    - name: "Joseph Bonneau"
+      affiliation: "Google"
+    - name: "Laura Brandimarte"
+      affiliation: "Carnegie Mellon University"
+    - name: "Jean Camp"
+      affiliation: "Indiana University"
+    - name: "Jonathan Cave"
+      affiliation: "RAND Europe"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Ben Edelman"
+      affiliation: "Harvard Business School"
+    - name: "Serge Egelman"
+      affiliation: "UC Berkeley"
+    - name: "Allan Friedman"
+      affiliation: "Brookings Institution"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Dan Geer"
+      affiliation: "In-Q-Tel"
+    - name: "Lawrence Gordon"
+      affiliation: "University of Maryland"
+    - name: "Christopher Griffin"
+      affiliation: "The Pennsylvania State University"
+    - name: "Nadia Heninger"
+      affiliation: "University of Pennsylvania"
+    - name: "Cormac Herley"
+      affiliation: "Microsoft Research"
+    - name: "Thorsten Holz"
+      affiliation: "Ruhr-Universität Bochum"
+    - name: "Benjamin Johnson"
+      affiliation: "UC Berkeley"
+    - name: "Eric Johnson"
+      affiliation: "Vanderbilt University"
+    - name: "Aron Laszka"
+      affiliation: "Budapest Univ. of Technology and Economics"
+    - name: "Marc Lelarge"
+      affiliation: "INRIA-ENS"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Katerina Mitrokotsa"
+      affiliation: "Chalmers University of Technology"
+    - name: "Tyler Moore"
+      affiliation: "Southern Methodist University"
+    - name: "Arvind Narayanan"
+      affiliation: "Princeton University"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Brent Rowe"
+      affiliation: "RTI International"
+    - name: "Stuart Schechter"
+      affiliation: "Microsoft Research"
+    - name: "Bruce Schneier"
+      affiliation: "BT"
+    - name: "Galina Schwartz"
+      affiliation: "UC Berkeley"
+    - name: "Adam Shostack"
+      affiliation: "Microsoft"
+    - name: "Richard Sullivan"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Rahul Telang"
+      affiliation: "Carnegie Mellon University"
+    - name: "Catherine Tucker"
+      affiliation: "MIT"
+    - name: "Michel Van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Nevena Vratonjic"
+      affiliation: "Kudelski Security"
+    - name: "Nicholas Weaver"
+      affiliation: "ICSI"
+    - name: "Julian Williams"
+      affiliation: "Durham University"
+  webmaster:
+    - name: "Alan Nochenson"
+      affiliation: "Penn State University"
+
+invited_speakers:
+  - name: "Richard Sullivan"
+    affiliation: "Federal Reserve Bank of Kansas City"
+  - name: "Carl Gunter"
+    affiliation: "University of Illinois at Urbana-Champaign (UIUC)"
+  - name: "Vitaly Shmatikov"
+    affiliation: "University of Texas at Austin"
+  - name: "Aleksandra Slavkovic"
+    affiliation: "The Pennsylvania State University"
+  - name: "Cleotilde Gonzalez"
+    affiliation: "Carnegie Mellon University"
+  - name: "Christian Lebiere"
+    affiliation: "Carnegie Mellon University"
+  - name: "Joachim Meyer"
+    affiliation: "Tel Aviv University"
+
+program:
+  - date: "2014-06-22"
+    events:
+      - type: social
+        title: "Optional Afternoon Activity (Campus Tour)"
+        time: "13:00-16:00"
+
+      - type: social
+        title: "Evening Welcome Reception"
+        time: "18:00-22:00"
+        venue: "Whisker's Bar, Nittany Lion Inn"
+
+  - date: "2014-06-23"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: opening
+        title: "Welcome Address"
+        time: "09:00-09:10"
+
+      - type: session
+        number: 1
+        title: "Consumers and Cybercrime"
+        time: "09:10-10:00"
+        chairs:
+          - name: "Neil Gandal"
+            affiliation: "Tel Aviv University"
+          - name: "Michel van Eeten"
+            affiliation: "Delft University of Technology"
+        papers:
+          - title: "Understanding the Influence of Cybercrime Risk on the E-Service Adoption of European Internet Users"
+            url: "http://weis2014.econinfosec.org/papers/RiekBoehmeMoore-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/RiekBoehmeMoore-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Markus Riek"
+                affiliation: "University of Münster"
+              - name: "Rainer Böhme"
+                affiliation: "University of Münster"
+              - name: "Tyler Moore"
+                affiliation: "Southern Methodist University"
+          - title: "Experimental Measurement of Attitudes Regarding Cybercrime"
+            url: "http://weis2014.econinfosec.org/papers/GravesAcquistiAnderson-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/GravesAcquistiAnderson-WEIS2014-Slides.pdf"
+            authors:
+              - name: "James Graves"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 2
+        title: "Incentives for Pervasive Monitoring Threats"
+        time: "10:30-11:10"
+        chairs:
+          - name: "Joseph Bonneau"
+            affiliation: "Google"
+          - name: "David Pym"
+            affiliation: "University College London"
+        papers:
+          - title: "Privacy versus Government Surveillance: Where Network Effects Meet Public Choice"
+            url: "http://weis2014.econinfosec.org/papers/Anderson-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Anderson-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+          - title: "Government Surveillance and Incentives to Abuse Power"
+            url: "http://weis2014.econinfosec.org/papers/Laskowski-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Laskowski-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Paul Laskowski"
+                affiliation: "UC Berkeley"
+              - name: "Benjamin Johnson"
+                affiliation: "Carnegie Mellon University"
+              - name: "Thomas Maillart"
+                affiliation: "UC Berkeley"
+              - name: "John Chuang"
+                affiliation: "UC Berkeley"
+
+      - type: panel
+        title: "Cognitive Security"
+        time: "11:10-12:30"
+        panelists:
+          - name: "David Reitter"
+            affiliation: "Penn State University"
+            moderator: true
+          - name: "Cleotilde Gonzalez"
+            affiliation: "Carnegie Mellon University"
+          - name: "Christian Lebiere"
+            affiliation: "Carnegie Mellon University"
+          - name: "Joachim Meyer"
+            affiliation: "Tel-Aviv University"
+
+      - type: keynote
+        title: "Lunch and Invited Talk: Ensuring Payment Security in the United States"
+        time: "12:30-14:15"
+        speaker:
+          name: "Richard Sullivan"
+          affiliation: "Federal Reserve Bank of Kansas City"
+        chair:
+          name: "John Bagby"
+          affiliation: "Penn State University"
+
+      - type: session
+        number: 3
+        title: "Credit and Debit Card Security"
+        time: "14:15-15:15"
+        chairs:
+          - name: "Richard Sullivan"
+            affiliation: "Federal Reserve Bank of Kansas City"
+          - name: "Ross Anderson"
+            affiliation: "Cambridge University"
+        papers:
+          - title: "Should Payment Card Issuers Reissue Cards in Response to a Data Breach?"
+            url: "http://weis2014.econinfosec.org/papers/GravesAcquistiChristin-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/GravesAcquistiChristin-WEIS2014-Slides.pdf"
+            authors:
+              - name: "James Graves"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "Nicolas Christin"
+                affiliation: "Carnegie Mellon University"
+          - title: "Automation and Disruption in Stolen Payment Card Markets"
+            url: "http://weis2014.econinfosec.org/papers/PeacockFriedman-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/PeacockFriedman-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Timothy Peacock"
+                affiliation: "Shape Security"
+              - name: "Allan Friedman"
+                affiliation: "George Washington University"
+          - title: "Defending Debit: A Historical Study of the Indirect Effects of the Durbin Amendment on Investment in Debit Card Security"
+            url: "http://weis2014.econinfosec.org/papers/Miller-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Miller-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Allison Miller"
+                affiliation: "Electronic Arts"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:15-15:55"
+
+      - type: session
+        number: 4
+        title: "Understanding Cybercrime"
+        time: "15:55-17:05"
+        chairs:
+          - name: "Tyler Moore"
+            affiliation: "Southern Methodist University"
+          - name: "Martin Loeb"
+            affiliation: "University of Maryland"
+        papers:
+          - title: "Empirically Characterizing Domain Abuse and the Revenue Impact of Blacklisting"
+            url: "http://weis2014.econinfosec.org/papers/Chachra-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Chachra-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Neha Chachra"
+                affiliation: "UC San Diego"
+              - name: "Damon McCoy"
+                affiliation: "George Mason University"
+              - name: "Stefan Savage"
+                affiliation: "UC San Diego"
+              - name: "Geoffrey M. Voelker"
+                affiliation: "UC San Diego"
+          - title: "A Study of Whois Privacy and Proxy Service Abuse"
+            url: "http://weis2014.econinfosec.org/papers/ClaytonMansfield-WEIS2014.pdf"
+            authors:
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+              - name: "Tony Mansfield"
+                affiliation: "National Physical Laboratory"
+          - title: "Why Them? Extracting Intelligence about Target Selection from Zeus Financial Malware"
+            url: "http://weis2014.econinfosec.org/papers/Tajalizadehkhoob-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Tajalizadehkhoob-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Samaneh Tajalizadehkhoob"
+                affiliation: "Delft University of Technology"
+              - name: "Hadi Asghari"
+                affiliation: "Delft University of Technology"
+              - name: "Carlos Gañán"
+                affiliation: "Delft University of Technology"
+              - name: "Michel van Eeten"
+                affiliation: "Delft University of Technology"
+
+      - type: rump_session
+        title: "Rump Session Talks and Organizational Remarks"
+        time: ""
+
+      - type: social
+        title: "Social Event & Conference Dinner"
+        time: "18:30-22:00"
+        venue: "Happy Valley Brewing Company"
+
+  - date: "2014-06-24"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: session
+        number: 5
+        title: "Decision-Making, Incentives and Markets"
+        time: "09:00-10:30"
+        chairs:
+          - name: "Rainer Böhme"
+            affiliation: "University of Münster"
+          - name: "Laura Brandimarte"
+            affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "The Effect of Decentralized Behavioral Decision Making on System-Level Risk"
+            url: "http://weis2014.econinfosec.org/papers/Kaivanto-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Kaivanto-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Kim Kaivanto"
+                affiliation: "Lancaster University"
+          - title: "Resilience in Information Stewardship"
+            url: "http://weis2014.econinfosec.org/papers/Ioannidis-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Ioannidis-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Christos Ioannidis"
+                affiliation: "University of Bath"
+              - name: "David Pym"
+                affiliation: "University College London"
+              - name: "Julian Williams"
+                affiliation: "University of Durham"
+              - name: "Iffat Gheyas"
+                affiliation: "University of Durham"
+          - title: "Competition in the Crypto-Currency Market"
+            url: "http://weis2014.econinfosec.org/papers/GandalHalaburda-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/GandalHalaburda-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Neil Gandal"
+                affiliation: "Tel Aviv University"
+              - name: "Hanna Halaburda"
+                affiliation: "Bank of Canada"
+          - title: "Incentive Engineering for Outsourced Computation in the Face of Collusion"
+            url: "http://weis2014.econinfosec.org/papers/KhouzaniPhamCid-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/KhouzaniPhamCid-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Mhr Khouzani"
+                affiliation: "Royal Holloway - University of London"
+              - name: "Viet Pham"
+                affiliation: "Royal Holloway - University of London"
+              - name: "Carlos Cid"
+                affiliation: "Royal Holloway - University of London"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:30-11:00"
+
+      - type: panel
+        title: "Genome Privacy"
+        time: "11:00-12:30"
+        panelists:
+          - name: "Ross Anderson"
+            affiliation: "University of Cambridge"
+            moderator: true
+          - name: "Carl Gunter"
+            affiliation: "University of Illinois"
+          - name: "Vitaly Shmatikov"
+            affiliation: "UT Austin"
+          - name: "Aleksandra Slavkovic"
+            affiliation: "Penn State University"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-14:15"
+
+      - type: session
+        number: 6
+        title: "Cryptocurrencies, Virtual Currencies and Cyberinsurance"
+        time: "14:15-15:20"
+        chairs:
+          - name: "Nicolas Christin"
+            affiliation: "Carnegie Mellon University"
+          - name: "Alessandro Acquisti"
+            affiliation: "Carnegie Mellon University"
+        papers:
+          - title: "Voluntary Participation in Cyber-Insurance Markets"
+            url: "http://weis2014.econinfosec.org/papers/NaghizadehLiu-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/NaghizadehLiu-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Parinaz Naghizadeh"
+                affiliation: "University of Michigan"
+              - name: "Mingyan Liu"
+                affiliation: "University of Michigan"
+          - title: "On Decentralizing Prediction Markets and Order Books"
+            url: "http://weis2014.econinfosec.org/papers/Clark-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/Clark-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Jeremy Clark"
+                affiliation: "Concordia University"
+              - name: "Joseph Bonneau"
+                affiliation: "Princeton University"
+              - name: "Edward Felten"
+                affiliation: "Princeton University"
+              - name: "Joshua Kroll"
+                affiliation: "Princeton University"
+              - name: "Andrew Miller"
+                affiliation: "University of Maryland"
+              - name: "Arvind Narayanan"
+                affiliation: "Princeton University"
+          - title: "Analysis of Japanese Loyalty Programs Considering Liquidity, Security Efforts, and Actual Security Levels"
+            url: "http://weis2014.econinfosec.org/papers/JenjarrussakulMatsuura-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/JenjarrussakulMatsuura-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Bongkot Jenjarrussakul"
+                affiliation: "University of Tokyo"
+              - name: "Kanta Matsuura"
+                affiliation: "University of Tokyo"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:20-15:45"
+
+      - type: session
+        number: 7
+        title: "Experimental and Empirical Research on Privacy and Security"
+        time: "15:45-16:55"
+        chairs:
+          - name: "Kanta Matsuura"
+            affiliation: "The University of Tokyo"
+          - name: "Brent Rowe"
+            affiliation: "RTI International"
+        papers:
+          - title: "Framing and the Malleability of Privacy Choices"
+            url: "http://weis2014.econinfosec.org/papers/AdjeridAcquistiLoewenstein-WEIS2014.pdf"
+            authors:
+              - name: "Idris Adjerid"
+                affiliation: "University of Notre Dame"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+              - name: "George Loewenstein"
+                affiliation: "Carnegie Mellon University"
+          - title: "Meaningful Healthcare Security: Does \"Meaningful-Use\" Attestation Improve Information Security Performance?"
+            url: "http://weis2014.econinfosec.org/papers/KwonJohnson-WEIS2014.pdf"
+            authors:
+              - name: "Juhee Kwon"
+                affiliation: "City University of Hong Kong"
+              - name: "M. Eric Johnson"
+                affiliation: "Vanderbilt University"
+          - title: "Aiming at a More Cost-Efficient Census Via Online Data Collection: Privacy Trade-Offs of Geo-Location"
+            url: "http://weis2014.econinfosec.org/papers/BrandimarteAcquisti-WEIS2014.pdf"
+            slides: "http://weis2014.econinfosec.org/presentations/BrandimarteAcquisti-WEIS2014-Slides.pdf"
+            authors:
+              - name: "Laura Brandimarte"
+                affiliation: "Carnegie Mellon University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+
+      - type: closing
+        title: "Closing Remarks"
+        time: ""
+
+      - type: social
+        title: "Closing Reception"
+        time: ""
