@@ -1,0 +1,376 @@
+name: "WEIS 2026"
+full_name: "The 25th Workshop on the Economics of Information Security"
+edition: 25
+year: 2026
+location: "Berkeley, California, USA"
+venue: "Goldman Theater, David Brower Center, 2150 Allston Way, Berkeley, CA 94704"
+start_date: "2026-06-02"
+end_date: "2026-06-03"
+website: "https://weis2026.econinfosec.org/"
+source_urls:
+  program: "https://weis2026.econinfosec.org/program/"
+  accepted_papers: "https://weis2026.econinfosec.org/accepted-papers/"
+  organization: "https://weis2026.econinfosec.org/organization/"
+  sponsorship: "https://weis2026.econinfosec.org/organization/sponsorship/"
+  call_for_papers: "https://weis2026.econinfosec.org/"
+  travel_registration: "https://weis2026.econinfosec.org/travel-registration/"
+  venue: "https://weis2026.econinfosec.org/venue/"
+
+hosts:
+  - "International Computer Science Institute (ICSI)"
+  - "Berkeley Laboratory for Usable and Experimental Security (BLUES), UC Berkeley"
+
+sponsors:
+  - "Marsh (Gold)"
+
+important_dates:
+  submission: "2026-02-01"
+  submission_original: "2026-01-23"
+  notification: "2026-03-06"
+  camera_ready: "2026-05-08"
+
+organization:
+  general_chairs:
+    - name: "Serge Egelman"
+      affiliation: "University of California at Berkeley / ICSI"
+  rump_session_chairs:
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "MIT"
+    - name: "Andrew Adams"
+      affiliation: "Meiji University"
+    - name: "Daniel Arce"
+      affiliation: "University of Texas at Dallas"
+    - name: "Carly Beckerman"
+      affiliation: "Durham University"
+    - name: "Julia Bernd"
+      affiliation: "ICSI"
+    - name: "Gergely Biczok"
+      affiliation: "Budapest University of Technology and Economics"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Annie Boustead"
+      affiliation: "University of Arizona"
+    - name: "Jean Camp"
+      affiliation: "University of North Carolina at Charlotte"
+    - name: "Nicolas Christin"
+      affiliation: "Carnegie Mellon University"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Nan Clement"
+      affiliation: "MIT"
+    - name: "Michel van Eeten"
+      affiliation: "TU Delft"
+    - name: "Anderson Frailey"
+      affiliation: "University of Maryland, Baltimore County"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Karl Grindal"
+      affiliation: "University of New Hampshire"
+    - name: "Jens Grossklags"
+      affiliation: "TU Munich"
+    - name: "Ambarish Gurjar"
+      affiliation: "University of North Carolina at Charlotte"
+    - name: "Alice Hutchings"
+      affiliation: "University of Cambridge"
+    - name: "Arrah-Marie Jo"
+      affiliation: "Telecom Paristech"
+    - name: "Mohammad Khan"
+      affiliation: "University of Connecticut"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan"
+    - name: "Dalya Manatova"
+      affiliation: "Indiana University"
+    - name: "Kanta Matsuura"
+      affiliation: "University of Tokyo"
+    - name: "Masarah Paquet-Clouston"
+      affiliation: "Université de Montréal"
+    - name: "Paulina Jo Pesch"
+      affiliation: "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+    - name: "David Pym"
+      affiliation: "University College London"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Sasha Romanosky"
+      affiliation: "RAND"
+    - name: "Angela Sasse"
+      affiliation: "Ruhr University Bochum"
+    - name: "Ying Lei Toh"
+      affiliation: "Federal Reserve Bank of Kansas City"
+    - name: "Swaathi Vetrivel"
+      affiliation: "TU Delft"
+    - name: "Josephine Wolff"
+      affiliation: "Tufts University"
+    - name: "Lisa Yeo"
+      affiliation: "University of California at Merced"
+    - name: "William Yurcik"
+      affiliation: "Centers for Medicare & Medicaid Services"
+    - name: "Pengfei Zhang"
+      affiliation: "University of Texas at Dallas"
+    - name: "Lei Zhou"
+      affiliation: "University of Maryland"
+
+invited_speakers:
+  - name: "Susan Athey"
+    affiliation: "Stanford University"
+
+program:
+  - date: "2026-06-01"
+    events:
+      - type: social
+        title: "Welcome Reception"
+        time: "17:00-20:00"
+        venue: "East Bay Spice Company, downtown Berkeley"
+
+  - date: "2026-06-02"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "08:30-09:00"
+
+      - type: opening
+        title: "Opening Remarks"
+        time: "09:00-09:05"
+        speakers:
+          - name: "Serge Egelman"
+            affiliation: "UC Berkeley / ICSI"
+
+      - type: keynote
+        number: 1
+        title: "Ross Anderson WEIS Lecture: Systemic Cyber Risk: Linking Measurement, Market Incentives, and Policy"
+        time: "09:05-10:00"
+        speaker:
+          name: "Susan Athey"
+          affiliation: "Stanford University"
+
+      - type: break
+        title: "Break"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 1
+        title: "Game Theory"
+        time: "10:30-12:10"
+        chair:
+          name: "Mingyan Liu"
+          affiliation: "University of Michigan"
+        papers:
+          - title: "Cybersecurity and Market Share in Digital Ecosystems with Network Externalities"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_3.pdf"
+            authors:
+              - name: "Daniel Arce"
+          - title: "LASB: A Liquidity-Adjusted Security Metric for Consensus Attacks"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_10.pdf"
+            authors:
+              - name: "Ke Wang"
+              - name: "Wenbin Wu"
+              - name: "Alexander Neumueller"
+          - title: "Analyzing Investment Incentives under METI's New Rating System via a Stepwise Extension of the Gordon-Loeb Model"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_16.pdf"
+            authors:
+              - name: "Ryoma Kanai"
+              - name: "Kanta Matsuura"
+          - title: "Cybercrime and Prevention: Colonel Blotto in Social Engineering"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_19.pdf"
+            authors:
+              - name: "Gergely Benkő"
+              - name: "Katalin Parti"
+              - name: "Gergely Biczók"
+
+      - type: break
+        title: "Lunch"
+        time: "12:10-13:00"
+
+      - type: session
+        number: 2
+        title: "Crime and Measurement"
+        time: "13:00-15:10"
+        chair:
+          name: "Jean Camp"
+          affiliation: "University of North Carolina at Charlotte"
+        papers:
+          - title: "Stand-Alone Complex or Vibercrime? Exploring the Adoption and Innovation of GenAI Tools, Coding Assistants, and Agents within Cybercrime Ecosystems"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_12.pdf"
+            authors:
+              - name: "Jack Hughes"
+              - name: "Ben Collier"
+              - name: "Daniel Thomas"
+          - title: "Estimating the Social Cost of Corporate Data Breaches"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_22.pdf"
+            authors:
+              - name: "Lina Alkarmi"
+              - name: "Armin Sarabi"
+              - name: "Mingyan Liu"
+          - title: "How Do Cyber Attacks Impact Corporate Balance Sheets and Income Statements? An Empirical Study"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_13.pdf"
+            authors:
+              - name: "Teyyub Mutallimov"
+              - name: "Dana Itzhaki"
+              - name: "Tyler Moore"
+          - title: "The Impact of Cyber Attacks on Security Investment: Evidence from Firm-Level Panel Data"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_14.pdf"
+            authors:
+              - name: "Abulfaz Hajizada"
+              - name: "Dana Etgar Itzhaki"
+              - name: "Noa Barnir"
+              - name: "Tyler Moore"
+              - name: "Neil Gandal"
+
+      - type: break
+        title: "Break"
+        time: "15:10-15:45"
+
+      - type: session
+        number: 3
+        title: "Privacy"
+        time: "15:45-17:00"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "MIT"
+        papers:
+          - title: "Privacy Agents in the Field"
+            authors:
+              - name: "Aileen Nielsen"
+              - name: "Yafit Lev-Aretz"
+          - title: "Who Wants Privacy Anyway? Comparative Evidence on CBDC Design Preference"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_18.pdf"
+            authors:
+              - name: "Vagisha Srivastava"
+          - title: "Privacy Interventions and Publishers' Revenues: Evidence on Long-Run Effects and Ad-Traffic Heterogeneity"
+            authors:
+              - name: "Tobias Kircher"
+              - name: "Riley Grossman"
+              - name: "Mike Smith"
+              - name: "Alessandro Acquisti"
+              - name: "Cristian Borcea"
+              - name: "Yi Chen"
+              - name: "Cristobal Cheyre"
+
+      - type: social
+        title: "Dinner"
+        time: "18:00-21:00"
+        venue: "Comal, downtown Berkeley (Shattuck Avenue)"
+
+  - date: "2026-06-03"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "08:30-09:00"
+
+      - type: session
+        number: 4
+        title: "Insurance and Risk Management"
+        time: "09:00-10:40"
+        chair:
+          name: "Daniel Arce"
+          affiliation: "University of Texas at Dallas"
+        papers:
+          - title: "Ransomware Insurance and Strategic Ransom Demand"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_4.pdf"
+            authors:
+              - name: "Manos Perdikakis"
+          - title: "Disentangling the Sources of Cyber Risk Premia"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_5.pdf"
+            authors:
+              - name: "Loïc Maréchal"
+              - name: "Nathan Monnet"
+          - title: "Defending Against Intelligent Attackers at Large Scales"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_2.pdf"
+            authors:
+              - name: "Andrew Lohn"
+          - title: "\"People were not happy when admitting mistakes\": Evolving Past Defensiveness in Running Coordinated Vulnerability Disclosure Programs"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_20.pdf"
+            authors:
+              - name: "Sandra Rivera Pérez"
+              - name: "Amy Tjin Tjoen Jin"
+              - name: "Michel van Eeten"
+              - name: "Carlos Gañán"
+
+      - type: break
+        title: "Break"
+        time: "10:40-11:00"
+
+      - type: panel
+        title: "Putting Theory to Practice"
+        time: "11:00-12:30"
+        panelists:
+          - name: "Scott Stransky"
+            affiliation: "Marsh"
+            moderator: true
+          - name: "Carol Aplin"
+            affiliation: "Marsh"
+          - name: "Davis Hake"
+            affiliation: "Venable"
+          - name: "Rich Seiersen"
+            affiliation: "Qualys"
+          - name: "Yoshi Yamamoto"
+            affiliation: "At-Bay"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-13:30"
+
+      - type: session
+        number: 5
+        title: "Infrastructure Weak?"
+        time: "13:30-14:45"
+        chair:
+          name: "Kanta Matsuura"
+          affiliation: "University of Tokyo"
+        papers:
+          - title: "Cybersecurity Ratings to Support Domain-Specific Financial Decisions: Applications to National Infrastructures, Cyberinsurance, Gordon-Loeb Model, and NPV Analysis"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_25.pdf"
+            authors:
+              - name: "William Yurcik"
+              - name: "Gregory Pluta"
+              - name: "Fábio Miranda"
+          - title: "The Emergence of Public Key Infrastructures: Changing Authority Structures and the Automation of Trust in Cyberspace"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_21.pdf"
+            authors:
+              - name: "Milton Mueller"
+          - title: "Time Will Tell: A Longitudinal Analysis of the Evolution of Security and Privacy of Three IoT Device Types"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_1.pdf"
+            authors:
+              - name: "Swaathi Vetrivel"
+              - name: "Michel van Eeten"
+              - name: "Carlos Gañán"
+
+      - type: break
+        title: "Break"
+        time: "14:45-15:00"
+
+      - type: session
+        number: 6
+        title: "Naming Names"
+        time: "15:00-15:50"
+        chair:
+          name: "Gergely Biczók"
+          affiliation: "Budapest University of Technology and Economics"
+        papers:
+          - title: "\"I'm the mess that you wanted\": Evaluating the Accuracy of WHOIS Asset Discovery Against Self-Reported Data"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_8.pdf"
+            authors:
+              - name: "Yana Angelova"
+              - name: "Aksel Ethembabaoglu"
+              - name: "Rolf van Wegberg"
+              - name: "Carlos Gañán"
+              - name: "Michel van Eeten"
+          - title: "Domijn: The Security of Domain Registrars and the Risk of a Domain Name Takeover"
+            url: "https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_9.pdf"
+            authors:
+              - name: "Koen van Hove"
+              - name: "Jeroen van der Ham-de Vos"
+              - name: "Roland van Rijswijk-Deij"
+
+      - type: break
+        title: "Break"
+        time: "15:50-16:00"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "16:00-17:00"
+        chair:
+          name: "Tyler Moore"
+          affiliation: "The University of Tulsa"

@@ -1,0 +1,318 @@
+name: "WEIS 2003"
+full_name: "2nd Annual Workshop on Economics and Information Security"
+edition: 2
+year: 2003
+location: "College Park, Maryland, USA"
+venue: "Robert H. Smith School of Business, University of Maryland, 1412 Van Munching Hall, Rouse Room"
+start_date: "2003-05-29"
+end_date: "2003-05-30"
+website: "http://www.cpppe.umd.edu/rhsmith3/"
+archive_urls:
+  wayback_home: "https://web.archive.org/web/20031204213309/http://www.cpppe.umd.edu/rhsmith3/"
+  wayback_home_april2003: "https://web.archive.org/web/20030416185650/http://www.cpppe.umd.edu/rhsmith3/"
+  wayback_programme: "https://web.archive.org/web/20040131115022/http://www.cpppe.umd.edu/rhsmith3/agenda.htm"
+  wayback_programme_june2003: "https://web.archive.org/web/20030618020158/http://www.cpppe.umd.edu/rhsmith3/agenda.htm"
+  wayback_committee: "https://web.archive.org/web/20040131115818/http://www.cpppe.umd.edu/rhsmith3/committee.htm"
+  wayback_call_for_papers: "https://web.archive.org/web/20030113044706/http://www.cpppe.umd.edu/rhsmith3/callforpapers.htm"
+  wayback_lodging: "https://web.archive.org/web/20040131120305/http://www.cpppe.umd.edu/rhsmith3/lodging.htm"
+  wayback_useful_links: "https://web.archive.org/web/20040131121021/http://www.cpppe.umd.edu/rhsmith3/usefullinks.htm"
+
+hosts:
+  - "Robert H. Smith School of Business, University of Maryland"
+  - "Center for Public Policy and Private Enterprise (CPPPE), University of Maryland"
+
+important_dates:
+  submission: "2003-03-15"
+  notification: "2003-04-06"
+  workshop: "2003-05-29 to 2003-05-30"
+
+organization:
+  general_chairs:
+    - name: "Martin P. Loeb"
+      affiliation: "Robert H. Smith School of Business, University of Maryland"
+  pc_chairs:
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Lawrence A. Gordon"
+      affiliation: "Robert H. Smith School of Business, University of Maryland"
+  program_committee:
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Larry Gordon"
+      affiliation: "University of Maryland"
+    - name: "Bruce Schneier"
+      affiliation: "Counterpane Internet Security"
+    - name: "Jean Camp"
+      affiliation: "Harvard University"
+    - name: "Marty Loeb"
+      affiliation: "University of Maryland"
+    - name: "Doug Tygar"
+      affiliation: "University of California, Berkeley"
+    - name: "Li Gong"
+      affiliation: "Sun Microsystems"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Hal Varian"
+      affiliation: "University of California, Berkeley"
+
+invited_speakers:
+  - name: "Marianne Emerson"
+    affiliation: "Federal Reserve Board"
+  - name: "John Manferdelli"
+    affiliation: "Microsoft Corporation"
+  - name: "Howard Frank"
+    affiliation: "Dean, Robert H. Smith School of Business, University of Maryland"
+
+program:
+  - date: "2003-05-29"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: opening
+        title: "Opening Remarks"
+        time: "09:00-09:10"
+
+      - type: session
+        number: 1
+        title: "Trusted Computing and DRM"
+        time: "09:10-10:30"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "University of Cambridge"
+        papers:
+          - title: "Cryptology and Competition Policy - Issues with 'Trusted Computing'"
+            url: "https://web.archive.org/web/20040331203225/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_anderson.pdf"
+            authors:
+              - name: "Ross Anderson"
+                affiliation: "University of Cambridge"
+          - title: "How Much is Stronger DRM Worth?"
+            url: "https://web.archive.org/web/20040331224038/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_lewis.pdf"
+            authors:
+              - name: "Stephen R. Lewis"
+                affiliation: "University of Cambridge"
+          - title: "Trusted Computing, Peer-to-Peer Distribution, and the Economics of Pirated Entertainment"
+            url: "https://web.archive.org/web/20030916214212/http://www.eecs.harvard.edu/~stuart/papers/eis03.pdf"
+            authors:
+              - name: "Stuart E. Schechter"
+                affiliation: "Harvard University"
+              - name: "Rachel A. Greenstadt"
+                affiliation: "Harvard University"
+              - name: "Michael D. Smith"
+                affiliation: "Harvard University"
+
+      - type: break
+        title: "Morning Break"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Security Intrusion"
+        time: "11:00-12:00"
+        chair:
+          name: "Bruce Schneier"
+          affiliation: "Counterpane Internet Security"
+        papers:
+          - title: "Quantifying the Value of IT Security Mechanisms and Setting Up an Effective Security Architecture"
+            url: "https://web.archive.org/web/20030619085556/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session2_cavusoglu.raghunathan.mishra.pdf"
+            authors:
+              - name: "Huseyin Cavusoglu"
+                affiliation: "University of Texas at Dallas"
+              - name: "Srinivasan Raghunathan"
+                affiliation: "University of Texas at Dallas"
+              - name: "Birendra Mishra"
+                affiliation: "University of Texas at Dallas"
+          - title: "Evaluating Damages Caused By Information Systems Security Incidents"
+            url: "https://web.archive.org/web/20030619143829/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session2_farahmand.navathe.sharp.enslow.pdf"
+            authors:
+              - name: "Fariborz Farahmand"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Shamkant B. Navathe"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Gunter P. Sharp"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Philip H. Enslow"
+                affiliation: "Georgia Institute of Technology"
+
+      - type: keynote
+        title: "Lunch and Luncheon Speaker"
+        time: "12:00-13:30"
+        speaker:
+          name: "Marianne Emerson"
+          affiliation: "Federal Reserve Board"
+
+      - type: session
+        number: 3
+        title: "Privacy Policies"
+        chair:
+          name: "Hal Varian"
+          affiliation: "University of California, Berkeley"
+        papers:
+          - title: "The Paradoxical Value of Privacy"
+            url: "https://web.archive.org/web/20031204142325/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_syverson.pdf"
+            authors:
+              - name: "Paul Syverson"
+                affiliation: "Naval Research Laboratory"
+          - title: "Why We Can't be Bothered to Read Privacy Policies: Models of Privacy Economics as a Lemons Market"
+            url: "https://web.archive.org/web/20040401005811/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_molnar.greenstadt.vila.pdf"
+            authors:
+              - name: "Tony Vila"
+                affiliation: "Harvard University"
+              - name: "Rachel Greenstadt"
+                affiliation: "Harvard University"
+              - name: "David Molnar"
+                affiliation: "Harvard University"
+          - title: "Paying for Privacy: Consumers and Infrastructures"
+            url: "https://web.archive.org/web/20030622224248/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_shostack_privacy.pdf"
+            authors:
+              - name: "Adam Shostack"
+                affiliation: "Informed Security"
+
+      - type: break
+        title: "Afternoon Break"
+        time: "15:10-15:30"
+
+      - type: panel
+        number: 4
+        title: "Round Table Discussion on Options & Security"
+        time: "15:30-16:45"
+        chair:
+          name: "Andrew M. Odlyzko"
+          affiliation: "University of Minnesota"
+        panelists:
+          - name: "Andrew M. Odlyzko"
+            affiliation: "University of Minnesota"
+            moderator: true
+          - name: "Hal Varian"
+            affiliation: "University of California, Berkeley"
+          - name: "Lawrence Gordon"
+            affiliation: "University of Maryland"
+
+      - type: social
+        title: "Refreshments"
+        time: "16:45-17:30"
+
+      - type: social
+        title: "Dinner"
+        time: "18:30-20:00"
+
+  - date: "2003-05-30"
+    events:
+      - type: break
+        title: "Continental Breakfast"
+        time: "08:00-09:00"
+
+      - type: keynote
+        title: "Session 5 - Guest Speaker"
+        time: "09:00-10:00"
+        speaker:
+          name: "John Manferdelli"
+          affiliation: "Microsoft Corporation"
+
+      - type: break
+        title: "Morning Break"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 6
+        title: "Alternative Approaches to Security Processes"
+        time: "10:30-12:00"
+        chair:
+          name: "L. Jean Camp"
+          affiliation: "Harvard University"
+        papers:
+          - title: "Losses, Gains, and Hyperbolic Discounting: An Experimental Approach to Information Security Attitudes and Behaviors"
+            url: "https://web.archive.org/web/20040331220308/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_acquisti.grossklags.pdf"
+            authors:
+              - name: "Alessandro Acquisti"
+                affiliation: "University of California, Berkeley"
+              - name: "Jens Grossklags"
+                affiliation: "University of California, Berkeley"
+          - title: "Making Security Manifest"
+            url: "https://web.archive.org/web/20040331210021/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_camp.friedman.pdf"
+            authors:
+              - name: "Allan Friedman"
+                affiliation: "Harvard University"
+              - name: "L. Jean Camp"
+                affiliation: "Harvard University"
+          - title: "Evaluating Security Systems: A Five-Step Process"
+            url: "https://web.archive.org/web/20040723085439/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_schneier.pdf"
+            authors:
+              - name: "Bruce Schneier"
+                affiliation: "Counterpane Internet Security"
+
+      - type: keynote
+        title: "Lunch and Luncheon Speaker"
+        time: "12:00-13:30"
+        speaker:
+          name: "Howard Frank"
+          affiliation: "Dean, Robert H. Smith School of Business, University of Maryland"
+
+      - type: session
+        number: 7
+        title: "Asymmetric Information Aspects of Information Security"
+        time: "13:30-14:15"
+        chair:
+          name: "William Lucyshyn"
+          affiliation: "Defense Advanced Research Projects Agency and University of Maryland"
+        papers:
+          - title: "The Economic Consequences of Sharing Security Information"
+            url: "https://web.archive.org/web/20040401002342/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_galor.ghose.pdf"
+            authors:
+              - name: "Esther Gal-Or"
+                affiliation: "University of Pittsburgh"
+              - name: "Anindya Ghose"
+                affiliation: "Carnegie Mellon University"
+          - title: "Economic Aspects of Controlling Capital Investments in Cyberspace Security for Critical Infrastructure Assets"
+            url: "https://web.archive.org/web/20040331162911/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_lucyshyn.loeb.gordon.pdf"
+            authors:
+              - name: "Lawrence A. Gordon"
+                affiliation: "University of Maryland"
+              - name: "Martin P. Loeb"
+                affiliation: "University of Maryland"
+              - name: "William Lucyshyn"
+                affiliation: "Defense Advanced Research Projects Agency and University of Maryland"
+          - title: "Interfering in e-Contracting"
+            url: "https://web.archive.org/web/20040328233343/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_legros.newman.pdf"
+            authors:
+              - name: "Patrick Legros"
+                affiliation: "Université Libre de Bruxelles"
+              - name: "Andrew F. Newman"
+                affiliation: "Institute for Advanced Study, Princeton University and University College London"
+
+      - type: break
+        title: "Afternoon Break"
+        time: "14:50-15:10"
+
+      - type: session
+        number: 8
+        title: "Practical Cases and Problems"
+        time: "15:10-16:30"
+        chair:
+          name: "Martin Loeb"
+          affiliation: "University of Maryland"
+        papers:
+          - title: "Security and Lock-In: The Case of the U.S. Cable Industry"
+            url: "https://web.archive.org/web/20040723090941/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session8_lookabaugh.sicker.pdf"
+            authors:
+              - name: "Tom Lookabaugh"
+                affiliation: "University of Colorado"
+              - name: "Douglas C. Sicker"
+                affiliation: "University of Colorado"
+          - title: "We Want Security But We Hate It. The Foundations of Security Technoeconomics in the Social World"
+            url: "https://web.archive.org/web/20040331205947/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session8_sandrini.pdf"
+            authors:
+              - name: "Mauro Sandrini"
+                affiliation: "Teramo University"
+          - title: "How and Why More Secure Technologies Succeed in Legacy Markets: Lessons from the Success of SSH"
+            url: "https://web.archive.org/web/20060625065258/http://www.cs.virginia.edu/~drl7x/sshVsTelnetWeb3.pdf"
+            authors:
+              - name: "Nicholas Rosasco"
+                affiliation: "University of Maryland, Baltimore County"
+              - name: "David Larochelle"
+                affiliation: "University of Virginia"
+
+      - type: social
+        title: "Refreshments"
+        time: "16:30-17:30"

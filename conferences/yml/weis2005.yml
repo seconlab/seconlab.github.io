@@ -1,0 +1,430 @@
+name: "WEIS 2005"
+full_name: "Fourth Workshop on the Economics of Information Security"
+edition: 4
+year: 2005
+location: "Cambridge, Massachusetts, USA"
+venue: "John F. Kennedy School of Government, Harvard University"
+start_date: "2005-06-02"
+end_date: "2005-06-03"
+website: "http://infosecon.net/workshop/"
+archive_urls:
+  home: "http://infosecon.net/workshop/index.php"
+  wayback_home: "https://web.archive.org/web/20051230132419/http://infosecon.net/workshop/index.php"
+  wayback_schedule: "https://web.archive.org/web/20051207031325/http://infosecon.net/workshop/schedule.php"
+  wayback_call_for_participation: "https://web.archive.org/web/20060219083427/http://infosecon.net/workshop/participate.php"
+  wayback_schedule_pdf: "https://web.archive.org/web/2005/http://infosecon.net/workshop/SCHEDULE.pdf"
+  wayback_venue_map_pdf: "https://web.archive.org/web/2005/http://infosecon.net/workshop/WEIS_KSG.pdf"
+  wayback_workshop_notes: "https://web.archive.org/web/2005/http://allan.friedmans.org/conferences/WEIS_2005.html"
+
+hosts:
+  - "John F. Kennedy School of Government, Harvard University"
+
+sponsors:
+  - "Institute for Information Infrastructure Protection (I3P) (student registration and travel scholarships)"
+  - "Indiana University Center for Applied Cybersecurity Research (additional funding)"
+
+important_dates:
+  early_registration_deadline: "2005-04-15"
+  registration_closed: "2005-05-17"
+  reception: "2005-06-01"
+  workshop: "2005-06-02 to 2005-06-03"
+
+organization:
+  general_chairs:
+    - name: "L. Jean Camp"
+      affiliation: ""
+  workshop_organizer:
+    - name: "Lori Uhland"
+      affiliation: "Rare Events"
+  student_assistants:
+    - name: "Allan Friedman"
+      affiliation: "Harvard University"
+    - name: "Alla Genkina"
+      affiliation: ""
+
+invited_speakers:
+  - name: "Ann Cavoukian"
+    affiliation: "Information and Privacy Commissioner of Ontario, Canada"
+  - name: "Bruce Schneier"
+    affiliation: ""
+
+program:
+  - date: "2005-06-01"
+    events:
+      - type: social
+        title: "Reception"
+        time: "18:30-21:00"
+        venue: "Malkin Penthouse"
+
+  - date: "2005-06-02"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "07:30-08:00"
+
+      - type: opening
+        title: "Greeting"
+        time: "08:00-08:30"
+
+      - type: session
+        number: 1
+        title: "Investment in Security"
+        time: "08:15-10:00"
+        chair:
+          name: "Larry Gordon"
+          affiliation: "Smith School of Business, University of Maryland"
+        papers:
+          - title: "Analyzing the Risks of Information Security Investments with Monte-Carlo Simulations"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/13.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_1.ppt"
+            authors:
+              - name: "James R. Conrad"
+          - title: "Software Diversity for Information Security"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/47.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_2.ppt"
+            authors:
+              - name: "Pei-yu Chen"
+              - name: "Gaurav Kataria"
+              - name: "Ramayya Krishnan"
+          - title: "Pricing Security Software: Theory and Evidence"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/37.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_3.ppt"
+            authors:
+              - name: "Anindya Ghose"
+              - name: "Arun Sundararajan"
+
+      - type: break
+        title: "Coffee"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 2
+        title: "Responses to Security Failure"
+        time: "10:30-12:00"
+        chair:
+          name: "Stuart Schechter"
+          affiliation: "Harvard University"
+        papers:
+          - title: "Why do denial of service attacks reduce future visits? Switching costs vs. changing preferences"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/6.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_1.ppt"
+            authors:
+              - name: "Avi Goldfarb"
+          - title: "Faking It: Criminal Sanctions and the Cost of Computer Intrusions"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/FakingIt.granick.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_2.ppt"
+            authors:
+              - name: "Jennifer S. Granick"
+          - title: "Countering Hidden-Action Attacks on Networked Systems"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/18.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_3.pdf"
+            authors:
+              - name: "Tyler Moore"
+
+      - type: break
+        title: "Lunch at Fire & Ice (with speaker Bruce Schneier)"
+        time: "12:00-14:00"
+        venue: "Fire & Ice, Harvard Square"
+        speakers:
+          - name: "Bruce Schneier"
+
+      - type: session
+        number: 3
+        title: "DRM & Spam"
+        time: "14:00-15:30"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "Computer Laboratory, University of Cambridge"
+        papers:
+          - title: "Flexibility as an Instrument in Digital Rights Management"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/50.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_1.pdf"
+            authors:
+              - name: "Dirk Bergemann"
+              - name: "Thomas Eisenbach"
+              - name: "Joan Feigenbaum"
+              - name: "Scott Shenker"
+          - title: "Digital Rights Management and the Pricing of Digital Products"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/62.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_2.ppt"
+            authors:
+              - name: "Yooki Park"
+              - name: "Suzanne Scotchmer"
+          - title: "Modeling Incentives for Email Blocking Strategies"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/emailblocking.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_3.pdf"
+            authors:
+              - name: "Andrei Serjantov"
+              - name: "Richard Clayton"
+
+      - type: break
+        title: "Tea"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 4
+        title: "Incentive Modeling"
+        time: "16:00-17:30"
+        chair:
+          name: "Rahul Telang"
+          affiliation: "Heinz School, Carnegie Mellon University"
+        papers:
+          - title: "Internet Security, Vulnerability Disclosure, and Software Provision"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/9.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_1.ppt"
+            authors:
+              - name: "Jay Pil Choi"
+              - name: "Chaim Fershtman"
+              - name: "Neil Gandal"
+          - title: "An Economic Analysis of Software Market with Risk-Sharing Contract"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/28.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_2.ppt"
+            authors:
+              - name: "Byung Cho Kim"
+              - name: "Pei-Yu Chen"
+              - name: "Tridas Mukhopadhyay"
+          - title: "Emerging Issues in Responsible Vulnerability Disclosure"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/cavusoglu.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_3.ppt"
+            authors:
+              - name: "Hasan Cavusoglu"
+              - name: "Huseyin Cavusoglu"
+              - name: "Srinivasan Raghunathan"
+
+      - type: social
+        title: "Dinner at Legal Sea Foods (included in registration)"
+        time: "17:30"
+        venue: "Legal Sea Foods"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "19:30"
+        chair:
+          name: "Andrew Odlyzko"
+          affiliation: "Digital Technology Center, University of Minnesota"
+        papers:
+          - title: "Avoiding Liability: An Alternative Route to More Secure Products"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/44.pdf"
+            authors:
+              - name: "Adam Shostack"
+          - title: "Privacy as a Base for Confidentiality"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/4.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_A-F.ppt"
+            authors:
+              - name: "Sabah S. Al-Fedaghi"
+          - title: "Cost Tradeoffs For Information Security Assurance"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/24.pdf"
+            authors:
+              - name: "Ritesh Kumar Tiwari"
+              - name: "Kamalakar Karlapalem"
+          - title: "The Role of Architecture in DRM Vendor Economics"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/12.pdf"
+            authors:
+              - name: "Pramod A. Jamkhedkar"
+              - name: "Gregory L. Heileman"
+          - title: "Understanding and Reversing the Profit Model of Spam"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/49.pdf"
+            authors:
+              - name: "Paul Judge"
+              - name: "Dmitri Alperovitch"
+              - name: "Weilai Yang"
+          - title: "Evaluating Information Security Investments from Attackers Perspective: the Return-On-Attack (ROA)"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/23.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_CM.ppt"
+            authors:
+              - name: "Marco Cremonini"
+              - name: "Patrizia Martini"
+          - title: "How much is location privacy worth?"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/location-privacy.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_DLA.ppt"
+            authors:
+              - name: "George Danezis"
+              - name: "Stephen Lewis"
+              - name: "Ross Anderson"
+          - title: "Could IPv6 Improve Network Security? And, If So, at What Cost?"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/26.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_RG.ppt"
+            authors:
+              - name: "Brent Rowe"
+              - name: "Michael Gallaher"
+          - title: "Assessing Damages of Information Security Incidents and Selecting Control Measures, a Case Study Approach"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/39.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_FNSE.ppt"
+            authors:
+              - name: "Fariborz Farahmand"
+              - name: "Shamkant B. Navathe"
+              - name: "Gunter P. Sharp"
+              - name: "Philip H. Enslow"
+          - title: "The Privacy Value"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/privacy_value.pdf"
+            authors:
+              - name: "Peter E. Sand"
+                affiliation: "Director of Privacy Technology"
+          - title: "Private Information Shielding Service for Overcoming Privacy Risk in Recommender System"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/lee-hwang.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_LH.ppt"
+            authors:
+              - name: "Choong Hee Lee"
+              - name: "Junseok Hwang"
+          - title: "Bridging the Gap Between Computer Security and Legal Requirements"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/CE.pdf"
+            authors:
+              - name: "Christopher E. Everett"
+
+  - date: "2005-06-03"
+    events:
+      - type: break
+        title: "Breakfast"
+        time: "07:30-08:30"
+
+      - type: session
+        number: 5
+        title: "Insurance"
+        time: "08:30-10:00"
+        chair:
+          name: "Marty Loeb"
+          affiliation: "Smith School of Business, University of Maryland"
+        papers:
+          - title: "Cyber-Insurance Revisited"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/15.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_1.pdf"
+            authors:
+              - name: "Rainer Böhme"
+          - title: "Cyber-insurance As A Market-Based Solution To The Problem Of Cybersecurity"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/42.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_2.ppt"
+            authors:
+              - name: "Jay P. Kesan"
+              - name: "Ruperto P. Majuca"
+              - name: "William J. Yurcik"
+          - title: "Cyber Insurance and IT Security Investment: Impact of Interdependent Risk"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/56.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_3.ppt"
+            authors:
+              - name: "Hulisi Ogut"
+              - name: "Nirup Menon"
+              - name: "Srinivasan Raghunathan"
+
+      - type: break
+        title: "Coffee"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 6
+        title: "Experiments & Field Studies"
+        time: "10:30-12:00"
+        chair:
+          name: "Alessandro Acquisti"
+          affiliation: "Heinz School, Carnegie Mellon University"
+        papers:
+          - title: "Information Security in the Extended Enterprise: Some Initial Results From a Field Study of an Industrial Firm"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/51.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_1.ppt"
+            authors:
+              - name: "Scott Dynes"
+              - name: "Hans Brechbuhl"
+              - name: "Eric Johnson"
+          - title: "An empirical approach to the valuing privacy valuation"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/WathFried_WEIS05.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_2.ppt"
+            authors:
+              - name: "Luc Wathieu"
+              - name: "Allan Friedman"
+          - title: "Valuating Privacy"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/7.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_3.ppt"
+            authors:
+              - name: "Bernardo A. Huberman"
+              - name: "Eytan Adar"
+              - name: "Leslie R. Fine"
+          - title: "Impact of Software Vulnerability Announcements on the Market Value of Software Vendors – an Empirical Investigation"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/telang_wattal.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_4.ppt"
+            authors:
+              - name: "Rahul Telang"
+              - name: "Sunil Wattal"
+
+      - type: keynote
+        title: "Keynote address (during buffet lunch at KSG)"
+        time: "12:00-14:00"
+        venue: "John F. Kennedy School of Government"
+        speaker:
+          name: "Ann Cavoukian"
+          affiliation: "Information and Privacy Commissioner of Ontario, Canada"
+        papers:
+          - title: "Keynote address"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_keynote.ppt"
+            authors:
+              - name: "Ann Cavoukian"
+                affiliation: "Information and Privacy Commissioner of Ontario, Canada"
+
+      - type: session
+        number: 7
+        title: "Privacy"
+        time: "14:00-15:30"
+        chair:
+          name: "L. Jean Camp"
+          affiliation: ""
+        papers:
+          - title: "Protecting Online Privacy: Self-Regulation, Mandatory Standards, or Caveat Emptor"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/31.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_1.ppt"
+            authors:
+              - name: "Zhulei Tang"
+              - name: "Yu (Jeffrey) Hu"
+              - name: "Michael D. Smith"
+          - title: "Uncertainty, Ambiguity and Privacy"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/64.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_2.ppt"
+            authors:
+              - name: "Alessandro Acquisti"
+              - name: "Jens Grossklags"
+          - title: "Protecting Personal Information: Obstacles and Directions"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/48.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_3.pdf"
+            authors:
+              - name: "Rachel Greenstadt"
+              - name: "Michael D. Smith"
+          - title: "Quantifying Privacy Choices with Experimental Economics"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/16.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_4.ppt"
+            authors:
+              - name: "David Baumer"
+              - name: "Julia Earp"
+              - name: "J.C. Poindexter"
+
+      - type: break
+        title: "Tea"
+        time: "15:30-16:00"
+
+      - type: session
+        number: 8
+        title: "Vulnerabilities"
+        time: "16:00-17:30"
+        chair:
+          name: "Huseyin Cavusoglu"
+          affiliation: "Freeman School of Business, Tulane University"
+        papers:
+          - title: "Economic Analysis of Incentives to Disclose Software Vulnerabilities"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/20.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_1.ppt"
+            authors:
+              - name: "Dmitri Nizovtsev"
+              - name: "Marie Thursby"
+          - title: "The Likelihood of Vulnerability Rediscovery and the Social Utility of Vulnerability Hunting"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/10.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_2.ppt"
+            authors:
+              - name: "Andy Ozment"
+          - title: "An Empirical Analysis of Vendor Response to Disclosure Policy"
+            url: "https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/41.pdf"
+            slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_3.ppt"
+            authors:
+              - name: "Ashish Arora"
+              - name: "Ramayya Krishnan"
+              - name: "Rahul Telang"
+              - name: "Yubao Yang"
+
+      - type: meeting
+        title: "Business meeting to instantiate new Not For Profit"
+        time: "17:30-18:00"

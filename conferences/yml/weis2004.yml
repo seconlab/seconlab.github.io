@@ -1,0 +1,319 @@
+name: "WEIS 2004"
+full_name: "The Third Annual Workshop on Economics and Information Security"
+edition: 3
+year: 2004
+location: "Minneapolis, Minnesota, USA"
+venue: "Walter Library (Rooms 401-402), University of Minnesota"
+start_date: "2004-05-13"
+end_date: "2004-05-14"
+website: "http://www.dtc.umn.edu/weis2004/"
+archive_urls:
+  home: "http://www.dtc.umn.edu/weis2004/"
+  dtc_event_listing: "https://www.dtc.umn.edu/seminars/events.php?eventdesc=207&menuid=2"
+  wayback_home: "https://web.archive.org/web/20050206235023/http://www.dtc.umn.edu/weis2004/"
+  wayback_agenda: "https://web.archive.org/web/20050206235023/http://www.dtc.umn.edu/weis2004/agenda.html"
+  wayback_committee: "https://web.archive.org/web/20050206235023/http://www.dtc.umn.edu/weis2004/committee.html"
+  wayback_registration: "https://web.archive.org/web/20040811041921/http://www.dtc.umn.edu/weis2004/registration.html"
+  wayback_lodging: "https://web.archive.org/web/20050310035033/http://www.dtc.umn.edu/weis2004/lodging.html"
+  wayback_parking: "https://web.archive.org/web/20050310035133/http://www.dtc.umn.edu/weis2004/parking.html"
+  wayback_links: "https://web.archive.org/web/20040412021911/http://www.dtc.umn.edu/weis2004/links.html"
+  wayback_cdx_listing: "http://web.archive.org/cdx/search/cdx?url=dtc.umn.edu/weis2004/*&output=txt&fl=timestamp,original,statuscode,mimetype&filter=statuscode:200&collapse=urlkey"
+
+hosts:
+  - "Digital Technology Center, University of Minnesota"
+
+sponsors:
+  - "Digital Technology Center, University of Minnesota (sponsor)"
+  - "Center for Development of Technological Leadership, University of Minnesota (cosponsor)"
+  - "Computer Science and Engineering Department, University of Minnesota (cosponsor)"
+  - "Counterpane Internet Security (cosponsor)"
+  - "Department of Economics, University of Minnesota (cosponsor)"
+  - "Department of Rhetoric, University of Minnesota (cosponsor)"
+  - "Electrical and Computer Engineering Department, University of Minnesota (cosponsor)"
+  - "Internet Studies Center, University of Minnesota (cosponsor)"
+  - "MIS Research Center, Carlson School of Management, University of Minnesota (cosponsor)"
+  - "School of Law, University of Minnesota (cosponsor)"
+
+important_dates:
+  submission: "2004-03-01"
+  notification: "2004-04-01"
+  workshop: "2004-05-13 to 2004-05-14"
+
+organization:
+  pc_chairs:
+    - name: "Andrew Odlyzko"
+      affiliation: "Digital Technology Center, University of Minnesota"
+    - name: "Bruce Schneier"
+      affiliation: "Counterpane Internet Security"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Heinz School, Carnegie Mellon University"
+    - name: "Ross Anderson"
+      affiliation: "Computer Laboratory, Cambridge University"
+    - name: "Jean Camp"
+      affiliation: "Kennedy School of Government, Harvard University"
+    - name: "Li Gong"
+      affiliation: "Sun Microsystems"
+    - name: "Larry Gordon"
+      affiliation: "Smith School of Business, University of Maryland"
+    - name: "Marty Loeb"
+      affiliation: "Smith School of Business, University of Maryland"
+    - name: "Andrew Odlyzko"
+      affiliation: "Digital Technology Center, University of Minnesota (co-chair)"
+    - name: "Stuart Schechter"
+      affiliation: "Division of Engineering and Applied Sciences, Harvard University"
+    - name: "Bruce Schneier"
+      affiliation: "Counterpane Internet Security (co-chair)"
+    - name: "Doug Tygar"
+      affiliation: "Computer Science and Information Management, UC Berkeley"
+    - name: "Hal Varian"
+      affiliation: "School of Information Management and Systems and Economics Dept., UC Berkeley"
+  local_steering_committee:
+    - name: "Beth Allen"
+      affiliation: "Economics Dept. and Supply Chain Research Center, University of Minnesota"
+    - name: "Massoud Amin"
+      affiliation: "Electrical and Computer Engineering Dept. and Center for Development of Technological Leadership, University of Minnesota"
+    - name: "Dan Burk"
+      affiliation: "School of Law, University of Minnesota"
+    - name: "Laura Gurak"
+      affiliation: "Department of Rhetoric and Internet Studies Center, University of Minnesota"
+    - name: "Rob Kauffman"
+      affiliation: "Information and Decision Sciences and MIS Research Center, Carlson School of Management, University of Minnesota"
+    - name: "Yongdae Kim"
+      affiliation: "Computer Science and Engineering Dept., University of Minnesota"
+    - name: "Vipin Kumar"
+      affiliation: "Computer Science and Engineering Dept. and Army High Performance Computing Research Center, University of Minnesota"
+    - name: "Andrew Odlyzko"
+      affiliation: "Digital Technology Center, University of Minnesota (chair)"
+
+invited_speakers:
+  - name: "Dan Geer"
+
+program:
+  - date: "2004-05-12"
+    events:
+      - type: social
+        title: "Informal reception"
+        time: "18:00-21:00"
+        venue: "Walter Library 401"
+
+  - date: "2004-05-13"
+    events:
+      - type: registration
+        title: "Continental breakfast and registration"
+        time: "08:00-09:15"
+        venue: "Walter Library 401"
+
+      - type: opening
+        title: "Introduction"
+        time: "09:15-09:30"
+        venue: "Walter Library 402"
+
+      - type: session
+        number: 1
+        title: "Session 1"
+        time: "09:30-10:30"
+        papers:
+          - title: "Is finding security holes a good idea?"
+            url: "https://web.archive.org/web/20050515095125/http://www.dtc.umn.edu/weis2004/rescorla.pdf"
+            slides: "https://web.archive.org/web/20041205232610/http://www.dtc.umn.edu/weis2004/weis-rescorla.pdf"
+            authors:
+              - name: "Eric Rescorla"
+          - title: "Optimal Policy for Software Vulnerability Disclosure"
+            url: "https://web.archive.org/web/20050515204040/http://www.dtc.umn.edu/weis2004/xu.pdf"
+            slides: "https://web.archive.org/web/20060224121128/http://www.dtc.umn.edu/weis2004/weis-xu.pdf"
+            authors:
+              - name: "Ashish Arora"
+              - name: "Rahul Telang"
+              - name: "Hao Xu"
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:00"
+
+      - type: keynote
+        title: "The Economics of Shared Risk at the National Scale (invited lecture)"
+        time: "11:00-12:00"
+        speaker:
+          name: "Dan Geer"
+        papers:
+          - title: "The Economics of Shared Risk at the National Scale"
+            slides: "https://web.archive.org/web/20041012133133/http://www.dtc.umn.edu/weis2004/weis-geer.pdf"
+            authors:
+              - name: "Dan Geer"
+
+      - type: break
+        title: "Lunch"
+        time: "12:00-13:30"
+        venue: "Walter Library 401"
+
+      - type: session
+        number: 2
+        title: "Session 2"
+        time: "13:30-15:00"
+        papers:
+          - title: "Who Signed Up for the Do-Not-Call List?"
+            url: "https://web.archive.org/web/20041012182619/http://www.dtc.umn.edu/weis2004/varian.pdf"
+            slides: "https://web.archive.org/web/20060514170501/http://www.dtc.umn.edu/weis2004/weis-varian.pdf"
+            authors:
+              - name: "Hal Varian"
+              - name: "Fredrik Wallenberg"
+              - name: "Glenn Woroch"
+          - title: "Privacy and Rationality: Preliminary Evidence from Pilot Data"
+            url: "https://web.archive.org/web/20040630113953/http://www.dtc.umn.edu/weis2004/acquisti.pdf"
+            slides: "https://web.archive.org/web/20050311023220/http://www.dtc.umn.edu/weis2004/weis-acquisti.pdf"
+            authors:
+              - name: "Alessandro Acquisti"
+              - name: "Jens Grossklags"
+          - title: "Impact of Vulnerability Disclosure and Patch Availability — An Empirical Analysis"
+            url: "https://web.archive.org/web/20050515202159/http://www.dtc.umn.edu/weis2004/telang.pdf"
+            slides: "https://web.archive.org/web/20060514170418/http://www.dtc.umn.edu/weis2004/weis-arora.pdf"
+            authors:
+              - name: "Ashish Arora"
+              - name: "Ramayya Krishnan"
+              - name: "Anand Nandkumar"
+              - name: "Rahul Telang"
+              - name: "Yubao Yang"
+
+      - type: break
+        title: "Break"
+        time: "15:00-15:30"
+
+      - type: session
+        number: 3
+        title: "Session 3"
+        time: "15:30-17:00"
+        papers:
+          - title: "An Economic Analysis of Market for Software Vulnerabilities"
+            url: "https://web.archive.org/web/20060219234235/http://www.dtc.umn.edu/weis2004/kannan-telang.pdf"
+            slides: "https://web.archive.org/web/20060514170448/http://www.dtc.umn.edu/weis2004/weis-telang.pdf"
+            authors:
+              - name: "Karthik Kannan"
+              - name: "Rahul Telang"
+          - title: "The Economics of Censorship Resistance"
+            url: "https://web.archive.org/web/20060514170126/http://www.dtc.umn.edu/weis2004/danezis.pdf"
+            slides: "https://web.archive.org/web/20050311031113/http://www.dtc.umn.edu/weis2004/weis-danezis.pdf"
+            authors:
+              - name: "George Danezis"
+              - name: "Ross Anderson"
+          - title: "An Insurance Style Model for Determining the Appropriate Investment Level against Maximum Loss arising from an Information Security Breach"
+            url: "https://web.archive.org/web/20050311044344/http://www.dtc.umn.edu/weis2004/adkins.pdf"
+            slides: "https://web.archive.org/web/20060514170419/http://www.dtc.umn.edu/weis2004/weis-adkins.pdf"
+            authors:
+              - name: "Roger Adkins"
+
+      - type: social
+        title: "Reception"
+        time: "18:00"
+        venue: "Coffman Union"
+
+      - type: social
+        title: "Banquet"
+        time: "19:00"
+        venue: "Coffman Union"
+
+  - date: "2004-05-14"
+    events:
+      - type: registration
+        title: "Continental breakfast and registration"
+        time: "08:00-09:00"
+        venue: "Walter Library 401"
+
+      - type: session
+        number: 1
+        title: "Session 1"
+        time: "09:00-10:30"
+        papers:
+          - title: "On dealing with adversaries fairly"
+            url: "https://web.archive.org/web/20060224121111/http://www.dtc.umn.edu/weis2004/serjantov.pdf"
+            slides: "https://web.archive.org/web/20050311052526/http://www.dtc.umn.edu/weis2004/weis-serjantov.pdf"
+            authors:
+              - name: "Andrei Serjantov"
+              - name: "Ross Anderson"
+          - title: "Free-Riding and Whitewashing in Peer-to-Peer Systems"
+            url: "https://web.archive.org/web/20040916211527/http://www.dtc.umn.edu/weis2004/feldman.pdf"
+            slides: "https://web.archive.org/web/20060514170552/http://www.dtc.umn.edu/weis2004/weis-feldman.pdf"
+            authors:
+              - name: "Michal Feldman"
+              - name: "Christos Papadimitriou"
+              - name: "John Chuang"
+              - name: "Ion Stoica"
+          - title: "Sufficiently Secure Peer-to-Peer Networks"
+            url: "https://web.archive.org/web/20060514170037/http://www.dtc.umn.edu/weis2004/lewis.pdf"
+            slides: "https://web.archive.org/web/20060514170049/http://www.dtc.umn.edu/weis2004/weis-lewis.pdf"
+            authors:
+              - name: "Rupert Gatti"
+              - name: "Stephen Lewis"
+              - name: "Andy Ozment"
+              - name: "Thierry Rayna"
+              - name: "Andrei Serjantov"
+
+      - type: break
+        title: "Break"
+        time: "10:30-11:00"
+
+      - type: session
+        number: 2
+        title: "Session 2"
+        time: "11:00-12:30"
+        papers:
+          - title: "Towards an Economic Analysis of Trusted Systems"
+            url: "https://web.archive.org/web/20040716124107/http://www.dtc.umn.edu/weis2004/feigenbaum.pdf"
+            slides: "https://web.archive.org/web/20050311050910/http://www.dtc.umn.edu/weis2004/feigenbaum-slides.pdf"
+            note: "Slides also available as PowerPoint: https://web.archive.org/web/20050311055159/http://www.dtc.umn.edu/weis2004/weis-joan.ppt"
+            authors:
+              - name: "Joan Feigenbaum"
+              - name: "Dirk Bergemann"
+              - name: "Scott Shenker"
+              - name: "Jonathan M. Smith"
+          - title: "Toward Econometric Models of the Security Risk from Remote Attacks"
+            url: "https://web.archive.org/web/20050311040617/http://www.dtc.umn.edu/weis2004/schechter.pdf"
+            authors:
+              - name: "Stuart Schechter"
+          - title: "Modelling the costs and benefits of Honeynets"
+            url: "https://web.archive.org/web/20060224121306/http://www.dtc.umn.edu/weis2004/dornseif.pdf"
+            slides: "https://web.archive.org/web/20060514170620/http://www.dtc.umn.edu/weis2004/weis-dornseif.pdf"
+            authors:
+              - name: "Maximillian Dornseif"
+              - name: "Sascha A. May"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-14:00"
+        venue: "Walter Library 401"
+
+      - type: session
+        number: 3
+        title: "Session 3"
+        time: "14:00-15:30"
+        papers:
+          - title: "'Proof-of-Work' Proves Not to Work"
+            url: "https://web.archive.org/web/20041012184646/http://www.dtc.umn.edu/weis2004/clayton.pdf"
+            slides: "https://web.archive.org/web/20051224145501/http://www.dtc.umn.edu/weis2004/weis-clayton.pdf"
+            authors:
+              - name: "Ben Laurie"
+              - name: "Richard Clayton"
+          - title: "Bug Auctions: Vulnerability Markets Reconsidered"
+            url: "https://web.archive.org/web/20040923221442/http://www.dtc.umn.edu/weis2004/ozment.pdf"
+            slides: "https://web.archive.org/web/20060224121242/http://www.dtc.umn.edu/weis2004/weis-ozment.pdf"
+            authors:
+              - name: "Andy Ozment"
+          - title: "A Worst-Case Worm"
+            url: "https://web.archive.org/web/20040723074356/http://www.dtc.umn.edu/weis2004/weaver.pdf"
+            slides: "https://web.archive.org/web/20050311024841/http://www.dtc.umn.edu/weis2004/weis-weaver.pdf"
+            authors:
+              - name: "Nicholas Weaver"
+              - name: "Vern Paxson"
+          - title: "Dissenting Opinion (on \"A Worst-Case Worm\")"
+            slides: "https://web.archive.org/web/20041012181348/http://www.dtc.umn.edu/weis2004/weis-staniford.pdf"
+            note: "Slides only; no paper."
+            authors:
+              - name: "Stuart Staniford"
+
+      - type: break
+        title: "Break"
+        time: "15:30-16:00"
+
+      - type: closing
+        title: "Discussion"
+        time: "16:00"

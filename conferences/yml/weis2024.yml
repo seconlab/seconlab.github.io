@@ -1,0 +1,444 @@
+name: "WEIS 2024"
+full_name: "The 23rd Workshop on the Economics of Information Security"
+edition: 23
+year: 2024
+location: "Dallas, Texas, USA"
+venue: "The University of Texas at Dallas, Student Services Building Addition (SSA), SSA 13.330 (SSA Auditorium)"
+start_date: "2024-04-08"
+end_date: "2024-04-10"
+website: "https://weis.utdallas.edu/"
+source_urls:
+  program: "https://weis.utdallas.edu/program/"
+  program_pdf: "https://weis.utdallas.edu/files/2024/04/WEIS2024-Agenda-FINAL-9ef991d46f853915.pdf"
+  accepted_papers: "https://weis.utdallas.edu/program/accepted-papers/"
+  invited_speakers: "https://weis.utdallas.edu/program/invited-speakers/"
+  organization: "https://weis.utdallas.edu/organization/"
+  call_for_papers: "https://weis.utdallas.edu/call-for-contributions/"
+  venue: "https://weis.utdallas.edu/venue/"
+  events: "https://weis.utdallas.edu/events/"
+  accommodation: "https://weis.utdallas.edu/accommodation/"
+  sponsorship: "https://weis.utdallas.edu/sponsorship/"
+  jcs_special_issue: "https://weis.utdallas.edu/jcs-special-issue/"
+  in_memoria_ross_anderson: "https://weis.utdallas.edu/in-memoria/"
+  ross_anderson_memorial_panel_video: "https://youtu.be/QmeoM7WJGMI"
+
+hosts:
+  - "The University of Texas at Dallas (UT Dallas)"
+  - "Economics Program, School of Economic, Political and Policy Sciences (EPPS), UT Dallas"
+
+sponsors:
+  - "Marsh McLennan"
+  - "UT Dallas School of Economic, Political and Policy Sciences (EPPS)"
+  - "UT Dallas Office of Research and Innovation"
+  - "Software Engineering Institute, Carnegie Mellon University"
+
+important_dates:
+  submission_system_opens: "2023-10-01"
+  submission: "2023-12-10"
+  notification: "2024-02-15"
+  camera_ready: "2024-03-30"
+
+organization:
+  general_chairs:
+    - name: "Daniel Arce"
+      affiliation: "The University of Texas at Dallas (Ashbel Smith Professor of Economics, Program Head of Economics, EPPS)"
+  pc_chairs:
+    - name: "Daniel Woods"
+      affiliation: "University of Edinburgh"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan"
+  program_committee:
+    - name: "Alessandro Acquisti"
+      affiliation: "Carnegie Mellon University"
+    - name: "Alice Hutchings"
+      affiliation: "University of Cambridge"
+    - name: "Andrew Odlyzko"
+      affiliation: "University of Minnesota"
+    - name: "Andrew Reddie"
+      affiliation: "UC Berkeley"
+    - name: "Anne E. Boustead"
+      affiliation: "University of Arizona"
+    - name: "Annika Selzer"
+      affiliation: "Fraunhofer SIT"
+    - name: "Armin Sarabi"
+      affiliation: "University of Michigan"
+    - name: "Arrah-Marie Jo"
+      affiliation: "Institut Mines Télécom, IMT Atlantique"
+    - name: "Bruce Schneier"
+      affiliation: "Harvard Kennedy School"
+    - name: "Carly Beckerman"
+      affiliation: "Durham University"
+    - name: "Chris Hoofnagle"
+      affiliation: "UC Berkeley"
+    - name: "Daniel W Woods"
+      affiliation: "University of Edinburgh"
+    - name: "Dann Arce"
+      affiliation: "University of Texas at Dallas"
+    - name: "David Pym"
+      affiliation: "UCL & Institute of Philosophy, University of London"
+    - name: "Galina Schwartz"
+      affiliation: "CyberBlocks"
+    - name: "Gergely Biczok"
+      affiliation: "CrySyS Lab, Budapest Univ. of Technology and Economics"
+    - name: "Gregory Falco"
+      affiliation: "Cornell"
+    - name: "Jens Grossklags"
+      affiliation: "Technical University of Munich"
+    - name: "Jonathan Spring"
+      affiliation: "CISA"
+    - name: "Josephine Wolff"
+      affiliation: "Tufts University"
+    - name: "Julia Bernd"
+      affiliation: "ICSI"
+    - name: "Kanta Matsuura"
+      affiliation: "The University of Tokyo"
+    - name: "Laura Brandimarte"
+      affiliation: "University of Arizona"
+    - name: "Lei Zhou"
+      affiliation: "University of Maryland"
+    - name: "Lisa Yeo"
+      affiliation: "University of California Merced"
+    - name: "M. R. Sauter"
+      affiliation: "University of Maryland"
+    - name: "Martin Eling"
+      affiliation: "University of St.Gallen"
+    - name: "Martin Loeb"
+      affiliation: "University of Maryland"
+    - name: "Masarah Paquet-Clouston"
+      affiliation: "Université de Montréal"
+    - name: "Mathias Humbert"
+      affiliation: "University of Lausanne"
+    - name: "Michel van Eeten"
+      affiliation: "Delft University of Technology"
+    - name: "Mingyan Liu"
+      affiliation: "University of Michigan, Ann Arbor"
+    - name: "Neil Gandal"
+      affiliation: "Tel Aviv University"
+    - name: "Nicholas Weaver"
+      affiliation: "ICSI"
+    - name: "Oshrat Ayalon"
+      affiliation: "Max Planck Institute for Software Systems"
+    - name: "Parinaz Naghizadeh"
+      affiliation: "UC San Diego"
+    - name: "Paulina Jo Pesch"
+      affiliation: "University of Innsbruck & University of Münster"
+    - name: "Quanyan Zhu"
+      affiliation: "New York University"
+    - name: "Rainer Böhme"
+      affiliation: "University of Innsbruck"
+    - name: "Richard Clayton"
+      affiliation: "University of Cambridge"
+    - name: "Ross Anderson"
+      affiliation: "University of Cambridge"
+    - name: "Sam Ransbotham"
+      affiliation: "Boston College"
+    - name: "Sasha Romanosky"
+      affiliation: "RAND Corporation"
+    - name: "Serge Egelman"
+      affiliation: "ICSI & UC Berkeley, AppCensus"
+    - name: "Svetlana Abramova"
+      affiliation: "University of Innsbruck"
+    - name: "Thomas Maillart"
+      affiliation: "University of Geneva"
+    - name: "Tyler Moore"
+      affiliation: "The University of Tulsa"
+    - name: "Vijay Subramanian"
+      affiliation: "University of Michigan"
+    - name: "Ying Lei Toh"
+      affiliation: "Federal Reserve of Kansas City"
+
+invited_speakers:
+  - name: "Shane Greenstein"
+    affiliation: "Martin Marshall Professor of Business Administration, Harvard Business School and NBER"
+
+program:
+  - date: "2024-04-08"
+    events:
+      - type: social
+        title: "Solar Eclipse Event (eclipse glasses and box lunches; totality 13:40-13:44)"
+        time: "12:00-15:02"
+        venue: "Hilton Richardson-Dallas (conference hotel)"
+
+      - type: social
+        title: "Welcome Reception"
+        time: "18:00-20:00"
+        venue: "Hilton Richardson-Dallas"
+
+  - date: "2024-04-09"
+    events:
+      - type: registration
+        title: "Registration & Breakfast"
+        time: "08:00-08:50"
+
+      - type: opening
+        title: "Welcome"
+        time: "08:50-09:00"
+
+      - type: keynote
+        number: 1
+        title: "Plenary: Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity"
+        time: "09:00-09:45"
+        speaker:
+          name: "Shane Greenstein"
+          affiliation: "Harvard Business School and NBER"
+        papers:
+          - title: "Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity"
+            url: "https://weis.utdallas.edu/files/2024/04/Upgraded-Software-and-Embedded-Improvements-RMG_RZ_SG_4_5_24-b9162779094bcdbc.pdf"
+            authors:
+              - name: "Raviv Murciano-Goroff"
+                affiliation: "Boston University"
+              - name: "Ran Zhuo"
+                affiliation: "University of Michigan"
+              - name: "Shane Greenstein"
+                affiliation: "Harvard Business School and NBER"
+                presenter: true
+
+      - type: session
+        number: 1
+        title: "Government Policy"
+        time: "09:45-11:00"
+        chair:
+          name: "Sasha Romanosky"
+          affiliation: "RAND Corporation"
+        papers:
+          - title: "Role of Formal Alliances in Creating Capacity for the Global Diffusion of National Cybersecurity Strategies"
+            url: "https://weis.utdallas.edu/files/2024/04/Kostyuk-Sidorova-WEIS-2024-9356574e1f44fb9b.pdf"
+            authors:
+              - name: "Nadiya Kostyuk"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Evgenia Sidorova"
+                affiliation: "Georgia Institute of Technology"
+          - title: "The Case for an Icelandic Cyber Exploitation and Defense (ICED) Force for NATO Coalition Operations"
+            url: "https://weis.utdallas.edu/files/2024/04/Sigholm-et-al-WEIS-2024-e93596156775b757.pdf"
+            authors:
+              - name: "Johan Sigholm"
+                affiliation: "Swedish Defense University"
+              - name: "Bjarni Már Magnússon"
+                affiliation: "Bifröst University"
+              - name: "Magnús Skjöld"
+                affiliation: "Bifröst University"
+              - name: "Theodor Gislason"
+                affiliation: "Syndis"
+              - name: "Gregory Falco"
+                affiliation: "Cornell University"
+          - title: "What has the U.S. government gained by formalizing Team Telecom? ―Team Telecom and the FCC's Dual Security Approach"
+            url: "https://weis.utdallas.edu/files/2024/04/Oriishi-WEIS-2024-6baaad07bb2ea64a.pdf"
+            authors:
+              - name: "Anna Oriishi"
+                affiliation: "Keio University"
+
+      - type: break
+        title: "Coffee Break"
+        time: "11:00-11:20"
+
+      - type: session
+        number: 2
+        title: "Collective Action"
+        time: "11:20-12:30"
+        chair:
+          name: "L. Jean Camp"
+          affiliation: ""
+        papers:
+          - title: "Non-governmental Governance of Trust on the Internet: WebPKI as Public Good"
+            url: "https://weis.utdallas.edu/files/2024/03/Grindal-et-al-WEIS-2024-0836cad1909f1424.pdf"
+            authors:
+              - name: "Vagisha Srivastava"
+                affiliation: "Georgia Institute of Technology"
+              - name: "Karl Grindal"
+                affiliation: "University of New Hampshire"
+              - name: "Milton Mueller"
+                affiliation: "Georgia Institute of Technology"
+          - title: "Breaking the Ice: Using Transparency to Overcome the Cold Start Problem in an Underground Market"
+            url: "https://weis.utdallas.edu/files/2024/03/Marhanov-et-al-WEIS-2024-882be19db0669a0d.pdf"
+            authors:
+              - name: "Tina Marjanov"
+                affiliation: "University of Cambridge"
+              - name: "Konstantinos Ioannidis"
+                affiliation: "University of Cambridge"
+              - name: "Tom Hyndman"
+                affiliation: "University of Cambridge"
+              - name: "Nicolas Seyedzadeh"
+                affiliation: "University of Cambridge"
+              - name: "Alice Hutchings"
+                affiliation: "University of Cambridge"
+          - title: "Peer(ing) Pressure: Achieving Social Action at Scale in the Internet Infrastructure"
+            url: "https://weis.utdallas.edu/files/2024/04/Collier-Clayton-WEIS-2024-ffa15dae44564608.pdf"
+            authors:
+              - name: "Ben Collier"
+                affiliation: "University of Edinburgh"
+              - name: "Richard Clayton"
+                affiliation: "University of Cambridge"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-14:00"
+        venue: "JSOM Executive Dining Room"
+        panel:
+          title: "In Memory of Ross Anderson (video: https://youtu.be/QmeoM7WJGMI)"
+
+      - type: session
+        number: 3
+        title: "Cyber Risk"
+        time: "14:00-15:15"
+        chair:
+          name: "Scott Stransky"
+          affiliation: ""
+        papers:
+          - title: "Data Risk, Firm Growth and Innovation"
+            url: "https://weis.utdallas.edu/files/2024/04/Mihet-et-al-WEIS-2024-e018fa2d109b38b5.pdf"
+            authors:
+              - name: "Roxana Mihet"
+                affiliation: "HEC Lausanne & Swiss Finance Institute"
+              - name: "Orlando M. Da Costa Gomes"
+                affiliation: "Lisbon Accounting and Finance University"
+              - name: "Kumar Rishabh"
+                affiliation: "HEC Lausanne & University of Basel"
+          - title: "Cyber Risk and the Cross-Section of Stock Returns"
+            url: "https://weis.utdallas.edu/files/2024/03/Celeny-Marechal-WEIS-2024-2b398e501aecec2b.pdf"
+            authors:
+              - name: "Loïc Maréchal"
+                affiliation: "University of Lausanne"
+              - name: "Daniel Celeny"
+                affiliation: "Armasuisse S+T"
+          - title: "A History of Cyber Risk Transfer"
+            url: "https://weis.utdallas.edu/files/2024/03/Woods-Wolff-WEIS-2024-1d637be6612f21cd.pdf"
+            authors:
+              - name: "Daniel Woods"
+                affiliation: "University of Edinburgh & British University in Dubai"
+              - name: "Josephine Wolff"
+                affiliation: "Tufts University"
+
+      - type: break
+        title: "Coffee Break"
+        time: "15:15-15:45"
+
+      - type: session
+        number: 4
+        title: "Measuring and Managing Security"
+        time: "15:45-17:00"
+        chair:
+          name: "Marie Vasek"
+          affiliation: ""
+        papers:
+          - title: "Beyond Technicalities: Assessing Cyber Risk by Incorporating Human Factors"
+            url: "https://weis.utdallas.edu/files/2024/04/Huang-et-al-WEIS-2024-6c2cb82a0ed036cd.pdf"
+            authors:
+              - name: "Sasha Romanosky"
+                affiliation: "RAND Corporation"
+              - name: "Wenjing Huang"
+                affiliation: "RAND Corporation"
+              - name: "Joe Uchill"
+                affiliation: "RAND Corporation"
+          - title: "Implementation of Information Security Controls Now or Later: Delay Discounting of Losses and Gains"
+            url: "https://weis.utdallas.edu/files/2024/03/Sognen-et-al-WEIS-2024-b79a39046a0b5535.pdf"
+            authors:
+              - name: "Marte Marjorie Søgnen"
+                affiliation: "NTNU"
+              - name: "Adam Szekeres"
+                affiliation: "NTNU"
+              - name: "Einar Arthur Snekkenes"
+                affiliation: "NTNU"
+          - title: "Prioritizing Investments in Cybersecurity: Empirical Evidence from an Event Study on the Determinants of Cyberattack Costs"
+            url: "https://weis.utdallas.edu/files/2024/03/Celeny-et-al-WEIS-2024-e1141bd52ac52852.pdf"
+            authors:
+              - name: "Daniel Celeny"
+                affiliation: "EPFL & Armasuisse S+T"
+              - name: "Loïc Maréchal"
+                affiliation: "University of Lausanne"
+              - name: "Evgueni Rousselot"
+                affiliation: "Armasuisse S+T"
+              - name: "Alain Mermoud"
+                affiliation: "Armasuisse S+T"
+              - name: "Mathias Humbert"
+                affiliation: "University of Lausanne"
+
+      - type: rump_session
+        title: "Rump Session"
+        time: "17:00-17:45"
+
+      - type: social
+        title: "Conference Dinner"
+        time: "18:00-20:30"
+        venue: "Ten50 BBQ (bus from UTD campus at 17:45; return to Hilton at 20:30)"
+
+  - date: "2024-04-10"
+    events:
+      - type: registration
+        title: "Registration & Breakfast"
+        time: "08:00-08:50"
+
+      - type: opening
+        title: "Announcements"
+        time: "08:50-09:00"
+
+      - type: session
+        number: 5
+        title: "Cyber Incidents"
+        time: "09:00-10:15"
+        chair:
+          name: "Nan Clement"
+          affiliation: ""
+        papers:
+          - title: "Valuation of Confidentiality and Availability in a Personal Ransomware Attack Scenario"
+            url: "https://weis.utdallas.edu/files/2024/03/Gassmann-et-al-WEIS-2024-d0143d18832e5629.pdf"
+            authors:
+              - name: "Freya Gassmann"
+                affiliation: "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau"
+              - name: "Janina Beck"
+                affiliation: "Boston Consulting Group"
+              - name: "Nora Gourmelon"
+                affiliation: "University of Erlangen-Nuremberg"
+              - name: "Zinaida Benenson"
+                affiliation: "University of Erlangen-Nuremberg"
+          - title: "Using Simulations to Determine Economic Cost of a Cyber Attack"
+            url: "https://weis.utdallas.edu/files/2024/04/Sokol-et-al-WEIS-2024-dcb05051cd454be3.pdf"
+            authors:
+              - name: "Nina Sokol"
+                affiliation: "University of Zagreb"
+              - name: "Viktoria Kežman"
+                affiliation: "University of Zagreb"
+              - name: "Stjepan Groš"
+                affiliation: "University of Zagreb"
+
+      - type: break
+        title: "Coffee Break"
+        time: "10:15-10:45"
+
+      - type: session
+        number: 6
+        title: "Privacy"
+        time: "10:45-12:30"
+        chair:
+          name: "Rainer Böhme"
+          affiliation: "University of Innsbruck"
+        papers:
+          - title: "The Welfare Effects of Ad-Blocking"
+            url: "https://weis.utdallas.edu/files/2024/04/Lin-et-al-WEIS-2024-697170d783304862.pdf"
+            authors:
+              - name: "Fengyang Lin"
+                affiliation: "Cornell University"
+              - name: "Cristobal Cheyre"
+                affiliation: "Cornell University"
+              - name: "Alessandro Acquisti"
+                affiliation: "Carnegie Mellon University"
+          - title: "Have I Seen you Before? Measuring the Value of Tracking for Digital Advertising"
+            url: "https://weis.utdallas.edu/files/2024/04/Cecere-Lemaire-WEIS-2024-9d01fea563285ceb.pdf"
+            authors:
+              - name: "Grazia Cecere"
+                affiliation: "Institut Mines Telecom Business School"
+              - name: "Sarah Lemaire"
+                affiliation: "JRC, Seville"
+          - title: "Competition and Cybercrime: An Application to Healthcare Digitization"
+            url: "https://weis.utdallas.edu/files/2024/03/Marti-WEIS-2024-88cf353cf1d1cbbf.pdf"
+            authors:
+              - name: "Chitra Marti"
+                affiliation: "New York University"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-14:00"
+        venue: "JSOM Executive Dining Room"
+
+      - type: closing
+        title: "End of workshop (bus to Hilton Richardson-Dallas)"
+        time: "14:00"

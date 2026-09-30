@@ -1,0 +1,264 @@
+name: "WEIS 2002"
+full_name: "Workshop on Economics and Information Security"
+edition: 1
+year: 2002
+location: "Berkeley, California, USA"
+venue: "School of Information Management and Systems (SIMS), University of California, Berkeley"
+start_date: "2002-05-16"
+end_date: "2002-05-17"
+website: "http://www2.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/"
+archive_urls:
+  home: "http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/"
+  wayback_home: "https://web.archive.org/web/20031203152628/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/"
+  wayback_home_earliest: "https://web.archive.org/web/20021214204353/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/"
+  wayback_slides: "https://web.archive.org/web/20040822152842/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/"
+  wayback_captures: "https://web.archive.org/web/*/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/"
+
+hosts:
+  - "School of Information Management and Systems (SIMS), University of California, Berkeley"
+
+organization:
+  general_chairs:
+    - name: "Doug Tygar"
+      affiliation: "School of Information Management and Systems, UC Berkeley"
+  pc_chairs:
+    - name: "Hal Varian"
+      affiliation: "School of Information Management and Systems, UC Berkeley"
+    - name: "Ross Anderson"
+      affiliation: "Computer Laboratory, University of Cambridge"
+  program_committee:
+    - name: "Hal Varian"
+      affiliation: "School of Information Management and Systems, UC Berkeley (program co-chair)"
+    - name: "Ross Anderson"
+      affiliation: "Computer Laboratory, University of Cambridge (program co-chair)"
+    - name: "Doug Tygar"
+      affiliation: "School of Information Management and Systems, UC Berkeley (general chair)"
+    - name: "Jean Camp"
+    - name: "Li Gong"
+      affiliation: "Sun Microsystems"
+    - name: "Larry Gordon"
+      affiliation: "Robert H. Smith School of Business, University of Maryland"
+    - name: "Marty Loeb"
+      affiliation: "Robert H. Smith School of Business, University of Maryland"
+    - name: "Andrew Odlyzko"
+      affiliation: "Digital Technology Center, University of Minnesota"
+    - name: "Bruce Schneier"
+      affiliation: "Counterpane Internet Security"
+
+program:
+  - date: "2002-05-16"
+    events:
+      - type: opening
+        title: "Welcome"
+        time: "09:00-10:00"
+        chair:
+          name: "Hal Varian"
+          affiliation: "School of Information Management and Systems, UC Berkeley"
+        papers:
+          - title: "Maybe we spend too much?"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/37.txt"
+            authors:
+              - name: "Ross Anderson"
+          - title: "No, we don't spend enough!"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/18.doc"
+            authors:
+              - name: "Bruce Schneier"
+
+      - type: break
+        title: "Tea"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 1
+        title: "History of security economics"
+        time: "10:30-12:00"
+        chair:
+          name: "Andrew Odlyzko"
+          affiliation: "Digital Technology Center, University of Minnesota"
+        papers:
+          - title: "Improving Information Flow in the Information Security Market"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/11.doc"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/landwehr.ppt"
+            authors:
+              - name: "Carl Landwehr"
+          - title: "The Principle of Distributed Accounting"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/08.ps"
+            authors:
+              - name: "John McHugh"
+          - title: "Non-Technical Influences on the Design of the Java Security Architecture"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/47.txt"
+            authors:
+              - name: "Li Gong"
+
+      - type: break
+        title: "Lunch"
+        time: "12:00-13:30"
+
+      - type: session
+        number: 2
+        title: "Metrics and markets"
+        time: "13:30-15:00"
+        chair:
+          name: "Doug Tygar"
+          affiliation: "School of Information Management and Systems, UC Berkeley"
+        papers:
+          - title: "The Measure of Information Security is Dollars"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/54.pdf"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/blakley.ppt"
+            authors:
+              - name: "Bob Blakley"
+          - title: "Marketplace Incentives to Prevent Piracy: An Incentive for Security?"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/29.txt"
+            authors:
+              - name: "Jean Camp"
+          - title: "Privacy, Economics, and Price Discrimination on the Internet"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/52.txt"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/odlyzko.pdf"
+            authors:
+              - name: "Andrew Odlyzko"
+
+      - type: break
+        title: "Coffee"
+        time: "15:00-15:30"
+
+      - type: session
+        number: 3
+        title: "Optimal Investments in Information Security"
+        time: "15:30-17:00"
+        chair:
+          name: "Larry Gordon"
+          affiliation: "Robert H. Smith School of Business, University of Maryland"
+        papers:
+          - title: "How Much Is Enough? A Risk Management Approach to Computer Security"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/06.doc"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/soohoo.ppt"
+            authors:
+              - name: "Kevin Soo Hoo"
+          - title: "Dynamics and Equilibria of Information Security Investments"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/34.doc"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/carini.ppt"
+            authors:
+              - name: "Brian Carini"
+          - title: "Diverging economic incentives caused by innovation for security updates on an information network"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/19.pdf"
+            authors:
+              - name: "Kin Sing Leung"
+
+      - type: social
+        title: "Drinks"
+        time: "17:00"
+
+  - date: "2002-05-17"
+    events:
+      - type: session
+        number: 4
+        title: "Economic Theory Applied to Information Security"
+        time: "08:30-10:00"
+        chair:
+          name: "Marty Loeb"
+          affiliation: "Robert H. Smith School of Business, University of Maryland"
+        papers:
+          - title: "Agents' privacy in distributed algorithmic mechanisms"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/05.pdf"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/sami.ppt"
+            authors:
+              - name: "Rahul Sami"
+          - title: "System Reliability and Free Riding"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/49.pdf"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/hal.pdf"
+            authors:
+              - name: "Hal Varian"
+          - title: "Security of Personal Information and Privacy: Economic Incentives and Technological Solutions"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/36.doc"
+            authors:
+              - name: "Alessandro Acquisti"
+
+      - type: break
+        title: "Tea"
+        time: "10:00-10:30"
+
+      - type: session
+        number: 5
+        title: "Incentive-compatibility of technical mechanisms"
+        time: "10:30-12:30"
+        chair:
+          name: "Ross Anderson"
+          affiliation: "Computer Laboratory, University of Cambridge"
+        papers:
+          - title: "Distributed algorithmic mechanism design and network security"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/42.pdf"
+            authors:
+              - name: "John Mitchell"
+          - title: "Economic Barriers to the Deployment of Existing Privacy Technologies"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/23.pdf"
+            authors:
+              - name: "Tomas Sander"
+          - title: "Quantitatively Differentiating System Security"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/31.pdf"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/schechter.ppt"
+            authors:
+              - name: "Stuart Schechter"
+          - title: "Using economics to model threats and security in distributed computing"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/33.ps"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/desmedt.ppt"
+            authors:
+              - name: "Yvo Desmedt"
+
+      - type: break
+        title: "Lunch"
+        time: "12:30-13:30"
+
+      - type: session
+        number: 6
+        title: "Liability"
+        time: "13:30-15:00"
+        chair:
+          name: "Hal Varian"
+          affiliation: "School of Information Management and Systems, UC Berkeley"
+        papers:
+          - title: "Causes and Remedies for Social Acceptance of Network Insecurity"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/35.pdf"
+            authors:
+              - name: "Mike Fisk"
+          - title: "Liability Transfers in Network Exchanges"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/46.ps"
+            authors:
+              - name: "Rafael Yahalom"
+          - title: "Cyberinsurance: A Market Solution to Internet Security Market Failure"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/53.pdf"
+            authors:
+              - name: "William Yurcik"
+          - title: "Software development, Intellectual Property Rights, and IT Security"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/44.pdf"
+            authors:
+              - name: "Robert Gehring"
+
+      - type: break
+        title: "Coffee"
+        time: "15:00-15:30"
+
+      - type: session
+        number: 7
+        title: "Other issues"
+        time: "15:30-17:00"
+        chair:
+          name: "Li Gong"
+          affiliation: "Sun Microsystems"
+        papers:
+          - title: "Cognitive Hacking and the Value of Information"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/15.doc"
+            authors:
+              - name: "Paul Thompson"
+          - title: "An Economics Perspective on the Sharing of Information Related to Security Breaches: Concepts and Empirical Evidence"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/51.doc"
+            authors:
+              - name: "Larry Gordon"
+          - title: "Experience of the French Gendarmerie"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/13.txt"
+            authors:
+              - name: "Thomas-Xavier Martin"
+          - title: "Internet TAO: The Microeconomics of Internet Standards-Setting"
+            url: "https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/12.doc"
+            slides: "https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/fox.ppt"
+            authors:
+              - name: "Barb Fox"
