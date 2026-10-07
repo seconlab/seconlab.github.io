@@ -1,0 +1,149 @@
+name: WEIS 2004
+full_name: The Third Annual Workshop on Economics and Information Security
+edition: 3
+year: 2004
+location: Minneapolis, Minnesota, USA
+venue: Walter Library (Rooms 401-402), University of Minnesota
+start_date: '2004-05-13'
+end_date: '2004-05-14'
+website: http://www.dtc.umn.edu/weis2004/
+papers:
+- id: weis2004_01
+  title: Is finding security holes a good idea?
+  authors:
+  - name: Eric Rescorla
+  file: weis2004_01_is-finding-security-holes-a-good-idea.pdf
+  path: papers/weis2004/weis2004_01_is-finding-security-holes-a-good-idea.pdf
+- id: weis2004_02
+  title: Optimal Policy for Software Vulnerability Disclosure
+  authors:
+  - name: Ashish Arora
+  - name: Rahul Telang
+  - name: Hao Xu
+  file: weis2004_02_optimal-policy-for-software-vulnerability-disclosure.pdf
+  path: papers/weis2004/weis2004_02_optimal-policy-for-software-vulnerability-disclosure.pdf
+- id: weis2004_03
+  title: The Economics of Shared Risk at the National Scale
+  authors:
+  - name: Dan Geer
+  file: weis2004_03_metrics-economics-and-shared-risk-at-the-national-scale-rela.pdf
+  path: papers/weis2004/weis2004_03_metrics-economics-and-shared-risk-at-the-national-scale-rela.pdf
+- id: weis2004_04
+  title: Who Signed Up for the Do-Not-Call List?
+  authors:
+  - name: Hal Varian
+  - name: Fredrik Wallenberg
+  - name: Glenn Woroch
+  file: weis2004_04_who-signed-up-for-the-do-not-call-list.pdf
+  path: papers/weis2004/weis2004_04_who-signed-up-for-the-do-not-call-list.pdf
+- id: weis2004_05
+  title: 'Privacy and Rationality: Preliminary Evidence from Pilot Data'
+  authors:
+  - name: Alessandro Acquisti
+  - name: Jens Grossklags
+  file: weis2004_05_privacy-and-rationality-preliminary-evidence-from-pilot-data.pdf
+  path: papers/weis2004/weis2004_05_privacy-and-rationality-preliminary-evidence-from-pilot-data.pdf
+- id: weis2004_06
+  title: Impact of Vulnerability Disclosure and Patch Availability — An Empirical Analysis
+  authors:
+  - name: Ashish Arora
+  - name: Ramayya Krishnan
+  - name: Anand Nandkumar
+  - name: Rahul Telang
+  - name: Yubao Yang
+  file: weis2004_06_impact-of-vulnerability-disclosure-and-patch-availability-an.pdf
+  path: papers/weis2004/weis2004_06_impact-of-vulnerability-disclosure-and-patch-availability-an.pdf
+- id: weis2004_07
+  title: An Economic Analysis of Market for Software Vulnerabilities
+  authors:
+  - name: Karthik Kannan
+  - name: Rahul Telang
+  file: weis2004_07_an-economic-analysis-of-market-for-software-vulnerabilities.pdf
+  path: papers/weis2004/weis2004_07_an-economic-analysis-of-market-for-software-vulnerabilities.pdf
+- id: weis2004_08
+  title: The Economics of Censorship Resistance
+  authors:
+  - name: George Danezis
+  - name: Ross Anderson
+  file: weis2004_08_the-economics-of-censorship-resistance.pdf
+  path: papers/weis2004/weis2004_08_the-economics-of-censorship-resistance.pdf
+- id: weis2004_09
+  title: An Insurance Style Model for Determining the Appropriate Investment Level against Maximum Loss arising from an Information Security Breach
+  authors:
+  - name: Roger Adkins
+  file: weis2004_09_an-insurance-style-model-for-determining-the-appropriate-inv.pdf
+  path: papers/weis2004/weis2004_09_an-insurance-style-model-for-determining-the-appropriate-inv.pdf
+- id: weis2004_10
+  title: On dealing with adversaries fairly
+  authors:
+  - name: Andrei Serjantov
+  - name: Ross Anderson
+  file: weis2004_10_on-dealing-with-adversaries-fairly.pdf
+  path: papers/weis2004/weis2004_10_on-dealing-with-adversaries-fairly.pdf
+- id: weis2004_11
+  title: Free-Riding and Whitewashing in Peer-to-Peer Systems
+  authors:
+  - name: Michal Feldman
+  - name: Christos Papadimitriou
+  - name: John Chuang
+  - name: Ion Stoica
+  file: weis2004_11_free-riding-and-whitewashing-in-peer-to-peer-systems.pdf
+  path: papers/weis2004/weis2004_11_free-riding-and-whitewashing-in-peer-to-peer-systems.pdf
+- id: weis2004_12
+  title: Sufficiently Secure Peer-to-Peer Networks
+  authors:
+  - name: Rupert Gatti
+  - name: Stephen Lewis
+  - name: Andy Ozment
+  - name: Thierry Rayna
+  - name: Andrei Serjantov
+  file: weis2004_12_sufficiently-secure-peer-to-peer-networks.pdf
+  path: papers/weis2004/weis2004_12_sufficiently-secure-peer-to-peer-networks.pdf
+- id: weis2004_13
+  title: Towards an Economic Analysis of Trusted Systems
+  authors:
+  - name: Joan Feigenbaum
+  - name: Dirk Bergemann
+  - name: Scott Shenker
+  - name: Jonathan M. Smith
+  file: weis2004_13_towards-an-economic-analysis-of-trusted-systems.pdf
+  path: papers/weis2004/weis2004_13_towards-an-economic-analysis-of-trusted-systems.pdf
+- id: weis2004_14
+  title: Toward Econometric Models of the Security Risk from Remote Attacks
+  authors:
+  - name: Stuart Schechter
+  file: weis2004_14_toward-econometric-models-of-the-security-risk-from-remote-a.pdf
+  path: papers/weis2004/weis2004_14_toward-econometric-models-of-the-security-risk-from-remote-a.pdf
+- id: weis2004_15
+  title: Modelling the costs and benefits of Honeynets
+  authors:
+  - name: Maximillian Dornseif
+  - name: Sascha A. May
+  file: weis2004_15_modelling-the-costs-and-benefits-of-honeynets.pdf
+  path: papers/weis2004/weis2004_15_modelling-the-costs-and-benefits-of-honeynets.pdf
+- id: weis2004_16
+  title: '''Proof-of-Work'' Proves Not to Work'
+  authors:
+  - name: Ben Laurie
+  - name: Richard Clayton
+  file: weis2004_16_proof-of-work-proves-not-to-work.pdf
+  path: papers/weis2004/weis2004_16_proof-of-work-proves-not-to-work.pdf
+- id: weis2004_17
+  title: 'Bug Auctions: Vulnerability Markets Reconsidered'
+  authors:
+  - name: Andy Ozment
+  file: weis2004_17_bug-auctions-vulnerability-markets-reconsidered.pdf
+  path: papers/weis2004/weis2004_17_bug-auctions-vulnerability-markets-reconsidered.pdf
+- id: weis2004_18
+  title: A Worst-Case Worm
+  authors:
+  - name: Nicholas Weaver
+  - name: Vern Paxson
+  file: weis2004_18_a-worst-case-worm.pdf
+  path: papers/weis2004/weis2004_18_a-worst-case-worm.pdf
+- id: weis2004_19
+  title: Dissenting Opinion (on "A Worst-Case Worm")
+  authors:
+  - name: Stuart Staniford
+  file: null
+  path: null

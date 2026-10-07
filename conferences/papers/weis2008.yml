@@ -1,0 +1,284 @@
+name: WEIS 2008
+full_name: The Seventh Workshop on the Economics of Information Security
+edition: 7
+year: 2008
+location: Hanover, NH, USA
+venue: Tuck School of Business at Dartmouth College (Spanos Auditorium, Room 100, Cummings Hall)
+start_date: '2008-06-25'
+end_date: '2008-06-28'
+website: http://weis2008.econinfosec.org/
+papers:
+- id: weis2008_01
+  title: Conference Welcome and Overview
+  authors:
+  - name: M. Eric Johnson
+    affiliation: Tuck School of Business at Dartmouth
+  file: null
+  path: null
+- id: weis2008_02
+  title: Nonbanks and Risk in Retail Payments
+  authors:
+  - name: Stuart Weiner
+    affiliation: Federal Reserve Bank-Kansas City
+  - name: Richard Sullivan
+    affiliation: Federal Reserve Bank-Kansas City
+    presenter: true
+  - name: Simonetta Rosati
+    affiliation: European Central Bank
+  file: weis2008_02_nonbanks-and-risk-in-retail-payments.pdf
+  path: papers/weis2008/weis2008_02_nonbanks-and-risk-in-retail-payments.pdf
+- id: weis2008_03
+  title: Do Data Breach Disclosure Laws Reduce Identity Theft?
+  authors:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon University
+    presenter: true
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2008_03_do-data-breach-disclosure-laws-reduce-identity-theft.pdf
+  path: papers/weis2008/weis2008_03_do-data-breach-disclosure-laws-reduce-identity-theft.pdf
+- id: weis2008_04
+  title: Security Economics and European Policy
+  authors:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  - name: Rainer Boehme
+    affiliation: Dresden University of Technology
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+    presenter: true
+  file: weis2008_04_security-economics-and-european-policy.pdf
+  path: papers/weis2008/weis2008_04_security-economics-and-european-policy.pdf
+- id: weis2008_05
+  title: 'Communicating Security – The Role of Media: A Journalistic Perspective (panel slides)'
+  authors: []
+  file: null
+  path: null
+- id: weis2008_06
+  title: CISO Perspective – Evaluating and Communicating Information Risk (panel slides)
+  authors: []
+  file: null
+  path: null
+- id: weis2008_07
+  title: 'Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents'
+  authors:
+  - name: Jens Grossklags
+    affiliation: UC Berkeley
+    presenter: true
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University
+  - name: John Chuang
+    affiliation: School of Information, UC Berkeley
+  file: weis2008_07_security-investment-failures-in-five-economic-environments-a.pdf
+  path: papers/weis2008/weis2008_07_security-investment-failures-in-five-economic-environments-a.pdf
+- id: weis2008_08
+  title: BORIS – Business-Oriented Management of Information Security
+  authors:
+  - name: Sebastian Sowa
+    affiliation: Ruhr-University of Bochum
+    presenter: true
+  - name: Lampros Tsinas
+    affiliation: Munich Re
+  - name: Roland Gabriel
+    affiliation: Ruhr-University of Bochum
+  file: weis2008_08_boris-business-oriented-management-of-information-security.pdf
+  path: papers/weis2008/weis2008_08_boris-business-oriented-management-of-information-security.pdf
+- id: weis2008_09
+  title: Productivity Space of Information Security in an Extension of the Gordon-Loeb's Investment Model
+  authors:
+  - name: Kanta Matsuura
+    affiliation: The University of Tokyo
+    presenter: true
+  file: weis2008_09_productivity-space-of-information-security-in-an-extension-o.pdf
+  path: papers/weis2008/weis2008_09_productivity-space-of-information-security-in-an-extension-o.pdf
+- id: weis2008_10
+  title: Communicating the Economic Value of Security Investments; Value at Security Risk
+  authors:
+  - name: Rolf Hulthén
+    affiliation: TeliaSonera AB
+    presenter: true
+  file: weis2008_10_communicating-the-economic-value-of-security-investments-val.pdf
+  path: papers/weis2008/weis2008_10_communicating-the-economic-value-of-security-investments-val.pdf
+- id: weis2008_11
+  title: Modelling the Human and Technological Costs and Benefits of USB Memory Stick Security
+  authors:
+  - name: Adam Beautement
+    affiliation: UCL
+  - name: Robert Coles
+    affiliation: Merrill Lynch
+  - name: Jonathan Griffin
+    affiliation: HP Labs
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: Brian Monahan
+    affiliation: HP Labs
+  - name: David Pym
+    affiliation: HP Labs and University of Bath
+    presenter: true
+  - name: Angela Sasse
+    affiliation: UCL
+  - name: Mike Wonham
+    affiliation: HP Labs
+  file: weis2008_11_modelling-the-human-and-technological-costs-and-benefits-of.pdf
+  path: papers/weis2008/weis2008_11_modelling-the-human-and-technological-costs-and-benefits-of.pdf
+- id: weis2008_12
+  title: 'Information Governance: Flexibility and Control through Escalation and Incentives'
+  authors:
+  - name: Xia Zhao
+    affiliation: Dartmouth College
+    presenter: true
+  - name: Eric Johnson
+    affiliation: Dartmouth College
+  file: weis2008_12_information-governance-flexibility-and-control-through-escal.pdf
+  path: papers/weis2008/weis2008_12_information-governance-flexibility-and-control-through-escal.pdf
+- id: weis2008_13
+  title: 'Firms'' Optimal Digital Rights Management (DRM) Strategies: The Effects of Public Copy Protection and DRM Compatibility'
+  authors:
+  - name: Sang Hoo Bae
+    affiliation: Clark University
+    presenter: true
+  - name: Pilsik Choi
+    affiliation: Clark University
+  file: weis2008_13_firms-optimal-digital-rights-management-drm-strategies-the-e.pdf
+  path: papers/weis2008/weis2008_13_firms-optimal-digital-rights-management-drm-strategies-the-e.pdf
+- id: weis2008_14
+  title: Diffusion and Adoption of IPv6 in the United States
+  authors:
+  - name: Hillary Elmore
+    affiliation: Indiana University Bloomington
+  - name: L. Jean Camp
+    affiliation: Indiana University Bloomington
+    presenter: true
+  - name: Brandon Stephens
+    affiliation: Indiana University Bloomington
+  file: weis2008_14_diffusion-and-adoption-of-ipv6-in-the-united-states.pdf
+  path: papers/weis2008/weis2008_14_diffusion-and-adoption-of-ipv6-in-the-united-states.pdf
+- id: weis2008_15
+  title: Reinterpreting the Disclosure Debate for Web Infections
+  authors:
+  - name: Oliver Day
+    affiliation: Harvard University
+  - name: Rachel Greenstadt
+    affiliation: Harvard University
+    presenter: true
+  - name: Brandon Palmen
+    affiliation: Harvard University
+  file: weis2008_15_reinterpreting-the-disclosure-debate-for-web-infections.pdf
+  path: papers/weis2008/weis2008_15_reinterpreting-the-disclosure-debate-for-web-infections.pdf
+- id: weis2008_16
+  title: The Impact of Incentives on Notice and Take-down
+  authors:
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+    presenter: true
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  file: weis2008_16_the-impact-of-incentives-on-notice-and-take-down.pdf
+  path: papers/weis2008/weis2008_16_the-impact-of-incentives-on-notice-and-take-down.pdf
+- id: weis2008_17
+  title: Studying Malicious Websites and the Underground Economy on the Chinese Web
+  authors:
+  - name: Jianwei Zhuge
+    affiliation: Peking University
+  - name: Thorsten Holz
+    affiliation: University of Mannheim
+  - name: Chengyu Song
+    affiliation: Peking University
+    presenter: true
+  - name: Jinpeng Guo
+    affiliation: Peking University
+  - name: Xinhui Han
+    affiliation: Peking University
+  - name: Wei Zou
+    affiliation: Peking University
+  file: weis2008_17_studying-malicious-websites-and-the-underground-economy-on-t.pdf
+  path: papers/weis2008/weis2008_17_studying-malicious-websites-and-the-underground-economy-on-t.pdf
+- id: weis2008_18
+  title: 'Botnet Economics: Uncertainty Matters'
+  authors:
+  - name: Zhen Li
+    affiliation: Albion College
+  - name: Qi Liao
+    affiliation: University of Notre Dame
+    presenter: true
+  - name: Aaron Striegel
+    affiliation: University of Notre Dame
+  file: weis2008_18_botnet-economics-uncertainty-matters.pdf
+  path: papers/weis2008/weis2008_18_botnet-economics-uncertainty-matters.pdf
+- id: weis2008_19
+  title: Investigating and Prosecuting Cybercrime (panel slides)
+  authors: []
+  file: null
+  path: null
+- id: weis2008_20
+  title: 'The Impact of Information Disclosure on Stock Market Returns: The Sarbanes-Oxley Act and the Role of Media as an Information Intermediary'
+  authors:
+  - name: Karthik Balakrishnan
+    affiliation: NYU Stern School
+  - name: Anindya Ghose
+    affiliation: NYU Stern School
+    presenter: true
+  - name: Panos Ipeirotis
+    affiliation: NYU Stern School
+  file: weis2008_20_the-impact-of-information-disclosure-on-stock-market-returns.pdf
+  path: papers/weis2008/weis2008_20_the-impact-of-information-disclosure-on-stock-market-returns.pdf
+- id: weis2008_21
+  title: 'Reading the Disclosures with New Eyes: Bridging the Gap between Information Security Disclosures and Incidents'
+  authors:
+  - name: Ta-Wei Wang
+    affiliation: Purdue University
+    presenter: true
+  - name: Jackie Rees
+    affiliation: Purdue University
+  - name: Karthik Kannan
+    affiliation: Purdue University
+  file: weis2008_21_reading-the-disclosures-with-new-eyes-bridging-the-gap-betwe.pdf
+  path: papers/weis2008/weis2008_21_reading-the-disclosures-with-new-eyes-bridging-the-gap-betwe.pdf
+- id: weis2008_22
+  title: Cyber Insurance as an Incentive for IT Security
+  authors:
+  - name: Jean Bolot
+    affiliation: Sprint
+  - name: Marc Lelarge
+    affiliation: INRIA-ENS
+    presenter: true
+  file: weis2008_22_cyber-insurance-as-an-incentive-for-it-security.pdf
+  path: papers/weis2008/weis2008_22_cyber-insurance-as-an-incentive-for-it-security.pdf
+- id: weis2008_23
+  title: The Economics of Covert Community Detection and Hiding
+  authors:
+  - name: Shishir Nagaraja
+    affiliation: University of Cambridge
+    presenter: true
+  file: weis2008_23_the-economics-of-covert-community-detection-and-hiding.pdf
+  path: papers/weis2008/weis2008_23_the-economics-of-covert-community-detection-and-hiding.pdf
+- id: weis2008_24
+  title: 'Conformity or Diversity: Social Implications of Transparency in Personal Data Processing'
+  authors:
+  - name: Rainer Böhme
+    affiliation: TU Dresden
+    presenter: true
+  file: weis2008_24_conformity-or-diversity-social-implications-of-transparency.pdf
+  path: papers/weis2008/weis2008_24_conformity-or-diversity-social-implications-of-transparency.pdf
+- id: weis2008_25
+  title: Is Distributed Trust More Trustworthy?
+  authors:
+  - name: Kurt Nielsen
+    affiliation: University of Copenhagen
+    presenter: true
+  file: weis2008_25_is-distributed-trust-more-trustworthy.pdf
+  path: papers/weis2008/weis2008_25_is-distributed-trust-more-trustworthy.pdf
+- id: weis2008_26
+  title: Competition for Information under Privacy Concerns
+  authors:
+  - name: Ramnath Chellappa
+    affiliation: Emory University
+    presenter: true
+  - name: Raymond Sin
+    affiliation: Hong Kong University of Science and Technology
+  file: weis2008_26_competition-for-information-under-privacy-concerns.pdf
+  path: papers/weis2008/weis2008_26_competition-for-information-under-privacy-concerns.pdf

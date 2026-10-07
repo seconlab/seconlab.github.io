@@ -1,0 +1,520 @@
+conference: weis2026
+name: WEIS 2026
+year: 2026
+papers_dir: papers/weis2026
+total: 20
+downloaded: 18
+failed: 2
+papers:
+- id: weis2026_01
+  conference: weis2026
+  year: 2026
+  title: Cybersecurity and Market Share in Digital Ecosystems with Network Externalities
+  authors:
+  - Daniel Arce
+  authors_full:
+  - name: Daniel Arce
+  session_number: 1
+  session: Game Theory
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_3.pdf
+  slides_url: null
+  file: weis2026_01_cybersecurity-and-market-share-in-digital-ecosystems-with-ne.pdf
+  path: papers/weis2026/weis2026_01_cybersecurity-and-market-share-in-digital-ecosystems-with-ne.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_3.pdf
+  error: null
+- id: weis2026_02
+  conference: weis2026
+  year: 2026
+  title: 'LASB: A Liquidity-Adjusted Security Metric for Consensus Attacks'
+  authors:
+  - Ke Wang
+  - Wenbin Wu
+  - Alexander Neumueller
+  authors_full:
+  - name: Ke Wang
+  - name: Wenbin Wu
+  - name: Alexander Neumueller
+  session_number: 1
+  session: Game Theory
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_10.pdf
+  slides_url: null
+  file: weis2026_02_lasb-a-liquidity-adjusted-security-metric-for-consensus-atta.pdf
+  path: papers/weis2026/weis2026_02_lasb-a-liquidity-adjusted-security-metric-for-consensus-atta.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_10.pdf
+  error: null
+- id: weis2026_03
+  conference: weis2026
+  year: 2026
+  title: Analyzing Investment Incentives under METI's New Rating System via a Stepwise Extension of the Gordon-Loeb Model
+  authors:
+  - Ryoma Kanai
+  - Kanta Matsuura
+  authors_full:
+  - name: Ryoma Kanai
+  - name: Kanta Matsuura
+  session_number: 1
+  session: Game Theory
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_16.pdf
+  slides_url: null
+  file: weis2026_03_analyzing-investment-incentives-under-meti-s-new-rating-syst.pdf
+  path: papers/weis2026/weis2026_03_analyzing-investment-incentives-under-meti-s-new-rating-syst.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_16.pdf
+  error: null
+- id: weis2026_04
+  conference: weis2026
+  year: 2026
+  title: 'Cybercrime and Prevention: Colonel Blotto in Social Engineering'
+  authors:
+  - Gergely Benkő
+  - Katalin Parti
+  - Gergely Biczók
+  authors_full:
+  - name: Gergely Benkő
+  - name: Katalin Parti
+  - name: Gergely Biczók
+  session_number: 1
+  session: Game Theory
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_19.pdf
+  slides_url: null
+  file: weis2026_04_cybercrime-and-prevention-colonel-blotto-in-social-engineeri.pdf
+  path: papers/weis2026/weis2026_04_cybercrime-and-prevention-colonel-blotto-in-social-engineeri.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_19.pdf
+  error: null
+- id: weis2026_05
+  conference: weis2026
+  year: 2026
+  title: Stand-Alone Complex or Vibercrime? Exploring the Adoption and Innovation of GenAI Tools, Coding Assistants, and Agents within Cybercrime Ecosystems
+  authors:
+  - Jack Hughes
+  - Ben Collier
+  - Daniel Thomas
+  authors_full:
+  - name: Jack Hughes
+  - name: Ben Collier
+  - name: Daniel Thomas
+  session_number: 2
+  session: Crime and Measurement
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_12.pdf
+  slides_url: null
+  file: weis2026_05_stand-alone-complex-or-vibercrime-exploring-the-adoption-and.pdf
+  path: papers/weis2026/weis2026_05_stand-alone-complex-or-vibercrime-exploring-the-adoption-and.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_12.pdf
+  error: null
+- id: weis2026_06
+  conference: weis2026
+  year: 2026
+  title: Estimating the Social Cost of Corporate Data Breaches
+  authors:
+  - Lina Alkarmi
+  - Armin Sarabi
+  - Mingyan Liu
+  authors_full:
+  - name: Lina Alkarmi
+  - name: Armin Sarabi
+  - name: Mingyan Liu
+  session_number: 2
+  session: Crime and Measurement
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_22.pdf
+  slides_url: null
+  file: weis2026_06_estimating-the-social-cost-of-corporate-data-breaches.pdf
+  path: papers/weis2026/weis2026_06_estimating-the-social-cost-of-corporate-data-breaches.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_22.pdf
+  error: null
+- id: weis2026_07
+  conference: weis2026
+  year: 2026
+  title: How Do Cyber Attacks Impact Corporate Balance Sheets and Income Statements? An Empirical Study
+  authors:
+  - Teyyub Mutallimov
+  - Dana Itzhaki
+  - Tyler Moore
+  authors_full:
+  - name: Teyyub Mutallimov
+  - name: Dana Itzhaki
+  - name: Tyler Moore
+  session_number: 2
+  session: Crime and Measurement
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_13.pdf
+  slides_url: null
+  file: weis2026_07_how-do-cyber-attacks-impact-corporate-balance-sheets-and-inc.pdf
+  path: papers/weis2026/weis2026_07_how-do-cyber-attacks-impact-corporate-balance-sheets-and-inc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_13.pdf
+  error: null
+- id: weis2026_08
+  conference: weis2026
+  year: 2026
+  title: 'The Impact of Cyber Attacks on Security Investment: Evidence from Firm-Level Panel Data'
+  authors:
+  - Abulfaz Hajizada
+  - Dana Etgar Itzhaki
+  - Noa Barnir
+  - Tyler Moore
+  - Neil Gandal
+  authors_full:
+  - name: Abulfaz Hajizada
+  - name: Dana Etgar Itzhaki
+  - name: Noa Barnir
+  - name: Tyler Moore
+  - name: Neil Gandal
+  session_number: 2
+  session: Crime and Measurement
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_14.pdf
+  slides_url: null
+  file: weis2026_08_the-impact-of-cyber-attacks-on-security-investment-evidence.pdf
+  path: papers/weis2026/weis2026_08_the-impact-of-cyber-attacks-on-security-investment-evidence.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_14.pdf
+  error: null
+- id: weis2026_09
+  conference: weis2026
+  year: 2026
+  title: Privacy Agents in the Field
+  authors:
+  - Aileen Nielsen
+  - Yafit Lev-Aretz
+  authors_full:
+  - name: Aileen Nielsen
+  - name: Yafit Lev-Aretz
+  session_number: 3
+  session: Privacy
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2026_10
+  conference: weis2026
+  year: 2026
+  title: Who Wants Privacy Anyway? Comparative Evidence on CBDC Design Preference
+  authors:
+  - Vagisha Srivastava
+  authors_full:
+  - name: Vagisha Srivastava
+  session_number: 3
+  session: Privacy
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_18.pdf
+  slides_url: null
+  file: weis2026_10_who-wants-privacy-anyway-comparative-evidence-on-cbdc-design.pdf
+  path: papers/weis2026/weis2026_10_who-wants-privacy-anyway-comparative-evidence-on-cbdc-design.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_18.pdf
+  error: null
+- id: weis2026_11
+  conference: weis2026
+  year: 2026
+  title: 'Privacy Interventions and Publishers'' Revenues: Evidence on Long-Run Effects and Ad-Traffic Heterogeneity'
+  authors:
+  - Tobias Kircher
+  - Riley Grossman
+  - Mike Smith
+  - Alessandro Acquisti
+  - Cristian Borcea
+  - Yi Chen
+  - Cristobal Cheyre
+  authors_full:
+  - name: Tobias Kircher
+  - name: Riley Grossman
+  - name: Mike Smith
+  - name: Alessandro Acquisti
+  - name: Cristian Borcea
+  - name: Yi Chen
+  - name: Cristobal Cheyre
+  session_number: 3
+  session: Privacy
+  event_type: session
+  date: '2026-06-02'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2026_12
+  conference: weis2026
+  year: 2026
+  title: Ransomware Insurance and Strategic Ransom Demand
+  authors:
+  - Manos Perdikakis
+  authors_full:
+  - name: Manos Perdikakis
+  session_number: 4
+  session: Insurance and Risk Management
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_4.pdf
+  slides_url: null
+  file: weis2026_12_ransomware-insurance-and-strategic-ransom-demand.pdf
+  path: papers/weis2026/weis2026_12_ransomware-insurance-and-strategic-ransom-demand.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_4.pdf
+  error: null
+- id: weis2026_13
+  conference: weis2026
+  year: 2026
+  title: Disentangling the Sources of Cyber Risk Premia
+  authors:
+  - Loïc Maréchal
+  - Nathan Monnet
+  authors_full:
+  - name: Loïc Maréchal
+  - name: Nathan Monnet
+  session_number: 4
+  session: Insurance and Risk Management
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_5.pdf
+  slides_url: null
+  file: weis2026_13_disentangling-the-sources-of-cyber-risk-premia.pdf
+  path: papers/weis2026/weis2026_13_disentangling-the-sources-of-cyber-risk-premia.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_5.pdf
+  error: null
+- id: weis2026_14
+  conference: weis2026
+  year: 2026
+  title: Defending Against Intelligent Attackers at Large Scales
+  authors:
+  - Andrew Lohn
+  authors_full:
+  - name: Andrew Lohn
+  session_number: 4
+  session: Insurance and Risk Management
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_2.pdf
+  slides_url: null
+  file: weis2026_14_defending-against-intelligent-attackers-at-large-scales.pdf
+  path: papers/weis2026/weis2026_14_defending-against-intelligent-attackers-at-large-scales.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_2.pdf
+  error: null
+- id: weis2026_15
+  conference: weis2026
+  year: 2026
+  title: '"People were not happy when admitting mistakes": Evolving Past Defensiveness in Running Coordinated Vulnerability Disclosure Programs'
+  authors:
+  - Sandra Rivera Pérez
+  - Amy Tjin Tjoen Jin
+  - Michel van Eeten
+  - Carlos Gañán
+  authors_full:
+  - name: Sandra Rivera Pérez
+  - name: Amy Tjin Tjoen Jin
+  - name: Michel van Eeten
+  - name: Carlos Gañán
+  session_number: 4
+  session: Insurance and Risk Management
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_20.pdf
+  slides_url: null
+  file: weis2026_15_people-were-not-happy-when-admitting-mistakes-evolving-past.pdf
+  path: papers/weis2026/weis2026_15_people-were-not-happy-when-admitting-mistakes-evolving-past.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_20.pdf
+  error: null
+- id: weis2026_16
+  conference: weis2026
+  year: 2026
+  title: 'Cybersecurity Ratings to Support Domain-Specific Financial Decisions: Applications to National Infrastructures, Cyberinsurance, Gordon-Loeb Model, and NPV Analysis'
+  authors:
+  - William Yurcik
+  - Gregory Pluta
+  - Fábio Miranda
+  authors_full:
+  - name: William Yurcik
+  - name: Gregory Pluta
+  - name: Fábio Miranda
+  session_number: 5
+  session: Infrastructure Weak?
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_25.pdf
+  slides_url: null
+  file: weis2026_16_cybersecurity-ratings-to-support-domain-specific-financial-d.pdf
+  path: papers/weis2026/weis2026_16_cybersecurity-ratings-to-support-domain-specific-financial-d.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_25.pdf
+  error: null
+- id: weis2026_17
+  conference: weis2026
+  year: 2026
+  title: 'The Emergence of Public Key Infrastructures: Changing Authority Structures and the Automation of Trust in Cyberspace'
+  authors:
+  - Milton Mueller
+  authors_full:
+  - name: Milton Mueller
+  session_number: 5
+  session: Infrastructure Weak?
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_21.pdf
+  slides_url: null
+  file: weis2026_17_the-emergence-of-public-key-infrastructures-changing-authori.pdf
+  path: papers/weis2026/weis2026_17_the-emergence-of-public-key-infrastructures-changing-authori.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_21.pdf
+  error: null
+- id: weis2026_18
+  conference: weis2026
+  year: 2026
+  title: 'Time Will Tell: A Longitudinal Analysis of the Evolution of Security and Privacy of Three IoT Device Types'
+  authors:
+  - Swaathi Vetrivel
+  - Michel van Eeten
+  - Carlos Gañán
+  authors_full:
+  - name: Swaathi Vetrivel
+  - name: Michel van Eeten
+  - name: Carlos Gañán
+  session_number: 5
+  session: Infrastructure Weak?
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_1.pdf
+  slides_url: null
+  file: weis2026_18_time-will-tell-a-longitudinal-analysis-of-the-evolution-of-s.pdf
+  path: papers/weis2026/weis2026_18_time-will-tell-a-longitudinal-analysis-of-the-evolution-of-s.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_1.pdf
+  error: null
+- id: weis2026_19
+  conference: weis2026
+  year: 2026
+  title: '"I''m the mess that you wanted": Evaluating the Accuracy of WHOIS Asset Discovery Against Self-Reported Data'
+  authors:
+  - Yana Angelova
+  - Aksel Ethembabaoglu
+  - Rolf van Wegberg
+  - Carlos Gañán
+  - Michel van Eeten
+  authors_full:
+  - name: Yana Angelova
+  - name: Aksel Ethembabaoglu
+  - name: Rolf van Wegberg
+  - name: Carlos Gañán
+  - name: Michel van Eeten
+  session_number: 6
+  session: Naming Names
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_8.pdf
+  slides_url: null
+  file: weis2026_19_i-m-the-mess-that-you-wanted-evaluating-the-accuracy-of-whoi.pdf
+  path: papers/weis2026/weis2026_19_i-m-the-mess-that-you-wanted-evaluating-the-accuracy-of-whoi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_8.pdf
+  error: null
+- id: weis2026_20
+  conference: weis2026
+  year: 2026
+  title: 'Domijn: The Security of Domain Registrars and the Risk of a Domain Name Takeover'
+  authors:
+  - Koen van Hove
+  - Jeroen van der Ham-de Vos
+  - Roland van Rijswijk-Deij
+  authors_full:
+  - name: Koen van Hove
+  - name: Jeroen van der Ham-de Vos
+  - name: Roland van Rijswijk-Deij
+  session_number: 6
+  session: Naming Names
+  event_type: session
+  date: '2026-06-03'
+  time: null
+  award: null
+  url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_9.pdf
+  slides_url: null
+  file: weis2026_20_domijn-the-security-of-domain-registrars-and-the-risk-of-a-d.pdf
+  path: papers/weis2026/weis2026_20_domijn-the-security-of-domain-registrars-and-the-risk-of-a-d.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2026.econinfosec.org/wp-content/uploads/sites/13/2026/05/WEIS2026_paper_9.pdf
+  error: null

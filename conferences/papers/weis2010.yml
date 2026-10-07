@@ -1,0 +1,311 @@
+name: WEIS 2010
+full_name: The 9th Workshop on the Economics of Information Security
+edition: 9
+year: 2010
+location: Cambridge, MA, USA
+venue: 'Northwest Building, School of Engineering and Applied Sciences (SEAS), Harvard University, 52 Oxford Street, Cambridge, MA 02138 (reception: Maxwell Dworkin Building, 33 Oxford Street)'
+start_date: '2010-06-07'
+end_date: '2010-06-08'
+website: http://weis2010.econinfosec.org/
+papers:
+- id: weis2010_01
+  title: 'Data Breaches and Identity Theft: When is Mandatory Disclosure Optimal?'
+  authors:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon
+  - name: Richard Sharp
+    affiliation: Carnegie Mellon
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  file: weis2010_01_data-breaches-and-identity-theft-when-is-mandatory-disclosur.pdf
+  path: papers/weis2010/weis2010_01_data-breaches-and-identity-theft-when-is-mandatory-disclosur.pdf
+- id: weis2010_02
+  title: Encryption and Data Loss
+  authors:
+  - name: Amalia R. Miller
+    affiliation: MIT
+  - name: Catherine Tucker
+    affiliation: MIT
+  file: weis2010_02_encryption-and-data-loss.pdf
+  path: papers/weis2010/weis2010_02_encryption-and-data-loss.pdf
+- id: weis2010_03
+  title: Market Impact on IT Security Spending
+  authors:
+  - name: Bora Kolfal
+    affiliation: Alberta
+  - name: Raymond Patterson
+    affiliation: Alberta
+  - name: Lisa Yeo
+    affiliation: Alberta
+  file: null
+  path: null
+- id: weis2010_04
+  title: 'Outsourcing Information Security: Contracting Issues and Security Implications'
+  authors:
+  - name: Asunur Cezar
+  - name: Huseyin Cavusoglu
+  - name: Srinivasan Raghunathan
+  file: weis2010_04_outsourcing-information-security-contracting-issues-and-secu.pdf
+  path: papers/weis2010/weis2010_04_outsourcing-information-security-contracting-issues-and-secu.pdf
+- id: weis2010_05
+  title: Is the Internet for Porn? An Insight Into the Online Adult Industry
+  authors:
+  - name: Gilbert Wondracek
+  - name: Thorsten Holz
+  - name: Christian Platzer
+  - name: Engin Kirda
+  - name: Christopher Kruegel
+  file: weis2010_05_is-the-internet-for-porn-an-insight-into-the-online-adult-in.pdf
+  path: papers/weis2010/weis2010_05_is-the-internet-for-porn-an-insight-into-the-online-adult-in.pdf
+- id: weis2010_06
+  title: Guns, Privacy, and Crime
+  authors:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  - name: Catherine Tucker
+    affiliation: MIT
+  file: weis2010_06_guns-privacy-and-crime.pdf
+  path: papers/weis2010/weis2010_06_guns-privacy-and-crime.pdf
+- id: weis2010_07
+  title: 'Misplaced Confidences: Privacy and the Control Paradox'
+  authors:
+  - name: Laura Brandimarte
+    affiliation: Carnegie Mellon
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  - name: George Loewenstein
+    affiliation: Carnegie Mellon
+  file: weis2010_07_misplaced-confidences-privacy-and-the-control-paradox.pdf
+  path: papers/weis2010/weis2010_07_misplaced-confidences-privacy-and-the-control-paradox.pdf
+- id: weis2010_08
+  title: A Welfare Analysis of Secondary Use of Personal Data
+  authors:
+  - name: Nicola Jentzsch
+    affiliation: German Institute for Economic Research
+  file: weis2010_08_a-welfare-analysis-of-secondary-use-of-personal-data.pdf
+  path: papers/weis2010/weis2010_08_a-welfare-analysis-of-secondary-use-of-personal-data.pdf
+- id: weis2010_09
+  title: 'The password thicket: technical and market failures in human authentication on the web'
+  authors:
+  - name: Joseph Bonneau
+    affiliation: Cambridge
+  - name: Sören Preibusch
+    affiliation: Cambridge
+  file: weis2010_09_the-password-thicket-technical-and-market-failures-in-human.pdf
+  path: papers/weis2010/weis2010_09_the-password-thicket-technical-and-market-failures-in-human.pdf
+- id: weis2010_10
+  title: 'Please Continue to Hold: An empirical study on user tolerance of security delays'
+  authors:
+  - name: Serge Egelman
+  - name: David Molnar
+  - name: Nicolas Christin
+  - name: Alessandro Acquisti
+  - name: Cormac Herley
+  - name: Shriram Krishnamurthi
+  file: weis2010_10_please-continue-to-hold-an-empirical-study-on-user-tolerance.pdf
+  path: papers/weis2010/weis2010_10_please-continue-to-hold-an-empirical-study-on-user-tolerance.pdf
+- id: weis2010_11
+  title: 'Inglourious Installers: Security in the Application Marketplace'
+  authors:
+  - name: Jonathan Anderson
+    affiliation: Cambridge
+  - name: Joseph Bonneau
+    affiliation: Cambridge
+  - name: Frank Stajano
+    affiliation: Cambridge
+  file: weis2010_11_inglourious-installers-security-in-the-application-marketpla.pdf
+  path: papers/weis2010/weis2010_11_inglourious-installers-security-in-the-application-marketpla.pdf
+- id: weis2010_12
+  title: Might Governments Clean-up Malware?
+  authors:
+  - name: Richard Clayton
+    affiliation: Cambridge
+  file: weis2010_12_might-governments-clean-up-malware.pdf
+  path: papers/weis2010/weis2010_12_might-governments-clean-up-malware.pdf
+- id: weis2010_13
+  title: 'The Role of Internet Service Providers in Botnet Mitigation: An Empirical Analysis Based on Spam Data'
+  authors:
+  - name: Michel van Eeten
+  - name: Johannes M. Bauer
+  - name: Hadi Asghari
+  - name: Shirin Tabatabaie
+  - name: Dave Rand
+  file: weis2010_13_the-role-of-internet-service-providers-in-botnet-mitigation.pdf
+  path: papers/weis2010/weis2010_13_the-role-of-internet-service-providers-in-botnet-mitigation.pdf
+- id: weis2010_14
+  title: 'Security Games in Online Advertising: Can Ads Help Secure the Web?'
+  authors:
+  - name: Nevena Vratonjic
+  - name: Jean-Pierre Hubaux
+  - name: Maxim Raya
+  - name: David Parkes
+  file: weis2010_14_security-games-in-online-advertising-can-ads-help-secure-the.pdf
+  path: papers/weis2010/weis2010_14_security-games-in-online-advertising-can-ads-help-secure-the.pdf
+- id: weis2010_15
+  title: Towards a Cooperative Defense Model Against Network Security Attacks
+  authors:
+  - name: Harikrishna Narasimhan
+  - name: Venkatanathan Varadarajan
+  - name: Pandu Rangan Chandrasekaran
+  file: weis2010_15_towards-a-cooperative-defense-model-against-network-security.pdf
+  path: papers/weis2010/weis2010_15_towards-a-cooperative-defense-model-against-network-security.pdf
+- id: weis2010_16
+  title: 'The Changing Nature of US Card Payment Fraud: Issues for Industry and Public Policy'
+  authors:
+  - name: Richard J. Sullivan
+    affiliation: Federal Reserve Bank of Kansas City
+  file: weis2010_16_the-changing-nature-of-us-card-payment-fraud-issues-for-indu.pdf
+  path: papers/weis2010/weis2010_16_the-changing-nature-of-us-card-payment-fraud-issues-for-indu.pdf
+- id: weis2010_17
+  title: Information Security Policy in the U.S. Retail Payments Industry
+  authors:
+  - name: Mark MacCarthy
+    affiliation: Georgetown
+  file: weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
+  path: papers/weis2010/weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
+- id: weis2010_18
+  title: Panel presentation (slides only)
+  authors:
+  - name: Ross Anderson
+    affiliation: Cambridge
+  file: null
+  path: null
+- id: weis2010_19
+  title: 'Self Hosting vs. Cloud Hosting: Accounting for the security impact of hosting in the cloud'
+  authors:
+  - name: David Molnar
+    affiliation: Microsoft Research
+  - name: Stuart Schechter
+    affiliation: Microsoft Research
+  file: weis2010_19_self-hosting-vs-cloud-hosting-accounting-for-the-security-im.pdf
+  path: papers/weis2010/weis2010_19_self-hosting-vs-cloud-hosting-accounting-for-the-security-im.pdf
+- id: weis2010_20
+  title: 'Modeling Cyber-Insurance: Towards A Unifying Framework'
+  authors:
+  - name: Rainer Böhme
+    affiliation: ICSI Berkeley
+  - name: Galina Schwartz
+    affiliation: ICSI Berkeley
+  file: null
+  path: null
+- id: weis2010_21
+  title: The Plight of the Targeted Attacker in a World of Scale
+  authors:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  file: weis2010_21_the-plight-of-the-targeted-attacker-in-a-world-of-scale.pdf
+  path: papers/weis2010/weis2010_21_the-plight-of-the-targeted-attacker-in-a-world-of-scale.pdf
+- id: weis2010_22
+  title: On the Security Economics of Electricity Metering
+  authors:
+  - name: Ross Anderson
+    affiliation: Cambridge
+  - name: Shailendra Fuloria
+    affiliation: Cambridge
+  file: weis2010_22_on-the-security-economics-of-electricity-metering.pdf
+  path: papers/weis2010/weis2010_22_on-the-security-economics-of-electricity-metering.pdf
+- id: weis2010_23
+  title: An Empirical Analysis of Exploitation Attempts based on Vulnerabilities in Open Source Software
+  authors:
+  - name: Sam Ransbotham
+    affiliation: Boston College
+  file: weis2010_23_an-empirical-analysis-of-exploitation-attempts-based-on-vuln.pdf
+  path: papers/weis2010/weis2010_23_an-empirical-analysis-of-exploitation-attempts-based-on-vuln.pdf
+- id: weis2010_24
+  title: 'The Mathematics of Obscurity: On the Trustworthiness of Open Source'
+  authors:
+  - name: Hermann Härtig
+    affiliation: TU Dresden
+  - name: Claude-Joachim Hamann
+    affiliation: TU Dresden
+  - name: Michael Roitzsch
+    affiliation: TU Dresden
+  file: weis2010_24_the-mathematics-of-obscurity-on-the-trustworthiness-of-open.pdf
+  path: papers/weis2010/weis2010_24_the-mathematics-of-obscurity-on-the-trustworthiness-of-open.pdf
+- id: weis2010_25
+  title: Structured Systems Economics for Security Management
+  authors:
+  - name: Adam Beautement
+    affiliation: UCL
+  - name: David Pym
+    affiliation: Aberdeen
+  file: null
+  path: null
+- id: weis2010_26
+  title: ISPs as Cyberecurity Providers
+  authors:
+  - name: Brent Rowe
+  file: null
+  path: null
+- id: weis2010_27
+  title: Security as Goodwill?
+  authors:
+  - name: Doron Becker
+  file: null
+  path: null
+- id: weis2010_28
+  title: Security Investment with Penetration Testing
+  authors:
+  - name: Mark Felegyhazi
+  file: null
+  path: null
+- id: weis2010_29
+  title: Chip and PIN Policy
+  authors:
+  - name: Steven Murdoch
+  file: null
+  path: null
+- id: weis2010_30
+  title: Policy Recommendations for Improving Cybersecurity
+  authors:
+  - name: Tyler Moore
+  file: null
+  path: null
+- id: weis2010_31
+  title: Product-Validation Systems and EIS
+  authors:
+  - name: Kanta Matsuura
+  file: null
+  path: null
+- id: weis2010_32
+  title: Rewards for Returning Lost Property
+  authors:
+  - name: Jonathan Anderson
+  file: null
+  path: null
+- id: weis2010_33
+  title: Consumer Acceptance for Secondary Use
+  authors:
+  - name: Haruo Takasaki
+  file: null
+  path: null
+- id: weis2010_34
+  title: Announcements
+  authors:
+  - name: Russell Cameron Thomas
+  file: null
+  path: null
+- id: weis2010_35
+  title: Passwords and Intimacy
+  authors:
+  - name: Joseph Bonneau
+  file: null
+  path: null
+- id: weis2010_36
+  title: Incentive-based Access Control
+  authors:
+  - name: Debin Liu
+  file: weis2010_36_beyond-risk-based-access-control-towards-incentive-based-acc.pdf
+  path: papers/weis2010/weis2010_36_beyond-risk-based-access-control-towards-incentive-based-acc.pdf
+- id: weis2010_37
+  title: Determining the Difficulty of Security Problems
+  authors:
+  - name: Steve Borbash
+  file: null
+  path: null
+- id: weis2010_38
+  title: We Have Data!
+  authors:
+  - name: Roger Dingledine
+  file: null
+  path: null

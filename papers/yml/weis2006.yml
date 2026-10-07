@@ -1,0 +1,742 @@
+conference: weis2006
+name: WEIS 2006
+year: 2006
+papers_dir: papers/weis2006
+total: 30
+downloaded: 29
+failed: 1
+papers:
+- id: weis2006_01
+  conference: weis2006
+  year: 2006
+  title: Models and Measures for Correlation in Cyber-Insurance
+  authors:
+  - Rainer Boehme
+  - Gaurav Kataria
+  authors_full:
+  - name: Rainer Boehme
+  - name: Gaurav Kataria
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/16.pdf
+  slides_url: null
+  file: weis2006_01_models-and-measures-for-correlation-in-cyber-insurance.pdf
+  path: papers/weis2006/weis2006_01_models-and-measures-for-correlation-in-cyber-insurance.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/16.pdf
+  error: null
+- id: weis2006_02
+  conference: weis2006
+  year: 2006
+  title: The Effect of Stock Spam on Financial Markets
+  authors:
+  - Rainer Boehme
+  - Thorsten Holz
+  authors_full:
+  - name: Rainer Boehme
+  - name: Thorsten Holz
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: http://ssrn.com/abstract=897431
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2006_03
+  conference: weis2006
+  year: 2006
+  title: The Economics of Digital Forensics
+  authors:
+  - Tyler Moore
+  authors_full:
+  - name: Tyler Moore
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/14.pdf
+  slides_url: null
+  file: weis2006_03_the-economics-of-digital-forensics.pdf
+  path: papers/weis2006/weis2006_03_the-economics-of-digital-forensics.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/14.pdf
+  error: null
+- id: weis2006_04
+  conference: weis2006
+  year: 2006
+  title: 'Understanding and Influencing Attackers'' Decisions: Implications for Security Investment Strategies'
+  authors:
+  - Marco Cremonini
+  - Dmitri Nizovtsev
+  authors_full:
+  - name: Marco Cremonini
+  - name: Dmitri Nizovtsev
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/3.pdf
+  slides_url: null
+  file: weis2006_04_understanding-and-influencing-attackers-decisions-implicatio.pdf
+  path: papers/weis2006/weis2006_04_understanding-and-influencing-attackers-decisions-implicatio.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/3.pdf
+  error: null
+- id: weis2006_05
+  conference: weis2006
+  year: 2006
+  title: On the Gordon & Loeb Model for Information Security Investment
+  authors:
+  - Jan Willemson
+  authors_full:
+  - name: Jan Willemson
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/12.pdf
+  slides_url: null
+  file: weis2006_05_on-the-gordon-loeb-model-for-information-security-investment.pdf
+  path: papers/weis2006/weis2006_05_on-the-gordon-loeb-model-for-information-security-investment.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/12.pdf
+  error: null
+- id: weis2006_06
+  conference: weis2006
+  year: 2006
+  title: Economics of Information Security Investment in the Case of Simultaneous Attacks
+  authors:
+  - C. Derrick Huang
+  - Qing Hu
+  - Ravi S. Behara
+  authors_full:
+  - name: C. Derrick Huang
+  - name: Qing Hu
+  - name: Ravi S. Behara
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/15.pdf
+  slides_url: null
+  file: weis2006_06_economics-of-information-security-investment-in-the-case-of.pdf
+  path: papers/weis2006/weis2006_06_economics-of-information-security-investment-in-the-case-of.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/15.pdf
+  error: null
+- id: weis2006_07
+  conference: weis2006
+  year: 2006
+  title: 'Enterprise Information Security: Who Should Manage it and How?'
+  authors:
+  - Vineet Kumar
+  - Rahul Telang
+  - Tridas Mukhopadhyay
+  authors_full:
+  - name: Vineet Kumar
+  - name: Rahul Telang
+  - name: Tridas Mukhopadhyay
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/21.pdf
+  slides_url: null
+  file: weis2006_07_enterprise-information-security-who-should-manage-it-and-how.pdf
+  path: papers/weis2006/weis2006_07_enterprise-information-security-who-should-manage-it-and-how.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/21.pdf
+  error: null
+- id: weis2006_08
+  conference: weis2006
+  year: 2006
+  title: Hackers, Users, Information Security
+  authors:
+  - I.P.L. Png
+  - Candy Q. Tang
+  - Qiu-Hong Wang
+  authors_full:
+  - name: I.P.L. Png
+  - name: Candy Q. Tang
+  - name: Qiu-Hong Wang
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/54.pdf
+  slides_url: null
+  file: weis2006_08_hackers-users-information-security.pdf
+  path: papers/weis2006/weis2006_08_hackers-users-information-security.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/54.pdf
+  error: null
+- id: weis2006_09
+  conference: weis2006
+  year: 2006
+  title: 'A Model for Opportunistic Network Exploits: The Case of P2P Worms'
+  authors:
+  - Michael Collins
+  - Carrie Gates
+  - Gaurav Kataria
+  authors_full:
+  - name: Michael Collins
+  - name: Carrie Gates
+  - name: Gaurav Kataria
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/30.pdf
+  slides_url: null
+  file: weis2006_09_a-model-for-opportunistic-network-exploits-the-case-of-p2p-w.pdf
+  path: papers/weis2006/weis2006_09_a-model-for-opportunistic-network-exploits-the-case-of-p2p-w.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/30.pdf
+  error: null
+- id: weis2006_10
+  conference: weis2006
+  year: 2006
+  title: Predictors of Home-Based Wireless Security
+  authors:
+  - Matthew Hottell
+  - Drew Carter
+  - Matthew Deniszczuk
+  authors_full:
+  - name: Matthew Hottell
+  - name: Drew Carter
+  - name: Matthew Deniszczuk
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/51.pdf
+  slides_url: null
+  file: weis2006_10_predictors-of-home-based-wireless-security.pdf
+  path: papers/weis2006/weis2006_10_predictors-of-home-based-wireless-security.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/51.pdf
+  error: null
+- id: weis2006_11
+  conference: weis2006
+  year: 2006
+  title: Proof of Work can Work
+  authors:
+  - Debin Liu
+  - L Jean Camp
+  authors_full:
+  - name: Debin Liu
+  - name: L Jean Camp
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/50.pdf
+  slides_url: null
+  file: weis2006_11_proof-of-work-can-work.pdf
+  path: papers/weis2006/weis2006_11_proof-of-work-can-work.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/50.pdf
+  error: null
+- id: weis2006_12
+  conference: weis2006
+  year: 2006
+  title: The Topology of Covert Conflict
+  authors:
+  - Shishir Nagaraja
+  - Ross Anderson
+  authors_full:
+  - name: Shishir Nagaraja
+  - name: Ross Anderson
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-26'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/38.pdf
+  slides_url: null
+  file: weis2006_12_the-topology-of-covert-conflict.pdf
+  path: papers/weis2006/weis2006_12_the-topology-of-covert-conflict.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/38.pdf
+  error: null
+- id: weis2006_13
+  conference: weis2006
+  year: 2006
+  title: 'Costs to the U.S. Economy of Information Infrastructure Failures: Estimates from Field Studies and Economic Data'
+  authors:
+  - Scott Dynes
+  - Eva Andrijicic
+  - M Eric Johnson
+  authors_full:
+  - name: Scott Dynes
+  - name: Eva Andrijicic
+  - name: M Eric Johnson
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/4.pdf
+  slides_url: null
+  file: weis2006_13_costs-to-the-u-s-economy-of-information-infrastructure-failu.pdf
+  path: papers/weis2006/weis2006_13_costs-to-the-u-s-economy-of-information-infrastructure-failu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/4.pdf
+  error: null
+- id: weis2006_14
+  conference: weis2006
+  year: 2006
+  title: 'The Potential for Underinvestment in Internet Security: Implications for Regulatory Policy'
+  authors:
+  - Alfredo Garcia
+  - Barry Horowitz
+  authors_full:
+  - name: Alfredo Garcia
+  - name: Barry Horowitz
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/24.pdf
+  slides_url: null
+  file: weis2006_14_the-potential-for-underinvestment-in-internet-security-impli.pdf
+  path: papers/weis2006/weis2006_14_the-potential-for-underinvestment-in-internet-security-impli.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/24.pdf
+  error: null
+- id: weis2006_15
+  conference: weis2006
+  year: 2006
+  title: Bootstrapping the Adoption of Internet Security Protocols
+  authors:
+  - Andy Ozment
+  - Stuart E. Schechter
+  authors_full:
+  - name: Andy Ozment
+  - name: Stuart E. Schechter
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/46.pdf
+  slides_url: null
+  file: weis2006_15_bootstrapping-the-adoption-of-internet-security-protocols.pdf
+  path: papers/weis2006/weis2006_15_bootstrapping-the-adoption-of-internet-security-protocols.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/46.pdf
+  error: null
+- id: weis2006_16
+  conference: weis2006
+  year: 2006
+  title: The Economic Impact of Regulatory Information Disclosure on Information Security Investments, Competition, and Social Welfare
+  authors:
+  - Anindya Ghose
+  - Uday Rajan
+  authors_full:
+  - name: Anindya Ghose
+  - name: Uday Rajan
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/37.pdf
+  slides_url: null
+  file: weis2006_16_the-economic-impact-of-regulatory-information-disclosure-on.pdf
+  path: papers/weis2006/weis2006_16_the-economic-impact-of-regulatory-information-disclosure-on.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/37.pdf
+  error: null
+- id: weis2006_17
+  conference: weis2006
+  year: 2006
+  title: 'Opt In Versus Opt Out: A Free-Entry Analysis of Privacy Policies'
+  authors:
+  - Jan Bouckaert
+  - Hans Degryse
+  authors_full:
+  - name: Jan Bouckaert
+  - name: Hans Degryse
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/34.pdf
+  slides_url: null
+  file: weis2006_17_opt-in-versus-opt-out-a-free-entry-analysis-of-privacy-polic.pdf
+  path: papers/weis2006/weis2006_17_opt-in-versus-opt-out-a-free-entry-analysis-of-privacy-polic.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/34.pdf
+  error: null
+- id: weis2006_18
+  conference: weis2006
+  year: 2006
+  title: Reliable, Usable Signaling to Defeat Masquerade Attacks
+  authors:
+  - L Jean Camp
+  authors_full:
+  - name: L Jean Camp
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/48.pdf
+  slides_url: null
+  file: weis2006_18_reliable-usable-signaling-to-defeat-masquerade-attacks.pdf
+  path: papers/weis2006/weis2006_18_reliable-usable-signaling-to-defeat-masquerade-attacks.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/48.pdf
+  error: null
+- id: weis2006_19
+  conference: weis2006
+  year: 2006
+  title: Economics of Security Patch Management
+  authors:
+  - Huseyin Cavusoglu
+  - Hasan Cavusoglu
+  - Jun Zhang
+  authors_full:
+  - name: Huseyin Cavusoglu
+  - name: Hasan Cavusoglu
+  - name: Jun Zhang
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/5.pdf
+  slides_url: null
+  file: weis2006_19_economics-of-security-patch-management.pdf
+  path: papers/weis2006/weis2006_19_economics-of-security-patch-management.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/5.pdf
+  error: null
+- id: weis2006_20
+  conference: weis2006
+  year: 2006
+  title: Emerging Economic Models for Vulnerability Research
+  authors:
+  - Michael Sutton
+  - Frank Nagle
+  authors_full:
+  - name: Michael Sutton
+  - name: Frank Nagle
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/17.pdf
+  slides_url: null
+  file: weis2006_20_emerging-economic-models-for-vulnerability-research.pdf
+  path: papers/weis2006/weis2006_20_emerging-economic-models-for-vulnerability-research.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/17.pdf
+  error: null
+- id: weis2006_21
+  conference: weis2006
+  year: 2006
+  title: Competitive and Strategic Effects in the Timing of Patch Release
+  authors:
+  - Ashish Arora
+  - Christopher M. Forman
+  - Anand Nandkumar
+  - Rahul Telang
+  authors_full:
+  - name: Ashish Arora
+  - name: Christopher M. Forman
+  - name: Anand Nandkumar
+  - name: Rahul Telang
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/35.pdf
+  slides_url: null
+  file: weis2006_21_competitive-and-strategic-effects-in-the-timing-of-patch-rel.pdf
+  path: papers/weis2006/weis2006_21_competitive-and-strategic-effects-in-the-timing-of-patch-rel.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/35.pdf
+  error: null
+- id: weis2006_22
+  conference: weis2006
+  year: 2006
+  title: 'Private Sector Cyber Security Investment: An Empirical Analysis'
+  authors:
+  - Brent R. Rowe
+  - Michael P. Gallaher
+  authors_full:
+  - name: Brent R. Rowe
+  - name: Michael P. Gallaher
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/18.pdf
+  slides_url: null
+  file: weis2006_22_private-sector-cyber-security-investment-an-empirical-analys.pdf
+  path: papers/weis2006/weis2006_22_private-sector-cyber-security-investment-an-empirical-analys.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/18.pdf
+  error: null
+- id: weis2006_23
+  conference: weis2006
+  year: 2006
+  title: An Empirical Analysis of Security Investment in Countermeasures Based on an Enterprise Survey in Japan
+  authors:
+  - Wei Liu
+  - Hideyuki Tanaka
+  - Kanta Matsuura
+  authors_full:
+  - name: Wei Liu
+  - name: Hideyuki Tanaka
+  - name: Kanta Matsuura
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/9.pdf
+  slides_url: null
+  file: weis2006_23_an-empirical-analysis-of-security-investment-in-countermeasu.pdf
+  path: papers/weis2006/weis2006_23_an-empirical-analysis-of-security-investment-in-countermeasu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/9.pdf
+  error: null
+- id: weis2006_24
+  conference: weis2006
+  year: 2006
+  title: 'Justifying Spam and E-mail Virus Security Investments: A Case Study'
+  authors:
+  - Hemantha Herath
+  - Tejaswini Herath
+  authors_full:
+  - name: Hemantha Herath
+  - name: Tejaswini Herath
+  session_number: 4
+  session: Session 4
+  event_type: session
+  date: '2006-06-27'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/13.pdf
+  slides_url: null
+  file: weis2006_24_justifying-spam-and-e-mail-virus-security-investments-a-case.pdf
+  path: papers/weis2006/weis2006_24_justifying-spam-and-e-mail-virus-security-investments-a-case.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/13.pdf
+  error: null
+- id: weis2006_25
+  conference: weis2006
+  year: 2006
+  title: The Economics of Mass Surveillance and the Questionable Value of Anonymous Communications
+  authors:
+  - George Danezis
+  - Bettina Wittneben
+  authors_full:
+  - name: George Danezis
+  - name: Bettina Wittneben
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/36.pdf
+  slides_url: null
+  file: weis2006_25_the-economics-of-mass-surveillance-and-the-questionable-valu.pdf
+  path: papers/weis2006/weis2006_25_the-economics-of-mass-surveillance-and-the-questionable-valu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/36.pdf
+  error: null
+- id: weis2006_26
+  conference: weis2006
+  year: 2006
+  title: Is There a Cost to Privacy Breaches? An Event Study
+  authors:
+  - Alessandro Acquisti
+  - Allan Friedman
+  - Rahul Telang
+  authors_full:
+  - name: Alessandro Acquisti
+  - name: Allan Friedman
+  - name: Rahul Telang
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/40.pdf
+  slides_url: null
+  file: weis2006_26_is-there-a-cost-to-privacy-breaches-an-event-study.pdf
+  path: papers/weis2006/weis2006_26_is-there-a-cost-to-privacy-breaches-an-event-study.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/40.pdf
+  error: null
+- id: weis2006_27
+  conference: weis2006
+  year: 2006
+  title: Financial Privacy for Free? US Consumers' Response to FACTA
+  authors:
+  - Alessandro Acquisti
+  - Bin Zhang
+  authors_full:
+  - name: Alessandro Acquisti
+  - name: Bin Zhang
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/45.pdf
+  slides_url: null
+  file: weis2006_27_financial-privacy-for-free-us-consumers-response-to-facta.pdf
+  path: papers/weis2006/weis2006_27_financial-privacy-for-free-us-consumers-response-to-facta.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/45.pdf
+  error: null
+- id: weis2006_28
+  conference: weis2006
+  year: 2006
+  title: 'Anonymity Loves Company: Usability and the Network Effect'
+  authors:
+  - Roger Dingledine
+  - Nick Mathewson
+  authors_full:
+  - name: Roger Dingledine
+  - name: Nick Mathewson
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/41.pdf
+  slides_url: null
+  file: weis2006_28_anonymity-loves-company-usability-and-the-network-effect.pdf
+  path: papers/weis2006/weis2006_28_anonymity-loves-company-usability-and-the-network-effect.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/41.pdf
+  error: null
+- id: weis2006_29
+  conference: weis2006
+  year: 2006
+  title: 'Collaborative Scheduling: Threats and Promises'
+  authors:
+  - Rachel Greenstadt
+  - Michael D. Smith
+  authors_full:
+  - name: Rachel Greenstadt
+  - name: Michael D. Smith
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/43.pdf
+  slides_url: null
+  file: weis2006_29_collaborative-scheduling-threats-and-promises.pdf
+  path: papers/weis2006/weis2006_29_collaborative-scheduling-threats-and-promises.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/43.pdf
+  error: null
+- id: weis2006_30
+  conference: weis2006
+  year: 2006
+  title: Adverse Selection in Online 'Trust' Certifications
+  authors:
+  - Benjamin Edelman
+  authors_full:
+  - name: Benjamin Edelman
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2006-06-28'
+  time: null
+  award: null
+  url: https://www.econinfosec.org/archive/weis2006/docs/10.pdf
+  slides_url: null
+  file: weis2006_30_adverse-selection-in-online-trust-certifications.pdf
+  path: papers/weis2006/weis2006_30_adverse-selection-in-online-trust-certifications.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2006/docs/10.pdf
+  error: null

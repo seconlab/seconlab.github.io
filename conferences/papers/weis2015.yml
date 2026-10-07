@@ -1,0 +1,182 @@
+name: WEIS 2015
+full_name: The 14th Workshop on the Economics of Information Security
+edition: 14
+year: 2015
+location: Delft, the Netherlands
+venue: TU Delft Science Center, Mijnbouwstraat 120, 2628RX Delft (policy panels on 24 June at The Hague Security Delta Campus)
+start_date: '2015-06-22'
+end_date: '2015-06-23'
+website: http://weis2015.econinfosec.org/
+papers:
+- id: weis2015_01
+  title: The Economics of Mandatory Security Breach Reporting to Authorities
+  authors:
+  - name: Stefan Laube
+  - name: Rainer Böhme
+  file: weis2015_01_the-economics-of-mandatory-security-breach-reporting-to-auth.pdf
+  path: papers/weis2015/weis2015_01_the-economics-of-mandatory-security-breach-reporting-to-auth.pdf
+- id: weis2015_02
+  title: Data Breaches and the Dilemmas in Notifying Customers
+  authors:
+  - name: Fabio Bisogni
+  file: weis2015_02_data-breaches-and-the-dilemmas-in-notifying-customers.pdf
+  path: papers/weis2015/weis2015_02_data-breaches-and-the-dilemmas-in-notifying-customers.pdf
+- id: weis2015_03
+  title: 'Hype and Heavy Tails: A Closer Look at Data Breaches'
+  authors:
+  - name: Benjamin Edwards
+  - name: Steven Hofmeyr
+  - name: Stephanie Forrest
+  file: weis2015_03_hype-and-heavy-tails-a-closer-look-at-data-breaches.pdf
+  path: papers/weis2015/weis2015_03_hype-and-heavy-tails-a-closer-look-at-data-breaches.pdf
+- id: weis2015_04
+  title: 'The Market Effect of Healthcare Security: Do Patients Care about Data Breaches?'
+  authors:
+  - name: Juhee Kwon
+  - name: Eric Johnson
+  file: weis2015_04_the-market-effect-of-healthcare-security-do-patients-care-ab.pdf
+  path: papers/weis2015/weis2015_04_the-market-effect-of-healthcare-security-do-patients-care-ab.pdf
+- id: weis2015_05
+  title: Online Self-Disclosure and Offline Threat Detection
+  authors:
+  - name: Alessandro Acquisti
+  - name: Laura Brandimarte
+  - name: Jeff Hancock
+  file: null
+  path: null
+- id: weis2015_06
+  title: What is a Cookie Worth?
+  authors:
+  - name: Arslan Aziz
+  - name: Rahul Telang
+  file: weis2015_06_what-is-a-cookie-worth.pdf
+  path: papers/weis2015/weis2015_06_what-is-a-cookie-worth.pdf
+- id: weis2015_07
+  title: 'Caviar and Yachts: How Your Purchase Data May Come Back to Haunt You'
+  authors:
+  - name: Benjamin Johnson
+  - name: Paul Laskowski
+  - name: Thomas Maillart
+  - name: John Chuang
+  - name: Nicolas Christin
+  file: weis2015_07_caviar-and-yachts-how-your-purchase-data-may-come-back-to-ha.pdf
+  path: papers/weis2015/weis2015_07_caviar-and-yachts-how-your-purchase-data-may-come-back-to-ha.pdf
+- id: weis2015_08
+  title: 'The Value of Privacy: Keeping the Money Where the Mouth is'
+  authors:
+  - name: Ignacio Cofone
+  file: weis2015_08_the-value-of-privacy-keeping-the-money-where-the-mouth-is.pdf
+  path: papers/weis2015/weis2015_08_the-value-of-privacy-keeping-the-money-where-the-mouth-is.pdf
+- id: weis2015_09
+  title: An Empirical Study of Namecoin and Lessons for Decentralized Namespace Design
+  authors:
+  - name: Harry Kalodner
+  - name: Miles Carlsten
+  - name: Paul Ellenbogen
+  - name: Joseph Bonneau
+  - name: Arvind Narayanan
+  file: weis2015_09_an-empirical-study-of-namecoin-and-lessons-for-decentralized.pdf
+  path: papers/weis2015/weis2015_09_an-empirical-study-of-namecoin-and-lessons-for-decentralized.pdf
+- id: weis2015_10
+  title: 'User Acceptance Factors for Anonymous Credentials: An Empirical Investigation'
+  authors:
+  - name: Zinaida Benenson
+  - name: Anna Girard
+  - name: Ioannis Krontiris
+  file: weis2015_10_user-acceptance-factors-for-anonymous-credentials-an-empiric.pdf
+  path: papers/weis2015/weis2015_10_user-acceptance-factors-for-anonymous-credentials-an-empiric.pdf
+- id: weis2015_11
+  title: 'Deception by Design: Evidence-Based Signaling Games for Network Defense'
+  authors:
+  - name: Jeffrey Pawlick
+  - name: Quanyan Zhu
+  file: weis2015_11_deception-by-design-evidence-based-signaling-games-for-netwo.pdf
+  path: papers/weis2015/weis2015_11_deception-by-design-evidence-based-signaling-games-for-netwo.pdf
+- id: weis2015_12
+  title: Experimental Elicitation of Risk Behaviour amongst Information Security Professionals
+  authors:
+  - name: Konstantinos Mersinas
+  - name: Bjoern Hartig
+  - name: Keith Martin
+  - name: Andrew Seltzer
+  file: weis2015_12_experimental-elicitation-of-risk-behaviour-amongst-informati.pdf
+  path: papers/weis2015/weis2015_12_experimental-elicitation-of-risk-behaviour-amongst-informati.pdf
+- id: weis2015_13
+  title: Concentrating Correctly on Cybercrime Concentration
+  authors:
+  - name: Richard Clayton
+  - name: Tyler Moore
+  - name: Nicolas Christin
+  file: weis2015_13_concentrating-correctly-on-cybercrime-concentration.pdf
+  path: papers/weis2015/weis2015_13_concentrating-correctly-on-cybercrime-concentration.pdf
+- id: weis2015_14
+  title: 'Deception in Online Auction Marketplaces: Incentives and Personality Shape Seller Honesty'
+  authors:
+  - name: Brian Glass
+  - name: Michelle Baddeley
+  - name: M. Angela Sasse
+  file: weis2015_14_deception-in-online-auction-marketplaces-incentives-and-pers.pdf
+  path: papers/weis2015/weis2015_14_deception-in-online-auction-marketplaces-incentives-and-pers.pdf
+- id: weis2015_15
+  title: Framing Dependencies Introduced by Underground Commoditization
+  authors:
+  - name: Kurt Thomas
+  - name: Danny Yuxing Huang
+  - name: David Wang
+  - name: Elie Bursztein
+  - name: Chris Grier
+  - name: Tom Holt
+  - name: Christopher Kruegel
+  - name: Damon McCoy
+  - name: Stefan Savage
+  - name: Giovanni Vigna
+  file: weis2015_15_framing-dependencies-introduced-by-underground-commoditizati.pdf
+  path: papers/weis2015/weis2015_15_framing-dependencies-introduced-by-underground-commoditizati.pdf
+- id: weis2015_16
+  title: 'No Please, After You: Detecting Fraud in Affiliate Marketing Networks'
+  authors:
+  - name: Peter Snyder
+  - name: Chris Kanich
+  file: weis2015_16_no-please-after-you-detecting-fraud-in-affiliate-marketing-n.pdf
+  path: papers/weis2015/weis2015_16_no-please-after-you-detecting-fraud-in-affiliate-marketing-n.pdf
+- id: weis2015_17
+  title: 'Prioritizing Security Spending: A Quantitative Analysis of Risk Distributions for Different Business Profiles'
+  authors:
+  - name: Armin Sarabi
+  - name: Parinaz Naghizadeh
+  - name: Yang Liu
+  - name: Mingyan Liu
+  file: weis2015_17_prioritizing-security-spending-a-quantitative-analysis-of-ri.pdf
+  path: papers/weis2015/weis2015_17_prioritizing-security-spending-a-quantitative-analysis-of-ri.pdf
+- id: weis2015_18
+  title: 'Policy, Statistics, and Questions: Reflections on UK Cyber Security Disclosures'
+  authors:
+  - name: Chad Heitzenrater
+  - name: Andrew Simpson
+  file: weis2015_18_policy-statistics-and-questions-reflections-on-uk-cyber-secu.pdf
+  path: papers/weis2015/weis2015_18_policy-statistics-and-questions-reflections-on-uk-cyber-secu.pdf
+- id: weis2015_19
+  title: Attack-Deterring and Damage-Control Investments in Cybersecurity
+  authors:
+  - name: Wing Man Wynne Lam
+  file: weis2015_19_attack-deterring-and-damage-control-investments-in-cybersecu.pdf
+  path: papers/weis2015/weis2015_19_attack-deterring-and-damage-control-investments-in-cybersecu.pdf
+- id: weis2015_20
+  title: Designing Cybersecurity Policies
+  authors:
+  - name: Shu He
+  - name: Gene Moo Lee
+  - name: John Quarterman
+  - name: Andrew Whinston
+  file: weis2015_20_designing-cybersecurity-policies.pdf
+  path: papers/weis2015/weis2015_20_designing-cybersecurity-policies.pdf
+- id: weis2015_21
+  title: Understanding the Role of Sender Reputation in Abuse Reporting and Cleanup
+  authors:
+  - name: Orcun Cetin
+  - name: Mohammad Hanif Jhaveri
+  - name: Carlos Gañán
+  - name: Michel van Eeten
+  - name: Tyler Moore
+  file: weis2015_21_understanding-the-role-of-sender-reputation-in-abuse-reporti.pdf
+  path: papers/weis2015/weis2015_21_understanding-the-role-of-sender-reputation-in-abuse-reporti.pdf

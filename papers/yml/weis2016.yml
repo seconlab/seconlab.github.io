@@ -1,0 +1,564 @@
+conference: weis2016
+name: WEIS 2016
+year: 2016
+papers_dir: papers/weis2016
+total: 21
+downloaded: 21
+failed: 0
+papers:
+- id: weis2016_01
+  conference: weis2016
+  year: 2016
+  title: 'Whack-a-mole: Asymmetric Conflict and Guerrilla Warfare in Web Security'
+  authors:
+  - Pern Hui Chia
+  - John Chuang
+  - Yanling Chen
+  authors_full:
+  - name: Pern Hui Chia
+  - name: John Chuang
+  - name: Yanling Chen
+  session_number: 1
+  session: Security Investment
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_15-2.pdf
+  slides_url: null
+  file: weis2016_01_whack-a-mole-asymmetric-conflict-and-guerrilla-warfare-in-we.pdf
+  path: papers/weis2016/weis2016_01_whack-a-mole-asymmetric-conflict-and-guerrilla-warfare-in-we.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_15-2.pdf
+  error: null
+- id: weis2016_02
+  conference: weis2016
+  year: 2016
+  title: Identifying How Firms Manage Cybersecurity Investment
+  authors:
+  - Tyler Moore
+  - Scott Dynes
+  - Frederick Chang
+  authors_full:
+  - name: Tyler Moore
+  - name: Scott Dynes
+  - name: Frederick Chang
+  session_number: 1
+  session: Security Investment
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_19-1.pdf
+  slides_url: null
+  file: weis2016_02_identifying-how-firms-manage-cybersecurity-investment.pdf
+  path: papers/weis2016/weis2016_02_identifying-how-firms-manage-cybersecurity-investment.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_19-1.pdf
+  error: null
+- id: weis2016_03
+  conference: weis2016
+  year: 2016
+  title: 'The Days Before Zero Day: Investment Models for Secure Software Engineering'
+  authors:
+  - Chad Heitzenrater
+  - Rainer Böhme
+  - Andrew Simpson
+  authors_full:
+  - name: Chad Heitzenrater
+  - name: Rainer Böhme
+  - name: Andrew Simpson
+  session_number: 1
+  session: Security Investment
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_21-2.pdf
+  slides_url: null
+  file: weis2016_03_the-days-before-zero-day-investment-models-for-secure-softwa.pdf
+  path: papers/weis2016/weis2016_03_the-days-before-zero-day-investment-models-for-secure-softwa.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_21-2.pdf
+  error: null
+- id: weis2016_04
+  conference: weis2016
+  year: 2016
+  title: 'Data Security in the Digital Age: Reputation and Strategic Interactions in Security Investment'
+  authors:
+  - Ying Lei Toh
+  authors_full:
+  - name: Ying Lei Toh
+  session_number: 1
+  session: Security Investment
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_34-4.pdf
+  slides_url: null
+  file: weis2016_04_data-security-in-the-digital-age-reputation-and-strategic-in.pdf
+  path: papers/weis2016/weis2016_04_data-security-in-the-digital-age-reputation-and-strategic-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_34-4.pdf
+  error: null
+- id: weis2016_05
+  conference: weis2016
+  year: 2016
+  title: 'The Impact of DDoS and Other Security Shocks on Bitcoin Currency Exchanges: Evidence from Mt. Gox'
+  authors:
+  - Neil Gandal
+  - Tyler Moore
+  - Amir Feder
+  - James Hamrick
+  authors_full:
+  - name: Neil Gandal
+  - name: Tyler Moore
+  - name: Amir Feder
+  - name: James Hamrick
+  session_number: 2
+  session: Online Payments
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_7.pdf
+  slides_url: null
+  file: weis2016_05_the-impact-of-ddos-and-other-security-shocks-on-bitcoin-curr.pdf
+  path: papers/weis2016/weis2016_05_the-impact-of-ddos-and-other-security-shocks-on-bitcoin-curr.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_7.pdf
+  error: null
+- id: weis2016_06
+  conference: weis2016
+  year: 2016
+  title: Determining an Optimal Threshold on the Online Reserves of a Bitcoin Exchange
+  authors:
+  - Samvit Jain
+  - Edward Felten
+  - Steven Goldfeder
+  authors_full:
+  - name: Samvit Jain
+  - name: Edward Felten
+  - name: Steven Goldfeder
+  session_number: 2
+  session: Online Payments
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_68-2.pdf
+  slides_url: null
+  file: weis2016_06_determining-an-optimal-threshold-on-the-online-reserves-of-a.pdf
+  path: papers/weis2016/weis2016_06_determining-an-optimal-threshold-on-the-online-reserves-of-a.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_68-2.pdf
+  error: null
+- id: weis2016_07
+  conference: weis2016
+  year: 2016
+  title: Risk Management for Third Party Payment Networks
+  authors:
+  - Willem van Driel
+  - Carlos Gañán
+  - Maikel Lobbezoo
+  - Michel van Eeten
+  authors_full:
+  - name: Willem van Driel
+  - name: Carlos Gañán
+  - name: Maikel Lobbezoo
+  - name: Michel van Eeten
+  session_number: 2
+  session: Online Payments
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_43-1.pdf
+  slides_url: null
+  file: weis2016_07_risk-management-for-third-party-payment-networks.pdf
+  path: papers/weis2016/weis2016_07_risk-management-for-third-party-payment-networks.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_43-1.pdf
+  error: null
+- id: weis2016_08
+  conference: weis2016
+  year: 2016
+  title: Join Me on a Market for Anonymity
+  authors:
+  - Malte Möser
+  - Rainer Böhme
+  authors_full:
+  - name: Malte Möser
+  - name: Rainer Böhme
+  session_number: 2
+  session: Online Payments
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_58.pdf
+  slides_url: null
+  file: weis2016_08_join-me-on-a-market-for-anonymity.pdf
+  path: papers/weis2016/weis2016_08_join-me-on-a-market-for-anonymity.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_58.pdf
+  error: null
+- id: weis2016_09
+  conference: weis2016
+  year: 2016
+  title: 'Measuring Attitude towards Risk Treatment Actions amongst Information Security Professionals: an Experimental Approach'
+  authors:
+  - Konstantinos Mersinas
+  - Bjoern Hartig
+  - Keith Martin
+  - Andrew Seltzer
+  authors_full:
+  - name: Konstantinos Mersinas
+  - name: Bjoern Hartig
+  - name: Keith Martin
+  - name: Andrew Seltzer
+  session_number: 3
+  session: User Attitudes and Perceptions
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_22-5.pdf
+  slides_url: null
+  file: weis2016_09_measuring-attitude-towards-risk-treatment-actions-amongst-in.pdf
+  path: papers/weis2016/weis2016_09_measuring-attitude-towards-risk-treatment-actions-amongst-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_22-5.pdf
+  error: null
+- id: weis2016_10
+  conference: weis2016
+  year: 2016
+  title: Consumer Attitudes Toward Data Breach Notifications and Loss of Personal Information
+  authors:
+  - Lillian Ablon
+  - Paul Heaton
+  - Diana Lavery
+  - Sasha Romanosky
+  authors_full:
+  - name: Lillian Ablon
+  - name: Paul Heaton
+  - name: Diana Lavery
+  - name: Sasha Romanosky
+  session_number: 3
+  session: User Attitudes and Perceptions
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_11-2.pdf
+  slides_url: null
+  file: weis2016_10_consumer-attitudes-toward-data-breach-notifications-and-loss.pdf
+  path: papers/weis2016/weis2016_10_consumer-attitudes-toward-data-breach-notifications-and-loss.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_11-2.pdf
+  error: null
+- id: weis2016_11
+  conference: weis2016
+  year: 2016
+  title: 'International Comparison of Bank Fraud Reimbursement: Customer Perceptions and Contractual Terms'
+  authors:
+  - Ingolf Becker
+  - Alice Hutchings
+  - Ruba Abu-Salma
+  - Ross Anderson
+  - Nicholas Bohm
+  - Steven J. Murdoch
+  - M. Angela Sasse
+  - Gianluca Stringhini
+  authors_full:
+  - name: Ingolf Becker
+  - name: Alice Hutchings
+  - name: Ruba Abu-Salma
+  - name: Ross Anderson
+  - name: Nicholas Bohm
+  - name: Steven J. Murdoch
+  - name: M. Angela Sasse
+  - name: Gianluca Stringhini
+  session_number: 3
+  session: User Attitudes and Perceptions
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_78-1.pdf
+  slides_url: null
+  file: weis2016_11_international-comparison-of-bank-fraud-reimbursement-custome.pdf
+  path: papers/weis2016/weis2016_11_international-comparison-of-bank-fraud-reimbursement-custome.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_78-1.pdf
+  error: null
+- id: weis2016_12
+  conference: weis2016
+  year: 2016
+  title: 'Estimating the costs of consumer-facing cybercrime: A tailored instrument and representative data for six EU countries'
+  authors:
+  - Markus Riek
+  - Rainer Böhme
+  - Michael Ciere
+  - Carlos Gañán
+  - Michel van Eeten
+  authors_full:
+  - name: Markus Riek
+  - name: Rainer Böhme
+  - name: Michael Ciere
+  - name: Carlos Gañán
+  - name: Michel van Eeten
+  session_number: 3
+  session: User Attitudes and Perceptions
+  event_type: session
+  date: '2016-06-13'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_54-2.pdf
+  slides_url: null
+  file: weis2016_12_estimating-the-costs-of-consumer-facing-cybercrime-a-tailore.pdf
+  path: papers/weis2016/weis2016_12_estimating-the-costs-of-consumer-facing-cybercrime-a-tailore.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_54-2.pdf
+  error: null
+- id: weis2016_13
+  conference: weis2016
+  year: 2016
+  title: Privacy and Security Through the Lens of the Federal Trade Commission’s Bureau of Economics
+  authors:
+  - Chris Hoofnagle
+  authors_full:
+  - name: Chris Hoofnagle
+  session_number: 4
+  session: Privacy
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_36-1.pdf
+  slides_url: null
+  file: weis2016_13_privacy-and-security-through-the-lens-of-the-federal-trade-c.pdf
+  path: papers/weis2016/weis2016_13_privacy-and-security-through-the-lens-of-the-federal-trade-c.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_36-1.pdf
+  error: null
+- id: weis2016_14
+  conference: weis2016
+  year: 2016
+  title: Strategic News Bundling and Privacy Breach Disclosures
+  authors:
+  - Sebastien Gay
+  authors_full:
+  - name: Sebastien Gay
+  session_number: 4
+  session: Privacy
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_20-1.pdf
+  slides_url: null
+  file: weis2016_14_strategic-news-bundling-and-privacy-breach-disclosures.pdf
+  path: papers/weis2016/weis2016_14_strategic-news-bundling-and-privacy-breach-disclosures.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_20-1.pdf
+  error: null
+- id: weis2016_15
+  conference: weis2016
+  year: 2016
+  title: 'MyTrackingChoices: Pacifying the Ad-Block War by Enforcing User Privacy Preferences'
+  authors:
+  - Jagdish Prasad Achara
+  - Javier Parra-Arnau
+  - Claude Castelluccia
+  authors_full:
+  - name: Jagdish Prasad Achara
+  - name: Javier Parra-Arnau
+  - name: Claude Castelluccia
+  session_number: 4
+  session: Privacy
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_48.pdf
+  slides_url: null
+  file: weis2016_15_mytrackingchoices-pacifying-the-ad-block-war-by-enforcing-us.pdf
+  path: papers/weis2016/weis2016_15_mytrackingchoices-pacifying-the-ad-block-war-by-enforcing-us.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_48.pdf
+  error: null
+- id: weis2016_16
+  conference: weis2016
+  year: 2016
+  title: Malware and Market Share
+  authors:
+  - Daniel Arce
+  authors_full:
+  - name: Daniel Arce
+  session_number: 5
+  session: Malware and Other Crime
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_4-1.pdf
+  slides_url: null
+  file: weis2016_16_malware-and-market-share.pdf
+  path: papers/weis2016/weis2016_16_malware-and-market-share.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_4-1.pdf
+  error: null
+- id: weis2016_17
+  conference: weis2016
+  year: 2016
+  title: 'National-level risk assessment: A multi-country study of malware infections'
+  authors:
+  - Fanny Lalonde Lévesque
+  - José M. Fernandez
+  - Anil Somayaji
+  - Dennis Batchelder
+  authors_full:
+  - name: Fanny Lalonde Lévesque
+  - name: José M. Fernandez
+  - name: Anil Somayaji
+  - name: Dennis Batchelder
+  session_number: 5
+  session: Malware and Other Crime
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/06/WEIS_2016_paper_38-2-1.pdf
+  slides_url: null
+  file: weis2016_17_national-level-risk-assessment-a-multi-country-study-of-malw.pdf
+  path: papers/weis2016/weis2016_17_national-level-risk-assessment-a-multi-country-study-of-malw.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/06/WEIS_2016_paper_38-2-1.pdf
+  error: null
+- id: weis2016_18
+  conference: weis2016
+  year: 2016
+  title: Identity Theft as a Teachable Moment
+  authors:
+  - Vyacheslav Mikhed
+  - Michael Vogan
+  - Robert Hunt
+  - Julia Cheney
+  - Dubravka Ritter
+  authors_full:
+  - name: Vyacheslav Mikhed
+  - name: Michael Vogan
+  - name: Robert Hunt
+  - name: Julia Cheney
+  - name: Dubravka Ritter
+  session_number: 5
+  session: Malware and Other Crime
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_14-1.pdf
+  slides_url: null
+  file: weis2016_18_identity-theft-as-a-teachable-moment.pdf
+  path: papers/weis2016/weis2016_18_identity-theft-as-a-teachable-moment.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_14-1.pdf
+  error: null
+- id: weis2016_19
+  conference: weis2016
+  year: 2016
+  title: Given Enough Eyeballs, All Bugs Shallow? Revisiting Eric Raymond with Bug Bounty Markets
+  authors:
+  - Thomas Maillart
+  - Mingyi Zhao
+  - Jens Grossklags
+  - John Chuang
+  authors_full:
+  - name: Thomas Maillart
+  - name: Mingyi Zhao
+  - name: Jens Grossklags
+  - name: John Chuang
+  session_number: 6
+  session: Incentives
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2015/08/WEIS_2016_paper_76.pdf
+  slides_url: null
+  file: weis2016_19_given-enough-eyeballs-all-bugs-shallow-revisiting-eric-raymo.pdf
+  path: papers/weis2016/weis2016_19_given-enough-eyeballs-all-bugs-shallow-revisiting-eric-raymo.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2015/08/WEIS_2016_paper_76.pdf
+  error: null
+- id: weis2016_20
+  conference: weis2016
+  year: 2016
+  title: 'Perverse Incentives in Security Contracts: A Case Study in the Colombian Power Grid'
+  authors:
+  - Carlos Barreto
+  - Alvaro A. Cardenas
+  authors_full:
+  - name: Carlos Barreto
+  - name: Alvaro A. Cardenas
+  session_number: 6
+  session: Incentives
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_71-1.pdf
+  slides_url: null
+  file: weis2016_20_perverse-incentives-in-security-contracts-a-case-study-in-th.pdf
+  path: papers/weis2016/weis2016_20_perverse-incentives-in-security-contracts-a-case-study-in-th.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_71-1.pdf
+  error: null
+- id: weis2016_21
+  conference: weis2016
+  year: 2016
+  title: 'Market Segmentation and Software Security: Pricing Patching Rights'
+  authors:
+  - Terrence August
+  - Duy Dao
+  - Kihoon Kim
+  authors_full:
+  - name: Terrence August
+  - name: Duy Dao
+  - name: Kihoon Kim
+  session_number: 6
+  session: Incentives
+  event_type: session
+  date: '2016-06-14'
+  time: null
+  award: null
+  url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_33-2.pdf
+  slides_url: null
+  file: weis2016_21_market-segmentation-and-software-security-pricing-patching-r.pdf
+  path: papers/weis2016/weis2016_21_market-segmentation-and-software-security-pricing-patching-r.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2016.econinfosec.org/wp-content/uploads/sites/2/2016/05/WEIS_2016_paper_33-2.pdf
+  error: null

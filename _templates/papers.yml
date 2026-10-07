@@ -1,0 +1,38 @@
+# Template per l'elenco paper di una nuova conferenza (pagina principale del sito).
+#
+# 1. Copia questo file in conferences/papers/<slug>.yml (es. conferences/papers/weis2027.yml)
+# 2. Compila le informazioni generali (name e year obbligatori, il resto opzionale).
+# 3. Metti i PDF in papers/<slug>/ con nome <slug>_NN_<titolo>.pdf (es. papers/weis2027/weis2027_01_titolo.pdf)
+# 4. Elenca i paper: per quelli non ancora disponibili lascia file: null e path: null.
+# 5. Commit e push: la pagina principale si aggiorna da sola.
+#    NON iniziare il file con "---" altrimenti Jekyll lo tratta come pagina.
+#
+# Se esiste anche conferences/yml/<slug>.yml (programma completo) questo file si puo'
+# generare in automatico con:  python3 scripts/build_papers_yml.py <slug>
+
+name: "WEIS 2027"
+full_name: "The 26th Workshop on the Economics of Information Security"
+edition: 26
+year: 2027
+location: "City, Country"
+venue: "Venue name"
+start_date: "2027-06-01"
+end_date: "2027-06-02"
+website: "https://example.org/"
+papers:
+- id: weis2027_01
+  title: "Title of the first paper"
+  authors:
+  - name: "Name Surname"
+    affiliation: "Institution"
+  - name: "Name Surname"
+    affiliation: "Institution"
+  file: weis2027_01_title-of-the-first-paper.pdf
+  path: papers/weis2027/weis2027_01_title-of-the-first-paper.pdf
+- id: weis2027_02
+  title: "Title of a paper not yet available"
+  authors:
+  - name: "Name Surname"
+    affiliation: "Institution"
+  file: null
+  path: null

@@ -1,0 +1,25 @@
+Non-Technical Influences on the Design of the Java Security Architecture
+
+
+Li Gong
+
+Sun Microsystems
+
+
+This talk discusses significant considerations given to non-technical 
+factors during the design of JDK 1.2, when an entirely new security 
+architecture now used in all the Java platforms was introduced. The 
+design process was necessarily open, given the nature of Java, with a 
+wide variety of participants. Security was contentious then, as now, and 
+was a highly visible point of competition among Microsoft, Netscape, and 
+Sun.
+
+The talk intends to bring back the audience to around 1996 to 1998, and 
+review significant events that represent attempts, by people both inside 
+  and outside of Sun, to influence the design of the Java security 
+architecture. Some of these attempts succeeded, most failed. The talk 
+will analyze the motivations for these attempts, whether they were 
+economical, political, or otherwise, and why they succeeded or failed.
+
+
+

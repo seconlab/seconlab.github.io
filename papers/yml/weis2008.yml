@@ -1,0 +1,733 @@
+conference: weis2008
+name: WEIS 2008
+year: 2008
+papers_dir: papers/weis2008
+total: 26
+downloaded: 22
+failed: 4
+papers:
+- id: weis2008_01
+  conference: weis2008
+  year: 2008
+  title: Conference Welcome and Overview
+  authors:
+  - M. Eric Johnson
+  authors_full:
+  - name: M. Eric Johnson
+    affiliation: Tuck School of Business at Dartmouth
+  session_number: null
+  session: 'Welcome: Conference Welcome and Overview; Welcome to Tuck and Dartmouth'
+  event_type: opening
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2008.econinfosec.org/panels/WelcomeEJ.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2008_02
+  conference: weis2008
+  year: 2008
+  title: Nonbanks and Risk in Retail Payments
+  authors:
+  - Stuart Weiner
+  - Richard Sullivan
+  - Simonetta Rosati
+  authors_full:
+  - name: Stuart Weiner
+    affiliation: Federal Reserve Bank-Kansas City
+  - name: Richard Sullivan
+    affiliation: Federal Reserve Bank-Kansas City
+    presenter: true
+  - name: Simonetta Rosati
+    affiliation: European Central Bank
+  session_number: 1
+  session: Cyber Policy and Regulation
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Sullivan.pdf
+  slides_url: null
+  file: weis2008_02_nonbanks-and-risk-in-retail-payments.pdf
+  path: papers/weis2008/weis2008_02_nonbanks-and-risk-in-retail-payments.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110902061118id_/http://weis2008.econinfosec.org/papers/Sullivan.pdf
+  error: null
+- id: weis2008_03
+  conference: weis2008
+  year: 2008
+  title: Do Data Breach Disclosure Laws Reduce Identity Theft?
+  authors:
+  - Sasha Romanosky
+  - Rahul Telang
+  - Alessandro Acquisti
+  authors_full:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon University
+    presenter: true
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 1
+  session: Cyber Policy and Regulation
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Romanosky.pdf
+  slides_url: null
+  file: weis2008_03_do-data-breach-disclosure-laws-reduce-identity-theft.pdf
+  path: papers/weis2008/weis2008_03_do-data-breach-disclosure-laws-reduce-identity-theft.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_04
+  conference: weis2008
+  year: 2008
+  title: Security Economics and European Policy
+  authors:
+  - Ross Anderson
+  - Rainer Boehme
+  - Richard Clayton
+  - Tyler Moore
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  - name: Rainer Boehme
+    affiliation: Dresden University of Technology
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+    presenter: true
+  session_number: 1
+  session: Cyber Policy and Regulation
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/MooreSecurity.pdf
+  slides_url: null
+  file: weis2008_04_security-economics-and-european-policy.pdf
+  path: papers/weis2008/weis2008_04_security-economics-and-european-policy.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_05
+  conference: weis2008
+  year: 2008
+  title: 'Communicating Security – The Role of Media: A Journalistic Perspective (panel slides)'
+  authors: []
+  authors_full: []
+  session_number: null
+  session: 'Media Panel: Communicating Security – The Role of Media: A Journalistic Perspective'
+  event_type: panel
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2008.econinfosec.org/panels/CommunicatingSecurity.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2008_06
+  conference: weis2008
+  year: 2008
+  title: CISO Perspective – Evaluating and Communicating Information Risk (panel slides)
+  authors: []
+  authors_full: []
+  session_number: null
+  session: 'Lunch and CISO Panel: CISO Perspective – Evaluating and Communicating Information Risk'
+  event_type: panel
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2008.econinfosec.org/panels/CISO.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2008_07
+  conference: weis2008
+  year: 2008
+  title: 'Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents'
+  authors:
+  - Jens Grossklags
+  - Nicolas Christin
+  - John Chuang
+  authors_full:
+  - name: Jens Grossklags
+    affiliation: UC Berkeley
+    presenter: true
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University
+  - name: John Chuang
+    affiliation: School of Information, UC Berkeley
+  session_number: 2
+  session: Risk Management and Security Investment
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Grossklags.pdf
+  slides_url: null
+  file: weis2008_07_security-investment-failures-in-five-economic-environments-a.pdf
+  path: papers/weis2008/weis2008_07_security-investment-failures-in-five-economic-environments-a.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402113331id_/http://weis2008.econinfosec.org/papers/Grossklags.pdf
+  error: null
+- id: weis2008_08
+  conference: weis2008
+  year: 2008
+  title: BORIS – Business-Oriented Management of Information Security
+  authors:
+  - Sebastian Sowa
+  - Lampros Tsinas
+  - Roland Gabriel
+  authors_full:
+  - name: Sebastian Sowa
+    affiliation: Ruhr-University of Bochum
+    presenter: true
+  - name: Lampros Tsinas
+    affiliation: Munich Re
+  - name: Roland Gabriel
+    affiliation: Ruhr-University of Bochum
+  session_number: 2
+  session: Risk Management and Security Investment
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Sowa.pdf
+  slides_url: null
+  file: weis2008_08_boris-business-oriented-management-of-information-security.pdf
+  path: papers/weis2008/weis2008_08_boris-business-oriented-management-of-information-security.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_09
+  conference: weis2008
+  year: 2008
+  title: Productivity Space of Information Security in an Extension of the Gordon-Loeb's Investment Model
+  authors:
+  - Kanta Matsuura
+  authors_full:
+  - name: Kanta Matsuura
+    affiliation: The University of Tokyo
+    presenter: true
+  session_number: 2
+  session: Risk Management and Security Investment
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Matsuura.pdf
+  slides_url: null
+  file: weis2008_09_productivity-space-of-information-security-in-an-extension-o.pdf
+  path: papers/weis2008/weis2008_09_productivity-space-of-information-security-in-an-extension-o.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_10
+  conference: weis2008
+  year: 2008
+  title: Communicating the Economic Value of Security Investments; Value at Security Risk
+  authors:
+  - Rolf Hulthén
+  authors_full:
+  - name: Rolf Hulthén
+    affiliation: TeliaSonera AB
+    presenter: true
+  session_number: 2
+  session: Risk Management and Security Investment
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Hulthen.pdf
+  slides_url: null
+  file: weis2008_10_communicating-the-economic-value-of-security-investments-val.pdf
+  path: papers/weis2008/weis2008_10_communicating-the-economic-value-of-security-investments-val.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402114026id_/http://weis2008.econinfosec.org/papers/Hulthen.pdf
+  error: null
+- id: weis2008_11
+  conference: weis2008
+  year: 2008
+  title: Modelling the Human and Technological Costs and Benefits of USB Memory Stick Security
+  authors:
+  - Adam Beautement
+  - Robert Coles
+  - Jonathan Griffin
+  - Christos Ioannidis
+  - Brian Monahan
+  - David Pym
+  - Angela Sasse
+  - Mike Wonham
+  authors_full:
+  - name: Adam Beautement
+    affiliation: UCL
+  - name: Robert Coles
+    affiliation: Merrill Lynch
+  - name: Jonathan Griffin
+    affiliation: HP Labs
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: Brian Monahan
+    affiliation: HP Labs
+  - name: David Pym
+    affiliation: HP Labs and University of Bath
+    presenter: true
+  - name: Angela Sasse
+    affiliation: UCL
+  - name: Mike Wonham
+    affiliation: HP Labs
+  session_number: 3
+  session: Technology and Policy Adoption
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Pym.pdf
+  slides_url: null
+  file: weis2008_11_modelling-the-human-and-technological-costs-and-benefits-of.pdf
+  path: papers/weis2008/weis2008_11_modelling-the-human-and-technological-costs-and-benefits-of.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_12
+  conference: weis2008
+  year: 2008
+  title: 'Information Governance: Flexibility and Control through Escalation and Incentives'
+  authors:
+  - Xia Zhao
+  - Eric Johnson
+  authors_full:
+  - name: Xia Zhao
+    affiliation: Dartmouth College
+    presenter: true
+  - name: Eric Johnson
+    affiliation: Dartmouth College
+  session_number: 3
+  session: Technology and Policy Adoption
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Zhao.pdf
+  slides_url: null
+  file: weis2008_12_information-governance-flexibility-and-control-through-escal.pdf
+  path: papers/weis2008/weis2008_12_information-governance-flexibility-and-control-through-escal.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_13
+  conference: weis2008
+  year: 2008
+  title: 'Firms'' Optimal Digital Rights Management (DRM) Strategies: The Effects of Public Copy Protection and DRM Compatibility'
+  authors:
+  - Sang Hoo Bae
+  - Pilsik Choi
+  authors_full:
+  - name: Sang Hoo Bae
+    affiliation: Clark University
+    presenter: true
+  - name: Pilsik Choi
+    affiliation: Clark University
+  session_number: 3
+  session: Technology and Policy Adoption
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Bae.pdf
+  slides_url: null
+  file: weis2008_13_firms-optimal-digital-rights-management-drm-strategies-the-e.pdf
+  path: papers/weis2008/weis2008_13_firms-optimal-digital-rights-management-drm-strategies-the-e.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402121048id_/http://weis2008.econinfosec.org/papers/Bae.pdf
+  error: null
+- id: weis2008_14
+  conference: weis2008
+  year: 2008
+  title: Diffusion and Adoption of IPv6 in the United States
+  authors:
+  - Hillary Elmore
+  - L. Jean Camp
+  - Brandon Stephens
+  authors_full:
+  - name: Hillary Elmore
+    affiliation: Indiana University Bloomington
+  - name: L. Jean Camp
+    affiliation: Indiana University Bloomington
+    presenter: true
+  - name: Brandon Stephens
+    affiliation: Indiana University Bloomington
+  session_number: 3
+  session: Technology and Policy Adoption
+  event_type: session
+  date: '2008-06-26'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Elmore.pdf
+  slides_url: null
+  file: weis2008_14_diffusion-and-adoption-of-ipv6-in-the-united-states.pdf
+  path: papers/weis2008/weis2008_14_diffusion-and-adoption-of-ipv6-in-the-united-states.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402113040id_/http://weis2008.econinfosec.org/papers/Elmore.pdf
+  error: null
+- id: weis2008_15
+  conference: weis2008
+  year: 2008
+  title: Reinterpreting the Disclosure Debate for Web Infections
+  authors:
+  - Oliver Day
+  - Rachel Greenstadt
+  - Brandon Palmen
+  authors_full:
+  - name: Oliver Day
+    affiliation: Harvard University
+  - name: Rachel Greenstadt
+    affiliation: Harvard University
+    presenter: true
+  - name: Brandon Palmen
+    affiliation: Harvard University
+  session_number: 4
+  session: Combating Cybercrime
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Greenstadt.pdf
+  slides_url: null
+  file: weis2008_15_reinterpreting-the-disclosure-debate-for-web-infections.pdf
+  path: papers/weis2008/weis2008_15_reinterpreting-the-disclosure-debate-for-web-infections.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120126034217id_/http://weis2008.econinfosec.org/papers/Greenstadt.pdf
+  error: null
+- id: weis2008_16
+  conference: weis2008
+  year: 2008
+  title: The Impact of Incentives on Notice and Take-down
+  authors:
+  - Tyler Moore
+  - Richard Clayton
+  authors_full:
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+    presenter: true
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  session_number: 4
+  session: Combating Cybercrime
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/MooreImpact.pdf
+  slides_url: null
+  file: weis2008_16_the-impact-of-incentives-on-notice-and-take-down.pdf
+  path: papers/weis2008/weis2008_16_the-impact-of-incentives-on-notice-and-take-down.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120305130542id_/http://weis2008.econinfosec.org/papers/MooreImpact.pdf
+  error: null
+- id: weis2008_17
+  conference: weis2008
+  year: 2008
+  title: Studying Malicious Websites and the Underground Economy on the Chinese Web
+  authors:
+  - Jianwei Zhuge
+  - Thorsten Holz
+  - Chengyu Song
+  - Jinpeng Guo
+  - Xinhui Han
+  - Wei Zou
+  authors_full:
+  - name: Jianwei Zhuge
+    affiliation: Peking University
+  - name: Thorsten Holz
+    affiliation: University of Mannheim
+  - name: Chengyu Song
+    affiliation: Peking University
+    presenter: true
+  - name: Jinpeng Guo
+    affiliation: Peking University
+  - name: Xinhui Han
+    affiliation: Peking University
+  - name: Wei Zou
+    affiliation: Peking University
+  session_number: 4
+  session: Combating Cybercrime
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Holz.pdf
+  slides_url: null
+  file: weis2008_17_studying-malicious-websites-and-the-underground-economy-on-t.pdf
+  path: papers/weis2008/weis2008_17_studying-malicious-websites-and-the-underground-economy-on-t.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_18
+  conference: weis2008
+  year: 2008
+  title: 'Botnet Economics: Uncertainty Matters'
+  authors:
+  - Zhen Li
+  - Qi Liao
+  - Aaron Striegel
+  authors_full:
+  - name: Zhen Li
+    affiliation: Albion College
+  - name: Qi Liao
+    affiliation: University of Notre Dame
+    presenter: true
+  - name: Aaron Striegel
+    affiliation: University of Notre Dame
+  session_number: 4
+  session: Combating Cybercrime
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Liao.pdf
+  slides_url: null
+  file: weis2008_18_botnet-economics-uncertainty-matters.pdf
+  path: papers/weis2008/weis2008_18_botnet-economics-uncertainty-matters.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402113242id_/http://weis2008.econinfosec.org/papers/Liao.pdf
+  error: null
+- id: weis2008_19
+  conference: weis2008
+  year: 2008
+  title: Investigating and Prosecuting Cybercrime (panel slides)
+  authors: []
+  authors_full: []
+  session_number: null
+  session: 'Cybercrime Panel: Investigating and Prosecuting Cybercrime'
+  event_type: panel
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2008.econinfosec.org/panels/Cybercrime.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2008_20
+  conference: weis2008
+  year: 2008
+  title: 'The Impact of Information Disclosure on Stock Market Returns: The Sarbanes-Oxley Act and the Role of Media as an Information Intermediary'
+  authors:
+  - Karthik Balakrishnan
+  - Anindya Ghose
+  - Panos Ipeirotis
+  authors_full:
+  - name: Karthik Balakrishnan
+    affiliation: NYU Stern School
+  - name: Anindya Ghose
+    affiliation: NYU Stern School
+    presenter: true
+  - name: Panos Ipeirotis
+    affiliation: NYU Stern School
+  session_number: 5
+  session: Disclosure and Firm Valuation
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Ghose.pdf
+  slides_url: null
+  file: weis2008_20_the-impact-of-information-disclosure-on-stock-market-returns.pdf
+  path: papers/weis2008/weis2008_20_the-impact-of-information-disclosure-on-stock-market-returns.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2008_21
+  conference: weis2008
+  year: 2008
+  title: 'Reading the Disclosures with New Eyes: Bridging the Gap between Information Security Disclosures and Incidents'
+  authors:
+  - Ta-Wei Wang
+  - Jackie Rees
+  - Karthik Kannan
+  authors_full:
+  - name: Ta-Wei Wang
+    affiliation: Purdue University
+    presenter: true
+  - name: Jackie Rees
+    affiliation: Purdue University
+  - name: Karthik Kannan
+    affiliation: Purdue University
+  session_number: 5
+  session: Disclosure and Firm Valuation
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Wang.pdf
+  slides_url: null
+  file: weis2008_21_reading-the-disclosures-with-new-eyes-bridging-the-gap-betwe.pdf
+  path: papers/weis2008/weis2008_21_reading-the-disclosures-with-new-eyes-bridging-the-gap-betwe.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20080908081034id_/http://weis2008.econinfosec.org/papers/Wang.pdf
+  error: null
+- id: weis2008_22
+  conference: weis2008
+  year: 2008
+  title: Cyber Insurance as an Incentive for IT Security
+  authors:
+  - Jean Bolot
+  - Marc Lelarge
+  authors_full:
+  - name: Jean Bolot
+    affiliation: Sprint
+  - name: Marc Lelarge
+    affiliation: INRIA-ENS
+    presenter: true
+  session_number: 5
+  session: Disclosure and Firm Valuation
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Lelarge.pdf
+  slides_url: null
+  file: weis2008_22_cyber-insurance-as-an-incentive-for-it-security.pdf
+  path: papers/weis2008/weis2008_22_cyber-insurance-as-an-incentive-for-it-security.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402123429id_/http://weis2008.econinfosec.org/papers/Lelarge.pdf
+  error: null
+- id: weis2008_23
+  conference: weis2008
+  year: 2008
+  title: The Economics of Covert Community Detection and Hiding
+  authors:
+  - Shishir Nagaraja
+  authors_full:
+  - name: Shishir Nagaraja
+    affiliation: University of Cambridge
+    presenter: true
+  session_number: 6
+  session: Privacy and Trust
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Nagaraja.pdf
+  slides_url: null
+  file: weis2008_23_the-economics-of-covert-community-detection-and-hiding.pdf
+  path: papers/weis2008/weis2008_23_the-economics-of-covert-community-detection-and-hiding.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120309145632id_/http://weis2008.econinfosec.org/papers/Nagaraja.pdf
+  error: null
+- id: weis2008_24
+  conference: weis2008
+  year: 2008
+  title: 'Conformity or Diversity: Social Implications of Transparency in Personal Data Processing'
+  authors:
+  - Rainer Böhme
+  authors_full:
+  - name: Rainer Böhme
+    affiliation: TU Dresden
+    presenter: true
+  session_number: 6
+  session: Privacy and Trust
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Bohme.pdf
+  slides_url: null
+  file: weis2008_24_conformity-or-diversity-social-implications-of-transparency.pdf
+  path: papers/weis2008/weis2008_24_conformity-or-diversity-social-implications-of-transparency.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402115802id_/http://weis2008.econinfosec.org/papers/Bohme.pdf
+  error: null
+- id: weis2008_25
+  conference: weis2008
+  year: 2008
+  title: Is Distributed Trust More Trustworthy?
+  authors:
+  - Kurt Nielsen
+  authors_full:
+  - name: Kurt Nielsen
+    affiliation: University of Copenhagen
+    presenter: true
+  session_number: 6
+  session: Privacy and Trust
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Nielsen.pdf
+  slides_url: null
+  file: weis2008_25_is-distributed-trust-more-trustworthy.pdf
+  path: papers/weis2008/weis2008_25_is-distributed-trust-more-trustworthy.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120402113709id_/http://weis2008.econinfosec.org/papers/Nielsen.pdf
+  error: null
+- id: weis2008_26
+  conference: weis2008
+  year: 2008
+  title: Competition for Information under Privacy Concerns
+  authors:
+  - Ramnath Chellappa
+  - Raymond Sin
+  authors_full:
+  - name: Ramnath Chellappa
+    affiliation: Emory University
+    presenter: true
+  - name: Raymond Sin
+    affiliation: Hong Kong University of Science and Technology
+  session_number: 6
+  session: Privacy and Trust
+  event_type: session
+  date: '2008-06-27'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Chellappa.pdf
+  slides_url: null
+  file: weis2008_26_competition-for-information-under-privacy-concerns.pdf
+  path: papers/weis2008/weis2008_26_competition-for-information-under-privacy-concerns.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null

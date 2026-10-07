@@ -1,0 +1,222 @@
+name: WEIS 2013
+full_name: The 12th Workshop on the Economics of Information Security
+edition: 12
+year: 2013
+location: Washington, D.C., USA
+venue: Rafik B. Hariri Building, Georgetown University (main campus)
+start_date: '2013-06-11'
+end_date: '2013-06-12'
+website: http://weis2013.econinfosec.org/
+papers:
+- id: weis2013_01
+  title: 'Sustainability in Information Stewardship: Time Preferences, Externalities, and Social Co-ordination'
+  authors:
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University of Aberdeen
+  - name: Julian Williams
+    affiliation: University of Aberdeen
+  file: weis2013_01_sustainability-in-information-stewardship-time-preferences-e.pdf
+  path: papers/weis2013/weis2013_01_sustainability-in-information-stewardship-time-preferences-e.pdf
+- id: weis2013_02
+  title: How Bad Is It? – A Branching Activity Model to Estimate the Impact of Information Security Breaches
+  authors:
+  - name: Russell Thomas
+    affiliation: George Mason University
+  - name: Marcin Antkiewicz
+    affiliation: Qualys, Inc.
+  - name: Patrick Florer
+    affiliation: Risk Centric Security, Inc.
+  - name: Suzanne Widup
+    affiliation: Verizon Communications, Inc.
+  - name: Matthew Woodyard
+    affiliation: Zions Bancorporation
+  file: null
+  path: null
+- id: weis2013_03
+  title: Cloud Implications on Software Network Structure and Security Risks
+  authors:
+  - name: Terrence August
+    affiliation: University of California, San Diego, Rady School of Management
+  - name: Marius Niculescu
+    affiliation: Georgia Institute of Technology
+  - name: Hyoduk Shin
+    affiliation: University of California, San Diego, Rady School of Management
+  file: weis2013_03_cloud-implications-on-software-network-structure-and-securit.pdf
+  path: papers/weis2013/weis2013_03_cloud-implications-on-software-network-structure-and-securit.pdf
+- id: weis2013_04
+  title: The More Social Cues, The Less Trolling? An Empirical Study of Online Commenting Behavior
+  authors:
+  - name: Daegon Cho
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2013_04_the-more-social-cues-the-less-trolling-an-empirical-study-of.pdf
+  path: papers/weis2013/weis2013_04_the-more-social-cues-the-less-trolling-an-empirical-study-of.pdf
+- id: weis2013_05
+  title: Consumer Flexibility, Data Quality and Targeted Pricing
+  authors:
+  - name: Geza Sapi
+    affiliation: Düsseldorf Institute for Competition Economics
+  - name: Irina Suleymanova
+    affiliation: Düsseldorf Institute for Competition Economics
+  file: weis2013_05_consumer-flexibility-data-quality-and-targeted-pricing-2014.pdf
+  path: papers/weis2013/weis2013_05_consumer-flexibility-data-quality-and-targeted-pricing-2014.pdf
+- id: weis2013_06
+  title: Privacy Controls and Information Disclosure Behavior of Online Social Network Users
+  authors:
+  - name: Huseyin Cavusoglu
+    affiliation: University of Texas
+  - name: Tuan Phan
+    affiliation: National University of Singapore
+  - name: Hasan Cavusoglu
+    affiliation: University of British Columbia
+  file: null
+  path: null
+- id: weis2013_07
+  title: The Value of Privacy in Web Search
+  authors:
+  - name: Sören Preibusch
+    affiliation: Microsoft Research Cambridge UK
+  file: null
+  path: null
+- id: weis2013_08
+  title: 'Einstein on the Breach: Surveillance Technology, Cybersecurity, and Organizational Change'
+  authors:
+  - name: Andreas Kuehn
+    affiliation: Syracuse University, School of Information Studies
+  - name: Milton Mueller
+    affiliation: Syracuse University, School of Information Studies
+  file: null
+  path: null
+- id: weis2013_09
+  title: The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries
+  authors:
+  - name: Joshua Kroll
+    affiliation: Princeton University
+  - name: Ian Davey
+    affiliation: Princeton University
+  - name: Edward Felten
+    affiliation: Princeton University
+  file: weis2013_09_the-economics-of-bitcoin-mining-or-bitcoin-in-the-presence-o.pdf
+  path: papers/weis2013/weis2013_09_the-economics-of-bitcoin-mining-or-bitcoin-in-the-presence-o.pdf
+- id: weis2013_10
+  title: On the Viability of Using Liability to Incentivise Internet Security
+  authors:
+  - name: Huw Fryer
+    affiliation: University of Southampton
+  - name: Roksana Moore
+    affiliation: University of Southampton
+  - name: Tim Chown
+    affiliation: University of Southampton
+  file: null
+  path: null
+- id: weis2013_11
+  title: 'Improving Internet Security Through Social Information and Social Comparison: A Field Quasi-Experiment'
+  authors:
+  - name: Qian Tang
+    affiliation: University of Texas at Austin
+  - name: Leigh Linden
+    affiliation: University of Texas at Austin
+  - name: John Quarterman
+    affiliation: Quarterman Creations
+  - name: Andrew Whinston
+    affiliation: University of Texas at Austin
+  file: null
+  path: null
+- id: weis2013_12
+  title: 'Small World: Collisions Among Attacks in a Finite Population'
+  authors:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  file: null
+  path: null
+- id: weis2013_13
+  title: A Behavioral Investigation of the FlipIt Game
+  authors:
+  - name: Alan Nochenson
+    affiliation: The Pennsylvania State University
+  - name: Jens Grossklags
+    affiliation: The Pennsylvania State University
+  file: weis2013_13_a-behavioral-investigation-of-the-flipit-game.pdf
+  path: papers/weis2013/weis2013_13_a-behavioral-investigation-of-the-flipit-game.pdf
+- id: weis2013_14
+  title: 'Breaking Our Password Hash Habit: Why the Sharing of Users'' Password Choices for Defensive Analysis Is an Underprovisioned Social Good, and What We Can Do to Encourage It'
+  authors:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  - name: Stuart Schechter
+    affiliation: Microsoft Research
+  file: weis2013_14_breaking-our-password-hash-habit-why-the-sharing-of-users-pa.pdf
+  path: papers/weis2013/weis2013_14_breaking-our-password-hash-habit-why-the-sharing-of-users-pa.pdf
+- id: weis2013_15
+  title: Security Economics in the HTTPS Value Chain
+  authors:
+  - name: Hadi Asghari
+    affiliation: Delft University of Technology
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Axel Arnbak
+    affiliation: University of Amsterdam
+  - name: Nico van Eijk
+    affiliation: University of Amsterdam
+  file: weis2013_15_security-economics-in-the-https-value-chain.pdf
+  path: papers/weis2013/weis2013_15_security-economics-in-the-https-value-chain.pdf
+- id: weis2013_16
+  title: 'Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing'
+  authors:
+  - name: Michael Wellman
+    affiliation: University of Michigan
+  - name: Tae Hyung Kim
+    affiliation: University of Michigan
+  - name: Quang Duong
+    affiliation: University of Michigan
+  file: weis2013_16_analyzing-incentives-for-protocol-compliance-in-complex-doma.pdf
+  path: papers/weis2013/weis2013_16_analyzing-incentives-for-protocol-compliance-in-complex-doma.pdf
+- id: weis2013_17
+  title: Incentive Analysis of Bidirectional Filtering in the Internet
+  authors:
+  - name: Mhr Khouzani
+    affiliation: University of Southern California
+  - name: Soumya Sen
+    affiliation: Princeton University
+  - name: Ness B. Shroff
+    affiliation: The Ohio State University
+  file: null
+  path: null
+- id: weis2013_18
+  title: Are They Actually Any Different? Comparing 3,422 Financial Institutions' Privacy Practices
+  authors:
+  - name: Lorrie Cranor
+    affiliation: Carnegie Mellon University
+  - name: Kelly Idouchi
+    affiliation: Carnegie Mellon University
+  - name: Pedro Leon
+    affiliation: Carnegie Mellon University
+  - name: Blase Ur
+    affiliation: Carnegie Mellon University
+  - name: Manya Sleeper
+    affiliation: Carnegie Mellon University
+  file: weis2013_18_are-they-actually-any-different-comparing-3-422-financial-in.pdf
+  path: papers/weis2013/weis2013_18_are-they-actually-any-different-comparing-3-422-financial-in.pdf
+- id: weis2013_19
+  title: 'Data Harvesting 2.0: From the Visible to the Invisible Web'
+  authors:
+  - name: Claude Castelluccia
+    affiliation: INRIA
+  - name: Stephane Grumbach
+    affiliation: INRIA
+  - name: Lukasz Olejnik
+    affiliation: INRIA
+  file: weis2013_19_data-harvesting-2-0-from-the-visible-to-the-invisible-web.pdf
+  path: papers/weis2013/weis2013_19_data-harvesting-2-0-from-the-visible-to-the-invisible-web.pdf
+- id: weis2013_20
+  title: An Experiment in Hiring Discrimination via Online Social Networks
+  authors:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Christina Fong
+    affiliation: Carnegie Mellon University
+  file: null
+  path: null

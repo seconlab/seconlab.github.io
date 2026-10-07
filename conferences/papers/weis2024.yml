@@ -1,0 +1,205 @@
+name: WEIS 2024
+full_name: The 23rd Workshop on the Economics of Information Security
+edition: 23
+year: 2024
+location: Dallas, Texas, USA
+venue: The University of Texas at Dallas, Student Services Building Addition (SSA), SSA 13.330 (SSA Auditorium)
+start_date: '2024-04-08'
+end_date: '2024-04-10'
+website: https://weis.utdallas.edu/
+papers:
+- id: weis2024_01
+  title: 'Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity'
+  authors:
+  - name: Raviv Murciano-Goroff
+    affiliation: Boston University
+  - name: Ran Zhuo
+    affiliation: University of Michigan
+  - name: Shane Greenstein
+    affiliation: Harvard Business School and NBER
+    presenter: true
+  file: weis2024_01_upgraded-software-and-embedded-improvements-a-puzzle-of-user.pdf
+  path: papers/weis2024/weis2024_01_upgraded-software-and-embedded-improvements-a-puzzle-of-user.pdf
+- id: weis2024_02
+  title: Role of Formal Alliances in Creating Capacity for the Global Diffusion of National Cybersecurity Strategies
+  authors:
+  - name: Nadiya Kostyuk
+    affiliation: Georgia Institute of Technology
+  - name: Evgenia Sidorova
+    affiliation: Georgia Institute of Technology
+  file: weis2024_02_role-of-formal-alliances-in-creating-capacity-for-the-global.pdf
+  path: papers/weis2024/weis2024_02_role-of-formal-alliances-in-creating-capacity-for-the-global.pdf
+- id: weis2024_03
+  title: The Case for an Icelandic Cyber Exploitation and Defense (ICED) Force for NATO Coalition Operations
+  authors:
+  - name: Johan Sigholm
+    affiliation: Swedish Defense University
+  - name: Bjarni Már Magnússon
+    affiliation: Bifröst University
+  - name: Magnús Skjöld
+    affiliation: Bifröst University
+  - name: Theodor Gislason
+    affiliation: Syndis
+  - name: Gregory Falco
+    affiliation: Cornell University
+  file: weis2024_03_the-case-for-an-icelandic-cyber-exploitation-and-defense-ice.pdf
+  path: papers/weis2024/weis2024_03_the-case-for-an-icelandic-cyber-exploitation-and-defense-ice.pdf
+- id: weis2024_04
+  title: What has the U.S. government gained by formalizing Team Telecom? ―Team Telecom and the FCC's Dual Security Approach
+  authors:
+  - name: Anna Oriishi
+    affiliation: Keio University
+  file: weis2024_04_what-has-the-u-s-government-gained-by-formalizing-team-telec.pdf
+  path: papers/weis2024/weis2024_04_what-has-the-u-s-government-gained-by-formalizing-team-telec.pdf
+- id: weis2024_05
+  title: 'Non-governmental Governance of Trust on the Internet: WebPKI as Public Good'
+  authors:
+  - name: Vagisha Srivastava
+    affiliation: Georgia Institute of Technology
+  - name: Karl Grindal
+    affiliation: University of New Hampshire
+  - name: Milton Mueller
+    affiliation: Georgia Institute of Technology
+  file: weis2024_05_non-governmental-governance-of-trust-on-the-internet-webpki.pdf
+  path: papers/weis2024/weis2024_05_non-governmental-governance-of-trust-on-the-internet-webpki.pdf
+- id: weis2024_06
+  title: 'Breaking the Ice: Using Transparency to Overcome the Cold Start Problem in an Underground Market'
+  authors:
+  - name: Tina Marjanov
+    affiliation: University of Cambridge
+  - name: Konstantinos Ioannidis
+    affiliation: University of Cambridge
+  - name: Tom Hyndman
+    affiliation: University of Cambridge
+  - name: Nicolas Seyedzadeh
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  file: weis2024_06_breaking-the-ice-using-transparency-to-overcome-the-cold-sta.pdf
+  path: papers/weis2024/weis2024_06_breaking-the-ice-using-transparency-to-overcome-the-cold-sta.pdf
+- id: weis2024_07
+  title: 'Peer(ing) Pressure: Achieving Social Action at Scale in the Internet Infrastructure'
+  authors:
+  - name: Ben Collier
+    affiliation: University of Edinburgh
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  file: weis2024_07_peer-ing-pressure-achieving-social-action-at-scale-in-the-in.pdf
+  path: papers/weis2024/weis2024_07_peer-ing-pressure-achieving-social-action-at-scale-in-the-in.pdf
+- id: weis2024_08
+  title: Data Risk, Firm Growth and Innovation
+  authors:
+  - name: Roxana Mihet
+    affiliation: HEC Lausanne & Swiss Finance Institute
+  - name: Orlando M. Da Costa Gomes
+    affiliation: Lisbon Accounting and Finance University
+  - name: Kumar Rishabh
+    affiliation: HEC Lausanne & University of Basel
+  file: weis2024_08_data-risk-firm-growth-and-innovation.pdf
+  path: papers/weis2024/weis2024_08_data-risk-firm-growth-and-innovation.pdf
+- id: weis2024_09
+  title: Cyber Risk and the Cross-Section of Stock Returns
+  authors:
+  - name: Loïc Maréchal
+    affiliation: University of Lausanne
+  - name: Daniel Celeny
+    affiliation: Armasuisse S+T
+  file: weis2024_09_cyber-risk-and-the-cross-section-of-stock-returns.pdf
+  path: papers/weis2024/weis2024_09_cyber-risk-and-the-cross-section-of-stock-returns.pdf
+- id: weis2024_10
+  title: A History of Cyber Risk Transfer
+  authors:
+  - name: Daniel Woods
+    affiliation: University of Edinburgh & British University in Dubai
+  - name: Josephine Wolff
+    affiliation: Tufts University
+  file: weis2024_10_a-history-of-cyber-risk-transfer.pdf
+  path: papers/weis2024/weis2024_10_a-history-of-cyber-risk-transfer.pdf
+- id: weis2024_11
+  title: 'Beyond Technicalities: Assessing Cyber Risk by Incorporating Human Factors'
+  authors:
+  - name: Sasha Romanosky
+    affiliation: RAND Corporation
+  - name: Wenjing Huang
+    affiliation: RAND Corporation
+  - name: Joe Uchill
+    affiliation: RAND Corporation
+  file: weis2024_11_beyond-technicalities-assessing-cyber-risk-by-incorporating.pdf
+  path: papers/weis2024/weis2024_11_beyond-technicalities-assessing-cyber-risk-by-incorporating.pdf
+- id: weis2024_12
+  title: 'Implementation of Information Security Controls Now or Later: Delay Discounting of Losses and Gains'
+  authors:
+  - name: Marte Marjorie Søgnen
+    affiliation: NTNU
+  - name: Adam Szekeres
+    affiliation: NTNU
+  - name: Einar Arthur Snekkenes
+    affiliation: NTNU
+  file: weis2024_12_implementation-of-information-security-controls-now-or-later.pdf
+  path: papers/weis2024/weis2024_12_implementation-of-information-security-controls-now-or-later.pdf
+- id: weis2024_13
+  title: 'Prioritizing Investments in Cybersecurity: Empirical Evidence from an Event Study on the Determinants of Cyberattack Costs'
+  authors:
+  - name: Daniel Celeny
+    affiliation: EPFL & Armasuisse S+T
+  - name: Loïc Maréchal
+    affiliation: University of Lausanne
+  - name: Evgueni Rousselot
+    affiliation: Armasuisse S+T
+  - name: Alain Mermoud
+    affiliation: Armasuisse S+T
+  - name: Mathias Humbert
+    affiliation: University of Lausanne
+  file: weis2024_13_prioritizing-investments-in-cybersecurity-empirical-evidence.pdf
+  path: papers/weis2024/weis2024_13_prioritizing-investments-in-cybersecurity-empirical-evidence.pdf
+- id: weis2024_14
+  title: Valuation of Confidentiality and Availability in a Personal Ransomware Attack Scenario
+  authors:
+  - name: Freya Gassmann
+    affiliation: Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
+  - name: Janina Beck
+    affiliation: Boston Consulting Group
+  - name: Nora Gourmelon
+    affiliation: University of Erlangen-Nuremberg
+  - name: Zinaida Benenson
+    affiliation: University of Erlangen-Nuremberg
+  file: weis2024_14_valuation-of-confidentiality-and-availability-in-a-personal.pdf
+  path: papers/weis2024/weis2024_14_valuation-of-confidentiality-and-availability-in-a-personal.pdf
+- id: weis2024_15
+  title: Using Simulations to Determine Economic Cost of a Cyber Attack
+  authors:
+  - name: Nina Sokol
+    affiliation: University of Zagreb
+  - name: Viktoria Kežman
+    affiliation: University of Zagreb
+  - name: Stjepan Groš
+    affiliation: University of Zagreb
+  file: weis2024_15_using-simulations-to-determine-economic-cost-of-a-cyber-atta.pdf
+  path: papers/weis2024/weis2024_15_using-simulations-to-determine-economic-cost-of-a-cyber-atta.pdf
+- id: weis2024_16
+  title: The Welfare Effects of Ad-Blocking
+  authors:
+  - name: Fengyang Lin
+    affiliation: Cornell University
+  - name: Cristobal Cheyre
+    affiliation: Cornell University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2024_16_the-welfare-effects-of-ad-blocking.pdf
+  path: papers/weis2024/weis2024_16_the-welfare-effects-of-ad-blocking.pdf
+- id: weis2024_17
+  title: Have I Seen you Before? Measuring the Value of Tracking for Digital Advertising
+  authors:
+  - name: Grazia Cecere
+    affiliation: Institut Mines Telecom Business School
+  - name: Sarah Lemaire
+    affiliation: JRC, Seville
+  file: weis2024_17_have-i-seen-you-before-measuring-the-value-of-tracking-for-d.pdf
+  path: papers/weis2024/weis2024_17_have-i-seen-you-before-measuring-the-value-of-tracking-for-d.pdf
+- id: weis2024_18
+  title: 'Competition and Cybercrime: An Application to Healthcare Digitization'
+  authors:
+  - name: Chitra Marti
+    affiliation: New York University
+  file: weis2024_18_competition-and-cybercrime-an-application-to-healthcare-digi.pdf
+  path: papers/weis2024/weis2024_18_competition-and-cybercrime-an-application-to-healthcare-digi.pdf

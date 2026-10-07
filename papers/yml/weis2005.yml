@@ -1,0 +1,960 @@
+conference: weis2005
+name: WEIS 2005
+year: 2005
+papers_dir: papers/weis2005
+total: 39
+downloaded: 26
+failed: 13
+papers:
+- id: weis2005_01
+  conference: weis2005
+  year: 2005
+  title: Analyzing the Risks of Information Security Investments with Monte-Carlo Simulations
+  authors:
+  - James R. Conrad
+  authors_full:
+  - name: James R. Conrad
+  session_number: 1
+  session: Investment in Security
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/13.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_1.ppt
+  file: weis2005_01_analyzing-the-risks-of-information-security-investments-with.pdf
+  path: papers/weis2005/weis2005_01_analyzing-the-risks-of-information-security-investments-with.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_02
+  conference: weis2005
+  year: 2005
+  title: Software Diversity for Information Security
+  authors:
+  - Pei-yu Chen
+  - Gaurav Kataria
+  - Ramayya Krishnan
+  authors_full:
+  - name: Pei-yu Chen
+  - name: Gaurav Kataria
+  - name: Ramayya Krishnan
+  session_number: 1
+  session: Investment in Security
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/47.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_2.ppt
+  file: weis2005_02_software-diversity-for-information-security.pdf
+  path: papers/weis2005/weis2005_02_software-diversity-for-information-security.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_03
+  conference: weis2005
+  year: 2005
+  title: 'Pricing Security Software: Theory and Evidence'
+  authors:
+  - Anindya Ghose
+  - Arun Sundararajan
+  authors_full:
+  - name: Anindya Ghose
+  - name: Arun Sundararajan
+  session_number: 1
+  session: Investment in Security
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/37.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_1_3.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_04
+  conference: weis2005
+  year: 2005
+  title: Why do denial of service attacks reduce future visits? Switching costs vs. changing preferences
+  authors:
+  - Avi Goldfarb
+  authors_full:
+  - name: Avi Goldfarb
+  session_number: 2
+  session: Responses to Security Failure
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/6.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_1.ppt
+  file: weis2005_04_why-do-denial-of-service-attacks-reduce-future-visits-switch.pdf
+  path: papers/weis2005/weis2005_04_why-do-denial-of-service-attacks-reduce-future-visits-switch.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_05
+  conference: weis2005
+  year: 2005
+  title: 'Faking It: Criminal Sanctions and the Cost of Computer Intrusions'
+  authors:
+  - Jennifer S. Granick
+  authors_full:
+  - name: Jennifer S. Granick
+  session_number: 2
+  session: Responses to Security Failure
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/FakingIt.granick.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_2.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_06
+  conference: weis2005
+  year: 2005
+  title: Countering Hidden-Action Attacks on Networked Systems
+  authors:
+  - Tyler Moore
+  authors_full:
+  - name: Tyler Moore
+  session_number: 2
+  session: Responses to Security Failure
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/18.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_2_3.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_07
+  conference: weis2005
+  year: 2005
+  title: Flexibility as an Instrument in Digital Rights Management
+  authors:
+  - Dirk Bergemann
+  - Thomas Eisenbach
+  - Joan Feigenbaum
+  - Scott Shenker
+  authors_full:
+  - name: Dirk Bergemann
+  - name: Thomas Eisenbach
+  - name: Joan Feigenbaum
+  - name: Scott Shenker
+  session_number: 3
+  session: DRM & Spam
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/50.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_1.pdf
+  file: weis2005_07_flexibility-as-an-instrument-in-digital-rights-management.pdf
+  path: papers/weis2005/weis2005_07_flexibility-as-an-instrument-in-digital-rights-management.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_08
+  conference: weis2005
+  year: 2005
+  title: Digital Rights Management and the Pricing of Digital Products
+  authors:
+  - Yooki Park
+  - Suzanne Scotchmer
+  authors_full:
+  - name: Yooki Park
+  - name: Suzanne Scotchmer
+  session_number: 3
+  session: DRM & Spam
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/62.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_2.ppt
+  file: weis2005_08_digital-rights-management-and-the-pricing-of-digital-product.pdf
+  path: papers/weis2005/weis2005_08_digital-rights-management-and-the-pricing-of-digital-product.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_09
+  conference: weis2005
+  year: 2005
+  title: Modeling Incentives for Email Blocking Strategies
+  authors:
+  - Andrei Serjantov
+  - Richard Clayton
+  authors_full:
+  - name: Andrei Serjantov
+  - name: Richard Clayton
+  session_number: 3
+  session: DRM & Spam
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/emailblocking.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_3_3.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_10
+  conference: weis2005
+  year: 2005
+  title: Internet Security, Vulnerability Disclosure, and Software Provision
+  authors:
+  - Jay Pil Choi
+  - Chaim Fershtman
+  - Neil Gandal
+  authors_full:
+  - name: Jay Pil Choi
+  - name: Chaim Fershtman
+  - name: Neil Gandal
+  session_number: 4
+  session: Incentive Modeling
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/9.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_1.ppt
+  file: weis2005_10_internet-security-vulnerability-disclosure-and-software-prov.pdf
+  path: papers/weis2005/weis2005_10_internet-security-vulnerability-disclosure-and-software-prov.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_11
+  conference: weis2005
+  year: 2005
+  title: An Economic Analysis of Software Market with Risk-Sharing Contract
+  authors:
+  - Byung Cho Kim
+  - Pei-Yu Chen
+  - Tridas Mukhopadhyay
+  authors_full:
+  - name: Byung Cho Kim
+  - name: Pei-Yu Chen
+  - name: Tridas Mukhopadhyay
+  session_number: 4
+  session: Incentive Modeling
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/28.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_2.ppt
+  file: weis2005_11_an-economic-analysis-of-software-market-with-risk-sharing-co.pdf
+  path: papers/weis2005/weis2005_11_an-economic-analysis-of-software-market-with-risk-sharing-co.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_12
+  conference: weis2005
+  year: 2005
+  title: Emerging Issues in Responsible Vulnerability Disclosure
+  authors:
+  - Hasan Cavusoglu
+  - Huseyin Cavusoglu
+  - Srinivasan Raghunathan
+  authors_full:
+  - name: Hasan Cavusoglu
+  - name: Huseyin Cavusoglu
+  - name: Srinivasan Raghunathan
+  session_number: 4
+  session: Incentive Modeling
+  event_type: session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/cavusoglu.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_4_3.ppt
+  file: weis2005_12_emerging-issues-in-responsible-vulnerability-disclosure.pdf
+  path: papers/weis2005/weis2005_12_emerging-issues-in-responsible-vulnerability-disclosure.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_13
+  conference: weis2005
+  year: 2005
+  title: 'Avoiding Liability: An Alternative Route to More Secure Products'
+  authors:
+  - Adam Shostack
+  authors_full:
+  - name: Adam Shostack
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/44.pdf
+  slides_url: null
+  file: weis2005_13_avoiding-liability-an-alternative-route-to-more-secure-produ.pdf
+  path: papers/weis2005/weis2005_13_avoiding-liability-an-alternative-route-to-more-secure-produ.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_14
+  conference: weis2005
+  year: 2005
+  title: Privacy as a Base for Confidentiality
+  authors:
+  - Sabah S. Al-Fedaghi
+  authors_full:
+  - name: Sabah S. Al-Fedaghi
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/4.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_A-F.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_15
+  conference: weis2005
+  year: 2005
+  title: Cost Tradeoffs For Information Security Assurance
+  authors:
+  - Ritesh Kumar Tiwari
+  - Kamalakar Karlapalem
+  authors_full:
+  - name: Ritesh Kumar Tiwari
+  - name: Kamalakar Karlapalem
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/24.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_16
+  conference: weis2005
+  year: 2005
+  title: The Role of Architecture in DRM Vendor Economics
+  authors:
+  - Pramod A. Jamkhedkar
+  - Gregory L. Heileman
+  authors_full:
+  - name: Pramod A. Jamkhedkar
+  - name: Gregory L. Heileman
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/12.pdf
+  slides_url: null
+  file: weis2005_16_the-role-of-architecture-in-drm-vendor-economics.pdf
+  path: papers/weis2005/weis2005_16_the-role-of-architecture-in-drm-vendor-economics.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20081204092539id_/http://infosecon.net/workshop/pdf/12.pdf
+  error: null
+- id: weis2005_17
+  conference: weis2005
+  year: 2005
+  title: Understanding and Reversing the Profit Model of Spam
+  authors:
+  - Paul Judge
+  - Dmitri Alperovitch
+  - Weilai Yang
+  authors_full:
+  - name: Paul Judge
+  - name: Dmitri Alperovitch
+  - name: Weilai Yang
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/49.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_18
+  conference: weis2005
+  year: 2005
+  title: 'Evaluating Information Security Investments from Attackers Perspective: the Return-On-Attack (ROA)'
+  authors:
+  - Marco Cremonini
+  - Patrizia Martini
+  authors_full:
+  - name: Marco Cremonini
+  - name: Patrizia Martini
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/23.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_CM.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_19
+  conference: weis2005
+  year: 2005
+  title: How much is location privacy worth?
+  authors:
+  - George Danezis
+  - Stephen Lewis
+  - Ross Anderson
+  authors_full:
+  - name: George Danezis
+  - name: Stephen Lewis
+  - name: Ross Anderson
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/location-privacy.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_DLA.ppt
+  file: weis2005_19_how-much-is-location-privacy-worth.pdf
+  path: papers/weis2005/weis2005_19_how-much-is-location-privacy-worth.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_20
+  conference: weis2005
+  year: 2005
+  title: Could IPv6 Improve Network Security? And, If So, at What Cost?
+  authors:
+  - Brent Rowe
+  - Michael Gallaher
+  authors_full:
+  - name: Brent Rowe
+  - name: Michael Gallaher
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/26.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_RG.ppt
+  file: weis2005_20_could-ipv6-improve-network-security-and-if-so-at-what-cost.pdf
+  path: papers/weis2005/weis2005_20_could-ipv6-improve-network-security-and-if-so-at-what-cost.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_21
+  conference: weis2005
+  year: 2005
+  title: Assessing Damages of Information Security Incidents and Selecting Control Measures, a Case Study Approach
+  authors:
+  - Fariborz Farahmand
+  - Shamkant B. Navathe
+  - Gunter P. Sharp
+  - Philip H. Enslow
+  authors_full:
+  - name: Fariborz Farahmand
+  - name: Shamkant B. Navathe
+  - name: Gunter P. Sharp
+  - name: Philip H. Enslow
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/39.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_FNSE.ppt
+  file: weis2005_21_assessing-damages-of-information-security-incidents-and-sele.pdf
+  path: papers/weis2005/weis2005_21_assessing-damages-of-information-security-incidents-and-sele.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20050515203629id_/http://infosecon.net:80/workshop/pdf/39.pdf
+  error: null
+- id: weis2005_22
+  conference: weis2005
+  year: 2005
+  title: The Privacy Value
+  authors:
+  - Peter E. Sand
+  authors_full:
+  - name: Peter E. Sand
+    affiliation: Director of Privacy Technology
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/privacy_value.pdf
+  slides_url: null
+  file: weis2005_22_the-privacy-value.pdf
+  path: papers/weis2005/weis2005_22_the-privacy-value.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120308060114id_/http://infosecon.net/workshop/pdf/privacy_value.pdf
+  error: null
+- id: weis2005_23
+  conference: weis2005
+  year: 2005
+  title: Private Information Shielding Service for Overcoming Privacy Risk in Recommender System
+  authors:
+  - Choong Hee Lee
+  - Junseok Hwang
+  authors_full:
+  - name: Choong Hee Lee
+  - name: Junseok Hwang
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/lee-hwang.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_rump_LH.ppt
+  file: weis2005_23_private-information-shielding-service-for-overcoming-privacy.pdf
+  path: papers/weis2005/weis2005_23_private-information-shielding-service-for-overcoming-privacy.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_24
+  conference: weis2005
+  year: 2005
+  title: Bridging the Gap Between Computer Security and Legal Requirements
+  authors:
+  - Christopher E. Everett
+  authors_full:
+  - name: Christopher E. Everett
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2005-06-02'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/CE.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_25
+  conference: weis2005
+  year: 2005
+  title: Cyber-Insurance Revisited
+  authors:
+  - Rainer Böhme
+  authors_full:
+  - name: Rainer Böhme
+  session_number: 5
+  session: Insurance
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/15.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_1.pdf
+  file: weis2005_25_cyber-insurance-revisited.pdf
+  path: papers/weis2005/weis2005_25_cyber-insurance-revisited.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_26
+  conference: weis2005
+  year: 2005
+  title: Cyber-insurance As A Market-Based Solution To The Problem Of Cybersecurity
+  authors:
+  - Jay P. Kesan
+  - Ruperto P. Majuca
+  - William J. Yurcik
+  authors_full:
+  - name: Jay P. Kesan
+  - name: Ruperto P. Majuca
+  - name: William J. Yurcik
+  session_number: 5
+  session: Insurance
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/42.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_2.ppt
+  file: weis2005_26_cyber-insurance-as-a-market-based-solution-to-the-problem-of.pdf
+  path: papers/weis2005/weis2005_26_cyber-insurance-as-a-market-based-solution-to-the-problem-of.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20120308133452id_/http://infosecon.net/workshop/pdf/42.pdf
+  error: null
+- id: weis2005_27
+  conference: weis2005
+  year: 2005
+  title: 'Cyber Insurance and IT Security Investment: Impact of Interdependent Risk'
+  authors:
+  - Hulisi Ogut
+  - Nirup Menon
+  - Srinivasan Raghunathan
+  authors_full:
+  - name: Hulisi Ogut
+  - name: Nirup Menon
+  - name: Srinivasan Raghunathan
+  session_number: 5
+  session: Insurance
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/56.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_5_3.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_28
+  conference: weis2005
+  year: 2005
+  title: 'Information Security in the Extended Enterprise: Some Initial Results From a Field Study of an Industrial Firm'
+  authors:
+  - Scott Dynes
+  - Hans Brechbuhl
+  - Eric Johnson
+  authors_full:
+  - name: Scott Dynes
+  - name: Hans Brechbuhl
+  - name: Eric Johnson
+  session_number: 6
+  session: Experiments & Field Studies
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/51.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_1.ppt
+  file: weis2005_28_information-security-in-the-extended-enterprise-some-initial.pdf
+  path: papers/weis2005/weis2005_28_information-security-in-the-extended-enterprise-some-initial.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_29
+  conference: weis2005
+  year: 2005
+  title: An empirical approach to the valuing privacy valuation
+  authors:
+  - Luc Wathieu
+  - Allan Friedman
+  authors_full:
+  - name: Luc Wathieu
+  - name: Allan Friedman
+  session_number: 6
+  session: Experiments & Field Studies
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/WathFried_WEIS05.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_2.ppt
+  file: weis2005_29_an-empirical-approach-to-the-valuing-privacy-valuation.pdf
+  path: papers/weis2005/weis2005_29_an-empirical-approach-to-the-valuing-privacy-valuation.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_30
+  conference: weis2005
+  year: 2005
+  title: Valuating Privacy
+  authors:
+  - Bernardo A. Huberman
+  - Eytan Adar
+  - Leslie R. Fine
+  authors_full:
+  - name: Bernardo A. Huberman
+  - name: Eytan Adar
+  - name: Leslie R. Fine
+  session_number: 6
+  session: Experiments & Field Studies
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/7.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_3.ppt
+  file: weis2005_30_valuating-privacy.pdf
+  path: papers/weis2005/weis2005_30_valuating-privacy.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_31
+  conference: weis2005
+  year: 2005
+  title: Impact of Software Vulnerability Announcements on the Market Value of Software Vendors – an Empirical Investigation
+  authors:
+  - Rahul Telang
+  - Sunil Wattal
+  authors_full:
+  - name: Rahul Telang
+  - name: Sunil Wattal
+  session_number: 6
+  session: Experiments & Field Studies
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/telang_wattal.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_6_4.ppt
+  file: weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
+  path: papers/weis2005/weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20060412164310id_/http://infosecon.net:80/workshop/pdf/telang_wattal.pdf
+  error: null
+- id: weis2005_32
+  conference: weis2005
+  year: 2005
+  title: Keynote address
+  authors:
+  - Ann Cavoukian
+  authors_full:
+  - name: Ann Cavoukian
+    affiliation: Information and Privacy Commissioner of Ontario, Canada
+  session_number: null
+  session: Keynote address (during buffet lunch at KSG)
+  event_type: keynote
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: null
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_keynote.ppt
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2005_33
+  conference: weis2005
+  year: 2005
+  title: 'Protecting Online Privacy: Self-Regulation, Mandatory Standards, or Caveat Emptor'
+  authors:
+  - Zhulei Tang
+  - Yu (Jeffrey) Hu
+  - Michael D. Smith
+  authors_full:
+  - name: Zhulei Tang
+  - name: Yu (Jeffrey) Hu
+  - name: Michael D. Smith
+  session_number: 7
+  session: Privacy
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/31.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_1.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_34
+  conference: weis2005
+  year: 2005
+  title: Uncertainty, Ambiguity and Privacy
+  authors:
+  - Alessandro Acquisti
+  - Jens Grossklags
+  authors_full:
+  - name: Alessandro Acquisti
+  - name: Jens Grossklags
+  session_number: 7
+  session: Privacy
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/64.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_2.ppt
+  file: weis2005_34_uncertainty-ambiguity-and-privacy.pdf
+  path: papers/weis2005/weis2005_34_uncertainty-ambiguity-and-privacy.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_35
+  conference: weis2005
+  year: 2005
+  title: 'Protecting Personal Information: Obstacles and Directions'
+  authors:
+  - Rachel Greenstadt
+  - Michael D. Smith
+  authors_full:
+  - name: Rachel Greenstadt
+  - name: Michael D. Smith
+  session_number: 7
+  session: Privacy
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/48.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_3.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2005_36
+  conference: weis2005
+  year: 2005
+  title: Quantifying Privacy Choices with Experimental Economics
+  authors:
+  - David Baumer
+  - Julia Earp
+  - J.C. Poindexter
+  authors_full:
+  - name: David Baumer
+  - name: Julia Earp
+  - name: J.C. Poindexter
+  session_number: 7
+  session: Privacy
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/16.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_7_4.ppt
+  file: weis2005_36_quantifying-privacy-choices-with-experimental-economics.pdf
+  path: papers/weis2005/weis2005_36_quantifying-privacy-choices-with-experimental-economics.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_37
+  conference: weis2005
+  year: 2005
+  title: Economic Analysis of Incentives to Disclose Software Vulnerabilities
+  authors:
+  - Dmitri Nizovtsev
+  - Marie Thursby
+  authors_full:
+  - name: Dmitri Nizovtsev
+  - name: Marie Thursby
+  session_number: 8
+  session: Vulnerabilities
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/20.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_1.ppt
+  file: weis2005_37_economic-analysis-of-incentives-to-disclose-software-vulnera.pdf
+  path: papers/weis2005/weis2005_37_economic-analysis-of-incentives-to-disclose-software-vulnera.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20081119174115id_/http://infosecon.net/workshop/pdf/20.pdf
+  error: null
+- id: weis2005_38
+  conference: weis2005
+  year: 2005
+  title: The Likelihood of Vulnerability Rediscovery and the Social Utility of Vulnerability Hunting
+  authors:
+  - Andy Ozment
+  authors_full:
+  - name: Andy Ozment
+  session_number: 8
+  session: Vulnerabilities
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/10.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_2.ppt
+  file: weis2005_38_the-likelihood-of-vulnerability-rediscovery-and-the-social-u.pdf
+  path: papers/weis2005/weis2005_38_the-likelihood-of-vulnerability-rediscovery-and-the-social-u.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2005_39
+  conference: weis2005
+  year: 2005
+  title: An Empirical Analysis of Vendor Response to Disclosure Policy
+  authors:
+  - Ashish Arora
+  - Ramayya Krishnan
+  - Rahul Telang
+  - Yubao Yang
+  authors_full:
+  - name: Ashish Arora
+  - name: Ramayya Krishnan
+  - name: Rahul Telang
+  - name: Yubao Yang
+  session_number: 8
+  session: Vulnerabilities
+  event_type: session
+  date: '2005-06-03'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2005/http://infosecon.net/workshop/pdf/41.pdf
+  slides_url: https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_8_3.ppt
+  file: weis2005_39_an-empirical-analysis-of-vendor-response-to-disclosure-polic.pdf
+  path: papers/weis2005/weis2005_39_an-empirical-analysis-of-vendor-response-to-disclosure-polic.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20080908092243id_/http://infosecon.net/workshop/pdf/41.pdf
+  error: null

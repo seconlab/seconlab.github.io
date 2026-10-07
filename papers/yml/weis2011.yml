@@ -1,0 +1,566 @@
+conference: weis2011
+name: WEIS 2011
+year: 2011
+papers_dir: papers/weis2011
+total: 22
+downloaded: 6
+failed: 16
+papers:
+- id: weis2011_01
+  conference: weis2011
+  year: 2011
+  title: The Impact of Immediate Disclosure on Attack Diffusion and Volume
+  authors:
+  - Sam Ransbotham
+  - Sabyasachi Mitra
+  authors_full:
+  - name: Sam Ransbotham
+  - name: Sabyasachi Mitra
+  session_number: 1
+  session: Attacks
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/The%20Impact%20of%20Immediate%20Disclosure%20on%20Attack%20Diffusion%20and%20.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/RansbothamMitra_ImmDisc_20110612.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_02
+  conference: weis2011
+  year: 2011
+  title: Where Do All the Attacks Go?
+  authors:
+  - Dinei Florencio
+  - Cormac Herley
+  authors_full:
+  - name: Dinei Florencio
+  - name: Cormac Herley
+  session_number: 1
+  session: Attacks
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Where%20Do%20All%20the%20Attacks%20Go.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Florencio%20and%20Herley%20--%20Where%20Do%20All%20the%20Attacks%20Go.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_03
+  conference: weis2011
+  year: 2011
+  title: Sex, Lies and Cyber-crime Surveys
+  authors:
+  - Dinei Florencio
+  - Cormac Herley
+  authors_full:
+  - name: Dinei Florencio
+  - name: Cormac Herley
+  session_number: 1
+  session: Attacks
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Sex,%20Lies%20and%20Cyber-crime%20Surveys.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Florencio%20and%20Herley%20--%20Sex,%20Lies%20and%20Cybercrime%20Surveys%20-%20WEIS.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_04
+  conference: weis2011
+  year: 2011
+  title: The Underground Economy of Fake Antivirus Software
+  authors:
+  - Brett Stone-Gross
+  - Ryan Abman
+  - Richard A. Kemmerer
+  - Christopher Kruegel
+  - Douglas G. Steigerwald
+  authors_full:
+  - name: Brett Stone-Gross
+  - name: Ryan Abman
+  - name: Richard A. Kemmerer
+  - name: Christopher Kruegel
+  - name: Douglas G. Steigerwald
+  session_number: 1
+  session: Attacks
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/The%20Underground%20Economy%20of%20Fake%20Antivirus%20Software.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_05
+  conference: weis2011
+  year: 2011
+  title: The Inconvenient Truth about Web Certificates
+  authors:
+  - Nevena Vratonjic
+  - Julien Freudiger
+  - Vincent Bindschaedler
+  - Jean-Pierre Hubaux
+  authors_full:
+  - name: Nevena Vratonjic
+  - name: Julien Freudiger
+  - name: Vincent Bindschaedler
+  - name: Jean-Pierre Hubaux
+  session_number: 2
+  session: Identity
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/The%20Inconvenient%20Truth%20about%20Web%20Certificates.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/WEIS11-NevenaVratonjic.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_06
+  conference: weis2011
+  year: 2011
+  title: Social Networks, Personalized Advertising, and Privacy Controls
+  authors:
+  - Catherine Tucker
+  authors_full:
+  - name: Catherine Tucker
+  session_number: 2
+  session: Identity
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Social%20Networks,%20Personalized%20Advertising,%20and%20Privacy%20Cont.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Catherine%20Tucker.pdf
+  file: weis2011_06_social-networks-personalized-advertising-and-privacy-control.pdf
+  path: papers/weis2011/weis2011_06_social-networks-personalized-advertising-and-privacy-control.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2011_07
+  conference: weis2011
+  year: 2011
+  title: Economic Tussles in Federated Identity Management
+  authors:
+  - Susan Landau
+  - Tyler Moore
+  authors_full:
+  - name: Susan Landau
+  - name: Tyler Moore
+  session_number: 2
+  session: Identity
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Economic%20Tussles%20in%20Federated%20Identity%20Management.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Moore%20Landau%20weis11identity.pptx
+  file: weis2011_07_economic-tussles-in-federated-identity-management.pdf
+  path: papers/weis2011/weis2011_07_economic-tussles-in-federated-identity-management.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110902055541id_/http://weis2011.econinfosec.org/papers/Economic%20Tussles%20in%20Federated%20Identity%20Management.pdf
+  error: null
+- id: weis2011_08
+  conference: weis2011
+  year: 2011
+  title: Negative Information Looms Longer than Positive Information
+  authors:
+  - Laura Brandimarte
+  - Alessandro Acquisti
+  - Joachim Vosgerau
+  authors_full:
+  - name: Laura Brandimarte
+  - name: Alessandro Acquisti
+  - name: Joachim Vosgerau
+  session_number: 2
+  session: Identity
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2011.econinfosec.org/presentations/Brandimarte_WEIS_Presentation.pptx
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2011_09
+  conference: weis2011
+  year: 2011
+  title: Resilience of the Internet Interconnection Ecosystem
+  authors:
+  - Chris Hall
+  - Ross Anderson
+  - Richard Clayton
+  - Evangelos Ouzounis
+  - Panagiotis Trimintzios
+  authors_full:
+  - name: Chris Hall
+  - name: Ross Anderson
+  - name: Richard Clayton
+  - name: Evangelos Ouzounis
+  - name: Panagiotis Trimintzios
+  session_number: 3
+  session: Resilience
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Resilience%20of%20the%20Internet%20Interconnection%20Ecosystem.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Hall,%20Anderson%20et%20al%20Interdomain-WEIS.ppt
+  file: weis2011_09_resilience-of-the-internet-interconnection-ecosystem.pdf
+  path: papers/weis2011/weis2011_09_resilience-of-the-internet-interconnection-ecosystem.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2011_10
+  conference: weis2011
+  year: 2011
+  title: Modeling Internet-Scale Policies for Cleaning up Malware
+  authors:
+  - Steven Hofmeyr
+  - Tyler Moore
+  - Stephanie Forrest
+  - Benjamin Edwards
+  - George Stelle
+  authors_full:
+  - name: Steven Hofmeyr
+  - name: Tyler Moore
+  - name: Stephanie Forrest
+  - name: Benjamin Edwards
+  - name: George Stelle
+  session_number: 3
+  session: Resilience
+  event_type: session
+  date: '2011-06-14'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Modeling%20Internet-Scale%20Policies%20for%20Cleaning%20up%20Malware.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/shofmeyr-presentation.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_11
+  conference: weis2011
+  year: 2011
+  title: 'Fixed Costs, Investment Rigidities, and Risk Aversion in Information Security: A Utility-theoretic Approach'
+  authors:
+  - Christos Ioannidis
+  - David Pym
+  - Julian Williams
+  authors_full:
+  - name: Christos Ioannidis
+  - name: David Pym
+  - name: Julian Williams
+  session_number: 4
+  session: Theory
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Fixed%20Costs,%20Investment%20Rigidities,%20and%20Risk%20Aversion%20in%20In.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Ioannidis%20Pym%20Williams%20--%20WEIS-Talk-June-2011Alt.pdf
+  file: weis2011_11_fixed-costs-investment-rigidities-and-risk-aversion-in-infor.pdf
+  path: papers/weis2011/weis2011_11_fixed-costs-investment-rigidities-and-risk-aversion-in-infor.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160701000414id_/http://www.econinfosec.org/archive/weis2011/papers/Fixed%20Costs,%20Investment%20Rigidities,%20and%20Risk%20Aversion%20in%20In.pdf
+  error: null
+- id: weis2011_12
+  conference: weis2011
+  year: 2011
+  title: Who Should be Responsible for Software Security? A Comparative Analysis of Liability Policies in Network Environments
+  authors:
+  - Terrence August
+  - Tunay Tunca
+  authors_full:
+  - name: Terrence August
+  - name: Tunay Tunca
+  session_number: 4
+  session: Theory
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Who%20Should%20be%20Responsible%20for%20Software%20Security.%20A%20Comparat.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Terrence%20August%20-%20WEIS%202011.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_13
+  conference: weis2011
+  year: 2011
+  title: An Organizational Learning Perspective on Proactive vs. Reactive investment in Information Security
+  authors:
+  - Juhee Kwon
+  - M. Eric Johnson
+  authors_full:
+  - name: Juhee Kwon
+  - name: M. Eric Johnson
+  session_number: 4
+  session: Theory
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/An%20Organizational%20Learning%20Perspective%20on%20Proactive%20vs.%20Rea.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Kwon%20%26%20Johnson%203rd-WEIS-Slides.pptx
+  file: weis2011_13_an-organizational-learning-perspective-on-proactive-vs-react.pdf
+  path: papers/weis2011/weis2011_13_an-organizational-learning-perspective-on-proactive-vs-react.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110902055509id_/http://weis2011.econinfosec.org/papers/An%20Organizational%20Learning%20Perspective%20on%20Proactive%20vs.%20Rea.pdf
+  error: null
+- id: weis2011_14
+  conference: weis2011
+  year: 2011
+  title: 'Assessing Home Internet Users'' Demand for Security: Will They Pay ISPs?'
+  authors:
+  - Dallas Wood
+  - Brent Rowe
+  authors_full:
+  - name: Dallas Wood
+  - name: Brent Rowe
+  session_number: 4
+  session: Theory
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Assessing%20Home%20Internet%20Users%20Demand%20for%20Security%20-%20Will%20T.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Rowe,%20Wood%20--%204th%20Home%20Interner%20User%20Demand%20Assessment.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_15
+  conference: weis2011
+  year: 2011
+  title: Presentation 1
+  authors: []
+  authors_full: []
+  session_number: null
+  session: Federal R&D Initiatives in Cyber Economics
+  event_type: panel
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2011.econinfosec.org/presentations/Croson%20GMU%20CyberSecurity%20Panel.pptx
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2011_16
+  conference: weis2011
+  year: 2011
+  title: Presentation 2
+  authors: []
+  authors_full: []
+  session_number: null
+  session: Federal R&D Initiatives in Cyber Economics
+  event_type: panel
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2011.econinfosec.org/presentations/Landwher%20--%20110615%20NSF%20TwC%20for%20WEIS.pptx
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2011_17
+  conference: weis2011
+  year: 2011
+  title: 'Information Targeting and Coordination: An Experimental Study'
+  authors:
+  - Matthew Hashim
+  - Sandra Maximiano
+  - Karthik Kannan
+  authors_full:
+  - name: Matthew Hashim
+  - name: Sandra Maximiano
+  - name: Karthik Kannan
+  session_number: 5
+  session: Paying for Security
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Information%20Targeting%20and%20Coordination%20-%20An%20Experimental%20St.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Hashim%20et%20al%20WEIS%20Information%20Targeting%20and%20Coordination%2006142011.pptx
+  file: weis2011_17_information-targeting-and-coordination-an-experimental-study.pdf
+  path: papers/weis2011/weis2011_17_information-targeting-and-coordination-an-experimental-study.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2011_18
+  conference: weis2011
+  year: 2011
+  title: Security Standardization in the Presence of Unverifiable Control
+  authors:
+  - Chul H. Lee
+  - Xianjun Geng
+  - Srinivasan Raghunathan
+  authors_full:
+  - name: Chul H. Lee
+  - name: Xianjun Geng
+  - name: Srinivasan Raghunathan
+  session_number: 5
+  session: Paying for Security
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Security%20Standardization%20in%20the%20Presence%20of%20Unverifiable%20Co.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Chul%20Ho%20Lee%20et%20al%20standard%20in%20the%20presence%20of%20unverifiable%20control.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_19
+  conference: weis2011
+  year: 2011
+  title: Economic Methods and Decision Making by Security Professionals
+  authors:
+  - Simon Shiu
+  - Adrian Baldwin
+  - Yolanta Beres
+  - Marco Cassa Mont
+  - Geoff Duggan
+  authors_full:
+  - name: Simon Shiu
+  - name: Adrian Baldwin
+  - name: Yolanta Beres
+  - name: Marco Cassa Mont
+  - name: Geoff Duggan
+  session_number: 5
+  session: Paying for Security
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Economic%20methods%20and%20decision%20making%20by%20security%20profession.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Simon%20Shiu%20et%20al%20Decision%20Making%20weis%202011.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_20
+  conference: weis2011
+  year: 2011
+  title: 'Real Name Verification Law on the Internet: a Poison or Cure for Privacy?'
+  authors:
+  - Daegon Cho
+  authors_full:
+  - name: Daegon Cho
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/Real%20Name%20Verification%20Law%20on%20the%20Internet%20-%20A%20Poison%20or%20Cu.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Daegon%20Cho%20WEIS2011_FINAL.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_21
+  conference: weis2011
+  year: 2011
+  title: Health Disclosure Laws and Health Information Exchanges
+  authors:
+  - Idris Adjerid
+  - Alessandro Acquisti
+  - Rema Padman
+  - Rahul Telang
+  - Julia Adler-Milstein
+  authors_full:
+  - name: Idris Adjerid
+  - name: Alessandro Acquisti
+  - name: Rema Padman
+  - name: Rahul Telang
+  - name: Julia Adler-Milstein
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/HIE%20Disclosure%20Paper%20WEIS%202011.pdf
+  slides_url: http://weis2011.econinfosec.org/presentations/Adjerid--HIE%20Presentation%20WEIS%202011.pptx
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2011_22
+  conference: weis2011
+  year: 2011
+  title: 'The Privacy Landscape: Product Differentiation on Data Collection'
+  authors:
+  - Sören Preibusch
+  - Joseph Bonneau
+  authors_full:
+  - name: Sören Preibusch
+  - name: Joseph Bonneau
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2011-06-15'
+  time: null
+  award: null
+  url: http://weis2011.econinfosec.org/papers/The%20privacy%20landscape%20-%20Product%20differentiation%20on%20data%20col.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)

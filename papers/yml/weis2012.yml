@@ -1,0 +1,643 @@
+conference: weis2012
+name: WEIS 2012
+year: 2012
+papers_dir: papers/weis2012
+total: 22
+downloaded: 16
+failed: 6
+papers:
+- id: weis2012_01
+  conference: weis2012
+  year: 2012
+  title: Empirical Analysis of Data Breach Litigation
+  authors:
+  - Sasha Romanosky
+  - David Hoffman
+  - Alessandro Acquisti
+  authors_full:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon University
+  - name: David Hoffman
+    affiliation: Temple University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 1
+  session: Privacy Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Romanosky_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Acquisti_presentation_WEIS2012.pdf
+  file: weis2012_01_empirical-analysis-of-data-breach-litigation.pdf
+  path: papers/weis2012/weis2012_01_empirical-analysis-of-data-breach-litigation.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_02
+  conference: weis2012
+  year: 2012
+  title: Is Patient Data Better Protected in Competitive Healthcare Markets?
+  authors:
+  - Martin S. Gaynor
+  - Muhammad Zia Hydari
+  - Rahul Telang
+  authors_full:
+  - name: Martin S. Gaynor
+    affiliation: Carnegie Mellon University
+  - name: Muhammad Zia Hydari
+    affiliation: Carnegie Mellon University
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  session_number: 1
+  session: Privacy Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Gaynor_WEIS2012.pdf
+  slides_url: null
+  file: weis2012_02_is-patient-data-better-protected-in-competitive-healthcare-m.pdf
+  path: papers/weis2012/weis2012_02_is-patient-data-better-protected-in-competitive-healthcare-m.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_03
+  conference: weis2012
+  year: 2012
+  title: The Privacy Economics of Voluntary Over-disclosure in Web Forms
+  authors:
+  - Sören Preibusch
+  - Kat Krol
+  - Alastair R. Beresford
+  authors_full:
+  - name: Sören Preibusch
+    affiliation: University of Cambridge
+  - name: Kat Krol
+    affiliation: University College London
+  - name: Alastair R. Beresford
+    affiliation: University of Cambridge
+  session_number: 1
+  session: Privacy Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Preibusch_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Preibusch_presentation_WEIS2012.pdf
+  file: weis2012_03_the-privacy-economics-of-voluntary-over-disclosure-in-web-fo.pdf
+  path: papers/weis2012/weis2012_03_the-privacy-economics-of-voluntary-over-disclosure-in-web-fo.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_04
+  conference: weis2012
+  year: 2012
+  title: 'Security Resources, Capabilities and Cultural Values: Links to Security Performance and Compliance'
+  authors:
+  - Juhee Kwon
+  - M. Eric Johnson
+  authors_full:
+  - name: Juhee Kwon
+    affiliation: Dartmouth College
+  - name: M. Eric Johnson
+    affiliation: Dartmouth College
+  session_number: 2
+  session: Security Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Kwon_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Kwon_presentation_WEIS2012.pdf
+  file: weis2012_04_security-resources-capabilities-and-cultural-values-links-to.pdf
+  path: papers/weis2012/weis2012_04_security-resources-capabilities-and-cultural-values-links-to.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_05
+  conference: weis2012
+  year: 2012
+  title: 'Software Security Economics: Theory, in Practice'
+  authors:
+  - Stephan Neuhaus
+  - Bernhard Plattner
+  authors_full:
+  - name: Stephan Neuhaus
+    affiliation: ETH Zürich
+  - name: Bernhard Plattner
+    affiliation: ETH Zürich
+  session_number: 2
+  session: Security Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Neuhaus_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Neuhaus_presentation_WEIS2012.pdf
+  file: weis2012_05_software-security-economics-theory-in-practice.pdf
+  path: papers/weis2012/weis2012_05_software-security-economics-theory-in-practice.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20131101130813id_/http://weis2012.econinfosec.org/papers/Neuhaus_WEIS2012.pdf
+  error: null
+- id: weis2012_06
+  conference: weis2012
+  year: 2012
+  title: Sectoral and Regional Interdependency of Japanese Firms under the Influence of Information Security Risks
+  authors:
+  - Bongkot Jenjarrussakul
+  - Hideyuki Tanaka
+  - Kanta Matsuura
+  authors_full:
+  - name: Bongkot Jenjarrussakul
+    affiliation: University of Tokyo
+  - name: Hideyuki Tanaka
+    affiliation: University of Tokyo
+  - name: Kanta Matsuura
+    affiliation: University of Tokyo
+  session_number: 2
+  session: Security Economics
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Jenjarrussakul_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Jenjarrussakul_presentation_WEIS2012.pdf
+  file: weis2012_06_sectoral-and-regional-interdependency-of-japanese-firms-unde.pdf
+  path: papers/weis2012/weis2012_06_sectoral-and-regional-interdependency-of-japanese-firms-unde.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_07
+  conference: weis2012
+  year: 2012
+  title: Why Do Nigerian Scammers Say They Are From Nigeria?
+  authors:
+  - Cormac Herley
+  authors_full:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  session_number: 3
+  session: Studying the Attacker
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Herley_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Herley_presentation_WEIS2012.pdf
+  file: weis2012_07_why-do-nigerian-scammers-say-they-are-from-nigeria.pdf
+  path: papers/weis2012/weis2012_07_why-do-nigerian-scammers-say-they-are-from-nigeria.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_08
+  conference: weis2012
+  year: 2012
+  title: 'Analysis of eCrime in Crowd-sourced Labor Markets: Mechanical Turk vs. Freelancer'
+  authors:
+  - Vaibhav Garg
+  - Chris Kanich
+  - L. Jean Camp
+  authors_full:
+  - name: Vaibhav Garg
+    affiliation: Indiana University
+  - name: Chris Kanich
+    affiliation: UC San Diego
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  session_number: 3
+  session: Studying the Attacker
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Garg_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Garg_presentation_WEIS2012.pdf
+  file: weis2012_08_analysis-of-ecrime-in-crowd-sourced-labor-markets-mechanical.pdf
+  path: papers/weis2012/weis2012_08_analysis-of-ecrime-in-crowd-sourced-labor-markets-mechanical.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20150324183216id_/http://weis2012.econinfosec.org/papers/Garg_WEIS2012.pdf
+  error: null
+- id: weis2012_09
+  conference: weis2012
+  year: 2012
+  title: Can We Afford Integrity by Proof-of-Work? Scenarios Inspired by the Bitcoin Currency
+  authors:
+  - Jörg Becker
+  - Dominic Breuker
+  - Tobias Heide
+  - Justus Holler
+  - Hans Peter Rauer
+  - Rainer Böhme
+  authors_full:
+  - name: Jörg Becker
+    affiliation: University of Münster
+  - name: Dominic Breuker
+    affiliation: University of Münster
+  - name: Tobias Heide
+    affiliation: University of Münster
+  - name: Justus Holler
+    affiliation: University of Münster
+  - name: Hans Peter Rauer
+    affiliation: University of Münster
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  session_number: 3
+  session: Studying the Attacker
+  event_type: session
+  date: '2012-06-25'
+  time: null
+  award: null
+  url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2041492
+  slides_url: http://weis2012.econinfosec.org/presentation/Breuker_presentation_WEIS2012.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2012_10
+  conference: weis2012
+  year: 2012
+  title: Measuring the Cost of Cybercrime
+  authors:
+  - Ross Anderson
+  - Chris Barton
+  - Rainer Böhme
+  - Richard Clayton
+  - Michel van Eeten
+  - Michael Levi
+  - Tyler Moore
+  - Stefan Savage
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  - name: Chris Barton
+    affiliation: Cloudmark
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Michael Levi
+    affiliation: Cardiff University
+  - name: Tyler Moore
+    affiliation: Wellesley College
+  - name: Stefan Savage
+    affiliation: UC San Diego
+  session_number: 4
+  session: Cost of Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Anderson_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Moore_presentation_WEIS2012.pdf
+  file: weis2012_10_measuring-the-cost-of-cybercrime.pdf
+  path: papers/weis2012/weis2012_10_measuring-the-cost-of-cybercrime.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_11
+  conference: weis2012
+  year: 2012
+  title: A Closer Look at Information Security Costs
+  authors:
+  - Matthias Brecht
+  - Thomas Nowey
+  authors_full:
+  - name: Matthias Brecht
+    affiliation: University of Regensburg
+  - name: Thomas Nowey
+    affiliation: Krones AG
+  session_number: 4
+  session: Cost of Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Brecht_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Nowey_presentation_WEIS2012.pdf
+  file: weis2012_11_a-closer-look-at-information-security-costs.pdf
+  path: papers/weis2012/weis2012_11_a-closer-look-at-information-security-costs.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_12
+  conference: weis2012
+  year: 2012
+  title: IT Security Investment and Gordon-Loeb's 1/e Rule
+  authors:
+  - Yuliy Baryshnikov
+  authors_full:
+  - name: Yuliy Baryshnikov
+    affiliation: University of Illinois at Urbana-Champaign
+  session_number: 4
+  session: Cost of Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Baryshnikov_WEIS2012.pdf
+  slides_url: null
+  file: weis2012_12_it-security-investment-and-gordon-loeb-s-1-e-rule.pdf
+  path: papers/weis2012/weis2012_12_it-security-investment-and-gordon-loeb-s-1-e-rule.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_13
+  conference: weis2012
+  year: 2012
+  title: Who Sometimes Violates the Rule of the Organizations? An Empirical Study on Information Security Behaviors and Awareness
+  authors:
+  - Toshihiko Takemura
+  - Ayako Komatsu
+  authors_full:
+  - name: Toshihiko Takemura
+    affiliation: Kansai University
+  - name: Ayako Komatsu
+    affiliation: Information Technology Promotion Agency, Japan
+  session_number: 5
+  session: Management of Information Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Takemura_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Takemura_presentation_WEIS2012.pdf
+  file: weis2012_13_who-sometimes-violates-the-rule-of-the-organizations-an-empi.pdf
+  path: papers/weis2012/weis2012_13_who-sometimes-violates-the-rule-of-the-organizations-an-empi.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_14
+  conference: weis2012
+  year: 2012
+  title: To Invest or Not to Invest? Assessing the Economic Viability of a Policy and Security Configuration Management Tool
+  authors:
+  - Lukas Demetz
+  - Daniel Bachlechner
+  authors_full:
+  - name: Lukas Demetz
+    affiliation: University of Innsbruck
+  - name: Daniel Bachlechner
+    affiliation: University of Innsbruck
+  session_number: 5
+  session: Management of Information Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Demetz_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Demetz_presentation_WEIS2012.pdf
+  file: weis2012_14_to-invest-or-not-to-invest-assessing-the-economic-viability.pdf
+  path: papers/weis2012/weis2012_14_to-invest-or-not-to-invest-assessing-the-economic-viability.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160701035607id_/http://www.econinfosec.org/archive/weis2012/papers/Demetz_WEIS2012.pdf
+  error: null
+- id: weis2012_15
+  conference: weis2012
+  year: 2012
+  title: 'Online Promiscuity: Prophylactic Patching and the Spread of Computer Transmitted Infections'
+  authors:
+  - Timothy Kelley
+  - L. Jean Camp
+  authors_full:
+  - name: Timothy Kelley
+    affiliation: Indiana University
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  session_number: 5
+  session: Management of Information Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Kelley_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Kelley_presentation_WEIS2012.pdf
+  file: weis2012_15_online-promiscuity-prophylactic-patching-and-the-spread-of-c.pdf
+  path: papers/weis2012/weis2012_15_online-promiscuity-prophylactic-patching-and-the-spread-of-c.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_16
+  conference: weis2012
+  year: 2012
+  title: Contagion in Cybersecurity Attacks
+  authors:
+  - Adrian Baldwin
+  - Iffat Gheyas
+  - Christos Ioannidis
+  - David Pym
+  - Julian Williams
+  authors_full:
+  - name: Adrian Baldwin
+    affiliation: Hewlett-Packard Laboratories
+  - name: Iffat Gheyas
+    affiliation: University of Aberdeen
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University of Aberdeen
+  - name: Julian Williams
+    affiliation: University of Aberdeen
+  session_number: 5
+  session: Management of Information Security
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Baldwin_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Williams_presentation_WEIS2012.pdf
+  file: weis2012_16_contagion-in-cybersecurity-attacks.pdf
+  path: papers/weis2012/weis2012_16_contagion-in-cybersecurity-attacks.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20131101113554id_/http://weis2012.econinfosec.org/papers/Baldwin_WEIS2012.pdf
+  error: null
+- id: weis2012_17
+  conference: weis2012
+  year: 2012
+  title: The Effect of Fraud Investigation Cost on Pay-Per-Click Advertising
+  authors:
+  - Min Chen
+  - Varghese Jacob
+  - Suresh Radhakrishnan
+  - Young Ryu
+  authors_full:
+  - name: Min Chen
+    affiliation: Richard Stockton College of New Jersey
+  - name: Varghese Jacob
+    affiliation: University of Texas at Dallas
+  - name: Suresh Radhakrishnan
+    affiliation: University of Texas at Dallas
+  - name: Young Ryu
+    affiliation: University of Texas at Dallas
+  session_number: 6
+  session: Privacy, Security, and Marketing
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Chen_WEIS2012.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2012_18
+  conference: weis2012
+  year: 2012
+  title: 'Ad-blocking Games: Monetizing Online Content Under the Threat of Ad Avoidance'
+  authors:
+  - Nevena Vratonjic
+  - Mohammad Hossein Manshaei
+  - Jens Grossklags
+  - Jean-Pierre Hubaux
+  authors_full:
+  - name: Nevena Vratonjic
+    affiliation: EPFL Lausanne
+  - name: Mohammad Hossein Manshaei
+    affiliation: Isfahan University of Technology, Iran
+  - name: Jens Grossklags
+    affiliation: Penn State University
+  - name: Jean-Pierre Hubaux
+    affiliation: EPFL Lausanne
+  session_number: 6
+  session: Privacy, Security, and Marketing
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Vratonjic_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Vratonjic_presentation_WEIS2012.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2012_19
+  conference: weis2012
+  year: 2012
+  title: 'Choice Architecture and Smartphone Privacy: There''s a Price for That'
+  authors:
+  - Serge Egelman
+  - Adrienne Porter Felt
+  - David Wagner
+  authors_full:
+  - name: Serge Egelman
+    affiliation: UC Berkeley
+  - name: Adrienne Porter Felt
+    affiliation: UC Berkeley
+  - name: David Wagner
+    affiliation: UC Berkeley
+  session_number: 6
+  session: Privacy, Security, and Marketing
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Egelman_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Egelman_presentation_WEIS2012.pdf
+  file: weis2012_19_choice-architecture-and-smartphone-privacy-there-s-a-price-f.pdf
+  path: papers/weis2012/weis2012_19_choice-architecture-and-smartphone-privacy-there-s-a-price-f.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2012_20
+  conference: weis2012
+  year: 2012
+  title: Would You Sell Your Mother's Data? Personal Data Disclosure in a Simulated Credit Card Application
+  authors:
+  - Miguel Malheiros
+  - Sascha Brostoff
+  - Charlene Jennett
+  - Angela Sasse
+  authors_full:
+  - name: Miguel Malheiros
+    affiliation: University College London
+  - name: Sascha Brostoff
+    affiliation: University College London
+  - name: Charlene Jennett
+    affiliation: University College London
+  - name: Angela Sasse
+    affiliation: University College London
+  session_number: 6
+  session: Privacy, Security, and Marketing
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: http://weis2012.econinfosec.org/papers/Malheiros_WEIS2012.pdf
+  slides_url: http://weis2012.econinfosec.org/presentation/Malheiros_presentation_WEIS2012.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2012_21
+  conference: weis2012
+  year: 2012
+  title: '''Maybe We Spend Too Much?'''
+  authors:
+  - Bruce Schneier
+  authors_full:
+  - name: Bruce Schneier
+    affiliation: BT Counterpane
+  session_number: 7
+  session: 'Ten Years of WEIS: Taking Stock and Looking Ahead'
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2012_22
+  conference: weis2012
+  year: 2012
+  title: '''No, We Don''t Spend Enough!'''
+  authors:
+  - Ross Anderson
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  session_number: 7
+  session: 'Ten Years of WEIS: Taking Stock and Looking Ahead'
+  event_type: session
+  date: '2012-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml

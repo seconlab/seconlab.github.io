@@ -1,5 +1,5 @@
 {% assign conf_key = page.name | split: "." | first %}
-{% if page.layout == "conference" %}{% assign conf = site.data[conf_key] %}{% endif %}
+{% if page.layout == "conference" %}{% assign conf = site.data.yml[conf_key] %}{% endif %}
 {% assign header_title = conf.name | default: page.title | default: site.title | default: site.github.repository_name %}
 {% assign header_description = conf.full_name | default: page.description | default: site.description | default: site.github.project_tagline %}
 <!DOCTYPE html>

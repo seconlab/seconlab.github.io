@@ -99,7 +99,7 @@ program:
         papers:
           - title: "Social Insecurity: The Unintended Consequences of Identity Fraud Prevention Policies"
             time: "09:30"
-            url: "http://weis09.infosecon.net/files/102/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/102/paper102.pdf"
             authors:
               - name: "Alessandro Acquisti"
                 affiliation: "Carnegie Mellon University"
@@ -107,7 +107,7 @@ program:
                 affiliation: "Carnegie Mellon University"
           - title: "Data Breaches and Identity Theft"
             time: "10:00"
-            url: "http://weis09.infosecon.net/files/121/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/121/paper121.pdf"
             authors:
               - name: "William Roberds"
                 affiliation: "Federal Reserve Bank of Atlanta"
@@ -124,7 +124,7 @@ program:
         papers:
           - title: "The Iterated Weakest Link - A Model of Adaptive Security Investment"
             time: "11:00"
-            url: "http://weis09.infosecon.net/files/152/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/152/paper152.pdf"
             authors:
               - name: "Rainer Boehme"
                 affiliation: "Technische Universitat Dresden"
@@ -132,7 +132,7 @@ program:
                 affiliation: "Harvard University"
           - title: "The Price of Uncertainty in Security Games"
             time: "11:20"
-            url: "http://weis09.infosecon.net/files/161/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/161/paper161.pdf"
             authors:
               - name: "Jens Grossklags"
                 affiliation: "UC Berkeley"
@@ -142,7 +142,7 @@ program:
                 affiliation: "Carnegie Mellon University, CyLab"
           - title: "Nobody Sells Gold for the Price of Silver: Dishonesty, Uncertainty and the Underground Economy"
             time: "11:40"
-            url: "http://weis09.infosecon.net/files/133/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/133/paper133.pdf"
             authors:
               - name: "Cormac Herley"
                 affiliation: "Microsoft Research"
@@ -170,7 +170,7 @@ program:
         papers:
           - title: "Cyber Attacks: Cross-Country Interdependence and Enforcement"
             time: "14:00"
-            url: "http://weis09.infosecon.net/files/153/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/153/paper153.pdf"
             authors:
               - name: "Qiu-Hong Wang"
                 affiliation: "University of Singapore"
@@ -201,7 +201,7 @@ program:
         papers:
           - title: "The Impact of Relative Standards on Concern About Privacy"
             time: "16:15"
-            url: "http://weis09.infosecon.net/files/132/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/132/paper132.pdf"
             authors:
               - name: "Alessandro Acquisti"
                 affiliation: "Carnegie Mellon University"
@@ -211,7 +211,7 @@ program:
                 affiliation: "Carnegie Mellon University"
           - title: "The Policy Maker's Anguish: regulating personal data behaviour between paradoxes and dilemmas"
             time: "16:45"
-            url: "http://weis09.infosecon.net/files/119/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/119/paper119.pdf"
             authors:
               - name: "Ramón Compañó"
                 affiliation: "European Commission Joint Research Centre IPTS"
@@ -219,7 +219,7 @@ program:
                 affiliation: "European Commission Joint Research Centre IPTS; Visiting Research Fellow, University of Chester"
           - title: "The Privacy Jungle: On the Market for Data Protection in Social Networks"
             time: "17:05"
-            url: "http://weis09.infosecon.net/files/156/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/156/paper156.pdf"
             authors:
               - name: "Joseph Bonneau"
                 affiliation: "University of Cambridge"
@@ -227,7 +227,7 @@ program:
                 affiliation: "University of Cambridge"
           - title: "HIPAA Compliance: An Examination of Institutional and Market Forces"
             time: "17:35"
-            url: "http://weis09.infosecon.net/files/151/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/151/paper151.pdf"
             authors:
               - name: "Ajit Appari"
                 affiliation: "Tuck School of Business at Dartmouth"
@@ -264,7 +264,7 @@ program:
         papers:
           - title: "Valuating Privacy with Option Pricing Theory"
             time: "09:45"
-            url: "http://weis09.infosecon.net/files/128/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/128/paper128.pdf"
             authors:
               - name: "Stefan Berthold"
                 affiliation: "Technische Universitat Dresden"
@@ -272,7 +272,7 @@ program:
                 affiliation: "Technische Universitat Dresden"
           - title: "Optimal Timing of Information Security Investment: A Real Options Approach"
             time: "10:15"
-            url: "http://weis09.infosecon.net/files/112/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/112/paper112.pdf"
             authors:
               - name: "Ken-ichi Tatsumi"
                 affiliation: "Gakushuin University"
@@ -289,7 +289,7 @@ program:
         papers:
           - title: "Security Economics and Critical National Infrastructure"
             time: "11:15"
-            url: "http://weis09.infosecon.net/files/124/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/124/paper124.pdf"
             authors:
               - name: "Ross Anderson"
                 affiliation: "University of Cambridge"
@@ -297,7 +297,7 @@ program:
                 affiliation: "University of Cambridge"
           - title: "Internet Multi-Homing Problems: Explanations from Economics"
             time: "11:45"
-            url: "http://weis09.infosecon.net/files/135/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/135/paper135.pdf"
             authors:
               - name: "Richard Clayton"
                 affiliation: "University of Cambridge"
@@ -312,7 +312,7 @@ program:
         papers:
           - title: "The Impact of Information Security Ratings on Vendor Competition"
             time: "12:05"
-            url: "http://weis09.infosecon.net/files/134/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/134/paper134.pdf"
             authors:
               - name: "Zach Zhou"
                 affiliation: "Dartmouth College"
@@ -320,7 +320,7 @@ program:
                 affiliation: "Dartmouth College"
           - title: "The Risk of Risk Analysis-And its relation to the Economics of Insider Threats"
             time: "12:25"
-            url: "http://weis09.infosecon.net/files/111/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/111/paper111.pdf"
             authors:
               - name: "Christian W Probst"
                 affiliation: "Technical University of Denmark"
@@ -348,7 +348,7 @@ program:
         papers:
           - title: "Competitive Cyber-Insurance and Internet Security"
             time: "14:45"
-            url: "http://weis09.infosecon.net/files/146/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/146/paper146.pdf"
             authors:
               - name: "Nikhil Shetty"
                 affiliation: "UC Berkeley"
@@ -360,7 +360,7 @@ program:
                 affiliation: "UC Berkeley"
           - title: "Potential Rating Indicators for Cyberinsurance: An Exploratory Qualitative Study"
             time: "15:15"
-            url: "http://weis09.infosecon.net/files/141/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/141/paper141.pdf"
             authors:
               - name: "Frank Innerhofer-Oberperfler"
                 affiliation: "Research Group Quality Engineering, Institute of Computer Science, University of Innsbruck"
@@ -377,13 +377,13 @@ program:
         papers:
           - title: "Economics of Malware: Epidemic Risks Model, Network Externalities and Incentives"
             time: "16:00"
-            url: "http://weis09.infosecon.net/files/127/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/127/paper127.pdf"
             authors:
               - name: "Marc LeLarge"
                 affiliation: "INRIA-ENS"
           - title: "Modeling the economic incentives of DDoS attacks: femtocell case study"
             time: "16:30"
-            url: "http://weis09.infosecon.net/files/113/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/113/paper113.pdf"
             authors:
               - name: "Vicente Segura"
                 affiliation: "Telefónica I+D"
@@ -391,7 +391,7 @@ program:
                 affiliation: "Telefónica I+D"
           - title: "Modelling the Security Ecosystem- The Dynamics of (In)Security"
             time: "16:50"
-            url: "http://weis09.infosecon.net/files/103/index.html"
+            url: "https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/103/paper103.pdf"
             authors:
               - name: "Stefan Frei"
                 affiliation: "ETH Zurich"

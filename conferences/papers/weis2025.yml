@@ -1,0 +1,261 @@
+name: WEIS 2025
+full_name: The 24th Workshop on the Economics of Information Security
+edition: 24
+year: 2025
+location: Tokyo, Japan
+venue: Institute of Industrial Science (IIS), Komaba Research Campus, The University of Tokyo, Komaba 4-6-1, Meguro-ku, Tokyo
+start_date: '2025-06-23'
+end_date: '2025-06-25'
+website: http://kmlabcw.iis.u-tokyo.ac.jp/weis/2025/
+papers:
+- id: weis2025_01
+  title: 'Vendor-Originated Vulnerabilities and Data Breaches: A Large-Scale Empirical Study of Threshold Effects and Mitigation'
+  authors:
+  - name: Santhosh Srinivas
+    affiliation: Virginia Tech
+  - name: Leting Zhang
+    affiliation: University of Delaware
+  - name: Huigang Liang
+    affiliation: University of Memphis
+  file: weis2025_01_vendor-originated-vulnerabilities-and-data-breaches-a-large.pdf
+  path: papers/weis2025/weis2025_01_vendor-originated-vulnerabilities-and-data-breaches-a-large.pdf
+- id: weis2025_02
+  title: 'Scoring the Unscorables: Cyber Risk Assessment Beyond Internet Scans'
+  authors:
+  - name: Armin Sarabi
+    affiliation: University of Michigan
+  - name: Manish Karir
+    affiliation: SignetRisk Analytics, Inc.
+  - name: Mingyan Liu
+    affiliation: University of Michigan
+  file: weis2025_02_scoring-the-unscorables-cyber-risk-assessment-beyond-interne.pdf
+  path: papers/weis2025/weis2025_02_scoring-the-unscorables-cyber-risk-assessment-beyond-interne.pdf
+- id: weis2025_03
+  title: 'Expanding the Scope: An Empirical Approach for Identifying High-Risk Users'
+  authors:
+  - name: Corey Bolger
+    affiliation: The University of Tulsa
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  file: weis2025_03_expanding-the-scope-an-empirical-approach-for-identifying-hi.pdf
+  path: papers/weis2025/weis2025_03_expanding-the-scope-an-empirical-approach-for-identifying-hi.pdf
+- id: weis2025_04
+  title: 'Tokenomics Impact on User Behavior: Observations from NFT-Collateralized Lending Platforms'
+  authors:
+  - name: Jin-Dong Dong
+    affiliation: Carnegie Mellon University
+  - name: Daisuke Kawai
+    affiliation: Carnegie Mellon University
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University
+  file: weis2025_04_tokenomics-impact-on-user-behavior-observations-from-nft-col.pdf
+  path: papers/weis2025/weis2025_04_tokenomics-impact-on-user-behavior-observations-from-nft-col.pdf
+- id: weis2025_05
+  title: 'Cryptocurrency Sanctions: Compliance, Enforcement & Impacts'
+  authors:
+  - name: Josephine Wolff
+    affiliation: Tufts University
+  - name: Daniel Drezner
+    affiliation: Tufts University
+  file: weis2025_05_cryptocurrency-sanctions-compliance-enforcement-impacts.pdf
+  path: papers/weis2025/weis2025_05_cryptocurrency-sanctions-compliance-enforcement-impacts.pdf
+- id: weis2025_06
+  title: '"Spot to The Future" Attacks on Cryptocurrency Derivative Markets'
+  authors:
+  - name: Andrew Morin
+    affiliation: The University of Tulsa
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  file: weis2025_06_spot-to-the-future-attacks-on-cryptocurrency-derivative-mark.pdf
+  path: papers/weis2025/weis2025_06_spot-to-the-future-attacks-on-cryptocurrency-derivative-mark.pdf
+- id: weis2025_07
+  title: On the Nature and Security of Expiring Digital Cash
+  authors:
+  - name: Frank Stajano
+    affiliation: University of Cambridge
+  - name: Ferdinando Samaria
+    affiliation: University of Cambridge
+  - name: Shuqi Zi
+    affiliation: University of Cambridge
+  file: weis2025_07_on-the-nature-and-security-of-expiring-digital-cash.pdf
+  path: papers/weis2025/weis2025_07_on-the-nature-and-security-of-expiring-digital-cash.pdf
+- id: weis2025_08
+  title: 'Does Firm Size Influence the Collection of Sensitive Data?: A Study of Child-Orientated Apps'
+  authors:
+  - name: Grazia Cecere
+    affiliation: Institut Mines-Telecom, Business School
+  - name: Vincent Lefrere
+    affiliation: Institut Mines-Telecom, Business School
+  - name: Catherine Tucker
+    affiliation: Massachusetts Institute of Technology (MIT) - Sloan
+  file: weis2025_08_does-firm-size-influence-the-collection-of-sensitive-data-a.pdf
+  path: papers/weis2025/weis2025_08_does-firm-size-influence-the-collection-of-sensitive-data-a.pdf
+- id: weis2025_09
+  title: Privacy Spillovers across Competing Platforms
+  authors:
+  - name: Raveesh Mayya
+    affiliation: New York University
+  - name: Jiding Zhang
+    affiliation: Arizona State University
+  file: weis2025_09_privacy-spillovers-across-competing-platforms.pdf
+  path: papers/weis2025/weis2025_09_privacy-spillovers-across-competing-platforms.pdf
+- id: weis2025_10
+  title: The Effects of Privacy Regulation on the Supply of Stolen Data
+  authors:
+  - name: Anderson Frailey
+    affiliation: University of Virginia
+  file: weis2025_10_the-effects-of-privacy-regulation-on-the-supply-of-stolen-da.pdf
+  path: papers/weis2025/weis2025_10_the-effects-of-privacy-regulation-on-the-supply-of-stolen-da.pdf
+- id: weis2025_11
+  title: 'Knowledge Worker Strategy: Effort Allocation Dynamics in Cybersecurity Crowdsourcing Platforms'
+  authors:
+  - name: Dana Etgar Itzhaki
+    affiliation: Tel Aviv University
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  - name: Michael Riordan
+    affiliation: Columbia University
+  file: weis2025_11_knowledge-worker-strategy-effort-allocation-dynamics-in-cybe.pdf
+  path: papers/weis2025/weis2025_11_knowledge-worker-strategy-effort-allocation-dynamics-in-cybe.pdf
+- id: weis2025_12
+  title: 'Unfairness in the Bug Bounty Ecosystem: Problems, Metrics, and Solutions'
+  authors:
+  - name: Yangheran Piao
+    affiliation: University of Edinburgh
+  - name: Daniel W. Woods
+    affiliation: University of Edinburgh
+  file: weis2025_12_unfairness-in-the-bug-bounty-ecosystem-problems-metrics-and.pdf
+  path: papers/weis2025/weis2025_12_unfairness-in-the-bug-bounty-ecosystem-problems-metrics-and.pdf
+- id: weis2025_13
+  title: 'Realigning Incentives to Build Better Software: A Holistic Approach to Vendor Accountability'
+  authors:
+  - name: Gergely Biczok
+    affiliation: Budapest University of Technology and Economics / University of Michigan
+  - name: Sasha Romanosky
+    affiliation: RAND Corporation
+  - name: Mingyan Liu
+    affiliation: University of Michigan
+  file: weis2025_13_realigning-incentives-to-build-better-software-a-holistic-ap.pdf
+  path: papers/weis2025/weis2025_13_realigning-incentives-to-build-better-software-a-holistic-ap.pdf
+- id: weis2025_14
+  title: 'Market Adoption of Cybersecurity: A Dynamic Analysis'
+  authors:
+  - name: Pengfei Zhang
+    affiliation: The University of Texas at Dallas
+  file: weis2025_14_market-adoption-of-cybersecurity-a-dynamic-analysis.pdf
+  path: papers/weis2025/weis2025_14_market-adoption-of-cybersecurity-a-dynamic-analysis.pdf
+- id: weis2025_15
+  title: 'Anticipating Personal Cyber Insurance Disputes: A US/UK User Study'
+  authors:
+  - name: Temima Hrle
+    affiliation: University of Edinburgh
+  - name: Yangheran Piao
+    affiliation: University of Edinburgh
+  - name: Daniel Woods
+    affiliation: University of Edinburgh
+  file: weis2025_15_anticipating-personal-cyber-insurance-disputes-a-us-uk-user.pdf
+  path: papers/weis2025/weis2025_15_anticipating-personal-cyber-insurance-disputes-a-us-uk-user.pdf
+- id: weis2025_16
+  title: Quantifying costs of enhanced security in multifactor authentication
+  authors:
+  - name: Seth Hastings
+    affiliation: The University of Tulsa
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  - name: Noa Barnir
+    affiliation: Tel Aviv University
+  file: weis2025_16_quantifying-costs-of-enhanced-security-in-multifactor-authen.pdf
+  path: papers/weis2025/weis2025_16_quantifying-costs-of-enhanced-security-in-multifactor-authen.pdf
+- id: weis2025_17
+  title: 'Advanced Persistent Threat Defense: History and Future in Four Solutions to One Game'
+  authors:
+  - name: Daniel Arce
+    affiliation: University of Texas at Dallas
+  file: weis2025_17_advanced-persistent-threat-defense-history-and-future-in-fou.pdf
+  path: papers/weis2025/weis2025_17_advanced-persistent-threat-defense-history-and-future-in-fou.pdf
+- id: weis2025_18
+  title: 'Workers'' Rights not to be learned for AI: General Legal Framework Suggested from Japanese Labour Law Context'
+  authors:
+  - name: Yuki Okamura
+    affiliation: NTT Social Informatics Laboratories
+  - name: Miho Ikeda
+    affiliation: NTT Social Informatics Laboratories
+  file: weis2025_18_workers-rights-not-to-be-learned-for-ai-general-legal-framew.pdf
+  path: papers/weis2025/weis2025_18_workers-rights-not-to-be-learned-for-ai-general-legal-framew.pdf
+- id: weis2025_19
+  title: A Measured Response - On the Nexus of Large-Scale Technical Measurements and Cybercrime Policing
+  authors:
+  - name: Hugo Bijmans
+    affiliation: Delft University of Technology / TNO
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Rolf van Wegberg
+    affiliation: Delft University of Technology
+  file: weis2025_19_a-measured-response-on-the-nexus-of-large-scale-technical-me.pdf
+  path: papers/weis2025/weis2025_19_a-measured-response-on-the-nexus-of-large-scale-technical-me.pdf
+- id: weis2025_20
+  title: 'Competition and Cybercrime: A Theoretical Assessment and Empirical Application'
+  authors:
+  - name: Chitra Marti
+    affiliation: New York University, Stern School of Business and Cornerstone Research
+  file: weis2025_20_competition-and-cybercrime-a-theoretical-assessment-and-empi.pdf
+  path: papers/weis2025/weis2025_20_competition-and-cybercrime-a-theoretical-assessment-and-empi.pdf
+- id: weis2025_21
+  title: 'CyLoss: A Cyber Incident Dataset for Cost Modeling'
+  authors:
+  - name: Weibo Zhao
+    affiliation: National University of Singapore
+  - name: Bonan Ruan
+    affiliation: National University of Singapore
+  - name: Jiahao Liu
+    affiliation: National University of Singapore
+  - name: Yunshan Ma
+    affiliation: Singapore Management University
+  - name: Huanhuan Zheng
+    affiliation: National University of Singapore
+  - name: Zhenkai Liang
+    affiliation: National University of Singapore
+  file: weis2025_21_cyloss-a-cyber-incident-dataset-for-cost-modeling.pdf
+  path: papers/weis2025/weis2025_21_cyloss-a-cyber-incident-dataset-for-cost-modeling.pdf
+- id: weis2025_22
+  title: Examining Newly Registered Phishing Domains at Scale
+  authors:
+  - name: Sharad Agarwal
+    affiliation: University College London
+  - name: Marie Vasek
+    affiliation: University College London
+  file: weis2025_22_examining-newly-registered-phishing-domains-at-scale.pdf
+  path: papers/weis2025/weis2025_22_examining-newly-registered-phishing-domains-at-scale.pdf
+- id: weis2025_23
+  title: 'Not just BANAL: How branding shapes cybercrime ecosystems'
+  authors:
+  - name: Ben Collier
+    affiliation: University of Edinburgh
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  file: weis2025_23_not-just-banal-how-branding-shapes-cybercrime-ecosystems.pdf
+  path: papers/weis2025/weis2025_23_not-just-banal-how-branding-shapes-cybercrime-ecosystems.pdf
+- id: weis2025_24
+  title: 'Raising the Bar: Assessing Historical Cryptocurrency Exchange Practices in Light of the EU''s MiCA and DORA Regulation'
+  authors:
+  - name: Marilyne Ordekian
+    affiliation: University College London
+  - name: Ingolf Becker
+    affiliation: University College London
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  - name: Marie Vasek
+    affiliation: University College London
+  file: weis2025_24_raising-the-bar-assessing-historical-cryptocurrency-exchange.pdf
+  path: papers/weis2025/weis2025_24_raising-the-bar-assessing-historical-cryptocurrency-exchange.pdf
+- id: weis2025_25
+  title: How informative are cybersecurity risk disclosures? Empirical analysis of breached firms
+  authors:
+  - name: Matthew Adams
+    affiliation: The University of Tulsa
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  file: weis2025_25_how-informative-are-cybersecurity-risk-disclosures-empirical.pdf
+  path: papers/weis2025/weis2025_25_how-informative-are-cybersecurity-risk-disclosures-empirical.pdf

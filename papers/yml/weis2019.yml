@@ -1,0 +1,682 @@
+conference: weis2019
+name: WEIS 2019
+year: 2019
+papers_dir: papers/weis2019
+total: 24
+downloaded: 24
+failed: 0
+papers:
+- id: weis2019_01
+  conference: weis2019
+  year: 2019
+  title: A Research Agenda for Cyber Risk and Cyber Insurance
+  authors:
+  - Gregory Falco
+  - Martin Eling
+  - Danielle Jablanski
+  - Lawrence A. Gordon
+  - Shaun Shuxun Wang
+  - Joan Schmit
+  - Russell Thomas
+  - Mauro Elvedi
+  - Thomas Maillart
+  - Emy Donavan
+  - Simon Dejung
+  - Matthias Weber
+  - Eric Durand
+  - Franklin Nutter
+  - Uzi Scheffer
+  - Gil Arazi
+  - Gilbert Ohana
+  - Herb Lin
+  authors_full:
+  - name: Gregory Falco
+  - name: Martin Eling
+  - name: Danielle Jablanski
+  - name: Lawrence A. Gordon
+  - name: Shaun Shuxun Wang
+  - name: Joan Schmit
+  - name: Russell Thomas
+  - name: Mauro Elvedi
+  - name: Thomas Maillart
+  - name: Emy Donavan
+  - name: Simon Dejung
+  - name: Matthias Weber
+  - name: Eric Durand
+  - name: Franklin Nutter
+  - name: Uzi Scheffer
+  - name: Gil Arazi
+  - name: Gilbert Ohana
+  - name: Herb Lin
+  session_number: 1
+  session: Advancing Research
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_35.pdf
+  slides_url: null
+  file: weis2019_01_a-research-agenda-for-cyber-risk-and-cyber-insurance.pdf
+  path: papers/weis2019/weis2019_01_a-research-agenda-for-cyber-risk-and-cyber-insurance.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_35.pdf
+  error: null
+- id: weis2019_02
+  conference: weis2019
+  year: 2019
+  title: Valuing Cybersecurity Research Datasets
+  authors:
+  - Tyler Moore
+  - Erin Kenneally
+  - Michael Collett
+  - Prakash Thapa
+  authors_full:
+  - name: Tyler Moore
+  - name: Erin Kenneally
+  - name: Michael Collett
+  - name: Prakash Thapa
+  session_number: 1
+  session: Advancing Research
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_41.pdf
+  slides_url: null
+  file: weis2019_02_valuing-cybersecurity-research-datasets.pdf
+  path: papers/weis2019/weis2019_02_valuing-cybersecurity-research-datasets.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_41.pdf
+  error: null
+- id: weis2019_03
+  conference: weis2019
+  year: 2019
+  title: Measuring the Changing Cost of Cybercrime
+  authors:
+  - Ross Anderson
+  - Chris Barton
+  - Rainer Böhme
+  - Richard Clayton
+  - Carlos Ganan
+  - Tom Grasso
+  - Michael Levi
+  - Marie Vasek
+  - Tyler Moore
+  authors_full:
+  - name: Ross Anderson
+  - name: Chris Barton
+  - name: Rainer Böhme
+  - name: Richard Clayton
+  - name: Carlos Ganan
+  - name: Tom Grasso
+  - name: Michael Levi
+  - name: Marie Vasek
+  - name: Tyler Moore
+  session_number: 1
+  session: Advancing Research
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf
+  slides_url: null
+  file: weis2019_03_measuring-the-changing-cost-of-cybercrime.pdf
+  path: papers/weis2019/weis2019_03_measuring-the-changing-cost-of-cybercrime.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf
+  error: null
+- id: weis2019_04
+  conference: weis2019
+  year: 2019
+  title: 'The County Fair Cyber Loss Distribution: Drawing Inferences from Insurance Prices'
+  authors:
+  - Daniel Woods
+  - Tyler Moore
+  - Andrew Simpson
+  authors_full:
+  - name: Daniel Woods
+  - name: Tyler Moore
+  - name: Andrew Simpson
+  session_number: 2
+  session: Mitigating Threat
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_19.pdf
+  slides_url: null
+  file: weis2019_04_the-county-fair-cyber-loss-distribution-drawing-inferences-f.pdf
+  path: papers/weis2019/weis2019_04_the-county-fair-cyber-loss-distribution-drawing-inferences-f.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_19.pdf
+  error: null
+- id: weis2019_05
+  conference: weis2019
+  year: 2019
+  title: 'The Stock Market Impact of Information Security Investments: The Case of Security Standards'
+  authors:
+  - Dennis D. Malliouris
+  - Andrew C. Simpson
+  authors_full:
+  - name: Dennis D. Malliouris
+  - name: Andrew C. Simpson
+  session_number: 2
+  session: Mitigating Threat
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_22.pdf
+  slides_url: null
+  file: weis2019_05_the-stock-market-impact-of-information-security-investments.pdf
+  path: papers/weis2019/weis2019_05_the-stock-market-impact-of-information-security-investments.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_22.pdf
+  error: null
+- id: weis2019_06
+  conference: weis2019
+  year: 2019
+  title: Exponential Discounting in Security Games of Timing
+  authors:
+  - Jonathan Merlevede
+  - Benjamin Johnson
+  - Jens Grossklags
+  - Tom Holvoet
+  authors_full:
+  - name: Jonathan Merlevede
+  - name: Benjamin Johnson
+  - name: Jens Grossklags
+  - name: Tom Holvoet
+  session_number: 2
+  session: Mitigating Threat
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_54.pdf
+  slides_url: null
+  file: weis2019_06_exponential-discounting-in-security-games-of-timing.pdf
+  path: papers/weis2019/weis2019_06_exponential-discounting-in-security-games-of-timing.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_54.pdf
+  error: null
+- id: weis2019_07
+  conference: weis2019
+  year: 2019
+  title: Economics of Ransomware Attacks
+  authors:
+  - Terrence August
+  - Duy Dao
+  - Marius Florin Niculescu
+  authors_full:
+  - name: Terrence August
+  - name: Duy Dao
+  - name: Marius Florin Niculescu
+  session_number: 3
+  session: Reducing Externalities
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_60.pdf
+  slides_url: null
+  file: weis2019_07_economics-of-ransomware-attacks.pdf
+  path: papers/weis2019/weis2019_07_economics-of-ransomware-attacks.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_60.pdf
+  error: null
+- id: weis2019_08
+  conference: weis2019
+  year: 2019
+  title: Cybersecurity and Platform Competition
+  authors:
+  - Daniel Arce
+  authors_full:
+  - name: Daniel Arce
+  session_number: 3
+  session: Reducing Externalities
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_51.pdf
+  slides_url: null
+  file: weis2019_08_cybersecurity-and-platform-competition.pdf
+  path: papers/weis2019/weis2019_08_cybersecurity-and-platform-competition.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_51.pdf
+  error: null
+- id: weis2019_09
+  conference: weis2019
+  year: 2019
+  title: Improving Vulnerability Remediation Through Better Exploit Prediction
+  authors:
+  - Jay Jacobs
+  - Sasha Romanosky
+  - Idris Adjerid
+  - Wade Baker
+  authors_full:
+  - name: Jay Jacobs
+  - name: Sasha Romanosky
+  - name: Idris Adjerid
+  - name: Wade Baker
+  session_number: 3
+  session: Reducing Externalities
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_53.pdf
+  slides_url: null
+  file: weis2019_09_improving-vulnerability-remediation-through-better-exploit-p.pdf
+  path: papers/weis2019/weis2019_09_improving-vulnerability-remediation-through-better-exploit-p.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_53.pdf
+  error: null
+- id: weis2019_10
+  conference: weis2019
+  year: 2019
+  title: 'Bug Bounty Programs, Security Investment and Law Enforcement: A Security Game Perspective'
+  authors:
+  - Jiali Zhou
+  - Kai-Lung Hui
+  authors_full:
+  - name: Jiali Zhou
+  - name: Kai-Lung Hui
+  session_number: 4
+  session: Short Papers
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_36.pdf
+  slides_url: null
+  file: weis2019_10_bug-bounty-programs-security-investment-and-law-enforcement.pdf
+  path: papers/weis2019/weis2019_10_bug-bounty-programs-security-investment-and-law-enforcement.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_36.pdf
+  error: null
+- id: weis2019_11
+  conference: weis2019
+  year: 2019
+  title: 'Identifying the Arbitrageurs on Mt. Gox: First Evidence from the Leaked Dataset'
+  authors:
+  - Pietro Saggese
+  - Rainer Böhme
+  authors_full:
+  - name: Pietro Saggese
+  - name: Rainer Böhme
+  session_number: 4
+  session: Short Papers
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_44.pdf
+  slides_url: null
+  file: weis2019_11_identifying-the-arbitrageurs-on-mt-gox-first-evidence-from-t.pdf
+  path: papers/weis2019/weis2019_11_identifying-the-arbitrageurs-on-mt-gox-first-evidence-from-t.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_44.pdf
+  error: null
+- id: weis2019_12
+  conference: weis2019
+  year: 2019
+  title: Does Sharing Make My Data More Insecure? An Empirical Study on Health Information Exchange and Data Breaches
+  authors:
+  - Leting Zhang
+  - Min-Seok Pang
+  - Sunil Wattal
+  authors_full:
+  - name: Leting Zhang
+  - name: Min-Seok Pang
+  - name: Sunil Wattal
+  session_number: 4
+  session: Short Papers
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/06/WEIS_2019_paper_56.pdf
+  slides_url: null
+  file: weis2019_12_does-sharing-make-my-data-more-insecure-an-empirical-study-o.pdf
+  path: papers/weis2019/weis2019_12_does-sharing-make-my-data-more-insecure-an-empirical-study-o.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/06/WEIS_2019_paper_56.pdf
+  error: null
+- id: weis2019_13
+  conference: weis2019
+  year: 2019
+  title: Hey Google, What Exactly Do Your Security Patches Tell Us? A Large-Scale Empirical Study on Android Patched Vulnerabilities
+  authors:
+  - Sadegh Farhang
+  - Mehmet Bahadir Kirdan
+  - Aron Laszka
+  - Jens Grossklags
+  authors_full:
+  - name: Sadegh Farhang
+  - name: Mehmet Bahadir Kirdan
+  - name: Aron Laszka
+  - name: Jens Grossklags
+  session_number: 4
+  session: Short Papers
+  event_type: session
+  date: '2019-06-03'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_59.pdf
+  slides_url: null
+  file: weis2019_13_hey-google-what-exactly-do-your-security-patches-tell-us-a-l.pdf
+  path: papers/weis2019/weis2019_13_hey-google-what-exactly-do-your-security-patches-tell-us-a-l.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_59.pdf
+  error: null
+- id: weis2019_14
+  conference: weis2019
+  year: 2019
+  title: Why Bitcoin will Fail to Scale
+  authors:
+  - Nikhil Malik
+  - Manmohan Aseri
+  - Param Vir Singh
+  - Kannan Srinivasan
+  authors_full:
+  - name: Nikhil Malik
+  - name: Manmohan Aseri
+  - name: Param Vir Singh
+  - name: Kannan Srinivasan
+  session_number: 5
+  session: Securing Currency
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_5.pdf
+  slides_url: null
+  file: weis2019_14_why-bitcoin-will-fail-to-scale.pdf
+  path: papers/weis2019/weis2019_14_why-bitcoin-will-fail-to-scale.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_5.pdf
+  error: null
+- id: weis2019_15
+  conference: weis2019
+  year: 2019
+  title: The Economics of Cryptocurrency Pump and Dump Schemes
+  authors:
+  - James Hamrick
+  - Farhang Rouhi
+  - Arghya Mukherjee
+  - Amir Feder
+  - Neil Gandal
+  - Tyler Moore
+  - Marie Vasek
+  authors_full:
+  - name: James Hamrick
+  - name: Farhang Rouhi
+  - name: Arghya Mukherjee
+  - name: Amir Feder
+  - name: Neil Gandal
+  - name: Tyler Moore
+  - name: Marie Vasek
+  session_number: 5
+  session: Securing Currency
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_14.pdf
+  slides_url: null
+  file: weis2019_15_the-economics-of-cryptocurrency-pump-and-dump-schemes.pdf
+  path: papers/weis2019/weis2019_15_the-economics-of-cryptocurrency-pump-and-dump-schemes.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_14.pdf
+  error: null
+- id: weis2019_16
+  conference: weis2019
+  year: 2019
+  title: 'A Deep Dive into Bitcoin Mining Pools: An Empirical Analysis of Mining Shares'
+  authors:
+  - Matteo Romiti
+  - Aljosha Judmayer
+  - Alexei Zamyatin
+  - Bernhard Haslhofer
+  authors_full:
+  - name: Matteo Romiti
+  - name: Aljosha Judmayer
+  - name: Alexei Zamyatin
+  - name: Bernhard Haslhofer
+  session_number: 5
+  session: Securing Currency
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_30.pdf
+  slides_url: null
+  file: weis2019_16_a-deep-dive-into-bitcoin-mining-pools-an-empirical-analysis.pdf
+  path: papers/weis2019/weis2019_16_a-deep-dive-into-bitcoin-mining-pools-an-empirical-analysis.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_30.pdf
+  error: null
+- id: weis2019_17
+  conference: weis2019
+  year: 2019
+  title: 'Diversification Across Mining Pools: Optimal Mining Strategies under PoW'
+  authors:
+  - Panagiotis Chatzigiannis
+  - Foteini Baldimtsi
+  - Igor Griva
+  - Jiasun Li
+  authors_full:
+  - name: Panagiotis Chatzigiannis
+  - name: Foteini Baldimtsi
+  - name: Igor Griva
+  - name: Jiasun Li
+  session_number: 5
+  session: Securing Currency
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_40.pdf
+  slides_url: null
+  file: weis2019_17_diversification-across-mining-pools-optimal-mining-strategie.pdf
+  path: papers/weis2019/weis2019_17_diversification-across-mining-pools-optimal-mining-strategie.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_40.pdf
+  error: null
+- id: weis2019_18
+  conference: weis2019
+  year: 2019
+  title: 'The Economic Cost of Cybersecurity Breaches: A Broad-Based Analysis'
+  authors:
+  - Jacob Haislip
+  - Kalin Kolev
+  - Robert Pinsker
+  - Thomas Steffen
+  authors_full:
+  - name: Jacob Haislip
+  - name: Kalin Kolev
+  - name: Robert Pinsker
+  - name: Thomas Steffen
+  session_number: 6
+  session: Disclosing Problems
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_13.pdf
+  slides_url: null
+  file: weis2019_18_the-economic-cost-of-cybersecurity-breaches-a-broad-based-an.pdf
+  path: papers/weis2019/weis2019_18_the-economic-cost-of-cybersecurity-breaches-a-broad-based-an.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_13.pdf
+  error: null
+- id: weis2019_19
+  conference: weis2019
+  year: 2019
+  title: Software Vulnerability Disclosure and Security Investment
+  authors:
+  - Arrah-Marie Jo
+  authors_full:
+  - name: Arrah-Marie Jo
+  session_number: 6
+  session: Disclosing Problems
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_18.pdf
+  slides_url: null
+  file: weis2019_19_software-vulnerability-disclosure-and-security-investment.pdf
+  path: papers/weis2019/weis2019_19_software-vulnerability-disclosure-and-security-investment.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_18.pdf
+  error: null
+- id: weis2019_20
+  conference: weis2019
+  year: 2019
+  title: Do Data Breach Disclosure Laws Increase Firms’ Investment in Securing Their Digital Infrastructure?
+  authors:
+  - Raviv Murciano-Goroff
+  authors_full:
+  - name: Raviv Murciano-Goroff
+  session_number: 6
+  session: Disclosing Problems
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_33.pdf
+  slides_url: null
+  file: weis2019_20_do-data-breach-disclosure-laws-increase-firms-investment-in.pdf
+  path: papers/weis2019/weis2019_20_do-data-breach-disclosure-laws-increase-firms-investment-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_33.pdf
+  error: null
+- id: weis2019_21
+  conference: weis2019
+  year: 2019
+  title: 'Fixing HTTPS Misconfigurations at Scale: An Experiment with Security Notifications'
+  authors:
+  - Eric Zeng
+  - Frank Li
+  - Emily Stark
+  - Adrienne Porter Felt
+  - Parisa Tabriz
+  authors_full:
+  - name: Eric Zeng
+  - name: Frank Li
+  - name: Emily Stark
+  - name: Adrienne Porter Felt
+  - name: Parisa Tabriz
+  session_number: 7
+  session: Notifying and Tracking
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_16.pdf
+  slides_url: null
+  file: weis2019_21_fixing-https-misconfigurations-at-scale-an-experiment-with-s.pdf
+  path: papers/weis2019/weis2019_21_fixing-https-misconfigurations-at-scale-an-experiment-with-s.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_16.pdf
+  error: null
+- id: weis2019_22
+  conference: weis2019
+  year: 2019
+  title: 'Delaying Informed Consent: An Empirical Investigation of Mobile Apps’ Upgrade Decisions'
+  authors:
+  - Raveesh Mayya
+  - Siva Viswanathan
+  authors_full:
+  - name: Raveesh Mayya
+  - name: Siva Viswanathan
+  session_number: 7
+  session: Notifying and Tracking
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_58.pdf
+  slides_url: null
+  file: weis2019_22_delaying-informed-consent-an-empirical-investigation-of-mobi.pdf
+  path: papers/weis2019/weis2019_22_delaying-informed-consent-an-empirical-investigation-of-mobi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_58.pdf
+  error: null
+- id: weis2019_23
+  conference: weis2019
+  year: 2019
+  title: 'The Impact of Ad-Blockers on Consumer Behavior: A Lab Experiment'
+  authors:
+  - Alisa Frik
+  - Amelia Haviland
+  - Alessandro Acquisti
+  authors_full:
+  - name: Alisa Frik
+  - name: Amelia Haviland
+  - name: Alessandro Acquisti
+  session_number: 7
+  session: Notifying and Tracking
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_34.pdf
+  slides_url: null
+  file: weis2019_23_the-impact-of-ad-blockers-on-consumer-behavior-a-lab-experim.pdf
+  path: papers/weis2019/weis2019_23_the-impact-of-ad-blockers-on-consumer-behavior-a-lab-experim.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_34.pdf
+  error: null
+- id: weis2019_24
+  conference: weis2019
+  year: 2019
+  title: 'Online Tracking and Publishers’ Revenues: An Empirical Analysis'
+  authors:
+  - Veronica Marotta
+  - Vibhanshu Abhishek
+  - Alessandro Acquisti
+  authors_full:
+  - name: Veronica Marotta
+  - name: Vibhanshu Abhishek
+  - name: Alessandro Acquisti
+  session_number: 7
+  session: Notifying and Tracking
+  event_type: session
+  date: '2019-06-04'
+  time: null
+  award: null
+  url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf
+  slides_url: null
+  file: weis2019_24_online-tracking-and-publishers-revenues-an-empirical-analysi.pdf
+  path: papers/weis2019/weis2019_24_online-tracking-and-publishers-revenues-an-empirical-analysi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf
+  error: null

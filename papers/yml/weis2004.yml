@@ -1,0 +1,476 @@
+conference: weis2004
+name: WEIS 2004
+year: 2004
+papers_dir: papers/weis2004
+total: 19
+downloaded: 13
+failed: 6
+papers:
+- id: weis2004_01
+  conference: weis2004
+  year: 2004
+  title: Is finding security holes a good idea?
+  authors:
+  - Eric Rescorla
+  authors_full:
+  - name: Eric Rescorla
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20050515095125/http://www.dtc.umn.edu/weis2004/rescorla.pdf
+  slides_url: https://web.archive.org/web/20041205232610/http://www.dtc.umn.edu/weis2004/weis-rescorla.pdf
+  file: weis2004_01_is-finding-security-holes-a-good-idea.pdf
+  path: papers/weis2004/weis2004_01_is-finding-security-holes-a-good-idea.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_02
+  conference: weis2004
+  year: 2004
+  title: Optimal Policy for Software Vulnerability Disclosure
+  authors:
+  - Ashish Arora
+  - Rahul Telang
+  - Hao Xu
+  authors_full:
+  - name: Ashish Arora
+  - name: Rahul Telang
+  - name: Hao Xu
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20050515204040/http://www.dtc.umn.edu/weis2004/xu.pdf
+  slides_url: https://web.archive.org/web/20060224121128/http://www.dtc.umn.edu/weis2004/weis-xu.pdf
+  file: weis2004_02_optimal-policy-for-software-vulnerability-disclosure.pdf
+  path: papers/weis2004/weis2004_02_optimal-policy-for-software-vulnerability-disclosure.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_03
+  conference: weis2004
+  year: 2004
+  title: The Economics of Shared Risk at the National Scale
+  authors:
+  - Dan Geer
+  authors_full:
+  - name: Dan Geer
+  session_number: null
+  session: The Economics of Shared Risk at the National Scale (invited lecture)
+  event_type: keynote
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: null
+  slides_url: https://web.archive.org/web/20041012133133/http://www.dtc.umn.edu/weis2004/weis-geer.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2004_04
+  conference: weis2004
+  year: 2004
+  title: Who Signed Up for the Do-Not-Call List?
+  authors:
+  - Hal Varian
+  - Fredrik Wallenberg
+  - Glenn Woroch
+  authors_full:
+  - name: Hal Varian
+  - name: Fredrik Wallenberg
+  - name: Glenn Woroch
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20041012182619/http://www.dtc.umn.edu/weis2004/varian.pdf
+  slides_url: https://web.archive.org/web/20060514170501/http://www.dtc.umn.edu/weis2004/weis-varian.pdf
+  file: weis2004_04_who-signed-up-for-the-do-not-call-list.pdf
+  path: papers/weis2004/weis2004_04_who-signed-up-for-the-do-not-call-list.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_05
+  conference: weis2004
+  year: 2004
+  title: 'Privacy and Rationality: Preliminary Evidence from Pilot Data'
+  authors:
+  - Alessandro Acquisti
+  - Jens Grossklags
+  authors_full:
+  - name: Alessandro Acquisti
+  - name: Jens Grossklags
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040630113953/http://www.dtc.umn.edu/weis2004/acquisti.pdf
+  slides_url: https://web.archive.org/web/20050311023220/http://www.dtc.umn.edu/weis2004/weis-acquisti.pdf
+  file: weis2004_05_privacy-and-rationality-preliminary-evidence-from-pilot-data.pdf
+  path: papers/weis2004/weis2004_05_privacy-and-rationality-preliminary-evidence-from-pilot-data.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_06
+  conference: weis2004
+  year: 2004
+  title: Impact of Vulnerability Disclosure and Patch Availability — An Empirical Analysis
+  authors:
+  - Ashish Arora
+  - Ramayya Krishnan
+  - Anand Nandkumar
+  - Rahul Telang
+  - Yubao Yang
+  authors_full:
+  - name: Ashish Arora
+  - name: Ramayya Krishnan
+  - name: Anand Nandkumar
+  - name: Rahul Telang
+  - name: Yubao Yang
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20050515202159/http://www.dtc.umn.edu/weis2004/telang.pdf
+  slides_url: https://web.archive.org/web/20060514170418/http://www.dtc.umn.edu/weis2004/weis-arora.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2004_07
+  conference: weis2004
+  year: 2004
+  title: An Economic Analysis of Market for Software Vulnerabilities
+  authors:
+  - Karthik Kannan
+  - Rahul Telang
+  authors_full:
+  - name: Karthik Kannan
+  - name: Rahul Telang
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060219234235/http://www.dtc.umn.edu/weis2004/kannan-telang.pdf
+  slides_url: https://web.archive.org/web/20060514170448/http://www.dtc.umn.edu/weis2004/weis-telang.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2004_08
+  conference: weis2004
+  year: 2004
+  title: The Economics of Censorship Resistance
+  authors:
+  - George Danezis
+  - Ross Anderson
+  authors_full:
+  - name: George Danezis
+  - name: Ross Anderson
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060514170126/http://www.dtc.umn.edu/weis2004/danezis.pdf
+  slides_url: https://web.archive.org/web/20050311031113/http://www.dtc.umn.edu/weis2004/weis-danezis.pdf
+  file: weis2004_08_the-economics-of-censorship-resistance.pdf
+  path: papers/weis2004/weis2004_08_the-economics-of-censorship-resistance.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_09
+  conference: weis2004
+  year: 2004
+  title: An Insurance Style Model for Determining the Appropriate Investment Level against Maximum Loss arising from an Information Security Breach
+  authors:
+  - Roger Adkins
+  authors_full:
+  - name: Roger Adkins
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-13'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20050311044344/http://www.dtc.umn.edu/weis2004/adkins.pdf
+  slides_url: https://web.archive.org/web/20060514170419/http://www.dtc.umn.edu/weis2004/weis-adkins.pdf
+  file: weis2004_09_an-insurance-style-model-for-determining-the-appropriate-inv.pdf
+  path: papers/weis2004/weis2004_09_an-insurance-style-model-for-determining-the-appropriate-inv.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_10
+  conference: weis2004
+  year: 2004
+  title: On dealing with adversaries fairly
+  authors:
+  - Andrei Serjantov
+  - Ross Anderson
+  authors_full:
+  - name: Andrei Serjantov
+  - name: Ross Anderson
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060224121111/http://www.dtc.umn.edu/weis2004/serjantov.pdf
+  slides_url: https://web.archive.org/web/20050311052526/http://www.dtc.umn.edu/weis2004/weis-serjantov.pdf
+  file: weis2004_10_on-dealing-with-adversaries-fairly.pdf
+  path: papers/weis2004/weis2004_10_on-dealing-with-adversaries-fairly.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_11
+  conference: weis2004
+  year: 2004
+  title: Free-Riding and Whitewashing in Peer-to-Peer Systems
+  authors:
+  - Michal Feldman
+  - Christos Papadimitriou
+  - John Chuang
+  - Ion Stoica
+  authors_full:
+  - name: Michal Feldman
+  - name: Christos Papadimitriou
+  - name: John Chuang
+  - name: Ion Stoica
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040916211527/http://www.dtc.umn.edu/weis2004/feldman.pdf
+  slides_url: https://web.archive.org/web/20060514170552/http://www.dtc.umn.edu/weis2004/weis-feldman.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2004_12
+  conference: weis2004
+  year: 2004
+  title: Sufficiently Secure Peer-to-Peer Networks
+  authors:
+  - Rupert Gatti
+  - Stephen Lewis
+  - Andy Ozment
+  - Thierry Rayna
+  - Andrei Serjantov
+  authors_full:
+  - name: Rupert Gatti
+  - name: Stephen Lewis
+  - name: Andy Ozment
+  - name: Thierry Rayna
+  - name: Andrei Serjantov
+  session_number: 1
+  session: Session 1
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060514170037/http://www.dtc.umn.edu/weis2004/lewis.pdf
+  slides_url: https://web.archive.org/web/20060514170049/http://www.dtc.umn.edu/weis2004/weis-lewis.pdf
+  file: weis2004_12_sufficiently-secure-peer-to-peer-networks.pdf
+  path: papers/weis2004/weis2004_12_sufficiently-secure-peer-to-peer-networks.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_13
+  conference: weis2004
+  year: 2004
+  title: Towards an Economic Analysis of Trusted Systems
+  authors:
+  - Joan Feigenbaum
+  - Dirk Bergemann
+  - Scott Shenker
+  - Jonathan M. Smith
+  authors_full:
+  - name: Joan Feigenbaum
+  - name: Dirk Bergemann
+  - name: Scott Shenker
+  - name: Jonathan M. Smith
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040716124107/http://www.dtc.umn.edu/weis2004/feigenbaum.pdf
+  slides_url: https://web.archive.org/web/20050311050910/http://www.dtc.umn.edu/weis2004/feigenbaum-slides.pdf
+  file: weis2004_13_towards-an-economic-analysis-of-trusted-systems.pdf
+  path: papers/weis2004/weis2004_13_towards-an-economic-analysis-of-trusted-systems.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_14
+  conference: weis2004
+  year: 2004
+  title: Toward Econometric Models of the Security Risk from Remote Attacks
+  authors:
+  - Stuart Schechter
+  authors_full:
+  - name: Stuart Schechter
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20050311040617/http://www.dtc.umn.edu/weis2004/schechter.pdf
+  slides_url: null
+  file: weis2004_14_toward-econometric-models-of-the-security-risk-from-remote-a.pdf
+  path: papers/weis2004/weis2004_14_toward-econometric-models-of-the-security-risk-from-remote-a.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_15
+  conference: weis2004
+  year: 2004
+  title: Modelling the costs and benefits of Honeynets
+  authors:
+  - Maximillian Dornseif
+  - Sascha A. May
+  authors_full:
+  - name: Maximillian Dornseif
+  - name: Sascha A. May
+  session_number: 2
+  session: Session 2
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060224121306/http://www.dtc.umn.edu/weis2004/dornseif.pdf
+  slides_url: https://web.archive.org/web/20060514170620/http://www.dtc.umn.edu/weis2004/weis-dornseif.pdf
+  file: weis2004_15_modelling-the-costs-and-benefits-of-honeynets.pdf
+  path: papers/weis2004/weis2004_15_modelling-the-costs-and-benefits-of-honeynets.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_16
+  conference: weis2004
+  year: 2004
+  title: '''Proof-of-Work'' Proves Not to Work'
+  authors:
+  - Ben Laurie
+  - Richard Clayton
+  authors_full:
+  - name: Ben Laurie
+  - name: Richard Clayton
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20041012184646/http://www.dtc.umn.edu/weis2004/clayton.pdf
+  slides_url: https://web.archive.org/web/20051224145501/http://www.dtc.umn.edu/weis2004/weis-clayton.pdf
+  file: weis2004_16_proof-of-work-proves-not-to-work.pdf
+  path: papers/weis2004/weis2004_16_proof-of-work-proves-not-to-work.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_17
+  conference: weis2004
+  year: 2004
+  title: 'Bug Auctions: Vulnerability Markets Reconsidered'
+  authors:
+  - Andy Ozment
+  authors_full:
+  - name: Andy Ozment
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040923221442/http://www.dtc.umn.edu/weis2004/ozment.pdf
+  slides_url: https://web.archive.org/web/20060224121242/http://www.dtc.umn.edu/weis2004/weis-ozment.pdf
+  file: weis2004_17_bug-auctions-vulnerability-markets-reconsidered.pdf
+  path: papers/weis2004/weis2004_17_bug-auctions-vulnerability-markets-reconsidered.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2004_18
+  conference: weis2004
+  year: 2004
+  title: A Worst-Case Worm
+  authors:
+  - Nicholas Weaver
+  - Vern Paxson
+  authors_full:
+  - name: Nicholas Weaver
+  - name: Vern Paxson
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040723074356/http://www.dtc.umn.edu/weis2004/weaver.pdf
+  slides_url: https://web.archive.org/web/20050311024841/http://www.dtc.umn.edu/weis2004/weis-weaver.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2004_19
+  conference: weis2004
+  year: 2004
+  title: Dissenting Opinion (on "A Worst-Case Worm")
+  authors:
+  - Stuart Staniford
+  authors_full:
+  - name: Stuart Staniford
+  session_number: 3
+  session: Session 3
+  event_type: session
+  date: '2004-05-14'
+  time: null
+  award: null
+  url: null
+  slides_url: https://web.archive.org/web/20041012181348/http://www.dtc.umn.edu/weis2004/weis-staniford.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml

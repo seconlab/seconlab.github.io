@@ -1,0 +1,569 @@
+conference: weis2009
+name: WEIS 2009
+year: 2009
+papers_dir: papers/weis2009
+total: 21
+downloaded: 19
+failed: 2
+papers:
+- id: weis2009_01
+  conference: weis2009
+  year: 2009
+  title: 'Social Insecurity: The Unintended Consequences of Identity Fraud Prevention Policies'
+  authors:
+  - Alessandro Acquisti
+  - Ralph Gross
+  authors_full:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Ralph Gross
+    affiliation: Carnegie Mellon University
+  session_number: 1
+  session: Identity theft
+  event_type: session
+  date: '2009-06-24'
+  time: 09:30
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/102/paper102.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2009_02
+  conference: weis2009
+  year: 2009
+  title: Data Breaches and Identity Theft
+  authors:
+  - William Roberds
+  - Stacey Schreft
+  authors_full:
+  - name: William Roberds
+    affiliation: Federal Reserve Bank of Atlanta
+  - name: Stacey Schreft
+    affiliation: The Mutual Fund Research Center, LLC
+  session_number: 1
+  session: Identity theft
+  event_type: session
+  date: '2009-06-24'
+  time: '10:00'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/121/paper121.pdf
+  slides_url: null
+  file: weis2009_02_data-breaches-and-identity-theft.pdf
+  path: papers/weis2009/weis2009_02_data-breaches-and-identity-theft.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_03
+  conference: weis2009
+  year: 2009
+  title: The Iterated Weakest Link - A Model of Adaptive Security Investment
+  authors:
+  - Rainer Boehme
+  - Tyler Moore
+  authors_full:
+  - name: Rainer Boehme
+    affiliation: Technische Universitat Dresden
+  - name: Tyler Moore
+    affiliation: Harvard University
+  session_number: 2
+  session: Modelling uncertainty's effects
+  event_type: session
+  date: '2009-06-24'
+  time: '11:00'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/152/paper152.pdf
+  slides_url: null
+  file: weis2009_03_the-iterated-weakest-link-a-model-of-adaptive-security-inves.pdf
+  path: papers/weis2009/weis2009_03_the-iterated-weakest-link-a-model-of-adaptive-security-inves.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_04
+  conference: weis2009
+  year: 2009
+  title: The Price of Uncertainty in Security Games
+  authors:
+  - Jens Grossklags
+  - Benjamin Johnson
+  - Nicolas Christin
+  authors_full:
+  - name: Jens Grossklags
+    affiliation: UC Berkeley
+  - name: Benjamin Johnson
+    affiliation: Carnegie Mellon University, CyLab
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University, CyLab
+  session_number: 2
+  session: Modelling uncertainty's effects
+  event_type: session
+  date: '2009-06-24'
+  time: '11:20'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/161/paper161.pdf
+  slides_url: null
+  file: weis2009_04_the-price-of-uncertainty-in-security-games.pdf
+  path: papers/weis2009/weis2009_04_the-price-of-uncertainty-in-security-games.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160402031608id_/http://weis09.infosecon.net/files/161/paper161.pdf
+  error: null
+- id: weis2009_05
+  conference: weis2009
+  year: 2009
+  title: 'Nobody Sells Gold for the Price of Silver: Dishonesty, Uncertainty and the Underground Economy'
+  authors:
+  - Cormac Herley
+  - Dinei Florencio
+  authors_full:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  - name: Dinei Florencio
+    affiliation: Microsoft Research
+  session_number: 2
+  session: Modelling uncertainty's effects
+  event_type: session
+  date: '2009-06-24'
+  time: '11:40'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/133/paper133.pdf
+  slides_url: null
+  file: weis2009_05_nobody-sells-gold-for-the-price-of-silver-dishonesty-uncerta.pdf
+  path: papers/weis2009/weis2009_05_nobody-sells-gold-for-the-price-of-silver-dishonesty-uncerta.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160327073113id_/http://weis09.infosecon.net/files/133/paper133.pdf
+  error: null
+- id: weis2009_06
+  conference: weis2009
+  year: 2009
+  title: 'Cyber Attacks: Cross-Country Interdependence and Enforcement'
+  authors:
+  - Qiu-Hong Wang
+  - Seung-Hyun Kim
+  authors_full:
+  - name: Qiu-Hong Wang
+    affiliation: University of Singapore
+  - name: Seung-Hyun Kim
+    affiliation: University of Singapore
+  session_number: 3
+  session: Future directions in the economics of information security
+  event_type: session
+  date: '2009-06-24'
+  time: '14:00'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/153/paper153.pdf
+  slides_url: null
+  file: weis2009_06_cyber-attacks-cross-country-interdependence-and-enforcement.pdf
+  path: papers/weis2009/weis2009_06_cyber-attacks-cross-country-interdependence-and-enforcement.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110205195942id_/http://weis09.infosecon.net/files/153/paper153.pdf
+  error: null
+- id: weis2009_07
+  conference: weis2009
+  year: 2009
+  title: The Impact of Relative Standards on Concern About Privacy
+  authors:
+  - Alessandro Acquisti
+  - Leslie John
+  - George Loewenstein
+  authors_full:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Leslie John
+    affiliation: Carnegie Mellon University
+  - name: George Loewenstein
+    affiliation: Carnegie Mellon University
+  session_number: 4
+  session: Economics of privacy
+  event_type: session
+  date: '2009-06-24'
+  time: '16:15'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/132/paper132.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2009_08
+  conference: weis2009
+  year: 2009
+  title: 'The Policy Maker''s Anguish: regulating personal data behaviour between paradoxes and dilemmas'
+  authors:
+  - Ramón Compañó
+  - Wainer Lusoli
+  authors_full:
+  - name: Ramón Compañó
+    affiliation: European Commission Joint Research Centre IPTS
+  - name: Wainer Lusoli
+    affiliation: European Commission Joint Research Centre IPTS; Visiting Research Fellow, University of Chester
+  session_number: 4
+  session: Economics of privacy
+  event_type: session
+  date: '2009-06-24'
+  time: '16:45'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/119/paper119.pdf
+  slides_url: null
+  file: weis2009_08_the-policy-maker-s-anguish-regulating-personal-data-behaviou.pdf
+  path: papers/weis2009/weis2009_08_the-policy-maker-s-anguish-regulating-personal-data-behaviou.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20111009082824id_/http://weis09.infosecon.net/files/119/paper119.pdf
+  error: null
+- id: weis2009_09
+  conference: weis2009
+  year: 2009
+  title: 'The Privacy Jungle: On the Market for Data Protection in Social Networks'
+  authors:
+  - Joseph Bonneau
+  - Soren Preibusch
+  authors_full:
+  - name: Joseph Bonneau
+    affiliation: University of Cambridge
+  - name: Soren Preibusch
+    affiliation: University of Cambridge
+  session_number: 4
+  session: Economics of privacy
+  event_type: session
+  date: '2009-06-24'
+  time: '17:05'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/156/paper156.pdf
+  slides_url: null
+  file: weis2009_09_the-privacy-jungle-on-the-market-for-data-protection-in-soci.pdf
+  path: papers/weis2009/weis2009_09_the-privacy-jungle-on-the-market-for-data-protection-in-soci.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_10
+  conference: weis2009
+  year: 2009
+  title: 'HIPAA Compliance: An Examination of Institutional and Market Forces'
+  authors:
+  - Ajit Appari
+  - Denise Anthony
+  - Eric Johnson
+  authors_full:
+  - name: Ajit Appari
+    affiliation: Tuck School of Business at Dartmouth
+  - name: Denise Anthony
+    affiliation: Department of Sociology, Dartmouth College
+  - name: Eric Johnson
+    affiliation: Tuck School of Business at Dartmouth
+  session_number: 4
+  session: Economics of privacy
+  event_type: session
+  date: '2009-06-24'
+  time: '17:35'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/151/paper151.pdf
+  slides_url: null
+  file: weis2009_10_hipaa-compliance-an-examination-of-institutional-and-market.pdf
+  path: papers/weis2009/weis2009_10_hipaa-compliance-an-examination-of-institutional-and-market.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160401190546id_/http://weis09.infosecon.net/files/151/paper151.pdf
+  error: null
+- id: weis2009_11
+  conference: weis2009
+  year: 2009
+  title: Valuating Privacy with Option Pricing Theory
+  authors:
+  - Stefan Berthold
+  - Rainer Boehme
+  authors_full:
+  - name: Stefan Berthold
+    affiliation: Technische Universitat Dresden
+  - name: Rainer Boehme
+    affiliation: Technische Universitat Dresden
+  session_number: 5
+  session: Options
+  event_type: session
+  date: '2009-06-25'
+  time: 09:45
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/128/paper128.pdf
+  slides_url: null
+  file: weis2009_11_valuating-privacy-with-option-pricing-theory.pdf
+  path: papers/weis2009/weis2009_11_valuating-privacy-with-option-pricing-theory.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20170706062652id_/http://weis09.infosecon.net/files/128/paper128.pdf
+  error: null
+- id: weis2009_12
+  conference: weis2009
+  year: 2009
+  title: 'Optimal Timing of Information Security Investment: A Real Options Approach'
+  authors:
+  - Ken-ichi Tatsumi
+  - Makoto Goto
+  authors_full:
+  - name: Ken-ichi Tatsumi
+    affiliation: Gakushuin University
+  - name: Makoto Goto
+    affiliation: Waseda University
+  session_number: 5
+  session: Options
+  event_type: session
+  date: '2009-06-25'
+  time: '10:15'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/112/paper112.pdf
+  slides_url: null
+  file: weis2009_12_optimal-timing-of-information-security-investment-a-real-opt.pdf
+  path: papers/weis2009/weis2009_12_optimal-timing-of-information-security-investment-a-real-opt.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_13
+  conference: weis2009
+  year: 2009
+  title: Security Economics and Critical National Infrastructure
+  authors:
+  - Ross Anderson
+  - Shailendra Fuloria
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  - name: Shailendra Fuloria
+    affiliation: University of Cambridge
+  session_number: 6
+  session: Misaligned incentives in systems
+  event_type: session
+  date: '2009-06-25'
+  time: '11:15'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/124/paper124.pdf
+  slides_url: null
+  file: weis2009_13_security-economics-and-critical-national-infrastructure.pdf
+  path: papers/weis2009/weis2009_13_security-economics-and-critical-national-infrastructure.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160330132526id_/http://weis09.infosecon.net/files/124/paper124.pdf
+  error: null
+- id: weis2009_14
+  conference: weis2009
+  year: 2009
+  title: 'Internet Multi-Homing Problems: Explanations from Economics'
+  authors:
+  - Richard Clayton
+  authors_full:
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  session_number: 6
+  session: Misaligned incentives in systems
+  event_type: session
+  date: '2009-06-25'
+  time: '11:45'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/135/paper135.pdf
+  slides_url: null
+  file: weis2009_14_internet-multi-homing-problems-explanations-from-economics.pdf
+  path: papers/weis2009/weis2009_14_internet-multi-homing-problems-explanations-from-economics.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160307005455id_/http://weis09.infosecon.net/files/135/paper135.pdf
+  error: null
+- id: weis2009_15
+  conference: weis2009
+  year: 2009
+  title: The Impact of Information Security Ratings on Vendor Competition
+  authors:
+  - Zach Zhou
+  - M. Eric Johnson
+  authors_full:
+  - name: Zach Zhou
+    affiliation: Dartmouth College
+  - name: M. Eric Johnson
+    affiliation: Dartmouth College
+  session_number: 7
+  session: Security outsourcing and risk analysis
+  event_type: session
+  date: '2009-06-25'
+  time: '12:05'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/134/paper134.pdf
+  slides_url: null
+  file: weis2009_15_the-impact-of-information-security-ratings-on-vendor-competi.pdf
+  path: papers/weis2009/weis2009_15_the-impact-of-information-security-ratings-on-vendor-competi.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160913221141id_/http://weis09.infosecon.net/files/134/paper134.pdf
+  error: null
+- id: weis2009_16
+  conference: weis2009
+  year: 2009
+  title: The Risk of Risk Analysis-And its relation to the Economics of Insider Threats
+  authors:
+  - Christian W Probst
+  - Jeffrey Hunker
+  authors_full:
+  - name: Christian W Probst
+    affiliation: Technical University of Denmark
+  - name: Jeffrey Hunker
+    affiliation: Carnegie Mellon University
+  session_number: 7
+  session: Security outsourcing and risk analysis
+  event_type: session
+  date: '2009-06-25'
+  time: '12:25'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/111/paper111.pdf
+  slides_url: null
+  file: weis2009_16_the-risk-of-risk-analysis-and-its-relation-to-the-economics.pdf
+  path: papers/weis2009/weis2009_16_the-risk-of-risk-analysis-and-its-relation-to-the-economics.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_17
+  conference: weis2009
+  year: 2009
+  title: Competitive Cyber-Insurance and Internet Security
+  authors:
+  - Nikhil Shetty
+  - Galina Schwartz
+  - Mark Felegyhazi
+  - Jean Walrand
+  authors_full:
+  - name: Nikhil Shetty
+    affiliation: UC Berkeley
+  - name: Galina Schwartz
+    affiliation: UC Berkeley
+  - name: Mark Felegyhazi
+    affiliation: ICSI Berkeley
+  - name: Jean Walrand
+    affiliation: UC Berkeley
+  session_number: 8
+  session: Cyber-insurance
+  event_type: session
+  date: '2009-06-25'
+  time: '14:45'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/146/paper146.pdf
+  slides_url: null
+  file: weis2009_17_competitive-cyber-insurance-and-internet-security.pdf
+  path: papers/weis2009/weis2009_17_competitive-cyber-insurance-and-internet-security.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_18
+  conference: weis2009
+  year: 2009
+  title: 'Potential Rating Indicators for Cyberinsurance: An Exploratory Qualitative Study'
+  authors:
+  - Frank Innerhofer-Oberperfler
+  - Ruth Breu
+  authors_full:
+  - name: Frank Innerhofer-Oberperfler
+    affiliation: Research Group Quality Engineering, Institute of Computer Science, University of Innsbruck
+  - name: Ruth Breu
+    affiliation: Research Group Quality Engineering, Institute of Computer Science, University of Innsbruck
+  session_number: 8
+  session: Cyber-insurance
+  event_type: session
+  date: '2009-06-25'
+  time: '15:15'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/141/paper141.pdf
+  slides_url: null
+  file: weis2009_18_potential-rating-indicators-for-cyberinsurance-an-explorator.pdf
+  path: papers/weis2009/weis2009_18_potential-rating-indicators-for-cyberinsurance-an-explorator.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20090816043931id_/http://weis09.infosecon.net/files/141/paper141.pdf
+  error: null
+- id: weis2009_19
+  conference: weis2009
+  year: 2009
+  title: 'Economics of Malware: Epidemic Risks Model, Network Externalities and Incentives'
+  authors:
+  - Marc LeLarge
+  authors_full:
+  - name: Marc LeLarge
+    affiliation: INRIA-ENS
+  session_number: 9
+  session: Modelling security dynamics
+  event_type: session
+  date: '2009-06-25'
+  time: '16:00'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/127/paper127.pdf
+  slides_url: null
+  file: weis2009_19_economics-of-malware-epidemic-risks-model-network-externalit.pdf
+  path: papers/weis2009/weis2009_19_economics-of-malware-epidemic-risks-model-network-externalit.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2009_20
+  conference: weis2009
+  year: 2009
+  title: 'Modeling the economic incentives of DDoS attacks: femtocell case study'
+  authors:
+  - Vicente Segura
+  - Javier Lahuerta
+  authors_full:
+  - name: Vicente Segura
+    affiliation: Telefónica I+D
+  - name: Javier Lahuerta
+    affiliation: Telefónica I+D
+  session_number: 9
+  session: Modelling security dynamics
+  event_type: session
+  date: '2009-06-25'
+  time: '16:30'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/113/paper113.pdf
+  slides_url: null
+  file: weis2009_20_modeling-the-economic-incentives-of-ddos-attacks-femtocell-c.pdf
+  path: papers/weis2009/weis2009_20_modeling-the-economic-incentives-of-ddos-attacks-femtocell-c.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110814020241id_/http://weis09.infosecon.net/files/113/paper113.pdf
+  error: null
+- id: weis2009_21
+  conference: weis2009
+  year: 2009
+  title: Modelling the Security Ecosystem- The Dynamics of (In)Security
+  authors:
+  - Stefan Frei
+  - Dominik Schatzmann
+  - Bernhard Plattner
+  - Brian Trammell
+  authors_full:
+  - name: Stefan Frei
+    affiliation: ETH Zurich
+  - name: Dominik Schatzmann
+    affiliation: ETH Zurich
+  - name: Bernhard Plattner
+    affiliation: ETH Zurich
+  - name: Brian Trammell
+    affiliation: Hitachi Europe
+  session_number: 9
+  session: Modelling security dynamics
+  event_type: session
+  date: '2009-06-25'
+  time: '16:50'
+  award: null
+  url: https://web.archive.org/web/20111118174712/http://weis09.infosecon.net/files/103/paper103.pdf
+  slides_url: null
+  file: weis2009_21_modelling-the-security-ecosystem-the-dynamics-of-in-security.pdf
+  path: papers/weis2009/weis2009_21_modelling-the-security-ecosystem-the-dynamics-of-in-security.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160329134637id_/http://weis09.infosecon.net/files/103/paper103.pdf
+  error: null

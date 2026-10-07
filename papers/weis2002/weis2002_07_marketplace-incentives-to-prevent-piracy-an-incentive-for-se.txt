@@ -1,0 +1,108 @@
+Marketplace Incentives to Prevent Piracy”: An Incentive for Security?
+
+L. Jean Camp
+79 JFK St. • KSG • Harvard
+Cambridge, MA 02138
+jean_camp@harvard.edu
+617/496-6331
+Harvard University
+
+What is security? Proposed legislation and past arguments, embodying the 
+perspective of the owners of high-value content, call for a 
+reconsideration of security for the purpose of copy control.   Such 
+arguments and legislation would require that content ownership be 
+enforced as content passes through the network and is stored on the 
+desktop.  Proposals to install mandated copy controls for the protection 
+of distributed copies of high-value content have been called a step 
+towards a secure network by some and a serious threat to security by 
+others.
+
+In this workshop I propose that the creation of a market for the trade 
+in security vulnerabilities could complement content control or 
+undermine remote control of distributed content.  I will further argue 
+that proposals to implement hardware controls on content where one 
+person has ownership rights  through privacy rights or intellectual 
+property rights  mirrors the debate between the end-to-end argument and 
+the brave new network.
+
+Could the previously proposed mechanisms for increasing security 
+increase or decrease the control of content owners? There is an argument 
+for either perspective.  Thus here I recall the original proposal for a 
+market in vulnerabilities,  and offer arguments that market incentives 
+for security can increase or decrease the control of content owners.
+
+In previous work Catherine Wolfram and I proposed a market for 
+vulnerabilities. The basic concept is that a market requires a 
+commodity, and security is too difficult to define.  In that work a 
+vulnerability was defined as:
+
+• A technical flaw allowing unauthorized access or use
+• Where the relationship between the flaw and access allowed is clear
+• Which has been documented to have been used to subvert a machine
+
+Here I reconsider that work in the face of competing claims for rights 
+to actions in consumer-based electronics. In particular, in the 
+workshop, I seek to answer questions about how vulnerability-based 
+market incentives can function in the face of mounting concerns over 
+intellectual property. (The other primary open issue identified as 
+unsolved in the original paper, pricing open source, is not addressed 
+here.)
+
+The powerful community of owners of high value content seeks a new 
+definition of secure, which will address the lack of marketplace 
+incentive to prevent piracy. Were the vulnerabilities market adopted, 
+would there be such a marketplace incentive? What elements of ownership 
+might be protected and what elements might be at risk?
+
+First, I argue that the creation of market incentives for secure 
+machines can enhance the ability to exert control over content. Without 
+secure machines, when not even the owner of a machine can exert control, 
+there is little or no hope that distant owners can exert consistent 
+control.  The ability to lock a part of a machine means that content 
+controls can be created.
+
+This argument complements the perspective that security is in opposition 
+to the end-to-end argument. If allowing users to manipulate their own 
+machines is to require naïve users to secure their own machines, then 
+enhancing security inevitability requires removing the power from 
+users.  Thus enhancing security might enable a set of secure APIs that 
+cannot necessarily be called by the users. In this case, securing the 
+content from the malicious or careless user would clearly be enhanced by 
+increased security.
+
+Alternatively I can argue that the creation of a market incentive for 
+secure machines will decrease the power of content owners. Security 
+gives consumers the power to limit the information in his or her own 
+machine, as well as the information entering and leaving the machine.   
+The proposals for control of owned content inherently require that the 
+owner be able to subvert the consumer’s machine to detect, prevent, or 
+reverse illegal or unauthorized consumer copying.
+
+The ability to control information entering and leaving a machine 
+implies that the user can prevent the reporting and auditing processes 
+preferred by owners of high-value content. The ability to prevent the 
+co-called “phone home” auditing processes undermines the strategy of 
+user surveillance to prevent user copying. Thus creation of market 
+incentives for security would undermine the goals of owners of 
+high-value content.
+
+The ability to alter internal controls without fear of a resulting 
+subversion can encourage user innovation and risk-taking, for example 
+encouraging active participation in peer-to-peer systems. Such systems 
+are most widely the subject of debate because of the ease of exchanging 
+files, and such files might include high value content.
+
+Thus a market for security based on the trade of commodity 
+vulnerabilities can create incentives which complement or undermine the 
+goals of owners of high-value content. Therefore my goal in 
+participation with the workshop is to discuss how market-based 
+incentives to secure machines might interact with the drive to prevent 
+illegal copying of high-value content. The argument that market 
+incentives are needed has been clearly argued in previous work, and 
+implicitly by the creation of this workshop. However, the implementation 
+of such a market may create incentive s for end-to-end user-empowering 
+mechanisms, or create incentives to constrain user behavior.
+
+This work was funded in part by NSF CAREER Grant # 9985433 and  a grant 
+from the East Asian Institute at Harvard.
+

@@ -1,0 +1,562 @@
+conference: weis2015
+name: WEIS 2015
+year: 2015
+papers_dir: papers/weis2015
+total: 21
+downloaded: 20
+failed: 1
+papers:
+- id: weis2015_01
+  conference: weis2015
+  year: 2015
+  title: The Economics of Mandatory Security Breach Reporting to Authorities
+  authors:
+  - Stefan Laube
+  - Rainer Böhme
+  authors_full:
+  - name: Stefan Laube
+  - name: Rainer Böhme
+  session_number: 1
+  session: Economics of Data Breaches
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_laube.pdf
+  slides_url: null
+  file: weis2015_01_the-economics-of-mandatory-security-breach-reporting-to-auth.pdf
+  path: papers/weis2015/weis2015_01_the-economics-of-mandatory-security-breach-reporting-to-auth.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_laube.pdf
+  error: null
+- id: weis2015_02
+  conference: weis2015
+  year: 2015
+  title: Data Breaches and the Dilemmas in Notifying Customers
+  authors:
+  - Fabio Bisogni
+  authors_full:
+  - name: Fabio Bisogni
+  session_number: 1
+  session: Economics of Data Breaches
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_bisogni.pdf
+  slides_url: null
+  file: weis2015_02_data-breaches-and-the-dilemmas-in-notifying-customers.pdf
+  path: papers/weis2015/weis2015_02_data-breaches-and-the-dilemmas-in-notifying-customers.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_bisogni.pdf
+  error: null
+- id: weis2015_03
+  conference: weis2015
+  year: 2015
+  title: 'Hype and Heavy Tails: A Closer Look at Data Breaches'
+  authors:
+  - Benjamin Edwards
+  - Steven Hofmeyr
+  - Stephanie Forrest
+  authors_full:
+  - name: Benjamin Edwards
+  - name: Steven Hofmeyr
+  - name: Stephanie Forrest
+  session_number: 1
+  session: Economics of Data Breaches
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: Best Paper Award
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_edwards.pdf
+  slides_url: null
+  file: weis2015_03_hype-and-heavy-tails-a-closer-look-at-data-breaches.pdf
+  path: papers/weis2015/weis2015_03_hype-and-heavy-tails-a-closer-look-at-data-breaches.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_edwards.pdf
+  error: null
+- id: weis2015_04
+  conference: weis2015
+  year: 2015
+  title: 'The Market Effect of Healthcare Security: Do Patients Care about Data Breaches?'
+  authors:
+  - Juhee Kwon
+  - Eric Johnson
+  authors_full:
+  - name: Juhee Kwon
+  - name: Eric Johnson
+  session_number: 1
+  session: Economics of Data Breaches
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_kwon.pdf
+  slides_url: null
+  file: weis2015_04_the-market-effect-of-healthcare-security-do-patients-care-ab.pdf
+  path: papers/weis2015/weis2015_04_the-market-effect-of-healthcare-security-do-patients-care-ab.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_kwon.pdf
+  error: null
+- id: weis2015_05
+  conference: weis2015
+  year: 2015
+  title: Online Self-Disclosure and Offline Threat Detection
+  authors:
+  - Alessandro Acquisti
+  - Laura Brandimarte
+  - Jeff Hancock
+  authors_full:
+  - name: Alessandro Acquisti
+  - name: Laura Brandimarte
+  - name: Jeff Hancock
+  session_number: 2
+  session: Privacy Economics
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_acquisti.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2015_06
+  conference: weis2015
+  year: 2015
+  title: What is a Cookie Worth?
+  authors:
+  - Arslan Aziz
+  - Rahul Telang
+  authors_full:
+  - name: Arslan Aziz
+  - name: Rahul Telang
+  session_number: 2
+  session: Privacy Economics
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_aziz.pdf
+  slides_url: null
+  file: weis2015_06_what-is-a-cookie-worth.pdf
+  path: papers/weis2015/weis2015_06_what-is-a-cookie-worth.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_aziz.pdf
+  error: null
+- id: weis2015_07
+  conference: weis2015
+  year: 2015
+  title: 'Caviar and Yachts: How Your Purchase Data May Come Back to Haunt You'
+  authors:
+  - Benjamin Johnson
+  - Paul Laskowski
+  - Thomas Maillart
+  - John Chuang
+  - Nicolas Christin
+  authors_full:
+  - name: Benjamin Johnson
+  - name: Paul Laskowski
+  - name: Thomas Maillart
+  - name: John Chuang
+  - name: Nicolas Christin
+  session_number: 2
+  session: Privacy Economics
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_johnson.pdf
+  slides_url: null
+  file: weis2015_07_caviar-and-yachts-how-your-purchase-data-may-come-back-to-ha.pdf
+  path: papers/weis2015/weis2015_07_caviar-and-yachts-how-your-purchase-data-may-come-back-to-ha.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_johnson.pdf
+  error: null
+- id: weis2015_08
+  conference: weis2015
+  year: 2015
+  title: 'The Value of Privacy: Keeping the Money Where the Mouth is'
+  authors:
+  - Ignacio Cofone
+  authors_full:
+  - name: Ignacio Cofone
+  session_number: 2
+  session: Privacy Economics
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_cofone.pdf
+  slides_url: null
+  file: weis2015_08_the-value-of-privacy-keeping-the-money-where-the-mouth-is.pdf
+  path: papers/weis2015/weis2015_08_the-value-of-privacy-keeping-the-money-where-the-mouth-is.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_cofone.pdf
+  error: null
+- id: weis2015_09
+  conference: weis2015
+  year: 2015
+  title: An Empirical Study of Namecoin and Lessons for Decentralized Namespace Design
+  authors:
+  - Harry Kalodner
+  - Miles Carlsten
+  - Paul Ellenbogen
+  - Joseph Bonneau
+  - Arvind Narayanan
+  authors_full:
+  - name: Harry Kalodner
+  - name: Miles Carlsten
+  - name: Paul Ellenbogen
+  - name: Joseph Bonneau
+  - name: Arvind Narayanan
+  session_number: 3
+  session: Security Behavior and Design
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_kalodner.pdf
+  slides_url: null
+  file: weis2015_09_an-empirical-study-of-namecoin-and-lessons-for-decentralized.pdf
+  path: papers/weis2015/weis2015_09_an-empirical-study-of-namecoin-and-lessons-for-decentralized.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_kalodner.pdf
+  error: null
+- id: weis2015_10
+  conference: weis2015
+  year: 2015
+  title: 'User Acceptance Factors for Anonymous Credentials: An Empirical Investigation'
+  authors:
+  - Zinaida Benenson
+  - Anna Girard
+  - Ioannis Krontiris
+  authors_full:
+  - name: Zinaida Benenson
+  - name: Anna Girard
+  - name: Ioannis Krontiris
+  session_number: 3
+  session: Security Behavior and Design
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_benenson.pdf
+  slides_url: null
+  file: weis2015_10_user-acceptance-factors-for-anonymous-credentials-an-empiric.pdf
+  path: papers/weis2015/weis2015_10_user-acceptance-factors-for-anonymous-credentials-an-empiric.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_benenson.pdf
+  error: null
+- id: weis2015_11
+  conference: weis2015
+  year: 2015
+  title: 'Deception by Design: Evidence-Based Signaling Games for Network Defense'
+  authors:
+  - Jeffrey Pawlick
+  - Quanyan Zhu
+  authors_full:
+  - name: Jeffrey Pawlick
+  - name: Quanyan Zhu
+  session_number: 3
+  session: Security Behavior and Design
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_pawlick.pdf
+  slides_url: null
+  file: weis2015_11_deception-by-design-evidence-based-signaling-games-for-netwo.pdf
+  path: papers/weis2015/weis2015_11_deception-by-design-evidence-based-signaling-games-for-netwo.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_pawlick.pdf
+  error: null
+- id: weis2015_12
+  conference: weis2015
+  year: 2015
+  title: Experimental Elicitation of Risk Behaviour amongst Information Security Professionals
+  authors:
+  - Konstantinos Mersinas
+  - Bjoern Hartig
+  - Keith Martin
+  - Andrew Seltzer
+  authors_full:
+  - name: Konstantinos Mersinas
+  - name: Bjoern Hartig
+  - name: Keith Martin
+  - name: Andrew Seltzer
+  session_number: 3
+  session: Security Behavior and Design
+  event_type: session
+  date: '2015-06-22'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_mersinas.pdf
+  slides_url: null
+  file: weis2015_12_experimental-elicitation-of-risk-behaviour-amongst-informati.pdf
+  path: papers/weis2015/weis2015_12_experimental-elicitation-of-risk-behaviour-amongst-informati.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_mersinas.pdf
+  error: null
+- id: weis2015_13
+  conference: weis2015
+  year: 2015
+  title: Concentrating Correctly on Cybercrime Concentration
+  authors:
+  - Richard Clayton
+  - Tyler Moore
+  - Nicolas Christin
+  authors_full:
+  - name: Richard Clayton
+  - name: Tyler Moore
+  - name: Nicolas Christin
+  session_number: 4
+  session: Underground Markets
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_clayton.pdf
+  slides_url: null
+  file: weis2015_13_concentrating-correctly-on-cybercrime-concentration.pdf
+  path: papers/weis2015/weis2015_13_concentrating-correctly-on-cybercrime-concentration.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_clayton.pdf
+  error: null
+- id: weis2015_14
+  conference: weis2015
+  year: 2015
+  title: 'Deception in Online Auction Marketplaces: Incentives and Personality Shape Seller Honesty'
+  authors:
+  - Brian Glass
+  - Michelle Baddeley
+  - M. Angela Sasse
+  authors_full:
+  - name: Brian Glass
+  - name: Michelle Baddeley
+  - name: M. Angela Sasse
+  session_number: 4
+  session: Underground Markets
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_glass.pdf
+  slides_url: null
+  file: weis2015_14_deception-in-online-auction-marketplaces-incentives-and-pers.pdf
+  path: papers/weis2015/weis2015_14_deception-in-online-auction-marketplaces-incentives-and-pers.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_glass.pdf
+  error: null
+- id: weis2015_15
+  conference: weis2015
+  year: 2015
+  title: Framing Dependencies Introduced by Underground Commoditization
+  authors:
+  - Kurt Thomas
+  - Danny Yuxing Huang
+  - David Wang
+  - Elie Bursztein
+  - Chris Grier
+  - Tom Holt
+  - Christopher Kruegel
+  - Damon McCoy
+  - Stefan Savage
+  - Giovanni Vigna
+  authors_full:
+  - name: Kurt Thomas
+  - name: Danny Yuxing Huang
+  - name: David Wang
+  - name: Elie Bursztein
+  - name: Chris Grier
+  - name: Tom Holt
+  - name: Christopher Kruegel
+  - name: Damon McCoy
+  - name: Stefan Savage
+  - name: Giovanni Vigna
+  session_number: 4
+  session: Underground Markets
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_thomas.pdf
+  slides_url: null
+  file: weis2015_15_framing-dependencies-introduced-by-underground-commoditizati.pdf
+  path: papers/weis2015/weis2015_15_framing-dependencies-introduced-by-underground-commoditizati.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_thomas.pdf
+  error: null
+- id: weis2015_16
+  conference: weis2015
+  year: 2015
+  title: 'No Please, After You: Detecting Fraud in Affiliate Marketing Networks'
+  authors:
+  - Peter Snyder
+  - Chris Kanich
+  authors_full:
+  - name: Peter Snyder
+  - name: Chris Kanich
+  session_number: 4
+  session: Underground Markets
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_snyder.pdf
+  slides_url: null
+  file: weis2015_16_no-please-after-you-detecting-fraud-in-affiliate-marketing-n.pdf
+  path: papers/weis2015/weis2015_16_no-please-after-you-detecting-fraud-in-affiliate-marketing-n.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_snyder.pdf
+  error: null
+- id: weis2015_17
+  conference: weis2015
+  year: 2015
+  title: 'Prioritizing Security Spending: A Quantitative Analysis of Risk Distributions for Different Business Profiles'
+  authors:
+  - Armin Sarabi
+  - Parinaz Naghizadeh
+  - Yang Liu
+  - Mingyan Liu
+  authors_full:
+  - name: Armin Sarabi
+  - name: Parinaz Naghizadeh
+  - name: Yang Liu
+  - name: Mingyan Liu
+  session_number: 5
+  session: Security Investments
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_sarabi.pdf
+  slides_url: null
+  file: weis2015_17_prioritizing-security-spending-a-quantitative-analysis-of-ri.pdf
+  path: papers/weis2015/weis2015_17_prioritizing-security-spending-a-quantitative-analysis-of-ri.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_sarabi.pdf
+  error: null
+- id: weis2015_18
+  conference: weis2015
+  year: 2015
+  title: 'Policy, Statistics, and Questions: Reflections on UK Cyber Security Disclosures'
+  authors:
+  - Chad Heitzenrater
+  - Andrew Simpson
+  authors_full:
+  - name: Chad Heitzenrater
+  - name: Andrew Simpson
+  session_number: 5
+  session: Security Investments
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_heitzenrater.pdf
+  slides_url: null
+  file: weis2015_18_policy-statistics-and-questions-reflections-on-uk-cyber-secu.pdf
+  path: papers/weis2015/weis2015_18_policy-statistics-and-questions-reflections-on-uk-cyber-secu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_heitzenrater.pdf
+  error: null
+- id: weis2015_19
+  conference: weis2015
+  year: 2015
+  title: Attack-Deterring and Damage-Control Investments in Cybersecurity
+  authors:
+  - Wing Man Wynne Lam
+  authors_full:
+  - name: Wing Man Wynne Lam
+  session_number: 5
+  session: Security Investments
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_lam.pdf
+  slides_url: null
+  file: weis2015_19_attack-deterring-and-damage-control-investments-in-cybersecu.pdf
+  path: papers/weis2015/weis2015_19_attack-deterring-and-damage-control-investments-in-cybersecu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_lam.pdf
+  error: null
+- id: weis2015_20
+  conference: weis2015
+  year: 2015
+  title: Designing Cybersecurity Policies
+  authors:
+  - Shu He
+  - Gene Moo Lee
+  - John Quarterman
+  - Andrew Whinston
+  authors_full:
+  - name: Shu He
+  - name: Gene Moo Lee
+  - name: John Quarterman
+  - name: Andrew Whinston
+  session_number: 6
+  session: Security of Intermediaries
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_he.pdf
+  slides_url: null
+  file: weis2015_20_designing-cybersecurity-policies.pdf
+  path: papers/weis2015/weis2015_20_designing-cybersecurity-policies.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_he.pdf
+  error: null
+- id: weis2015_21
+  conference: weis2015
+  year: 2015
+  title: Understanding the Role of Sender Reputation in Abuse Reporting and Cleanup
+  authors:
+  - Orcun Cetin
+  - Mohammad Hanif Jhaveri
+  - Carlos Gañán
+  - Michel van Eeten
+  - Tyler Moore
+  authors_full:
+  - name: Orcun Cetin
+  - name: Mohammad Hanif Jhaveri
+  - name: Carlos Gañán
+  - name: Michel van Eeten
+  - name: Tyler Moore
+  session_number: 6
+  session: Security of Intermediaries
+  event_type: session
+  date: '2015-06-23'
+  time: null
+  award: null
+  url: http://weis2015.econinfosec.org/papers/WEIS_2015_cetin.pdf
+  slides_url: null
+  file: weis2015_21_understanding-the-role-of-sender-reputation-in-abuse-reporti.pdf
+  path: papers/weis2015/weis2015_21_understanding-the-role-of-sender-reputation-in-abuse-reporti.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://www.econinfosec.org/archive/weis2015/papers/WEIS_2015_cetin.pdf
+  error: null

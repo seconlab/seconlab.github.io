@@ -1,0 +1,461 @@
+conference: weis2023
+name: WEIS 2023
+year: 2023
+papers_dir: papers/weis2023
+total: 15
+downloaded: 15
+failed: 0
+papers:
+- id: weis2023_01
+  conference: weis2023
+  year: 2023
+  title: Time Dynamics of Cyber Risk
+  authors:
+  - Martin Eling
+  - Rustam Ibragimov
+  - Dingchen Ning
+  authors_full:
+  - name: Martin Eling
+    affiliation: University of St.Gallen
+  - name: Rustam Ibragimov
+    affiliation: Imperial College London
+  - name: Dingchen Ning
+    affiliation: University of St. Gallen
+    presenter: true
+  session_number: 1
+  session: Cyber Incidents and Insurance
+  event_type: session
+  date: '2023-07-05'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-eling.pdf
+  slides_url: null
+  file: weis2023_01_time-dynamics-of-cyber-risk.pdf
+  path: papers/weis2023/weis2023_01_time-dynamics-of-cyber-risk.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-eling.pdf
+  error: null
+- id: weis2023_02
+  conference: weis2023
+  year: 2023
+  title: 'M&A Effect on Data Breaches in Hospitals: 2010-2022'
+  authors:
+  - Nan Clement
+  authors_full:
+  - name: Nan Clement
+    affiliation: University of Texas at Dallas
+    presenter: true
+  session_number: 1
+  session: Cyber Incidents and Insurance
+  event_type: session
+  date: '2023-07-05'
+  time: null
+  award: Best Paper
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-clement.pdf
+  slides_url: null
+  file: weis2023_02_m-a-effect-on-data-breaches-in-hospitals-2010-2022.pdf
+  path: papers/weis2023/weis2023_02_m-a-effect-on-data-breaches-in-hospitals-2010-2022.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-clement.pdf
+  error: null
+- id: weis2023_03
+  conference: weis2023
+  year: 2023
+  title: Does Decomposing Losses Improve Our Understanding of the Financial Impact of Data Breaches?
+  authors:
+  - Justin Theriot
+  - Benjamin Gowan
+  authors_full:
+  - name: Justin Theriot
+    affiliation: RiskLens
+    presenter: true
+  - name: Benjamin Gowan
+    affiliation: RiskLens
+  session_number: 1
+  session: Cyber Incidents and Insurance
+  event_type: session
+  date: '2023-07-05'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-theriot.pdf
+  slides_url: null
+  file: weis2023_03_does-decomposing-losses-improve-our-understanding-of-the-fin.pdf
+  path: papers/weis2023/weis2023_03_does-decomposing-losses-improve-our-understanding-of-the-fin.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-theriot.pdf
+  error: null
+- id: weis2023_04
+  conference: weis2023
+  year: 2023
+  title: 'Argot as a Trust Signal: Slang, Jargon & Reputation on a Large Cybercrime Forum'
+  authors:
+  - Jack Hughes
+  - Andrew Caines
+  - Alice Hutchings
+  authors_full:
+  - name: Jack Hughes
+    affiliation: University of Cambridge
+    presenter: true
+  - name: Andrew Caines
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  session_number: 2
+  session: Online Crime
+  event_type: session
+  date: '2023-07-05'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-hughes.pdf
+  slides_url: null
+  file: weis2023_04_argot-as-a-trust-signal-slang-jargon-reputation-on-a-large-c.pdf
+  path: papers/weis2023/weis2023_04_argot-as-a-trust-signal-slang-jargon-reputation-on-a-large-c.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-hughes.pdf
+  error: null
+- id: weis2023_05
+  conference: weis2023
+  year: 2023
+  title: 'You Can Tell a Cybercriminal by the Company they Keep: A Framework to Infer the Relevance of Underground Communities to the Threat Landscape'
+  authors:
+  - Michele Campobasso
+  - Radu Rădulescu
+  - Sylvan Brons
+  - Luca Allodi
+  authors_full:
+  - name: Michele Campobasso
+    affiliation: Eindhoven University of Technology
+    presenter: true
+  - name: Radu Rădulescu
+    affiliation: Eindhoven University of Technology
+  - name: Sylvan Brons
+    affiliation: Eindhoven University of Technology
+  - name: Luca Allodi
+    affiliation: Eindhoven University of Technology
+  session_number: 2
+  session: Online Crime
+  event_type: session
+  date: '2023-07-05'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-campobasso.pdf
+  slides_url: null
+  file: weis2023_05_you-can-tell-a-cybercriminal-by-the-company-they-keep-a-fram.pdf
+  path: papers/weis2023/weis2023_05_you-can-tell-a-cybercriminal-by-the-company-they-keep-a-fram.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-campobasso.pdf
+  error: null
+- id: weis2023_06
+  conference: weis2023
+  year: 2023
+  title: 'Enhancing Vulnerability Prioritization: Data-Driven Exploit Predictions with Community-Driven Insights'
+  authors:
+  - Jay Jacobs
+  - Sasha Romanosky
+  - Octavian Suciu
+  - Ben Edwards
+  - Armin Sarabi
+  authors_full:
+  - name: Jay Jacobs
+    affiliation: Cyentia
+  - name: Sasha Romanosky
+    affiliation: RAND Corporation
+  - name: Octavian Suciu
+    affiliation: University of Maryland
+  - name: Ben Edwards
+    affiliation: Cyentia Institute
+  - name: Armin Sarabi
+    affiliation: University of Michigan
+    presenter: true
+  session_number: 3
+  session: Open Source Security
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jacobs.pdf
+  slides_url: null
+  file: weis2023_06_enhancing-vulnerability-prioritization-data-driven-exploit-p.pdf
+  path: papers/weis2023/weis2023_06_enhancing-vulnerability-prioritization-data-driven-exploit-p.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jacobs.pdf
+  error: null
+- id: weis2023_07
+  conference: weis2023
+  year: 2023
+  title: 'A Theory of Open Source Security: The Spillover of Security Knowledge in Vulnerability Disclosures through Software Supply Chains'
+  authors:
+  - Yu-Kai Lin
+  - Weifeng Li
+  authors_full:
+  - name: Yu-Kai Lin
+    affiliation: Georgia State University
+    presenter: true
+  - name: Weifeng Li
+    affiliation: University of Georgia
+  session_number: 3
+  session: Open Source Security
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-lin.pdf
+  slides_url: null
+  file: weis2023_07_a-theory-of-open-source-security-the-spillover-of-security-k.pdf
+  path: papers/weis2023/weis2023_07_a-theory-of-open-source-security-the-spillover-of-security-k.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-lin.pdf
+  error: null
+- id: weis2023_08
+  conference: weis2023
+  year: 2023
+  title: Cyberattacks, Media Coverage and Municipal Finance
+  authors:
+  - Lefteris Andreadis
+  - Elena Kalotychou
+  - Christodoulos Louca
+  - Christian Lundblad
+  - Christos Makridis
+  authors_full:
+  - name: Lefteris Andreadis
+    affiliation: Cyprus University of Technology
+    presenter: true
+  - name: Elena Kalotychou
+    affiliation: Cyprus University of Technology
+  - name: Christodoulos Louca
+    affiliation: Cyprus University of Technology
+  - name: Christian Lundblad
+    affiliation: University of North Carolina, Chapel Hill
+  - name: Christos Makridis
+    affiliation: Stanford University
+  session_number: 3
+  session: Open Source Security
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-andreadis.pdf
+  slides_url: null
+  file: weis2023_08_cyberattacks-media-coverage-and-municipal-finance.pdf
+  path: papers/weis2023/weis2023_08_cyberattacks-media-coverage-and-municipal-finance.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-andreadis.pdf
+  error: null
+- id: weis2023_09
+  conference: weis2023
+  year: 2023
+  title: 'Trade-offs in Automating Platform Regulatory Compliance By Algorithm: Evidence from the COVID-19 Pandemic'
+  authors:
+  - Grazia Cecere
+  - Clara Jean
+  - Vincent Lefrere
+  - Catherine Tucker
+  authors_full:
+  - name: Grazia Cecere
+    affiliation: Institut Mines Telecom, Business School
+  - name: Clara Jean
+    affiliation: Grenoble Ecole de Management
+    presenter: true
+  - name: Vincent Lefrere
+    affiliation: Institut Mines Telecom, Business School
+  - name: Catherine Tucker
+    affiliation: MIT Sloan School of Management and NBER
+  session_number: 4
+  session: Digital Sovereignty
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-cecere.pdf
+  slides_url: null
+  file: weis2023_09_trade-offs-in-automating-platform-regulatory-compliance-by-a.pdf
+  path: papers/weis2023/weis2023_09_trade-offs-in-automating-platform-regulatory-compliance-by-a.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-cecere.pdf
+  error: null
+- id: weis2023_10
+  conference: weis2023
+  year: 2023
+  title: Municipal Cyber Risk
+  authors:
+  - Jonathan Jensen
+  - Fiona Paine
+  authors_full:
+  - name: Jonathan Jensen
+    affiliation: Massachusetts Institute of Technology
+  - name: Fiona Paine
+    affiliation: Massachusetts Institute of Technology
+    presenter: true
+  session_number: 4
+  session: Digital Sovereignty
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jensen.pdf
+  slides_url: null
+  file: weis2023_10_municipal-cyber-risk.pdf
+  path: papers/weis2023/weis2023_10_municipal-cyber-risk.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-jensen.pdf
+  error: null
+- id: weis2023_11
+  conference: weis2023
+  year: 2023
+  title: Attackers and Defenders in Cybersecurity and their Optimal Investment Decisions
+  authors:
+  - Austin Ebel
+  - Debasis Mitra
+  authors_full:
+  - name: Austin Ebel
+    affiliation: New York University
+    presenter: true
+  - name: Debasis Mitra
+    affiliation: Columbia University
+  session_number: 5
+  session: Security Games
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-ebel.pdf
+  slides_url: null
+  file: weis2023_11_attackers-and-defenders-in-cybersecurity-and-their-optimal-i.pdf
+  path: papers/weis2023/weis2023_11_attackers-and-defenders-in-cybersecurity-and-their-optimal-i.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-ebel.pdf
+  error: null
+- id: weis2023_12
+  conference: weis2023
+  year: 2023
+  title: 'Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment'
+  authors:
+  - Ziyuan Huang
+  - Parinaz Naghizadeh
+  - Mingyan Liu
+  authors_full:
+  - name: Ziyuan Huang
+    affiliation: University of Michigan, Ann Arbor
+    presenter: true
+  - name: Parinaz Naghizadeh
+    affiliation: The Ohio State University
+  - name: Mingyan Liu
+    affiliation: University of Michigan, Ann Arbor
+  session_number: 5
+  session: Security Games
+  event_type: session
+  date: '2023-07-06'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-huang.pdf
+  slides_url: null
+  file: weis2023_12_interdependent-security-games-in-the-stackelberg-style-how-f.pdf
+  path: papers/weis2023/weis2023_12_interdependent-security-games-in-the-stackelberg-style-how-f.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-huang.pdf
+  error: null
+- id: weis2023_13
+  conference: weis2023
+  year: 2023
+  title: The Potential of Self-Regulation for Front-Running Prevention on DEXes
+  authors:
+  - Lioba Heimbach
+  - Eric Schertenleib
+  - Roger Wattenhofer
+  authors_full:
+  - name: Lioba Heimbach
+    affiliation: ETH Zurich
+    presenter: true
+  - name: Eric Schertenleib
+    affiliation: ETH Zurich
+  - name: Roger Wattenhofer
+    affiliation: ETH Zurich
+  session_number: 6
+  session: Future Economics of Security
+  event_type: session
+  date: '2023-07-07'
+  time: null
+  award: Best Talk
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-heimbach.pdf
+  slides_url: null
+  file: weis2023_13_the-potential-of-self-regulation-for-front-running-preventio.pdf
+  path: papers/weis2023/weis2023_13_the-potential-of-self-regulation-for-front-running-preventio.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-heimbach.pdf
+  error: null
+- id: weis2023_14
+  conference: weis2023
+  year: 2023
+  title: Secure and Efficient Networks
+  authors:
+  - Oleh Stupak
+  authors_full:
+  - name: Oleh Stupak
+    affiliation: University of Cambridge
+    presenter: true
+  session_number: 6
+  session: Future Economics of Security
+  event_type: session
+  date: '2023-07-07'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-stupak.pdf
+  slides_url: null
+  file: weis2023_14_secure-and-efficient-networks.pdf
+  path: papers/weis2023/weis2023_14_secure-and-efficient-networks.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-stupak.pdf
+  error: null
+- id: weis2023_15
+  conference: weis2023
+  year: 2023
+  title: Birds of a Feather? A Comparative Analysis of DDoS Victimisation by IoT Botnet and Amplification Attacks
+  authors:
+  - Swaathi Vetrivel
+  - Arman Noroozian
+  - Daisuke Makita
+  - Katsunari Yoshioka
+  - Michel van Eeten
+  - Carlos H. Gañán
+  authors_full:
+  - name: Swaathi Vetrivel
+    affiliation: Delft University of Technology
+    presenter: true
+  - name: Arman Noroozian
+    affiliation: University of Amsterdam
+  - name: Daisuke Makita
+    affiliation: Yokohama National University
+  - name: Katsunari Yoshioka
+    affiliation: Yokohama National University
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Carlos H. Gañán
+    affiliation: Delft University of Technology
+  session_number: 6
+  session: Future Economics of Security
+  event_type: session
+  date: '2023-07-07'
+  time: null
+  award: null
+  url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-vetrivel.pdf
+  slides_url: null
+  file: weis2023_15_birds-of-a-feather-a-comparative-analysis-of-ddos-victimisat.pdf
+  path: papers/weis2023/weis2023_15_birds-of-a-feather-a-comparative-analysis-of-ddos-victimisat.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2023.econinfosec.org/wp-content/uploads/sites/11/2023/06/weis23-vetrivel.pdf
+  error: null

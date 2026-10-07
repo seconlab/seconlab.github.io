@@ -1,0 +1,954 @@
+conference: weis2010
+name: WEIS 2010
+year: 2010
+papers_dir: papers/weis2010
+total: 38
+downloaded: 21
+failed: 17
+papers:
+- id: weis2010_01
+  conference: weis2010
+  year: 2010
+  title: 'Data Breaches and Identity Theft: When is Mandatory Disclosure Optimal?'
+  authors:
+  - Sasha Romanosky
+  - Richard Sharp
+  - Alessandro Acquisti
+  authors_full:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon
+  - name: Richard Sharp
+    affiliation: Carnegie Mellon
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  session_number: 1
+  session: Data Breaches and Organizational Security
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session1/weis2010_romanosky.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session1/weis2010_romanosky_pres.pdf
+  file: weis2010_01_data-breaches-and-identity-theft-when-is-mandatory-disclosur.pdf
+  path: papers/weis2010/weis2010_01_data-breaches-and-identity-theft-when-is-mandatory-disclosur.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110727095843id_/http://weis2010.econinfosec.org/papers/session1/weis2010_romanosky.pdf
+  error: null
+- id: weis2010_02
+  conference: weis2010
+  year: 2010
+  title: Encryption and Data Loss
+  authors:
+  - Amalia R. Miller
+  - Catherine Tucker
+  authors_full:
+  - name: Amalia R. Miller
+    affiliation: MIT
+  - name: Catherine Tucker
+    affiliation: MIT
+  session_number: 1
+  session: Data Breaches and Organizational Security
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session1/weis2010_tucker.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session1/weis2010_tucker_pres.pdf
+  file: weis2010_02_encryption-and-data-loss.pdf
+  path: papers/weis2010/weis2010_02_encryption-and-data-loss.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_03
+  conference: weis2010
+  year: 2010
+  title: Market Impact on IT Security Spending
+  authors:
+  - Bora Kolfal
+  - Raymond Patterson
+  - Lisa Yeo
+  authors_full:
+  - name: Bora Kolfal
+    affiliation: Alberta
+  - name: Raymond Patterson
+    affiliation: Alberta
+  - name: Lisa Yeo
+    affiliation: Alberta
+  session_number: 1
+  session: Data Breaches and Organizational Security
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/session1/weis2010_yeo_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_04
+  conference: weis2010
+  year: 2010
+  title: 'Outsourcing Information Security: Contracting Issues and Security Implications'
+  authors:
+  - Asunur Cezar
+  - Huseyin Cavusoglu
+  - Srinivasan Raghunathan
+  authors_full:
+  - name: Asunur Cezar
+  - name: Huseyin Cavusoglu
+  - name: Srinivasan Raghunathan
+  session_number: 1
+  session: Data Breaches and Organizational Security
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session1/weis2010_cezar.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session1/weis2010_cezar_pres.pdf
+  file: weis2010_04_outsourcing-information-security-contracting-issues-and-secu.pdf
+  path: papers/weis2010/weis2010_04_outsourcing-information-security-contracting-issues-and-secu.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_05
+  conference: weis2010
+  year: 2010
+  title: Is the Internet for Porn? An Insight Into the Online Adult Industry
+  authors:
+  - Gilbert Wondracek
+  - Thorsten Holz
+  - Christian Platzer
+  - Engin Kirda
+  - Christopher Kruegel
+  authors_full:
+  - name: Gilbert Wondracek
+  - name: Thorsten Holz
+  - name: Christian Platzer
+  - name: Engin Kirda
+  - name: Christopher Kruegel
+  session_number: 2
+  session: Privacy and Controversial Social Issues
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session2/weis2010_wondracek.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session2/weis2010_wondracek_pres.pdf
+  file: weis2010_05_is-the-internet-for-porn-an-insight-into-the-online-adult-in.pdf
+  path: papers/weis2010/weis2010_05_is-the-internet-for-porn-an-insight-into-the-online-adult-in.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_06
+  conference: weis2010
+  year: 2010
+  title: Guns, Privacy, and Crime
+  authors:
+  - Alessandro Acquisti
+  - Catherine Tucker
+  authors_full:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  - name: Catherine Tucker
+    affiliation: MIT
+  session_number: 2
+  session: Privacy and Controversial Social Issues
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session2/weis2010_acquisti.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session2/weis2010_acquisti_pres.pdf
+  file: weis2010_06_guns-privacy-and-crime.pdf
+  path: papers/weis2010/weis2010_06_guns-privacy-and-crime.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_07
+  conference: weis2010
+  year: 2010
+  title: 'Misplaced Confidences: Privacy and the Control Paradox'
+  authors:
+  - Laura Brandimarte
+  - Alessandro Acquisti
+  - George Loewenstein
+  authors_full:
+  - name: Laura Brandimarte
+    affiliation: Carnegie Mellon
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon
+  - name: George Loewenstein
+    affiliation: Carnegie Mellon
+  session_number: 2
+  session: Privacy and Controversial Social Issues
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session2/weis2010_brandimarte.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session2/weis2010_brandimarte_pres.pdf
+  file: weis2010_07_misplaced-confidences-privacy-and-the-control-paradox.pdf
+  path: papers/weis2010/weis2010_07_misplaced-confidences-privacy-and-the-control-paradox.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_08
+  conference: weis2010
+  year: 2010
+  title: A Welfare Analysis of Secondary Use of Personal Data
+  authors:
+  - Nicola Jentzsch
+  authors_full:
+  - name: Nicola Jentzsch
+    affiliation: German Institute for Economic Research
+  session_number: 2
+  session: Privacy and Controversial Social Issues
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session2/weis2010_jentzsch.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session2/weis2010_jentzsch_pres.pdf
+  file: weis2010_08_a-welfare-analysis-of-secondary-use-of-personal-data.pdf
+  path: papers/weis2010/weis2010_08_a-welfare-analysis-of-secondary-use-of-personal-data.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_09
+  conference: weis2010
+  year: 2010
+  title: 'The password thicket: technical and market failures in human authentication on the web'
+  authors:
+  - Joseph Bonneau
+  - Sören Preibusch
+  authors_full:
+  - name: Joseph Bonneau
+    affiliation: Cambridge
+  - name: Sören Preibusch
+    affiliation: Cambridge
+  session_number: 3
+  session: Empirical Studies
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session3/weis2010_bonneau.pdf
+  slides_url: http://www.cl.cam.ac.uk/~jcb82/doc/weis2010-slides.pdf
+  file: weis2010_09_the-password-thicket-technical-and-market-failures-in-human.pdf
+  path: papers/weis2010/weis2010_09_the-password-thicket-technical-and-market-failures-in-human.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_10
+  conference: weis2010
+  year: 2010
+  title: 'Please Continue to Hold: An empirical study on user tolerance of security delays'
+  authors:
+  - Serge Egelman
+  - David Molnar
+  - Nicolas Christin
+  - Alessandro Acquisti
+  - Cormac Herley
+  - Shriram Krishnamurthi
+  authors_full:
+  - name: Serge Egelman
+  - name: David Molnar
+  - name: Nicolas Christin
+  - name: Alessandro Acquisti
+  - name: Cormac Herley
+  - name: Shriram Krishnamurthi
+  session_number: 3
+  session: Empirical Studies
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session3/weis2010_egelman.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session3/weis2010_egelman_pres.pdf
+  file: weis2010_10_please-continue-to-hold-an-empirical-study-on-user-tolerance.pdf
+  path: papers/weis2010/weis2010_10_please-continue-to-hold-an-empirical-study-on-user-tolerance.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_11
+  conference: weis2010
+  year: 2010
+  title: 'Inglourious Installers: Security in the Application Marketplace'
+  authors:
+  - Jonathan Anderson
+  - Joseph Bonneau
+  - Frank Stajano
+  authors_full:
+  - name: Jonathan Anderson
+    affiliation: Cambridge
+  - name: Joseph Bonneau
+    affiliation: Cambridge
+  - name: Frank Stajano
+    affiliation: Cambridge
+  session_number: 3
+  session: Empirical Studies
+  event_type: session
+  date: '2010-06-07'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session3/weis2010_anderson_j.pdf
+  slides_url: null
+  file: weis2010_11_inglourious-installers-security-in-the-application-marketpla.pdf
+  path: papers/weis2010/weis2010_11_inglourious-installers-security-in-the-application-marketpla.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_12
+  conference: weis2010
+  year: 2010
+  title: Might Governments Clean-up Malware?
+  authors:
+  - Richard Clayton
+  authors_full:
+  - name: Richard Clayton
+    affiliation: Cambridge
+  session_number: 4
+  session: Economic and Policy Considerations for ISPs
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session4/weis2010_clayton.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session4/weis2010_clayton_pres.pdf
+  file: weis2010_12_might-governments-clean-up-malware.pdf
+  path: papers/weis2010/weis2010_12_might-governments-clean-up-malware.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_13
+  conference: weis2010
+  year: 2010
+  title: 'The Role of Internet Service Providers in Botnet Mitigation: An Empirical Analysis Based on Spam Data'
+  authors:
+  - Michel van Eeten
+  - Johannes M. Bauer
+  - Hadi Asghari
+  - Shirin Tabatabaie
+  - Dave Rand
+  authors_full:
+  - name: Michel van Eeten
+  - name: Johannes M. Bauer
+  - name: Hadi Asghari
+  - name: Shirin Tabatabaie
+  - name: Dave Rand
+  session_number: 4
+  session: Economic and Policy Considerations for ISPs
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session4/weis2010_vaneeten.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session4/weis2010_vaneeten_pres.pdf
+  file: weis2010_13_the-role-of-internet-service-providers-in-botnet-mitigation.pdf
+  path: papers/weis2010/weis2010_13_the-role-of-internet-service-providers-in-botnet-mitigation.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_14
+  conference: weis2010
+  year: 2010
+  title: 'Security Games in Online Advertising: Can Ads Help Secure the Web?'
+  authors:
+  - Nevena Vratonjic
+  - Jean-Pierre Hubaux
+  - Maxim Raya
+  - David Parkes
+  authors_full:
+  - name: Nevena Vratonjic
+  - name: Jean-Pierre Hubaux
+  - name: Maxim Raya
+  - name: David Parkes
+  session_number: 4
+  session: Economic and Policy Considerations for ISPs
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session4/weis2010_vratonjic.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session4/weis2010_vratonjic_pres.pdf
+  file: weis2010_14_security-games-in-online-advertising-can-ads-help-secure-the.pdf
+  path: papers/weis2010/weis2010_14_security-games-in-online-advertising-can-ads-help-secure-the.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_15
+  conference: weis2010
+  year: 2010
+  title: Towards a Cooperative Defense Model Against Network Security Attacks
+  authors:
+  - Harikrishna Narasimhan
+  - Venkatanathan Varadarajan
+  - Pandu Rangan Chandrasekaran
+  authors_full:
+  - name: Harikrishna Narasimhan
+  - name: Venkatanathan Varadarajan
+  - name: Pandu Rangan Chandrasekaran
+  session_number: 4
+  session: Economic and Policy Considerations for ISPs
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session4/weis2010_narasimhan.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session4/weis2010_rangan_pres.pdf
+  file: weis2010_15_towards-a-cooperative-defense-model-against-network-security.pdf
+  path: papers/weis2010/weis2010_15_towards-a-cooperative-defense-model-against-network-security.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_16
+  conference: weis2010
+  year: 2010
+  title: 'The Changing Nature of US Card Payment Fraud: Issues for Industry and Public Policy'
+  authors:
+  - Richard J. Sullivan
+  authors_full:
+  - name: Richard J. Sullivan
+    affiliation: Federal Reserve Bank of Kansas City
+  session_number: null
+  session: Policy for Payment System Security
+  event_type: panel
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/panel/weis2010_sullivan.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/panel/weis2010_sullivan_pres.pdf
+  file: weis2010_16_the-changing-nature-of-us-card-payment-fraud-issues-for-indu.pdf
+  path: papers/weis2010/weis2010_16_the-changing-nature-of-us-card-payment-fraud-issues-for-indu.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110727095722id_/http://weis2010.econinfosec.org/papers/panel/weis2010_sullivan.pdf
+  error: null
+- id: weis2010_17
+  conference: weis2010
+  year: 2010
+  title: Information Security Policy in the U.S. Retail Payments Industry
+  authors:
+  - Mark MacCarthy
+  authors_full:
+  - name: Mark MacCarthy
+    affiliation: Georgetown
+  session_number: null
+  session: Policy for Payment System Security
+  event_type: panel
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/panel/weis2010_maccarthy.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/panel/weis2010_maccarthy_pres.pdf
+  file: weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
+  path: papers/weis2010/weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20161020105628id_/http://www.econinfosec.org:80/archive/weis2010/papers/panel/weis2010_maccarthy.pdf
+  error: null
+- id: weis2010_18
+  conference: weis2010
+  year: 2010
+  title: Panel presentation (slides only)
+  authors:
+  - Ross Anderson
+  authors_full:
+  - name: Ross Anderson
+    affiliation: Cambridge
+  session_number: null
+  session: Policy for Payment System Security
+  event_type: panel
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/panel/weis2010_anderson_r_pres2.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_19
+  conference: weis2010
+  year: 2010
+  title: 'Self Hosting vs. Cloud Hosting: Accounting for the security impact of hosting in the cloud'
+  authors:
+  - David Molnar
+  - Stuart Schechter
+  authors_full:
+  - name: David Molnar
+    affiliation: Microsoft Research
+  - name: Stuart Schechter
+    affiliation: Microsoft Research
+  session_number: 5
+  session: Scale and the Economics of the Cloud
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session5/weis2010_schechter.pdf
+  slides_url: null
+  file: weis2010_19_self-hosting-vs-cloud-hosting-accounting-for-the-security-im.pdf
+  path: papers/weis2010/weis2010_19_self-hosting-vs-cloud-hosting-accounting-for-the-security-im.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_20
+  conference: weis2010
+  year: 2010
+  title: 'Modeling Cyber-Insurance: Towards A Unifying Framework'
+  authors:
+  - Rainer Böhme
+  - Galina Schwartz
+  authors_full:
+  - name: Rainer Böhme
+    affiliation: ICSI Berkeley
+  - name: Galina Schwartz
+    affiliation: ICSI Berkeley
+  session_number: 5
+  session: Scale and the Economics of the Cloud
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session5/weis2010_boehme.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session5/weis2010_boehme_pres.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2010_21
+  conference: weis2010
+  year: 2010
+  title: The Plight of the Targeted Attacker in a World of Scale
+  authors:
+  - Cormac Herley
+  authors_full:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  session_number: 5
+  session: Scale and the Economics of the Cloud
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session5/weis2010_herley.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session5/weis2010_herley_pres.pdf
+  file: weis2010_21_the-plight-of-the-targeted-attacker-in-a-world-of-scale.pdf
+  path: papers/weis2010/weis2010_21_the-plight-of-the-targeted-attacker-in-a-world-of-scale.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20110727095836id_/http://weis2010.econinfosec.org/papers/session5/weis2010_herley.pdf
+  error: null
+- id: weis2010_22
+  conference: weis2010
+  year: 2010
+  title: On the Security Economics of Electricity Metering
+  authors:
+  - Ross Anderson
+  - Shailendra Fuloria
+  authors_full:
+  - name: Ross Anderson
+    affiliation: Cambridge
+  - name: Shailendra Fuloria
+    affiliation: Cambridge
+  session_number: 5
+  session: Scale and the Economics of the Cloud
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session5/weis2010_anderson_r.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session5/weis2010_anderson_r_pres.pdf
+  file: weis2010_22_on-the-security-economics-of-electricity-metering.pdf
+  path: papers/weis2010/weis2010_22_on-the-security-economics-of-electricity-metering.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_23
+  conference: weis2010
+  year: 2010
+  title: An Empirical Analysis of Exploitation Attempts based on Vulnerabilities in Open Source Software
+  authors:
+  - Sam Ransbotham
+  authors_full:
+  - name: Sam Ransbotham
+    affiliation: Boston College
+  session_number: 6
+  session: Open Source and Security Management
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session6/weis2010_ransbotham.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session6/weis2010_ransbotham_pres.pdf
+  file: weis2010_23_an-empirical-analysis-of-exploitation-attempts-based-on-vuln.pdf
+  path: papers/weis2010/weis2010_23_an-empirical-analysis-of-exploitation-attempts-based-on-vuln.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20151031093718id_/http://www.econinfosec.org/archive/weis2010/papers/session6/weis2010_ransbotham.pdf
+  error: null
+- id: weis2010_24
+  conference: weis2010
+  year: 2010
+  title: 'The Mathematics of Obscurity: On the Trustworthiness of Open Source'
+  authors:
+  - Hermann Härtig
+  - Claude-Joachim Hamann
+  - Michael Roitzsch
+  authors_full:
+  - name: Hermann Härtig
+    affiliation: TU Dresden
+  - name: Claude-Joachim Hamann
+    affiliation: TU Dresden
+  - name: Michael Roitzsch
+    affiliation: TU Dresden
+  session_number: 6
+  session: Open Source and Security Management
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session6/weis2010_haertig.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session6/weis2010_haertig_pres.pdf
+  file: weis2010_24_the-mathematics-of-obscurity-on-the-trustworthiness-of-open.pdf
+  path: papers/weis2010/weis2010_24_the-mathematics-of-obscurity-on-the-trustworthiness-of-open.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2010_25
+  conference: weis2010
+  year: 2010
+  title: Structured Systems Economics for Security Management
+  authors:
+  - Adam Beautement
+  - David Pym
+  authors_full:
+  - name: Adam Beautement
+    affiliation: UCL
+  - name: David Pym
+    affiliation: Aberdeen
+  session_number: 6
+  session: Open Source and Security Management
+  event_type: session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: http://weis2010.econinfosec.org/papers/session6/weis2010_beautement.pdf
+  slides_url: http://weis2010.econinfosec.org/papers/session6/weis2010_beautement_pres.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2010_26
+  conference: weis2010
+  year: 2010
+  title: ISPs as Cyberecurity Providers
+  authors:
+  - Brent Rowe
+  authors_full:
+  - name: Brent Rowe
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_rowe_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_27
+  conference: weis2010
+  year: 2010
+  title: Security as Goodwill?
+  authors:
+  - Doron Becker
+  authors_full:
+  - name: Doron Becker
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_becker_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_28
+  conference: weis2010
+  year: 2010
+  title: Security Investment with Penetration Testing
+  authors:
+  - Mark Felegyhazi
+  authors_full:
+  - name: Mark Felegyhazi
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_29
+  conference: weis2010
+  year: 2010
+  title: Chip and PIN Policy
+  authors:
+  - Steven Murdoch
+  authors_full:
+  - name: Steven Murdoch
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_30
+  conference: weis2010
+  year: 2010
+  title: Policy Recommendations for Improving Cybersecurity
+  authors:
+  - Tyler Moore
+  authors_full:
+  - name: Tyler Moore
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_tmoore_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_31
+  conference: weis2010
+  year: 2010
+  title: Product-Validation Systems and EIS
+  authors:
+  - Kanta Matsuura
+  authors_full:
+  - name: Kanta Matsuura
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_kanta_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_32
+  conference: weis2010
+  year: 2010
+  title: Rewards for Returning Lost Property
+  authors:
+  - Jonathan Anderson
+  authors_full:
+  - name: Jonathan Anderson
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_33
+  conference: weis2010
+  year: 2010
+  title: Consumer Acceptance for Secondary Use
+  authors:
+  - Haruo Takasaki
+  authors_full:
+  - name: Haruo Takasaki
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_haruo_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_34
+  conference: weis2010
+  year: 2010
+  title: Announcements
+  authors:
+  - Russell Cameron Thomas
+  authors_full:
+  - name: Russell Cameron Thomas
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_35
+  conference: weis2010
+  year: 2010
+  title: Passwords and Intimacy
+  authors:
+  - Joseph Bonneau
+  authors_full:
+  - name: Joseph Bonneau
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://www.cl.cam.ac.uk/~jcb82/doc/weis2010-rump.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_36
+  conference: weis2010
+  year: 2010
+  title: Incentive-based Access Control
+  authors:
+  - Debin Liu
+  authors_full:
+  - name: Debin Liu
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: http://weis2010.econinfosec.org/papers/rump/weis2010_liu_pres.pdf
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_37
+  conference: weis2010
+  year: 2010
+  title: Determining the Difficulty of Security Problems
+  authors:
+  - Steve Borbash
+  authors_full:
+  - name: Steve Borbash
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2010_38
+  conference: weis2010
+  year: 2010
+  title: We Have Data!
+  authors:
+  - Roger Dingledine
+  authors_full:
+  - name: Roger Dingledine
+  session_number: null
+  session: Rump Session
+  event_type: rump_session
+  date: '2010-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml

@@ -1,0 +1,207 @@
+name: WEIS 2017
+full_name: The 16th Workshop on the Economics of Information Security
+edition: 16
+year: 2017
+location: La Jolla (San Diego), California, USA
+venue: Rady School of Management, UC San Diego — Wells Fargo Hall, room 1N108
+start_date: '2017-06-26'
+end_date: '2017-06-27'
+website: https://weis2017.econinfosec.org/
+papers:
+- id: weis2017_01
+  title: When to Invest in Security? Empirical Evidence and a Game-Theoretic Approach for Time-Based Security
+  authors:
+  - name: Sadegh Farhang
+  - name: Jens Grossklags
+  file: weis2017_01_when-to-invest-in-security-empirical-evidence-and-a-game-the.pdf
+  path: papers/weis2017/weis2017_01_when-to-invest-in-security-empirical-evidence-and-a-game-the.pdf
+- id: weis2017_02
+  title: Inferring Security Performance of Providers from Noisy and Heterogenous Abuse Datasets
+  authors:
+  - name: Arman Noroozian
+  - name: Michael Ciere
+  - name: Maciej Korczynski
+  - name: Samaneh Tajalizadehkhoob
+  - name: Michel van Eeten
+  file: weis2017_02_inferring-security-performance-of-providers-from-noisy-and-h.pdf
+  path: papers/weis2017/weis2017_02_inferring-security-performance-of-providers-from-noisy-and-h.pdf
+- id: weis2017_03
+  title: The effect of competition intensity on software security – An empirical analysis of security patch release on the web browser market
+  authors:
+  - name: Arrah-Marie Jo
+  file: weis2017_03_the-effect-of-competition-intensity-on-software-security-an.pdf
+  path: papers/weis2017/weis2017_03_the-effect-of-competition-intensity-on-software-security-an.pdf
+- id: weis2017_04
+  title: The Effects of Security Management on Security Events
+  authors:
+  - name: Frank Nagle
+  - name: Sam Ransbotham
+  - name: George Westerman
+  file: weis2017_04_the-effects-of-security-management-on-security-events.pdf
+  path: papers/weis2017/weis2017_04_the-effects-of-security-management-on-security-events.pdf
+- id: weis2017_05
+  title: Cost of a Cyber Incident
+  authors:
+  - name: Olga Livingston
+    affiliation: DHS
+  - name: Matthew Shabat
+    affiliation: DHS
+  - name: Tony Cheesebrough
+    affiliation: DHS
+  file: null
+  path: null
+- id: weis2017_06
+  title: 'Privacy and Data Security: An Economic Perspective of Consumer Protection'
+  authors:
+  - name: Andrew Stivers
+    affiliation: FTC
+  - name: Ginger Jin
+    affiliation: FTC
+  file: weis2017_06_privacy-and-data-security-an-economic-perspective-of-consume.pdf
+  path: papers/weis2017/weis2017_06_privacy-and-data-security-an-economic-perspective-of-consume.pdf
+- id: weis2017_07
+  title: R&D Strategy for the Cyber Risk Economics (CYRIE) program, Cyber Security Division of DHS
+  authors:
+  - name: Erin Kenneally
+    affiliation: DHS
+  file: weis2017_07_r-d-strategy-for-the-cyber-risk-economics-cyrie-program-cybe.pdf
+  path: papers/weis2017/weis2017_07_r-d-strategy-for-the-cyber-risk-economics-cyrie-program-cybe.pdf
+- id: weis2017_08
+  title: An Analysis of Pay-per-Install Economics Using Entity Graphs
+  authors:
+  - name: Platon Kotzias
+  - name: Juan Caballero
+  file: weis2017_08_an-analysis-of-pay-per-install-economics-using-entity-graphs.pdf
+  path: papers/weis2017/weis2017_08_an-analysis-of-pay-per-install-economics-using-entity-graphs.pdf
+- id: weis2017_09
+  title: 'Booted: An Analysis of a Payment Intervention on a DDoS-for-Hire Service'
+  authors:
+  - name: Ryan Brunt
+  - name: Prakhar Pandey
+  - name: Damon McCoy
+  file: weis2017_09_booted-an-analysis-of-a-payment-intervention-on-a-ddos-for-h.pdf
+  path: papers/weis2017/weis2017_09_booted-an-analysis-of-a-payment-intervention-on-a-ddos-for-h.pdf
+- id: weis2017_10
+  title: Price Manipulation in the Bitcoin Ecosystem
+  authors:
+  - name: Neil Gandal
+  - name: JT Hamrick
+  - name: Tyler Moore
+  - name: Tali Oberman
+  file: weis2017_10_price-manipulation-in-the-bitcoin-ecosystem.pdf
+  path: papers/weis2017/weis2017_10_price-manipulation-in-the-bitcoin-ecosystem.pdf
+- id: weis2017_11
+  title: 'Impact of Security Events and Fraudulent Transactions on Customer Loyalty: A Field Study'
+  authors:
+  - name: Sriram Somanchi
+  - name: Rahul Telang
+  file: weis2017_11_impact-of-security-events-and-fraudulent-transactions-on-cus.pdf
+  path: papers/weis2017/weis2017_11_impact-of-security-events-and-fraudulent-transactions-on-cus.pdf
+- id: weis2017_12
+  title: 'Sometimes Three Rights Really Do Make a Wrong: Measuring Cybersecurity and Simpson’s Paradox'
+  authors:
+  - name: Eric Jardine
+  file: weis2017_12_sometimes-three-rights-really-do-make-a-wrong-measuring-cybe.pdf
+  path: papers/weis2017/weis2017_12_sometimes-three-rights-really-do-make-a-wrong-measuring-cybe.pdf
+- id: weis2017_13
+  title: 'The Work-Averse Cyber Attacker Model: Theory and Evidence From Two Million Attack Signatures'
+  authors:
+  - name: Luca Allodi
+  - name: Fabio Massacci
+  - name: Julian Williams
+  file: weis2017_13_the-work-averse-cyber-attacker-model-theory-and-evidence-fro.pdf
+  path: papers/weis2017/weis2017_13_the-work-averse-cyber-attacker-model-theory-and-evidence-fro.pdf
+- id: weis2017_14
+  title: 'Make Notifications Great Again: Learning How to Notify in the Age of Large-Scale Vulnerability Scanning'
+  authors:
+  - name: Orcun Cetin
+  - name: Carlos Gañán
+  - name: Maciej Korczyński
+  - name: Michel van Eeten
+  file: weis2017_14_make-notifications-great-again-learning-how-to-notify-in-the.pdf
+  path: papers/weis2017/weis2017_14_make-notifications-great-again-learning-how-to-notify-in-the.pdf
+- id: weis2017_15
+  title: Standardisation and Certification of the ‘Internet of Things’
+  authors:
+  - name: Eireann Leverett
+  - name: Richard Clayton
+  - name: Ross Anderson
+  file: weis2017_15_standardisation-and-certification-of-the-internet-of-things.pdf
+  path: papers/weis2017/weis2017_15_standardisation-and-certification-of-the-internet-of-things.pdf
+- id: weis2017_16
+  title: Security Breaches in the U.S. Federal Government
+  authors:
+  - name: Min-Seok Pang
+  - name: Huseyin Tanriverdi
+  file: weis2017_16_security-breaches-in-the-u-s-federal-government.pdf
+  path: papers/weis2017/weis2017_16_security-breaches-in-the-u-s-federal-government.pdf
+- id: weis2017_17
+  title: Do Hospital Data Breaches Reduce Patient Care Quality?
+  authors:
+  - name: Sung Choi
+  - name: M. Eric Johnson
+  file: weis2017_17_do-hospital-data-breaches-reduce-patient-care-quality-author.pdf
+  path: papers/weis2017/weis2017_17_do-hospital-data-breaches-reduce-patient-care-quality-author.pdf
+- id: weis2017_18
+  title: Do Organizations Learn from a Data Breach?
+  authors:
+  - name: Joseph Buckman
+  - name: Jesse Bockstedt
+  - name: Matthew Hashim
+  - name: Tiemen Woutersen
+  file: weis2017_18_do-organizations-learn-from-a-data-breach.pdf
+  path: papers/weis2017/weis2017_18_do-organizations-learn-from-a-data-breach.pdf
+- id: weis2017_19
+  title: Estimating the size of the iceberg from its tip
+  authors:
+  - name: Fabio Bisogni
+  - name: Hadi Asghari
+  - name: Michel van Eeten
+  file: weis2017_19_estimating-the-size-of-the-iceberg-from-its-tip.pdf
+  path: papers/weis2017/weis2017_19_estimating-the-size-of-the-iceberg-from-its-tip.pdf
+- id: weis2017_20
+  title: Privacy and Quality
+  authors:
+  - name: Yassine Lefouilli
+  - name: Ying Lei Toh
+  file: weis2017_20_privacy-and-quality.pdf
+  path: papers/weis2017/weis2017_20_privacy-and-quality.pdf
+- id: weis2017_21
+  title: An Empirical Investigation of the Antecedents and Consequences of Privacy Uncertainty in the Context of Mobile Apps
+  authors:
+  - name: Usman Aleem
+  - name: Hasan Cavusoglu
+  - name: Izak Benbasat
+  file: weis2017_21_an-empirical-investigation-of-the-antecedents-and-consequenc.pdf
+  path: papers/weis2017/weis2017_21_an-empirical-investigation-of-the-antecedents-and-consequenc.pdf
+- id: weis2017_22
+  title: 'Online Distractions, Website Blockers, and Economic Productivity: A Randomized Field Experiment'
+  authors:
+  - name: Veronica Marotta
+  - name: Alessandro Acquisti
+  file: weis2017_22_online-distractions-website-blockers-and-economic-productivi.pdf
+  path: papers/weis2017/weis2017_22_online-distractions-website-blockers-and-economic-productivi.pdf
+- id: weis2017_23
+  title: 'Content Analysis of Cyber Insurance Policies: How do carriers develop policies and price cyber risk?'
+  authors:
+  - name: Sasha Romanosky
+  - name: Lillian Ablon
+  - name: Andreas Kuehn
+  - name: Therese Jones
+  file: weis2017_23_content-analysis-of-cyber-insurance-policies-how-do-carriers.pdf
+  path: papers/weis2017/weis2017_23_content-analysis-of-cyber-insurance-policies-how-do-carriers.pdf
+- id: weis2017_24
+  title: Attack-Aware Cyber Insurance of Interdependent Computer Networks
+  authors:
+  - name: Rui Zhang
+  - name: Quanyan Zhu
+  file: weis2017_24_attack-aware-cyber-insurance-of-interdependent-computer-netw.pdf
+  path: papers/weis2017/weis2017_24_attack-aware-cyber-insurance-of-interdependent-computer-netw.pdf
+- id: weis2017_25
+  title: 'Cyberinsurance and Public Policy: Self-Protection and Insurance with Endogenous Adversaries'
+  authors:
+  - name: Fabio Massacci
+  - name: Joe Swierzbinski
+  - name: Julian Williams
+  file: weis2017_25_cyberinsurance-and-public-policy-self-protection-and-insuran.pdf
+  path: papers/weis2017/weis2017_25_cyberinsurance-and-public-policy-self-protection-and-insuran.pdf

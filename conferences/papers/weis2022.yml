@@ -1,0 +1,176 @@
+name: WEIS 2022
+full_name: The 21st Workshop on the Economics of Information Security
+edition: 21
+year: 2022
+location: Tulsa, Oklahoma, USA
+venue: Hyatt Regency Tulsa, 100 E 2nd St, Tulsa, OK 74103
+start_date: '2022-06-21'
+end_date: '2022-06-22'
+website: https://weis2022.econinfosec.org/
+papers:
+- id: weis2022_01
+  title: Exploring the role of data enclosure in the digital political economy
+  authors:
+  - name: Brenden Kuerbis
+    affiliation: Georgia Institute of Technology
+  - name: Milton Mueller
+    affiliation: Georgia Institute of Technology
+  file: weis2022_01_exploring-the-role-of-data-enclosure-in-the-digital-politica.pdf
+  path: papers/weis2022/weis2022_01_exploring-the-role-of-data-enclosure-in-the-digital-politica.pdf
+- id: weis2022_02
+  title: 'Impact of App Privacy Label Disclosure on Demand: An Empirical Analysis'
+  authors:
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  - name: Rajiv Garg
+    affiliation: Emory University
+  file: weis2022_02_impact-of-app-privacy-label-disclosure-on-demand-an-empirica.pdf
+  path: papers/weis2022/weis2022_02_impact-of-app-privacy-label-disclosure-on-demand-an-empirica.pdf
+- id: weis2022_03
+  title: Prior Fraud Exposure and Precautionary Credit Market Behavior
+  authors:
+  - name: Ying Lei Toh
+    affiliation: Federal Reserve Bank of Kansas City
+  - name: Nathan Blascak
+    affiliation: Federal Reserve Bank of Philadelphia
+  file: weis2022_03_prior-fraud-exposure-and-precautionary-credit-market-behavio.pdf
+  path: papers/weis2022/weis2022_03_prior-fraud-exposure-and-precautionary-credit-market-behavio.pdf
+- id: weis2022_04
+  title: 'Contagion or competitive effects?: Lenders’ response to peer firm cyberattacks'
+  authors:
+  - name: Amy Sheneman
+    affiliation: The Ohio State University
+  file: weis2022_04_contagion-or-competitive-effects-lenders-response-to-peer-fi.pdf
+  path: papers/weis2022/weis2022_04_contagion-or-competitive-effects-lenders-response-to-peer-fi.pdf
+- id: weis2022_05
+  title: Empirically Evaluating the Effect of Cybersecurity Precautions on Incidents in Israeli Enterprises
+  authors:
+  - name: Neil Gandal
+    affiliation: Tel Aviv University and CEPR
+  - name: Tyler Moore
+    affiliation: University of Tulsa
+  - name: Michael Riordan
+    affiliation: Columbia University
+  - name: Noa Barnir
+    affiliation: Tel Aviv University
+  file: weis2022_05_empirically-evaluating-the-effect-of-cybersecurity-precautio.pdf
+  path: papers/weis2022/weis2022_05_empirically-evaluating-the-effect-of-cybersecurity-precautio.pdf
+- id: weis2022_06
+  title: No research, no risk? An empirical study of determinants of information leakage attacks
+  authors:
+  - name: Oleh Stupak
+    affiliation: University of Oxford, Oxford Internet Institute
+  file: weis2022_06_no-research-no-risk-an-empirical-study-of-determinants-of-in.pdf
+  path: papers/weis2022/weis2022_06_no-research-no-risk-an-empirical-study-of-determinants-of-in.pdf
+- id: weis2022_07
+  title: Reducing Attack Surface by Learning Adversarial Bag of Tricks
+  authors:
+  - name: William Casey
+    affiliation: USNA
+  - name: J Goohs
+    affiliation: US Navy
+  file: weis2022_07_reducing-attack-surface-by-learning-adversarial-bag-of-trick.pdf
+  path: papers/weis2022/weis2022_07_reducing-attack-surface-by-learning-adversarial-bag-of-trick.pdf
+- id: weis2022_08
+  title: Efficient Collective Action for Tackling Time-Critical Cybersecurity Threats
+  authors:
+  - name: Sébastien Gillard
+    affiliation: Department of Defense Economics, Military Academy at ETH Zurich
+  - name: Dimitri Percia David
+    affiliation: Information Science Institute, University of Geneva
+  - name: Alain Mermoud
+    affiliation: Cyber-Defence Campus, armasuisse Science and Technology
+  - name: Thomas Maillart
+    affiliation: Information Science Institute, University of Geneva
+  file: weis2022_08_efficient-collective-action-for-tackling-time-critical-cyber.pdf
+  path: papers/weis2022/weis2022_08_efficient-collective-action-for-tackling-time-critical-cyber.pdf
+- id: weis2022_09
+  title: Treating the Symptoms or the Cause? Talent Acquisition in Response to Data Breaches
+  authors:
+  - name: Sarah Bana
+    affiliation: Stanford
+  - name: Erik Brynjolfsson
+    affiliation: Stanford
+  - name: Wang Jin
+    affiliation: MIT
+  - name: Sebastian Steffen
+    affiliation: MIT
+  - name: Xiupeng Wang
+    affiliation: Skidmore
+  file: weis2022_09_treating-the-symptoms-or-the-cause-talent-acquisition-in-res.pdf
+  path: papers/weis2022/weis2022_09_treating-the-symptoms-or-the-cause-talent-acquisition-in-res.pdf
+- id: weis2022_10
+  title: Information Frictions and Heterogeneity in Valuations of Personal Data
+  authors:
+  - name: Avinash Collis
+    affiliation: University of Texas at Austin
+  - name: Alex Moehring
+    affiliation: MIT
+  - name: Ananya Sen
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2022_10_information-frictions-and-heterogeneity-in-valuations-of-per.pdf
+  path: papers/weis2022/weis2022_10_information-frictions-and-heterogeneity-in-valuations-of-per.pdf
+- id: weis2022_11
+  title: 'Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value'
+  authors:
+  - name: Julien Piet
+    affiliation: UC Berkeley
+  - name: Jaiden Fairoze
+    affiliation: UC Berkeley
+  - name: Nicholas Weaver
+    affiliation: UC Berkeley and ICSI
+  file: weis2022_11_extracting-godl-sic-from-the-salt-mines-ethereum-miners-extr.pdf
+  path: papers/weis2022/weis2022_11_extracting-godl-sic-from-the-salt-mines-ethereum-miners-extr.pdf
+- id: weis2022_12
+  title: 'Breaking the Stablecoin Buck: Measuring the Impact of Security Breach and Liquidation Shocks'
+  authors:
+  - name: Andrew Morin
+    affiliation: The University of Tulsa
+  - name: Tyler Moore
+    affiliation: The University of Tulsa
+  - name: Eric Olson
+    affiliation: The University of Tulsa
+  file: weis2022_12_breaking-the-stablecoin-buck-measuring-the-impact-of-securit.pdf
+  path: papers/weis2022/weis2022_12_breaking-the-stablecoin-buck-measuring-the-impact-of-securit.pdf
+- id: weis2022_13
+  title: Pricing Security in Proof-of-Work Systems
+  authors:
+  - name: George Bissias
+    affiliation: University of Massachusetts Amherst
+  - name: Rainer Böhme
+    affiliation: University of Innsbruck
+  - name: David Thibodeau
+    affiliation: University of Massachusetts Amherst
+  - name: Brian Neil Levine
+    affiliation: University of Massachusetts Amherst
+  file: weis2022_13_pricing-security-in-proof-of-work-systems.pdf
+  path: papers/weis2022/weis2022_13_pricing-security-in-proof-of-work-systems.pdf
+- id: weis2022_14
+  title: Characterising 0-Day Exploit Brokers
+  authors:
+  - name: Daniel W Woods
+    affiliation: University of Innsbruck
+  - name: Matthias Dellago
+    affiliation: University of Innsbruck
+  - name: Andrew Simpson
+    affiliation: University of Oxford
+  file: weis2022_14_characterising-0-day-exploit-brokers.pdf
+  path: papers/weis2022/weis2022_14_characterising-0-day-exploit-brokers.pdf
+- id: weis2022_15
+  title: Modelling Ransomware Attacks using POMDPs
+  authors:
+  - name: Henry Skeoch
+    affiliation: University College London
+  file: weis2022_15_modelling-ransomware-attacks-using-pomdps.pdf
+  path: papers/weis2022/weis2022_15_modelling-ransomware-attacks-using-pomdps.pdf
+- id: weis2022_16
+  title: A “sophisticated attack”? Innovation, technical sophistication, and creativity in the cybercrime ecosystem
+  authors:
+  - name: Ben Collier
+    affiliation: University of Edinburgh
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  file: weis2022_16_a-sophisticated-attack-innovation-technical-sophistication-a.pdf
+  path: papers/weis2022/weis2022_16_a-sophisticated-attack-innovation-technical-sophistication-a.pdf

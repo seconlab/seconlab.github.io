@@ -1,0 +1,185 @@
+name: WEIS 2020
+full_name: The 19th Workshop on the Economics of Information Security
+edition: 19
+year: 2020
+location: Virtual (originally planned in Brussels, Belgium)
+venue: Online (hosted by the Centre for European Policy Studies, CEPS)
+start_date: '2020-12-14'
+end_date: '2020-12-15'
+website: https://weis2020.econinfosec.org/
+papers:
+- id: weis2020_01
+  title: 'Prioritizing Vulnerability Response: a Stakeholder-Specific Vulnerability Categorization'
+  authors:
+  - name: Jonathan Spring
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Allen Householder
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Art Manion
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Eric Hatleback
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Deana Shick
+    affiliation: Rockwell
+  file: weis2020_01_prioritizing-vulnerability-response-a-stakeholder-specific-v.pdf
+  path: papers/weis2020/weis2020_01_prioritizing-vulnerability-response-a-stakeholder-specific-v.pdf
+- id: weis2020_02
+  title: 'Underlying and Consequential Costs of Cyber Security Breaches: Changes in Systematic Risk'
+  authors:
+  - name: Dennis D. Malliouris
+    affiliation: University of Oxford
+  - name: Andrew Simpson
+    affiliation: University of Oxford
+  file: weis2020_02_underlying-and-consequential-costs-of-cyber-security-breache.pdf
+  path: papers/weis2020/weis2020_02_underlying-and-consequential-costs-of-cyber-security-breache.pdf
+- id: weis2020_03
+  title: Cybersecurity Investments and the Cost of Capital
+  authors:
+  - name: Taha Havakhor
+    affiliation: Temple University
+  - name: Mohammad Rahman
+    affiliation: Purdue University
+  - name: Tianjian Zhang
+    affiliation: Oklahoma State University
+  file: weis2020_03_cybersecurity-investments-and-the-cost-of-capital.pdf
+  path: papers/weis2020/weis2020_03_cybersecurity-investments-and-the-cost-of-capital.pdf
+- id: weis2020_04
+  title: 'Cyber incidents, security measures and financial returns: Empirical evidence for Dutch firms'
+  authors:
+  - name: Milena Dinkova
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  - name: Ramy El-Dardiry
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  - name: Bastiaan Overvest
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  file: weis2020_04_cyber-incidents-security-measures-and-financial-returns-empi.pdf
+  path: papers/weis2020/weis2020_04_cyber-incidents-security-measures-and-financial-returns-empi.pdf
+- id: weis2020_05
+  title: Can Insider Trades Reliably Predict Cybersecurity Hazards in Public Firms?
+  authors:
+  - name: Taha Havakhor
+    affiliation: Temple University
+  - name: Obi Ogbanufe
+    affiliation: Oklahoma State University
+  - name: Anthony Vance
+    affiliation: Temple University
+  file: weis2020_05_can-insider-trades-reliably-predict-cybersecurity-hazards-in.pdf
+  path: papers/weis2020/weis2020_05_can-insider-trades-reliably-predict-cybersecurity-hazards-in.pdf
+- id: weis2020_06
+  title: Provider Output and Downstream Firms’ Service Tier Choice
+  authors:
+  - name: Hooman Hidaji
+    affiliation: University of Calgary
+  - name: Lisa Yeo
+    affiliation: University of California, Merced
+  file: weis2020_06_provider-output-and-downstream-firms-service-tier-choice.pdf
+  path: papers/weis2020/weis2020_06_provider-output-and-downstream-firms-service-tier-choice.pdf
+- id: weis2020_07
+  title: 'Cybercrime is (often) boring: maintaining the infrastructure of cybercrime economies'
+  authors:
+  - name: Ben Collier
+    affiliation: University of Cambridge
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  - name: Daniel Thomas
+    affiliation: University of Strathclyde
+  file: weis2020_07_cybercrime-is-often-boring-maintaining-the-infrastructure-of.pdf
+  path: papers/weis2020/weis2020_07_cybercrime-is-often-boring-maintaining-the-infrastructure-of.pdf
+- id: weis2020_08
+  title: 'SAVing the Internet: Explaining the Adoption of Source Address Validation by Internet Service Providers'
+  authors:
+  - name: Qasim Lone
+    affiliation: TU Delft
+  - name: Maciej Korczyński
+    affiliation: Univ. Grenoble Alpes
+  - name: Carlos H. Gañán
+    affiliation: TU Delft
+  - name: Michel van Eeten
+    affiliation: TU Delft
+  file: weis2020_08_saving-the-internet-explaining-the-adoption-of-source-addres.pdf
+  path: papers/weis2020/weis2020_08_saving-the-internet-explaining-the-adoption-of-source-addres.pdf
+- id: weis2020_09
+  title: The Impact of the GDPR on Content Providers
+  authors:
+  - name: Vincent Lefrere
+    affiliation: Institut Mines-Télécom
+  - name: Logan Warberg
+    affiliation: Carnegie Mellon University
+  - name: Cristobal Cheyre
+    affiliation: Cornell University
+  - name: Veronica Marotta
+    affiliation: University of Minnesota Twin Cities
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2020_09_the-impact-of-the-gdpr-on-content-providers.pdf
+  path: papers/weis2020/weis2020_09_the-impact-of-the-gdpr-on-content-providers.pdf
+- id: weis2020_10
+  title: An Economic Model for Quantum-Key Recovery Attacks
+  authors:
+  - name: Ben Harsha
+    affiliation: Purdue University
+  - name: Jeremiah Blocki
+    affiliation: Purdue University
+  file: weis2020_10_an-economic-model-for-quantum-key-recovery-attacks.pdf
+  path: papers/weis2020/weis2020_10_an-economic-model-for-quantum-key-recovery-attacks.pdf
+- id: weis2020_11
+  title: Security-Induced Lock-In in the Cloud
+  authors:
+  - name: Daniel Arce
+    affiliation: UT Dallas
+  file: weis2020_11_security-induced-lock-in-in-the-cloud.pdf
+  path: papers/weis2020/weis2020_11_security-induced-lock-in-in-the-cloud.pdf
+- id: weis2020_12
+  title: The Commodification of Consent
+  authors:
+  - name: Daniel Woods
+    affiliation: University of Innsbruck
+  - name: Rainer Böhme
+    affiliation: University of Innsbruck
+  file: weis2020_12_the-commodification-of-consent.pdf
+  path: papers/weis2020/weis2020_12_the-commodification-of-consent.pdf
+- id: weis2020_13
+  title: The Use of Autonomous Decision Systems
+  authors:
+  - name: Robin Dillon-Merrill
+    affiliation: Georgetown
+  - name: Peter Madsen
+    affiliation: BYU
+  - name: Bart Roets
+    affiliation: INFRABEL
+  - name: Taylan Topcu
+    affiliation: Virginia Tech
+  - name: Kostas Triantis
+    affiliation: Virginia Tech
+  file: weis2020_13_the-use-of-autonomous-decision-systems.pdf
+  path: papers/weis2020/weis2020_13_the-use-of-autonomous-decision-systems.pdf
+- id: weis2020_14
+  title: 'Understanding the Knowledge Gap: How Security Awareness Influences the Adoption of Industrial IoT'
+  authors:
+  - name: Verena Schrama
+    affiliation: TU Delft
+  - name: Carlos H. Gañán
+    affiliation: TU Delft
+  - name: Doris Aschenbrenner
+    affiliation: TU Delft
+  - name: Mark de Reuver
+    affiliation: TU Delft
+  - name: Kevin Borgolte
+    affiliation: Princeton University
+  - name: Tobias Fiebig
+    affiliation: TU Delft
+  file: weis2020_14_understanding-the-knowledge-gap-how-security-awareness-influ.pdf
+  path: papers/weis2020/weis2020_14_understanding-the-knowledge-gap-how-security-awareness-influ.pdf
+- id: weis2020_15
+  title: A Qualitative Model of Older Adults’ Contextual Decision-Making About Information Sharing
+  authors:
+  - name: Alisa Frik
+    affiliation: International Computer Science Institute, UC Berkeley
+  - name: Julia Bernd
+    affiliation: International Computer Science Institute, UC Berkeley
+  - name: Serge Egelman
+    affiliation: International Computer Science Institute, UC Berkeley
+  file: weis2020_15_a-qualitative-model-of-older-adults-contextual-decision-maki.pdf
+  path: papers/weis2020/weis2020_15_a-qualitative-model-of-older-adults-contextual-decision-maki.pdf

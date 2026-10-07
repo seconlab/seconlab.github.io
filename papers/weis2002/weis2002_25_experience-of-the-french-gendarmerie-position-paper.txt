@@ -1,0 +1,163 @@
+Position paper for the workshop on economics and information security
+
+Thomas-Xavier MARTIN
+
+The currency that is not spent enough to improve security is not
+money, but time. And you can only buy someone's time with your money
+(i.e. outsource your security needs) if the market is mature enough.
+
+Reasons why the security market is immature and will stay that way for
+a long time :
+
+1) Not enough decently taught graduates (as in all fields related to
+computers). This is basically the most important problem ; not enough
+people means not enough research, not enough studies allowing us to
+agree on "best practices", not enough journalists with a scientific
+background to popularize the issues of the field, etc.
+
+2) Zero public visibility (not as "the subject is not often discussed
+in the media", which is false, but as "not enough citizen stung by
+problems to make digital security a public issue"). This means
+essentially that lawmakers do not care about the subject and thus will
+not make efficient and creative new laws to help solve the problem.
+
+Some people think that lawmakers are incompetent and can only do harm
+when crafting laws on technical issues. I believe this is false. In
+France e.g., whenever computers became a public issue (1977 on data
+protection and 1987 on computer crime), the National Assembly passed
+sweeping and broad laws that have withstood the test of time and
+proved themselves adequate and well written.
+
+What is interesting is that the exact same problem which raised such a
+large public reaction in 1977 that it resulted in the (at the time)
+most advanced law on the protection of private data did not even make
+a blimp on public conscience in 1999. Public sensitivity on difficult
+technical subjects is immensely variable ; it relies on very
+subjectively perceived danger, not on anything even remotely
+reasonable. We need more studies on the perception of trust and danger
+in complex settings.
+
+3) Expertise and efficiency cannot be reliably assessed, neither by
+the public nor by the management of client companies. This is
+maddeningly infuriating for security experts trying their hand at
+private consulting : they are unable to extract anything but
+ridiculously low fees from clients that are too clueless.
+
+Clients and public opinion cannot assess quality (or shoddiness) of
+any security work. They will not support paying for anything but the
+lowest price, even if they are aware of the need, since they cannot be
+sure that additional money would be well spent. One consequence is
+that experts then retreat back to other fields or pursuits, leaving
+only half-trained morons or liars on the market.
+
+We need independant certification for the experts and for the
+graduates (and the teachers, and the subjects they teach... Anyone
+want to start a professional organization ?)
+
+4) Security problems are intrisically complicated and span the entire 
+organization. What it means is that nobody can really be in charge of 
+security except the CEO...
+
+Taking as an example my former job in the Gendarmerie : at the
+beginning, since the job of security officer had just been created,
+its purpose was essentially to develop the security culture inside the
+corps. After three years, we actually had security policies and tools
+and an embryo of culture, and there was an increasing pressure to make
+the security officer officially responsible for all security
+breaches. I fought this idea as much as I could and eventually
+resigned from the office (for this reason and many others.)
+
+My successors were not as lucky as I had been. General staff decided
+that the security officer performance would from this moment onwards
+be assessed on the number and importance of security breachs. Lacking
+the rank to enforce their views and the means to reasonably limit the
+risk to their carreer, all my successors up to now have quit the
+office less than 9 month after having come in.
+
+But this problem also cuts the other way : in some other structures,
+the span of the security problems are used by the person in charge to
+spread and shift the blame for foul-ups.
+
+In both cases, the net result is that nobody is really in charge of
+security, with predictable real world results. 
+
+ -------------------
+
+Things that may be current problems but that are irrelevant to the
+possible maturation of the market :
+
+1) Lack of liability (I am sorry to disagree with Pr Varian's
+position, as stated in his recent NYT article !) : my experience as an
+arbitrator/technical expert in commercial or judicial disputes between
+companies shows that if assessing damage is next to impossible,
+distributing responsabilities among actors IS impossible.
+
+Pushing the matter to the courts only results in long and drawn-out
+legal battles of bewildering complexity, where final decisions are
+taken with such consideration for irrelevant details that there is
+absolutely no significant build-up of case law.
+
+Besides, the liability question cannot be artificially separated from
+the larger question of software licenses. As long as word processors
+are sold without any guarantee, express or implied, regarding the
+software's ability to process words, liability for security issues is
+a distant dream. In the current world of powerful software houses
+being attacked by GPL-type open source licensed free (as in beer)
+software, successful reform of such magnitude in software licenses is
+only a sweet illusion.
+
+2) Scaremongering. I would be very interested in hearing US and UK
+experiences on this subject. In France, this is definitely not a
+problem. The security market is very fragmented with a lot of niche
+players ; no individual company has a sufficient weight to launch an
+influential marketing campaign. Some companies eventually manage to
+get a national media to carry a scary story, but there is virtually no
+reaction...
+
+The general public does not seem to give a dime about digital security
+issues and appears (at least to me in France) to be quite immune to
+FUD tactics.
+
+3) Insurance. The insurance issue is starting to be more and more
+popular. I was unconvinced when Dr Schneier first published articles
+on this idea 2 or 3 years ago, and I still am. The insurance industry
+hates risk with a religious fervor. It does its best to gain the
+maximum amount of information on all risks it covers.
+
+In the way of the idea of serious insurance coverage for digital security 
+risks are three common problems :
+- one thief with the appropriate set of tools can raid at the same time all 
+systems where the vulnerability he exploits is present
+- exploit tools are easily disseminated and can be used in massive 
+uncoordinated attacks
+- potential damage magnitude of one unseen vulnerability is staggering, and 
+not limited to the value of the company (referring to the joke on page 385 of 
+Secrets and Lies)
+
+As of today, as a security professionnal, I am completely unable to
+obtain basic insurance for my professionnal activity (which has led me
+to some risk management of my own...) Among my recent clients, I am
+not aware of any of them being insured for these risks. I do not
+believe that the insurance landscape will change any time soon.
+
+ -------------------
+
+I used to say to the Gendarmerie generals that 90 % of the security
+budget should be spent on user education. The problem with education
+is that it is a Danaides' jar... But still, users minds is the real
+battlefield, the only place where we can work to improve things on the
+long term. As security specialists, we should think as marketers do,
+capture mindshare, promote brands/concepts, etc.
+
+But we should also lift at least some part of the veil that hides
+important data ; I have mentioned earlier that we know so little on
+the building of trust and the perception of danger. Another important
+idea that we, as computer specialists, unconsciously repress and
+refuse to see is the intense distrust for machines and computers that
+is prevalent in most people.
+
+In a recent study, a third of the French population declared that they
+did not want, under any circumstances, Internet access in their
+houses, even if it was free.
+
+-------------------------------------------------------

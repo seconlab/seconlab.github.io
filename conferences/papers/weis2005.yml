@@ -1,0 +1,292 @@
+name: WEIS 2005
+full_name: Fourth Workshop on the Economics of Information Security
+edition: 4
+year: 2005
+location: Cambridge, Massachusetts, USA
+venue: John F. Kennedy School of Government, Harvard University
+start_date: '2005-06-02'
+end_date: '2005-06-03'
+website: http://infosecon.net/workshop/
+papers:
+- id: weis2005_01
+  title: Analyzing the Risks of Information Security Investments with Monte-Carlo Simulations
+  authors:
+  - name: James R. Conrad
+  file: weis2005_01_analyzing-the-risks-of-information-security-investments-with.pdf
+  path: papers/weis2005/weis2005_01_analyzing-the-risks-of-information-security-investments-with.pdf
+- id: weis2005_02
+  title: Software Diversity for Information Security
+  authors:
+  - name: Pei-yu Chen
+  - name: Gaurav Kataria
+  - name: Ramayya Krishnan
+  file: weis2005_02_software-diversity-for-information-security.pdf
+  path: papers/weis2005/weis2005_02_software-diversity-for-information-security.pdf
+- id: weis2005_03
+  title: 'Pricing Security Software: Theory and Evidence'
+  authors:
+  - name: Anindya Ghose
+  - name: Arun Sundararajan
+  file: weis2005_03_pricing-security-software-theory-and-evidence-extended-abstr.pdf
+  path: papers/weis2005/weis2005_03_pricing-security-software-theory-and-evidence-extended-abstr.pdf
+- id: weis2005_04
+  title: Why do denial of service attacks reduce future visits? Switching costs vs. changing preferences
+  authors:
+  - name: Avi Goldfarb
+  file: weis2005_04_why-do-denial-of-service-attacks-reduce-future-visits-switch.pdf
+  path: papers/weis2005/weis2005_04_why-do-denial-of-service-attacks-reduce-future-visits-switch.pdf
+- id: weis2005_05
+  title: 'Faking It: Criminal Sanctions and the Cost of Computer Intrusions'
+  authors:
+  - name: Jennifer S. Granick
+  file: weis2005_05_faking-it-calculating-loss-in-computer-crime-sentencing-jour.pdf
+  path: papers/weis2005/weis2005_05_faking-it-calculating-loss-in-computer-crime-sentencing-jour.pdf
+- id: weis2005_06
+  title: Countering Hidden-Action Attacks on Networked Systems
+  authors:
+  - name: Tyler Moore
+  file: weis2005_06_countering-hidden-action-attacks-on-networked-systems.pdf
+  path: papers/weis2005/weis2005_06_countering-hidden-action-attacks-on-networked-systems.pdf
+- id: weis2005_07
+  title: Flexibility as an Instrument in Digital Rights Management
+  authors:
+  - name: Dirk Bergemann
+  - name: Thomas Eisenbach
+  - name: Joan Feigenbaum
+  - name: Scott Shenker
+  file: weis2005_07_flexibility-as-an-instrument-in-digital-rights-management.pdf
+  path: papers/weis2005/weis2005_07_flexibility-as-an-instrument-in-digital-rights-management.pdf
+- id: weis2005_08
+  title: Digital Rights Management and the Pricing of Digital Products
+  authors:
+  - name: Yooki Park
+  - name: Suzanne Scotchmer
+  file: weis2005_08_digital-rights-management-and-the-pricing-of-digital-product.pdf
+  path: papers/weis2005/weis2005_08_digital-rights-management-and-the-pricing-of-digital-product.pdf
+- id: weis2005_09
+  title: Modeling Incentives for Email Blocking Strategies
+  authors:
+  - name: Andrei Serjantov
+  - name: Richard Clayton
+  file: weis2005_09_modeling-incentives-for-email-blocking-strategies.pdf
+  path: papers/weis2005/weis2005_09_modeling-incentives-for-email-blocking-strategies.pdf
+- id: weis2005_10
+  title: Internet Security, Vulnerability Disclosure, and Software Provision
+  authors:
+  - name: Jay Pil Choi
+  - name: Chaim Fershtman
+  - name: Neil Gandal
+  file: weis2005_10_internet-security-vulnerability-disclosure-and-software-prov.pdf
+  path: papers/weis2005/weis2005_10_internet-security-vulnerability-disclosure-and-software-prov.pdf
+- id: weis2005_11
+  title: An Economic Analysis of Software Market with Risk-Sharing Contract
+  authors:
+  - name: Byung Cho Kim
+  - name: Pei-Yu Chen
+  - name: Tridas Mukhopadhyay
+  file: weis2005_11_an-economic-analysis-of-software-market-with-risk-sharing-co.pdf
+  path: papers/weis2005/weis2005_11_an-economic-analysis-of-software-market-with-risk-sharing-co.pdf
+- id: weis2005_12
+  title: Emerging Issues in Responsible Vulnerability Disclosure
+  authors:
+  - name: Hasan Cavusoglu
+  - name: Huseyin Cavusoglu
+  - name: Srinivasan Raghunathan
+  file: weis2005_12_emerging-issues-in-responsible-vulnerability-disclosure.pdf
+  path: papers/weis2005/weis2005_12_emerging-issues-in-responsible-vulnerability-disclosure.pdf
+- id: weis2005_13
+  title: 'Avoiding Liability: An Alternative Route to More Secure Products'
+  authors:
+  - name: Adam Shostack
+  file: weis2005_13_avoiding-liability-an-alternative-route-to-more-secure-produ.pdf
+  path: papers/weis2005/weis2005_13_avoiding-liability-an-alternative-route-to-more-secure-produ.pdf
+- id: weis2005_14
+  title: Privacy as a Base for Confidentiality
+  authors:
+  - name: Sabah S. Al-Fedaghi
+  file: null
+  path: null
+- id: weis2005_15
+  title: Cost Tradeoffs For Information Security Assurance
+  authors:
+  - name: Ritesh Kumar Tiwari
+  - name: Kamalakar Karlapalem
+  file: null
+  path: null
+- id: weis2005_16
+  title: The Role of Architecture in DRM Vendor Economics
+  authors:
+  - name: Pramod A. Jamkhedkar
+  - name: Gregory L. Heileman
+  file: weis2005_16_the-role-of-architecture-in-drm-vendor-economics.pdf
+  path: papers/weis2005/weis2005_16_the-role-of-architecture-in-drm-vendor-economics.pdf
+- id: weis2005_17
+  title: Understanding and Reversing the Profit Model of Spam
+  authors:
+  - name: Paul Judge
+  - name: Dmitri Alperovitch
+  - name: Weilai Yang
+  file: null
+  path: null
+- id: weis2005_18
+  title: 'Evaluating Information Security Investments from Attackers Perspective: the Return-On-Attack (ROA)'
+  authors:
+  - name: Marco Cremonini
+  - name: Patrizia Martini
+  file: weis2005_18_evaluating-information-security-investments-from-attackers-p.pdf
+  path: papers/weis2005/weis2005_18_evaluating-information-security-investments-from-attackers-p.pdf
+- id: weis2005_19
+  title: How much is location privacy worth?
+  authors:
+  - name: George Danezis
+  - name: Stephen Lewis
+  - name: Ross Anderson
+  file: weis2005_19_how-much-is-location-privacy-worth.pdf
+  path: papers/weis2005/weis2005_19_how-much-is-location-privacy-worth.pdf
+- id: weis2005_20
+  title: Could IPv6 Improve Network Security? And, If So, at What Cost?
+  authors:
+  - name: Brent Rowe
+  - name: Michael Gallaher
+  file: weis2005_20_could-ipv6-improve-network-security-and-if-so-at-what-cost.pdf
+  path: papers/weis2005/weis2005_20_could-ipv6-improve-network-security-and-if-so-at-what-cost.pdf
+- id: weis2005_21
+  title: Assessing Damages of Information Security Incidents and Selecting Control Measures, a Case Study Approach
+  authors:
+  - name: Fariborz Farahmand
+  - name: Shamkant B. Navathe
+  - name: Gunter P. Sharp
+  - name: Philip H. Enslow
+  file: weis2005_21_assessing-damages-of-information-security-incidents-and-sele.pdf
+  path: papers/weis2005/weis2005_21_assessing-damages-of-information-security-incidents-and-sele.pdf
+- id: weis2005_22
+  title: The Privacy Value
+  authors:
+  - name: Peter E. Sand
+    affiliation: Director of Privacy Technology
+  file: weis2005_22_the-privacy-value.pdf
+  path: papers/weis2005/weis2005_22_the-privacy-value.pdf
+- id: weis2005_23
+  title: Private Information Shielding Service for Overcoming Privacy Risk in Recommender System
+  authors:
+  - name: Choong Hee Lee
+  - name: Junseok Hwang
+  file: weis2005_23_private-information-shielding-service-for-overcoming-privacy.pdf
+  path: papers/weis2005/weis2005_23_private-information-shielding-service-for-overcoming-privacy.pdf
+- id: weis2005_24
+  title: Bridging the Gap Between Computer Security and Legal Requirements
+  authors:
+  - name: Christopher E. Everett
+  file: null
+  path: null
+- id: weis2005_25
+  title: Cyber-Insurance Revisited
+  authors:
+  - name: Rainer Böhme
+  file: weis2005_25_cyber-insurance-revisited.pdf
+  path: papers/weis2005/weis2005_25_cyber-insurance-revisited.pdf
+- id: weis2005_26
+  title: Cyber-insurance As A Market-Based Solution To The Problem Of Cybersecurity
+  authors:
+  - name: Jay P. Kesan
+  - name: Ruperto P. Majuca
+  - name: William J. Yurcik
+  file: weis2005_26_cyber-insurance-as-a-market-based-solution-to-the-problem-of.pdf
+  path: papers/weis2005/weis2005_26_cyber-insurance-as-a-market-based-solution-to-the-problem-of.pdf
+- id: weis2005_27
+  title: 'Cyber Insurance and IT Security Investment: Impact of Interdependent Risk'
+  authors:
+  - name: Hulisi Ogut
+  - name: Nirup Menon
+  - name: Srinivasan Raghunathan
+  file: weis2005_27_cyber-insurance-and-it-security-investment-impact-of-interde.pdf
+  path: papers/weis2005/weis2005_27_cyber-insurance-and-it-security-investment-impact-of-interde.pdf
+- id: weis2005_28
+  title: 'Information Security in the Extended Enterprise: Some Initial Results From a Field Study of an Industrial Firm'
+  authors:
+  - name: Scott Dynes
+  - name: Hans Brechbuhl
+  - name: Eric Johnson
+  file: weis2005_28_information-security-in-the-extended-enterprise-some-initial.pdf
+  path: papers/weis2005/weis2005_28_information-security-in-the-extended-enterprise-some-initial.pdf
+- id: weis2005_29
+  title: An empirical approach to the valuing privacy valuation
+  authors:
+  - name: Luc Wathieu
+  - name: Allan Friedman
+  file: weis2005_29_an-empirical-approach-to-the-valuing-privacy-valuation.pdf
+  path: papers/weis2005/weis2005_29_an-empirical-approach-to-the-valuing-privacy-valuation.pdf
+- id: weis2005_30
+  title: Valuating Privacy
+  authors:
+  - name: Bernardo A. Huberman
+  - name: Eytan Adar
+  - name: Leslie R. Fine
+  file: weis2005_30_valuating-privacy.pdf
+  path: papers/weis2005/weis2005_30_valuating-privacy.pdf
+- id: weis2005_31
+  title: Impact of Software Vulnerability Announcements on the Market Value of Software Vendors – an Empirical Investigation
+  authors:
+  - name: Rahul Telang
+  - name: Sunil Wattal
+  file: weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
+  path: papers/weis2005/weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
+- id: weis2005_32
+  title: Keynote address
+  authors:
+  - name: Ann Cavoukian
+    affiliation: Information and Privacy Commissioner of Ontario, Canada
+  file: null
+  path: null
+- id: weis2005_33
+  title: 'Protecting Online Privacy: Self-Regulation, Mandatory Standards, or Caveat Emptor'
+  authors:
+  - name: Zhulei Tang
+  - name: Yu (Jeffrey) Hu
+  - name: Michael D. Smith
+  file: null
+  path: null
+- id: weis2005_34
+  title: Uncertainty, Ambiguity and Privacy
+  authors:
+  - name: Alessandro Acquisti
+  - name: Jens Grossklags
+  file: weis2005_34_uncertainty-ambiguity-and-privacy.pdf
+  path: papers/weis2005/weis2005_34_uncertainty-ambiguity-and-privacy.pdf
+- id: weis2005_35
+  title: 'Protecting Personal Information: Obstacles and Directions'
+  authors:
+  - name: Rachel Greenstadt
+  - name: Michael D. Smith
+  file: null
+  path: null
+- id: weis2005_36
+  title: Quantifying Privacy Choices with Experimental Economics
+  authors:
+  - name: David Baumer
+  - name: Julia Earp
+  - name: J.C. Poindexter
+  file: weis2005_36_quantifying-privacy-choices-with-experimental-economics.pdf
+  path: papers/weis2005/weis2005_36_quantifying-privacy-choices-with-experimental-economics.pdf
+- id: weis2005_37
+  title: Economic Analysis of Incentives to Disclose Software Vulnerabilities
+  authors:
+  - name: Dmitri Nizovtsev
+  - name: Marie Thursby
+  file: weis2005_37_economic-analysis-of-incentives-to-disclose-software-vulnera.pdf
+  path: papers/weis2005/weis2005_37_economic-analysis-of-incentives-to-disclose-software-vulnera.pdf
+- id: weis2005_38
+  title: The Likelihood of Vulnerability Rediscovery and the Social Utility of Vulnerability Hunting
+  authors:
+  - name: Andy Ozment
+  file: weis2005_38_the-likelihood-of-vulnerability-rediscovery-and-the-social-u.pdf
+  path: papers/weis2005/weis2005_38_the-likelihood-of-vulnerability-rediscovery-and-the-social-u.pdf
+- id: weis2005_39
+  title: An Empirical Analysis of Vendor Response to Disclosure Policy
+  authors:
+  - name: Ashish Arora
+  - name: Ramayya Krishnan
+  - name: Rahul Telang
+  - name: Yubao Yang
+  file: weis2005_39_an-empirical-analysis-of-vendor-response-to-disclosure-polic.pdf
+  path: papers/weis2005/weis2005_39_an-empirical-analysis-of-vendor-response-to-disclosure-polic.pdf

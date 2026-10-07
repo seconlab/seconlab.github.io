@@ -1,0 +1,758 @@
+conference: weis2007
+name: WEIS 2007
+year: 2007
+papers_dir: papers/weis2007
+total: 28
+downloaded: 17
+failed: 11
+papers:
+- id: weis2007_01
+  conference: weis2007
+  year: 2007
+  title: 'The legitimate vulnerability market: the secretive world of 0-day exploit sales'
+  authors:
+  - Charles Miller
+  authors_full:
+  - name: Charles Miller
+    affiliation: Independent Security Evaluators
+  session_number: 1
+  session: Disclosure
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/29.pdf
+  slides_url: null
+  file: weis2007_01_the-legitimate-vulnerability-market-the-secretive-world-of-0.pdf
+  path: papers/weis2007/weis2007_01_the-legitimate-vulnerability-market-the-secretive-world-of-0.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_02
+  conference: weis2007
+  year: 2007
+  title: Inadvertent Disclosure - Information Leaks in the Extended Enterprise
+  authors:
+  - M. Eric Johnson
+  - Scott Dynes
+  authors_full:
+  - name: M. Eric Johnson
+    affiliation: Dartmouth College
+  - name: Scott Dynes
+    affiliation: Dartmouth College
+  session_number: 1
+  session: Disclosure
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/43.pdf
+  slides_url: null
+  file: weis2007_02_inadvertent-disclosure-information-leaks-in-the-extended-ent.pdf
+  path: papers/weis2007/weis2007_02_inadvertent-disclosure-information-leaks-in-the-extended-ent.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_03
+  conference: weis2007
+  year: 2007
+  title: 'Network Security: Vulnerabilities and Disclosure Policy'
+  authors:
+  - Jay Pil Choi
+  - Chaim Fershtman
+  - Neil Gandal
+  authors_full:
+  - name: Jay Pil Choi
+    affiliation: Michigan State University
+  - name: Chaim Fershtman
+    affiliation: Tel Aviv University
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  session_number: 1
+  session: Disclosure
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/68.doc
+  slides_url: null
+  file: weis2007_03_network-security-vulnerabilities-and-disclosure-policy.doc
+  path: papers/weis2007/weis2007_03_network-security-vulnerabilities-and-disclosure-policy.doc
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_04
+  conference: weis2007
+  year: 2007
+  title: 'The Countervailing Incentive of Restricted Patch Distribution: Economic and Policy Implications'
+  authors:
+  - Mohammad S. Rahman
+  - Karthik Kannan
+  - Mohit Tawarmalani
+  authors_full:
+  - name: Mohammad S. Rahman
+    affiliation: Purdue University
+  - name: Karthik Kannan
+    affiliation: Purdue University
+  - name: Mohit Tawarmalani
+    affiliation: Purdue University
+  session_number: 1
+  session: Disclosure
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/45.pdf
+  slides_url: null
+  file: weis2007_04_the-countervailing-incentive-of-restricted-patch-distributio.pdf
+  path: papers/weis2007/weis2007_04_the-countervailing-incentive-of-restricted-patch-distributio.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_05
+  conference: weis2007
+  year: 2007
+  title: 'On the Viability of Privacy-Enhancing Technologies in a Self-Regulated Business-to-Consumer Market: Will Privacy Remain a Luxury Good?'
+  authors:
+  - Rainer Böhme
+  - Sven Koble
+  authors_full:
+  - name: Rainer Böhme
+    affiliation: Technische Universität Dresden
+  - name: Sven Koble
+    affiliation: Technische Universität Dresden
+  session_number: 2
+  session: Privacy
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/30.pdf
+  slides_url: null
+  file: weis2007_05_on-the-viability-of-privacy-enhancing-technologies-in-a-self.pdf
+  path: papers/weis2007/weis2007_05_on-the-viability-of-privacy-enhancing-technologies-in-a-self.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_06
+  conference: weis2007
+  year: 2007
+  title: 'When 25 Cents is too much: An Experiment on Willingness-To-Sell and Willingness-To-Protect Personal Information'
+  authors:
+  - Jens Grossklags
+  - Alessandro Acquisti
+  authors_full:
+  - name: Jens Grossklags
+    affiliation: University of California at Berkeley
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 2
+  session: Privacy
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/66.pdf
+  slides_url: null
+  file: weis2007_06_when-25-cents-is-too-much-an-experiment-on-willingness-to-se.pdf
+  path: papers/weis2007/weis2007_06_when-25-cents-is-too-much-an-experiment-on-willingness-to-se.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_07
+  conference: weis2007
+  year: 2007
+  title: Optimally Securing Enterprise Information Systems and Assets
+  authors:
+  - Vineet Kumar
+  - Rahul Telang
+  - Tridas Mukhopadhyay
+  authors_full:
+  - name: Vineet Kumar
+    affiliation: Carnegie Mellon University
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  - name: Tridas Mukhopadhyay
+    affiliation: Carnegie Mellon University
+  session_number: 3
+  session: Security Investments
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/64.pdf
+  slides_url: null
+  file: weis2007_07_optimally-securing-enterprise-information-systems-and-assets.pdf
+  path: papers/weis2007/weis2007_07_optimally-securing-enterprise-information-systems-and-assets.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_08
+  conference: weis2007
+  year: 2007
+  title: Interdependence of Reliability and Security
+  authors:
+  - Peter Honeyman
+  - Galina A. Schwartz
+  - Ari Van Assche
+  authors_full:
+  - name: Peter Honeyman
+    affiliation: University of Michigan
+  - name: Galina A. Schwartz
+    affiliation: University of California Berkeley
+  - name: Ari Van Assche
+    affiliation: HEC Montréal
+  session_number: 3
+  session: Security Investments
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/71.pdf
+  slides_url: null
+  file: weis2007_08_interdependence-of-reliability-and-security.pdf
+  path: papers/weis2007/weis2007_08_interdependence-of-reliability-and-security.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_09
+  conference: weis2007
+  year: 2007
+  title: A Framework for Classifying and Comparing Models of Cyber Security Investment to Support Policy and Decision-Making
+  authors:
+  - Rachel Rue
+  - Shari Lawrence Pfleeger
+  - David Ortiz
+  authors_full:
+  - name: Rachel Rue
+    affiliation: RAND Corporation
+  - name: Shari Lawrence Pfleeger
+    affiliation: RAND Corporation
+  - name: David Ortiz
+    affiliation: RAND Corporation
+  session_number: 3
+  session: Security Investments
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/76.pdf
+  slides_url: null
+  file: weis2007_09_a-framework-for-classifying-and-comparing-models-of-cyber-se.pdf
+  path: papers/weis2007/weis2007_09_a-framework-for-classifying-and-comparing-models-of-cyber-se.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_10
+  conference: weis2007
+  year: 2007
+  title: Growth and sustainability of MSSP networks
+  authors:
+  - Alok Gupta
+  - Dmitry Zhdanov
+  authors_full:
+  - name: Alok Gupta
+    affiliation: University of Minnesota
+  - name: Dmitry Zhdanov
+    affiliation: University of Minnesota
+  session_number: 4
+  session: Managed Security Service Providers
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/65.pdf
+  slides_url: null
+  file: weis2007_10_growth-and-sustainability-of-mssp-networks.pdf
+  path: papers/weis2007/weis2007_10_growth-and-sustainability-of-mssp-networks.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_11
+  conference: weis2007
+  year: 2007
+  title: Will Outsourcing IT Security Lead to a Higher Social Level of Security?
+  authors:
+  - Brent Rowe
+  authors_full:
+  - name: Brent Rowe
+    affiliation: RTI International
+  session_number: 4
+  session: Managed Security Service Providers
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/47.pdf
+  slides_url: null
+  file: weis2007_11_will-outsourcing-it-security-lead-to-a-higher-social-level-o.pdf
+  path: papers/weis2007/weis2007_11_will-outsourcing-it-security-lead-to-a-higher-social-level-o.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20151031093603id_/http://www.econinfosec.org/archive/weis2007/papers/47.pdf
+  error: null
+- id: weis2007_12
+  conference: weis2007
+  year: 2007
+  title: Measuring Security Investment Benefit for Off the Shelf Software Systems - A Stakeholder Value Driven Approach
+  authors:
+  - Yue Chen
+  - Barry Boehm
+  - Luke Sheppard
+  authors_full:
+  - name: Yue Chen
+    affiliation: University of Southern California
+  - name: Barry Boehm
+    affiliation: University of Southern California
+  - name: Luke Sheppard
+    affiliation: University of Southern California
+  session_number: 4
+  session: Managed Security Service Providers
+  event_type: session
+  date: '2007-06-07'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/46.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2007_13
+  conference: weis2007
+  year: 2007
+  title: 'Incentive Design for Free but No Free Disposal Services: The Case of Personalization under Privacy Concerns'
+  authors:
+  - Ramnath K. Chellappa
+  - Shivendu Shivendu
+  authors_full:
+  - name: Ramnath K. Chellappa
+    affiliation: Emory University Atlanta
+  - name: Shivendu Shivendu
+    affiliation: University of Southern California
+  session_number: 5
+  session: Privacy-Personalization
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/48.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2007_14
+  conference: weis2007
+  year: 2007
+  title: 'The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study'
+  authors:
+  - Janice Tsai
+  - Serge Egelman
+  - Lorrie Cranor
+  - Alessandro Acquisti
+  authors_full:
+  - name: Janice Tsai
+    affiliation: Carnegie Mellon University
+  - name: Serge Egelman
+    affiliation: Carnegie Mellon University
+  - name: Lorrie Cranor
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 5
+  session: Privacy-Personalization
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/57.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2007_15
+  conference: weis2007
+  year: 2007
+  title: Economics of User Segmentation, Profiling, and Detection in Security
+  authors:
+  - Srinivasan Raghunathan
+  - Huseyin Cavusoglu
+  - Byungwan Koh
+  - Bin Mai
+  authors_full:
+  - name: Srinivasan Raghunathan
+    affiliation: The University of Texas at Dallas
+  - name: Huseyin Cavusoglu
+    affiliation: The University of Texas at Dallas
+  - name: Byungwan Koh
+    affiliation: The University of Texas at Dallas
+  - name: Bin Mai
+    affiliation: Northwestern State University
+  session_number: 5
+  session: Privacy-Personalization
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/42.doc
+  slides_url: null
+  file: weis2007_15_economics-of-user-segmentation-profiling-and-detection-in-se.doc
+  path: papers/weis2007/weis2007_15_economics-of-user-segmentation-profiling-and-detection-in-se.doc
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20070728100152id_/http://weis2007.econinfosec.org/papers/42.doc
+  error: null
+- id: weis2007_16
+  conference: weis2007
+  year: 2007
+  title: 'The Deterrent Effect of Enforcement Against Computer Hackers: Cross-Country Evidence'
+  authors:
+  - Ivan Png
+  - Chen Yu Wang
+  authors_full:
+  - name: Ivan Png
+    affiliation: National University of Singapore
+  - name: Chen Yu Wang
+    affiliation: National University of Singapore
+  session_number: 6
+  session: Empirics of Information Security
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/77.pdf
+  slides_url: null
+  file: weis2007_16_the-deterrent-effect-of-enforcement-against-computer-hackers.pdf
+  path: papers/weis2007/weis2007_16_the-deterrent-effect-of-enforcement-against-computer-hackers.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_17
+  conference: weis2007
+  year: 2007
+  title: An Empirical Analysis of the Current State of Phishing Attack and Defence
+  authors:
+  - Tyler Moore
+  - Richard Clayton
+  authors_full:
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  session_number: 6
+  session: Empirics of Information Security
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/51.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2007_18
+  conference: weis2007
+  year: 2007
+  title: Privacy, Network Effects and Electronic Medical Record Technology Adoption
+  authors:
+  - Amalia R. Miller
+  - Catherine E. Tucker
+  authors_full:
+  - name: Amalia R. Miller
+    affiliation: University of Virginia
+  - name: Catherine E. Tucker
+    affiliation: MIT
+  session_number: 6
+  session: Empirics of Information Security
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/54.pdf
+  slides_url: null
+  file: weis2007_18_privacy-network-effects-and-electronic-medical-record-techno.pdf
+  path: papers/weis2007/weis2007_18_privacy-network-effects-and-electronic-medical-record-techno.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_19
+  conference: weis2007
+  year: 2007
+  title: Writing an economics paper - A tutorial for information security experts
+  authors:
+  - Neil Gandal
+  authors_full:
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  session_number: null
+  session: 'Box Lunch and Tutorial: Writing an economics paper - A tutorial for information security experts'
+  event_type: tutorial
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/gandal_econ_tutorial.pdf
+  slides_url: null
+  file: weis2007_19_writing-an-economics-paper-a-tutorial-for-information-securi.pdf
+  path: papers/weis2007/weis2007_19_writing-an-economics-paper-a-tutorial-for-information-securi.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20070728095948id_/http://weis2007.econinfosec.org/papers/gandal_econ_tutorial.pdf
+  error: null
+- id: weis2007_20
+  conference: weis2007
+  year: 2007
+  title: 'Assessing the Value of Investments in Network Security Operations: A Systems Analytics Approach'
+  authors:
+  - Jonathan Griffin
+  - Brian Monahan
+  - David Pym
+  - Mike Wonham
+  - Mike Yearworth
+  authors_full:
+  - name: Jonathan Griffin
+    affiliation: HP Laboratories
+  - name: Brian Monahan
+    affiliation: HP Laboratories
+  - name: David Pym
+    affiliation: HP Laboratories
+  - name: Mike Wonham
+    affiliation: HP Laboratories
+  - name: Mike Yearworth
+    affiliation: HP Laboratories
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_21
+  conference: weis2007
+  year: 2007
+  title: 'The Gordon-Loeb Investment Model Generalized: Time Dependent Multiple Threats and Breach Losses over an Investment Period'
+  authors:
+  - Rolf Hulthen
+  authors_full:
+  - name: Rolf Hulthen
+    affiliation: TeliaSonera
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_22
+  conference: weis2007
+  year: 2007
+  title: 'An Uneasy Relationship: Cyber Security Information Sharing, Communications Privacy, and the Boundaries of the Firm'
+  authors:
+  - Aaron Burstein
+  authors_full:
+  - name: Aaron Burstein
+    affiliation: University of California, Berkeley
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_23
+  conference: weis2007
+  year: 2007
+  title: Hiding, Seeking, and the Evolution of Privacy Behavior
+  authors:
+  - Stefan Dodds
+  authors_full:
+  - name: Stefan Dodds
+    affiliation: Carleton University
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_24
+  conference: weis2007
+  year: 2007
+  title: A Reputation Mechanism for Software Vulnerability Disclosure and Patch Release
+  authors:
+  - Xia Zhao
+  - Jianqing Chen
+  - Andrew B. Whinston
+  authors_full:
+  - name: Xia Zhao
+    affiliation: University of Texas at Austin
+  - name: Jianqing Chen
+    affiliation: University of Texas at Austin
+  - name: Andrew B. Whinston
+    affiliation: University of Texas at Austin
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_25
+  conference: weis2007
+  year: 2007
+  title: A Survival Analysis of Disclosed Security Breaches
+  authors:
+  - Xiaodong Jin
+  - Dan Yomine
+  authors_full:
+  - name: Xiaodong Jin
+  - name: Dan Yomine
+  session_number: 7
+  session: Rump Sessions
+  event_type: rump_session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2007_26
+  conference: weis2007
+  year: 2007
+  title: Mental Models of Computer Security Risks
+  authors:
+  - Farzaneh Asgharpour
+  - Debin Liu
+  - L. Jean Camp
+  authors_full:
+  - name: Farzaneh Asgharpour
+    affiliation: Indiana University
+  - name: Debin Liu
+    affiliation: Indiana University
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  session_number: 8
+  session: Risk
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/80.pdf
+  slides_url: null
+  file: weis2007_26_mental-models-of-computer-security-risks.pdf
+  path: papers/weis2007/weis2007_26_mental-models-of-computer-security-risks.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2007_27
+  conference: weis2007
+  year: 2007
+  title: 'Cyber-Insurance: Copula Pricing Framework and Implications for Risk Management'
+  authors:
+  - Hemantha S. B. Herath
+  - Tejaswini C. Herath
+  authors_full:
+  - name: Hemantha S. B. Herath
+    affiliation: Brock University
+  - name: Tejaswini C. Herath
+    affiliation: University at Buffalo
+  session_number: 8
+  session: Risk
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/24.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2007_28
+  conference: weis2007
+  year: 2007
+  title: Strategic Defense and Attack of Complex Networks
+  authors:
+  - Kjell Hausken
+  authors_full:
+  - name: Kjell Hausken
+    affiliation: University of Stavanger
+  session_number: 8
+  session: Risk
+  event_type: session
+  date: '2007-06-08'
+  time: null
+  award: null
+  url: http://weis2007.econinfosec.org/papers/19.doc
+  slides_url: null
+  file: weis2007_28_strategic-defense-and-attack-of-complex-networks.doc
+  path: papers/weis2007/weis2007_28_strategic-defense-and-attack-of-complex-networks.doc
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20230714164027id_/https://econinfosec.org/archive/weis2007/papers/19.doc
+  error: null

@@ -1,0 +1,192 @@
+name: WEIS 2023
+full_name: The 22nd Workshop on the Economics of Information Security
+edition: 22
+year: 2023
+location: Geneva, Switzerland
+venue: Campus Biotech
+start_date: '2023-07-05'
+end_date: '2023-07-07'
+website: https://weis2023.econinfosec.org/
+papers:
+- id: weis2023_01
+  title: Time Dynamics of Cyber Risk
+  authors:
+  - name: Martin Eling
+    affiliation: University of St.Gallen
+  - name: Rustam Ibragimov
+    affiliation: Imperial College London
+  - name: Dingchen Ning
+    affiliation: University of St. Gallen
+    presenter: true
+  file: weis2023_01_time-dynamics-of-cyber-risk.pdf
+  path: papers/weis2023/weis2023_01_time-dynamics-of-cyber-risk.pdf
+- id: weis2023_02
+  title: 'M&A Effect on Data Breaches in Hospitals: 2010-2022'
+  authors:
+  - name: Nan Clement
+    affiliation: University of Texas at Dallas
+    presenter: true
+  file: weis2023_02_m-a-effect-on-data-breaches-in-hospitals-2010-2022.pdf
+  path: papers/weis2023/weis2023_02_m-a-effect-on-data-breaches-in-hospitals-2010-2022.pdf
+- id: weis2023_03
+  title: Does Decomposing Losses Improve Our Understanding of the Financial Impact of Data Breaches?
+  authors:
+  - name: Justin Theriot
+    affiliation: RiskLens
+    presenter: true
+  - name: Benjamin Gowan
+    affiliation: RiskLens
+  file: weis2023_03_does-decomposing-losses-improve-our-understanding-of-the-fin.pdf
+  path: papers/weis2023/weis2023_03_does-decomposing-losses-improve-our-understanding-of-the-fin.pdf
+- id: weis2023_04
+  title: 'Argot as a Trust Signal: Slang, Jargon & Reputation on a Large Cybercrime Forum'
+  authors:
+  - name: Jack Hughes
+    affiliation: University of Cambridge
+    presenter: true
+  - name: Andrew Caines
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  file: weis2023_04_argot-as-a-trust-signal-slang-jargon-reputation-on-a-large-c.pdf
+  path: papers/weis2023/weis2023_04_argot-as-a-trust-signal-slang-jargon-reputation-on-a-large-c.pdf
+- id: weis2023_05
+  title: 'You Can Tell a Cybercriminal by the Company they Keep: A Framework to Infer the Relevance of Underground Communities to the Threat Landscape'
+  authors:
+  - name: Michele Campobasso
+    affiliation: Eindhoven University of Technology
+    presenter: true
+  - name: Radu Rădulescu
+    affiliation: Eindhoven University of Technology
+  - name: Sylvan Brons
+    affiliation: Eindhoven University of Technology
+  - name: Luca Allodi
+    affiliation: Eindhoven University of Technology
+  file: weis2023_05_you-can-tell-a-cybercriminal-by-the-company-they-keep-a-fram.pdf
+  path: papers/weis2023/weis2023_05_you-can-tell-a-cybercriminal-by-the-company-they-keep-a-fram.pdf
+- id: weis2023_06
+  title: 'Enhancing Vulnerability Prioritization: Data-Driven Exploit Predictions with Community-Driven Insights'
+  authors:
+  - name: Jay Jacobs
+    affiliation: Cyentia
+  - name: Sasha Romanosky
+    affiliation: RAND Corporation
+  - name: Octavian Suciu
+    affiliation: University of Maryland
+  - name: Ben Edwards
+    affiliation: Cyentia Institute
+  - name: Armin Sarabi
+    affiliation: University of Michigan
+    presenter: true
+  file: weis2023_06_enhancing-vulnerability-prioritization-data-driven-exploit-p.pdf
+  path: papers/weis2023/weis2023_06_enhancing-vulnerability-prioritization-data-driven-exploit-p.pdf
+- id: weis2023_07
+  title: 'A Theory of Open Source Security: The Spillover of Security Knowledge in Vulnerability Disclosures through Software Supply Chains'
+  authors:
+  - name: Yu-Kai Lin
+    affiliation: Georgia State University
+    presenter: true
+  - name: Weifeng Li
+    affiliation: University of Georgia
+  file: weis2023_07_a-theory-of-open-source-security-the-spillover-of-security-k.pdf
+  path: papers/weis2023/weis2023_07_a-theory-of-open-source-security-the-spillover-of-security-k.pdf
+- id: weis2023_08
+  title: Cyberattacks, Media Coverage and Municipal Finance
+  authors:
+  - name: Lefteris Andreadis
+    affiliation: Cyprus University of Technology
+    presenter: true
+  - name: Elena Kalotychou
+    affiliation: Cyprus University of Technology
+  - name: Christodoulos Louca
+    affiliation: Cyprus University of Technology
+  - name: Christian Lundblad
+    affiliation: University of North Carolina, Chapel Hill
+  - name: Christos Makridis
+    affiliation: Stanford University
+  file: weis2023_08_cyberattacks-media-coverage-and-municipal-finance.pdf
+  path: papers/weis2023/weis2023_08_cyberattacks-media-coverage-and-municipal-finance.pdf
+- id: weis2023_09
+  title: 'Trade-offs in Automating Platform Regulatory Compliance By Algorithm: Evidence from the COVID-19 Pandemic'
+  authors:
+  - name: Grazia Cecere
+    affiliation: Institut Mines Telecom, Business School
+  - name: Clara Jean
+    affiliation: Grenoble Ecole de Management
+    presenter: true
+  - name: Vincent Lefrere
+    affiliation: Institut Mines Telecom, Business School
+  - name: Catherine Tucker
+    affiliation: MIT Sloan School of Management and NBER
+  file: weis2023_09_trade-offs-in-automating-platform-regulatory-compliance-by-a.pdf
+  path: papers/weis2023/weis2023_09_trade-offs-in-automating-platform-regulatory-compliance-by-a.pdf
+- id: weis2023_10
+  title: Municipal Cyber Risk
+  authors:
+  - name: Jonathan Jensen
+    affiliation: Massachusetts Institute of Technology
+  - name: Fiona Paine
+    affiliation: Massachusetts Institute of Technology
+    presenter: true
+  file: weis2023_10_municipal-cyber-risk.pdf
+  path: papers/weis2023/weis2023_10_municipal-cyber-risk.pdf
+- id: weis2023_11
+  title: Attackers and Defenders in Cybersecurity and their Optimal Investment Decisions
+  authors:
+  - name: Austin Ebel
+    affiliation: New York University
+    presenter: true
+  - name: Debasis Mitra
+    affiliation: Columbia University
+  file: weis2023_11_attackers-and-defenders-in-cybersecurity-and-their-optimal-i.pdf
+  path: papers/weis2023/weis2023_11_attackers-and-defenders-in-cybersecurity-and-their-optimal-i.pdf
+- id: weis2023_12
+  title: 'Interdependent Security Games in the Stackelberg Style: How First-Mover Advantage Impacts Free-Riding and Security (Under-)Investment'
+  authors:
+  - name: Ziyuan Huang
+    affiliation: University of Michigan, Ann Arbor
+    presenter: true
+  - name: Parinaz Naghizadeh
+    affiliation: The Ohio State University
+  - name: Mingyan Liu
+    affiliation: University of Michigan, Ann Arbor
+  file: weis2023_12_interdependent-security-games-in-the-stackelberg-style-how-f.pdf
+  path: papers/weis2023/weis2023_12_interdependent-security-games-in-the-stackelberg-style-how-f.pdf
+- id: weis2023_13
+  title: The Potential of Self-Regulation for Front-Running Prevention on DEXes
+  authors:
+  - name: Lioba Heimbach
+    affiliation: ETH Zurich
+    presenter: true
+  - name: Eric Schertenleib
+    affiliation: ETH Zurich
+  - name: Roger Wattenhofer
+    affiliation: ETH Zurich
+  file: weis2023_13_the-potential-of-self-regulation-for-front-running-preventio.pdf
+  path: papers/weis2023/weis2023_13_the-potential-of-self-regulation-for-front-running-preventio.pdf
+- id: weis2023_14
+  title: Secure and Efficient Networks
+  authors:
+  - name: Oleh Stupak
+    affiliation: University of Cambridge
+    presenter: true
+  file: weis2023_14_secure-and-efficient-networks.pdf
+  path: papers/weis2023/weis2023_14_secure-and-efficient-networks.pdf
+- id: weis2023_15
+  title: Birds of a Feather? A Comparative Analysis of DDoS Victimisation by IoT Botnet and Amplification Attacks
+  authors:
+  - name: Swaathi Vetrivel
+    affiliation: Delft University of Technology
+    presenter: true
+  - name: Arman Noroozian
+    affiliation: University of Amsterdam
+  - name: Daisuke Makita
+    affiliation: Yokohama National University
+  - name: Katsunari Yoshioka
+    affiliation: Yokohama National University
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Carlos H. Gañán
+    affiliation: Delft University of Technology
+  file: weis2023_15_birds-of-a-feather-a-comparative-analysis-of-ddos-victimisat.pdf
+  path: papers/weis2023/weis2023_15_birds-of-a-feather-a-comparative-analysis-of-ddos-victimisat.pdf

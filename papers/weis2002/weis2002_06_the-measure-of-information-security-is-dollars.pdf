@@ -1,0 +1,318 @@
+%PDF-1.2 
+%‚„œ”
+ 
+8 0 obj
+<<
+/Length 9 0 R
+>>
+stream
+BT516.75 38.25  TD0 0 0 rg /F0 9.75  Tf0.375  Tc 0  Tw (1) Tj-344.25 669.75  TD /F0 14.25  Tf-0.1779  Tc 0.4904  Tw (The Measure of Information Security is Dollars) Tj103.5 -30.75  TD /F0 12  Tf0.0414  Tc -0.0414  Tw (Bob Blakley) Tj-12.75 -12.75  TD 0 0 1 rg /F0 9.75  Tf0.2118  Tc 0  Tw (blakley@us.ibm.com) TjET263.25 663 84 0.75 re fBT90 622.5  TD0 0 0 rg /F0 14.25  Tf-0.2096  Tc 0.3971  Tw (1. Obituary) Tj0 -28.5  TD /F0 12  Tf-0.0715  Tc 0.533  Tw (The traditional approach to information security has failed.  It failed for good technical) Tj0 -13.5  TD -0.0622  Tc 0.4661  Tw (reasons and good business reasons.  A new approach is required.  The information) Tj0 -14.25  TD -0.0823  Tc 0.5198  Tw (security community does not currently have a viable technical alternative to the failed) Tj0 -13.5  TD -0.0547  Tc 0.3432  Tw (model.  Therefore, this paper suggests that we start with an alternative business model,) TjT* -0.063  Tc 0.4039  Tw (and allow technical approaches to evolve within the framework of that model.) Tj0 -27.75  TD -0.0234  Tc 0.2961  Tw (The technical foundations of the traditional security model are secrecy \(without which) Tj0 -14.25  TD -0.0446  Tc 0.3855  Tw (authentication does not work\), policy \(without which resource access restrictions do not) Tj0 -13.5  TD -0.0573  Tc 0.3982  Tw (work\), and system integrity \(without which the policy and authentication mechanisms do) TjT* -0.138  Tc 0.888  Tw (not work\).) Tj0 -29.25  TD /F0 14.25  Tf-0.158  Tc 0.3455  Tw (2. Autopsy \(Technical\)) Tj0 -28.5  TD /F0 12  Tf-0.0541  Tc 0.4632  Tw (These technical foundations are fatally flawed, because they are fundamentally at odds) Tj0 -13.5  TD -0.0597  Tc 0.268  Tw (with the nature of the systems we are trying to protect.  To be specific, the systems we are) Tj0 -14.25  TD -0.0693  Tc 0.4443  Tw (trying to protect are constructed by composing numbers of general-purpose stored-) Tj0 -13.5  TD -0.0381  Tc 0.0381  Tw (program computers.) Tj0 -27.75  TD -0.0395  Tc 0.2895  Tw (One of the core findings of computer security research over the last 20 years has been) Tj0 -13.5  TD -0.0726  Tc 0.3851  Tw (that many useful, real-world security properties do not compose.  Not surprisingly, the) Tj0 -14.25  TD -0.0385  Tc 0.243  Tw (attempt to build large-scale, policy-based secure systems by composition has been a) Tj0 -13.5  TD -0.1303  Tc 0.8803  Tw (dismal failure.) Tj0 -27.75  TD -0.0288  Tc 0.2595  Tw (The attempt to build even a single high-integrity component, however, has been an even) Tj0 -13.5  TD -0.0273  Tc 0.1523  Tw (more spectacular failure.  Most security solutions deployed today are attempts to protect) Tj0 -14.25  TD -0.0794  Tc 0.3294  Tw (systems against viruses, ) Tj117.75 0  TD -0.104  Tc 0.629  Tw (trojan horses, and malicious mobile code \226 in other words, to) Tj-117.75 -13.5  TD -0.0577  Tc 0.3462  Tw (assure or repair system integrity.  What system integrity means is, effectively, that a) Tj0 -14.25  TD -0.0927  Tc 0.5212  Tw (system behaves exactly as if it were a special-purpose device \226 it has no unexpected) Tj0 -13.5  TD -0.0132  Tc 0.1286  Tw (behavior, and all its expected behavior conforms to the desired specification.  Our real) TjT* -0.0689  Tc 0.478  Tw (systems are general-purpose systems \(which means that their behavior cannot conform to) Tj0 -14.25  TD -0.0792  Tc 0.5565  Tw (a single consistent specification, which means that by definition they have unexpected) Tj0 -13.5  TD -0.0173  Tc 0.2218  Tw (behavior\), and they are stored-program computers, which means that legal operations can) Tj0 -14.25  TD -0.0418  Tc 0.4584  Tw (cause large unexpected changes in system behavior.  General-purpose stored-program) Tj0 -13.5  TD -0.0776  Tc 0.4526  Tw (computers are inherently insecure by the definitions of the traditional model.) TjETendstream
+endobj
+9 0 obj
+3898
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 8 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 12 0 R
+>>
+stream
+BT516.75 38.25  TD0 0 0 rg /F0 9.75  Tf0.375  Tc 0  Tw (2) Tj-426.75 669.75  TD /F0 14.25  Tf-0.0734  Tc 0.2609  Tw (3. Autopsy \(Business\)) Tj0 -28.5  TD /F0 12  Tf-0.1057  Tc 0.5057  Tw (Our customers have suspected this for a long time.  This is an important reason they\222ve) Tj0 -14.25  TD -0.1035  Tc 0.5535  Tw (been reluctant to buy security solutions.  To put the matter plainly, we have failed to) Tj0 -13.5  TD -0.118  Tc 0.118  Tw (describe a ) Tj50.25 0  TD -0.0662  Tc 0.4753  Tw (problem which is meaningful to business customers, and we have failed to) Tj-50.25 -13.5  TD -0.0622  Tc 0.3349  Tw (describe how good or bad our solutions are in meaningful business terms.) Tj0 -27.75  TD -0.0897  Tc 0.4897  Tw (It\222s fairly easy to find out how many people die from smoking cigarettes in the United) Tj0 -14.25  TD -0.0754  Tc 0.3968  Tw (States each year.  It\222s impossible to find out how many hours of computer downtime) Tj0 -13.5  TD -0.101  Tc 0.5295  Tw (result from computer virus outbreaks in a year.) Tj0 -27.75  TD -0.1051  Tc 0.527  Tw (It\222s fairly easy to find out how much physical money is stolen from banks in the United) Tj0 -13.5  TD -0.0828  Tc 0.4828  Tw (States each year.  It\222s impossible to find out how much money is stolen from banks) Tj0 -14.25  TD -0.0389  Tc 0.0389  Tw (through electronic attacks.) Tj0 -27  TD -0.1126  Tc 0.5293  Tw (It\222s easy to find out how likely you are to be injured in a head-on accident in a particular) Tj0 -14.25  TD -0.1219  Tc 0.5631  Tw (kind of vehicle in the United States.  It\222s impossible to find out how likely your server is) Tj0 -13.5  TD -0.0526  Tc 0.1598  Tw (to be taken offline by a virus attack.) Tj0 -25.5  TD -0.0714  Tc 0.3871  Tw (It\222s easy to find out how long a gun safe will resist the attentions of a thief armed with an) Tj0 -13.5  TD -0.0914  Tc 0.5414  Tw (acetylene torch.  It\222s impossible to find out how long your server will resist the attentions) Tj0 -14.25  TD -0.0436  Tc 0.2481  Tw (of a thief armed with hacking tools publicly available on the Internet.) Tj0 -27.75  TD -0.0487  Tc 0.2987  Tw (A core problem of the information security industry is that, as an industry, we do not) Tj0 -13.5  TD -0.21  Tc 0.71  Tw (even have a ) Tj60 0  TD -0.0653  Tc 0.3153  Tw (unit which measures product effectiveness.  We are selling ) Tj284.25 0  TD 0.1191  Tc -0.1191  Tw (something which) Tj-344.25 -13.5  TD -0.0888  Tc 0.3388  Tw (is intangible and ) Tj82.5 0  TD -0.0474  Tc 0.2349  Tw (unquantifiable; we are basically selling fashion rather than function.) Tj-82.5 -25.5  TD -0.0719  Tc 0.3933  Tw (To put this problem in economic terms, we operate in a market with severely restricted) Tj0 -13.5  TD -0.0645  Tc 0.4395  Tw (transparency. Customers do not have good information about product quality.  They have) Tj0 -14.25  TD -0.076  Tc 0.3885  Tw (no basis on which to compare products.  Because information about losses and) Tj0 -13.5  TD -0.0569  Tc 0.403  Tw (vulnerabilities is very poor, they do not even have good information about their own) Tj0 -14.25  TD -0.0309  Tc 0  Tw (requirements.) Tj0 -29.25  TD /F0 14.25  Tf-0.1113  Tc 0.2988  Tw (4. Prescription) Tj0 -27.75  TD /F0 12  Tf-0.0552  Tc 0.1915  Tw (The solution to both problems \(technical and business\) is the same: ) Tj325.5 0  TD 0.0313  Tc 0.7187  Tw (monetize information) Tj-325.5 -14.25  TD -0.138  Tc 0  Tw (security.) Tj0 -27.75  TD -0.1613  Tc 0.6113  Tw (What would it mean to ) Tj113.25 0  TD -0.0795  Tc 0.4545  Tw (monetize information security?) Tj-113.25 -27  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0796  Tc 0.5081  Tw (Quantify and publish loss information in dollar terms) Tj-18 -15  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0238  Tc 0.3571  Tw (Quantify and publish product effectiveness information \(differential dollar losses with) Tj0 -14.25  TD -0.0422  Tc 0.2565  Tw (and without a product in otherwise comparable configurations\)) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0665  Tc 0.4415  Tw (Sell insurance \(including discounts for use of effective products\)) Tj-18 -15  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0552  Tc 0.4302  Tw (Sell \223security securities\224 \(availability futures?\)) TjETendstream
+endobj
+12 0 obj
+4551
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 13 0 R 
+/F2 15 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 11 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 19 0 R
+>>
+stream
+BT516.75 38.25  TD0 0 0 rg /F0 9.75  Tf0.375  Tc 0  Tw (3) Tj-426.75 671.25  TD /F0 12  Tf-0.1973  Tc 0.5723  Tw (How would ) Tj59.25 0  TD 0.0129  Tc -0.0129  Tw (monetizing security solve business problems?) Tj-59.25 -27.75  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0595  Tc 0.5283  Tw (Most importantly, making information-related losses public information would create) Tj0 -15  TD -0.0435  Tc 0.4185  Tw (the necessary conditions for the formation of an economically efficient information) Tj0 -13.5  TD -0.0847  Tc 0.3659  Tw (security market.  These conditions do not exist today.) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0554  Tc 0.4645  Tw (An economically efficient information security market would move risk around in an) Tj0 -14.25  TD -0.0501  Tc 0.2376  Tw (effective fashion.  It would also allocate capital to effective security solutions, and) Tj0 -13.5  TD -0.0385  Tc 0.2885  Tw (stop rewarding ineffective solutions.) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0553  Tc 0.5053  Tw (Publishing dollar loss information would create clear cost-justification for use of) Tj0 -14.25  TD -0.0536  Tc 0.4286  Tw (\(effective\) security solutions.) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0694  Tc 0.4444  Tw (Insurance would create \223actual security\224 in the sense that it would protect business) Tj0 -14.25  TD -0.0466  Tc 0.4216  Tw (against loss \(unless the business in question sells insurance!\)) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.013  Tc 0.1797  Tw (Insurance discounts would create additional cost-justification for use of \(effective\)) Tj0 -14.25  TD -0.0603  Tc 0.0603  Tw (security solutions.) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.063  Tc 0.6464  Tw (Insured losses would create incentives for improvement of information security) Tj0 -14.25  TD -0.0561  Tc 0.3561  Tw (practices and technologies.  Furthermore, loss information would provide a unit) TjT* -0.0358  Tc 0.2403  Tw (\(dollars\) by which the effectiveness of practices and technologies could be measured.) Tj-18 -13.5  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0669  Tc 0.4419  Tw (\223Security securities\224 would provide an information risk management ) Tj333.75 0  TD -0.0766  Tc 0.4516  Tw (tool which does) Tj-333.75 -15  TD -0.06  Tc 0.06  Tw (not depend on technology.) Tj-18 -27  TD -0.1973  Tc 0.5723  Tw (How would ) Tj59.25 0  TD -0.0155  Tc 0.0155  Tw (monetizing security solve technical problems?) Tj-59.25 -27.75  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0522  Tc 0.4272  Tw (Accountability \(specifically financial liability\) is a traditional security property, and it) Tj0 -15  TD -0.0755  Tc 0.0755  Tw (does compose.) Tj-18 -13.5  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.0912  Tc 0.5733  Tw (The financial and legal system is already set up to deal with issues of financial) Tj0 -15  TD -0.1031  Tc 0.5884  Tw (liability.  It is not yet set up to deal with problems of loss and liability arising from) Tj0 -13.5  TD -0.028  Tc 0.2011  Tw (technology but not quantified in dollar terms \(hence the emergence of all sorts of) TjT* -0.0693  Tc 0.3818  Tw (strange legislation recently\).  If security problems can be made into financial and) Tj0 -14.25  TD -0.0743  Tc 0.4152  Tw (legal problems, the financial and legal systems can stop imposing artificial and) Tj0 -13.5  TD -0.0583  Tc 0.3917  Tw (counterproductive constraints on the way technology is designed and built.) Tj-18 -14.25  TD /F1 12  Tf-0.27  Tc 0  Tw (\267) Tj6 0  TD /F2 12  Tf0  Tc -0.336  Tw ( ) Tj12 0  TD /F0 12  Tf-0.069  Tc 0.519  Tw (As noted above, insuring information security losses, and making information about) Tj0 -14.25  TD -0.0566  Tc 0.4316  Tw (product effectiveness public, will create incentives for technology improvement and a) TjT* -0.0679  Tc 0.3893  Tw (metric which can be used to measure improvement.) Tj-18 -27  TD -0.0768  Tc 0.3768  Tw (How could information security be ) Tj171 0  TD -0.057  Tc 0  Tw (monetized?) Tj-171 -27.75  TD -0.0736  Tc 0.5352  Tw (A variety of mechanisms come to mind.  The most straightforward is radical: information) Tj0 -14.25  TD -0.0558  Tc 0.4308  Tw (technology providers could simply begin to accept financial liability \(perhaps limited,) Tj0 -13.5  TD -0.0815  Tc 0.4906  Tw (initially\) for losses due to failures in the security of their systems.) TjETendstream
+endobj
+19 0 obj
+5019
+endobj
+17 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+/F1 13 0 R 
+/F2 15 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 18 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 22 0 R
+>>
+stream
+BT516.75 38.25  TD0 0 0 rg /F0 9.75  Tf0.375  Tc 0  Tw (4) Tj-426.75 671.25  TD /F0 12  Tf-0.0847  Tc 0.4062  Tw (At first blush this may sound to a technology CFO like sheer insanity.  ) Tj341.25 0  TD -0.0711  Tc 0.4461  Tw (But perhaps not.) Tj-341.25 -14.25  TD -0.0697  Tc 0.4736  Tw (If it became popular, a lot of information about information security losses would quickly) Tj0 -13.5  TD -0.0627  Tc 0.3841  Tw (become available.  A lot of information about losses is precisely the prerequisite for the) Tj0 -14.25  TD -0.0748  Tc 0.5034  Tw (formation of an insurance market.  Once a viable insurance market formed, the risk of) Tj0 -13.5  TD -0.0534  Tc 0.3996  Tw (assuming limited financial liability for losses could be substantially reduced.  A lot of) TjT* -0.063  Tc 0.3357  Tw (information about losses is also precisely the requirement for planning an effective) Tj0 -14.25  TD -0.0361  Tc 0.3486  Tw (mitigation strategy for information security losses.  Given a large body of information) Tj0 -13.5  TD -0.0828  Tc 0.0828  Tw (about ) Tj29.25 0  TD -0.053  Tc 0.303  Tw (attacks, and a financial incentive to do something about them, there\222s a good) Tj-29.25 -14.25  TD -0.0508  Tc 0.3841  Tw (chance the technology industry could make progress on improving solutions.) Tj0 -27  TD -0.0712  Tc 0.4462  Tw (Finally, information about both losses and product effectiveness is the prerequisite for the) Tj0 -14.25  TD -0.0682  Tc 0.5057  Tw (formation of a viable information security solution market.  Today, the market for) Tj0 -13.5  TD -0.1366  Tc 0.6366  Tw (security is a \223market for lemons\224 [) Tj165.75 0  TD -0.0738  Tc 0.5425  Tw (Akerlof] in the sense that the value of security) Tj-165.75 -14.25  TD -0.0622  Tc 0.3622  Tw (solutions is impaired by customers\222 inability to distinguish between effective and) Tj0 -13.5  TD -0.042  Tc 0.042  Tw (ineffective offerings.  ) Tj106.5 0  TD -0.0577  Tc 0.5577  Tw (Better information about losses would make the market for security) Tj-106.5 -13.5  TD -0.0644  Tc 0.2787  Tw (products more transparent in the long run, but even before the emergence of a credible) Tj0 -14.25  TD -0.0906  Tc 0.5191  Tw (body of loss information, the act of accepting liability for losses could be a powerful) Tj0 -13.5  TD -0.0489  Tc 0.2989  Tw (economic signal of a vendor\222s belief in the effectiveness of its security solutions.) TjETendstream
+endobj
+22 0 obj
+2434
+endobj
+20 0 obj
+<<
+/Type /Page
+/Parent 5 0 R
+/Resources <<
+/Font <<
+/F0 6 0 R 
+>>
+/ProcSet 2 0 R
+>>
+/Contents 21 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F0
+/BaseFont /TimesNewRoman
+/FirstChar 31
+/LastChar 255
+/Widths [ 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 
+444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 
+722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 
+500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 
+500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 
+778 500 778 333 500 444 1000 500 500 333 1000 556 333 889 778 778 
+778 778 333 333 444 444 350 500 1000 333 980 389 333 722 778 778 
+722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 
+500 400 549 300 300 333 576 453 250 333 300 310 500 750 750 750 
+444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 
+333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 
+500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 
+278 500 500 500 500 500 500 500 549 500 500 500 500 500 500 500 
+500 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRoman
+/Flags 34
+/FontBBox [ -250 -231 1292 923 ]
+/MissingWidth 769
+/StemV 70
+/StemH 70
+/ItalicAngle 0
+/CapHeight 923
+/XHeight 646
+/Ascent 923
+/Descent -231
+/Leading 231
+/MaxWidth 1077
+/AvgWidth 385
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /Symbol
+/FirstChar 31
+/LastChar 255
+/Widths [ 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 
+278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 
+444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 
+722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 
+500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 
+549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 
+603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 
+658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 
+713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 
+603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 
+494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 
+600 ]
+/FontDescriptor 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Symbol
+/Flags 6
+/FontBBox [ -250 -250 1276 1000 ]
+/MissingWidth 625
+/StemV 113
+/StemH 113
+/ItalicAngle 0
+/CapHeight 1000
+/XHeight 700
+/Ascent 1000
+/Descent -250
+/Leading 250
+/MaxWidth 1063
+/AvgWidth 625
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /Arial
+/FirstChar 31
+/LastChar 255
+/Widths [ 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 
+278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 
+556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 
+778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 
+556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 
+556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 
+750 556 750 222 556 333 1000 556 556 333 1000 667 333 1000 750 750 
+750 750 222 222 333 333 350 556 1000 333 1000 500 333 944 750 750 
+667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 
+552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 
+611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 
+278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 
+611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 
+278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 
+500 ]
+/Encoding /WinAnsiEncoding
+/FontDescriptor 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Arial
+/Flags 32
+/FontBBox [ -250 -188 1276 938 ]
+/MissingWidth 750
+/StemV 80
+/StemH 80
+/ItalicAngle 0
+/CapHeight 938
+/XHeight 656
+/Ascent 938
+/Descent -188
+/Leading 188
+/MaxWidth 1063
+/AvgWidth 438
+>>
+endobj
+2 0 obj
+[ /PDF /Text  ]
+endobj
+5 0 obj
+<<
+/Kids [4 0 R 10 0 R 17 0 R 20 0 R ]
+/Count 4
+/Type /Pages
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+1 0 obj
+<<
+/Creator <FEFF004D006900630072006F0073006F0066007400200057006F007200640020>
+/CreationDate (D:20020405123429)
+/Title <FEFF0044006F006C006C006100720073>
+/Author <FEFF0062006F0062>
+/Producer (Acrobat PDFWriter 4.0 for Windows)
+>>
+endobj
+3 0 obj
+<<
+/Pages 5 0 R
+/Type /Catalog
+/DefaultGray 23 0 R
+/DefaultRGB  24 0 R
+>>
+endobj
+23 0 obj
+[/CalGray
+<<
+/WhitePoint [0.9505 1 1.0891 ]
+/Gamma 0.2468 
+>>
+]
+endobj
+24 0 obj
+[/CalRGB
+<<
+/WhitePoint [0.9505 1 1.0891 ]
+/Gamma [0.2468 0.2468 0.2468 ]
+/Matrix [0.4361 0.2225 0.0139 0.3851 0.7169 0.0971 0.1431 0.0606 0.7141 ]
+>>
+]
+endobj
+xref
+0 25
+0000000000 65535 f
+0000021143 00000 n
+0000020996 00000 n
+0000021397 00000 n
+0000004001 00000 n
+0000021030 00000 n
+0000016842 00000 n
+0000017962 00000 n
+0000000021 00000 n
+0000003978 00000 n
+0000008768 00000 n
+0000004132 00000 n
+0000008744 00000 n
+0000018241 00000 n
+0000019329 00000 n
+0000019606 00000 n
+0000020724 00000 n
+0000014031 00000 n
+0000008927 00000 n
+0000014007 00000 n
+0000016709 00000 n
+0000014190 00000 n
+0000016685 00000 n
+0000021494 00000 n
+0000021582 00000 n
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+/ID [<b968542e67a38a0225f38e78eef6816b><b968542e67a38a0225f38e78eef6816b>]
+>>
+startxref
+21760
+%%EOF

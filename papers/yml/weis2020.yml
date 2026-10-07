@@ -1,0 +1,458 @@
+conference: weis2020
+name: WEIS 2020
+year: 2020
+papers_dir: papers/weis2020
+total: 15
+downloaded: 15
+failed: 0
+papers:
+- id: weis2020_01
+  conference: weis2020
+  year: 2020
+  title: 'Prioritizing Vulnerability Response: a Stakeholder-Specific Vulnerability Categorization'
+  authors:
+  - Jonathan Spring
+  - Allen Householder
+  - Art Manion
+  - Eric Hatleback
+  - Deana Shick
+  authors_full:
+  - name: Jonathan Spring
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Allen Householder
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Art Manion
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Eric Hatleback
+    affiliation: CERT/CC, Software Engineering Institute, Carnegie Mellon University
+  - name: Deana Shick
+    affiliation: Rockwell
+  session_number: 1
+  session: Vulnerabilities, Risks, and Breaches
+  event_type: session
+  date: '2020-12-14'
+  time: '14:10'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final6.pdf
+  slides_url: null
+  file: weis2020_01_prioritizing-vulnerability-response-a-stakeholder-specific-v.pdf
+  path: papers/weis2020/weis2020_01_prioritizing-vulnerability-response-a-stakeholder-specific-v.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final6.pdf
+  error: null
+- id: weis2020_02
+  conference: weis2020
+  year: 2020
+  title: 'Underlying and Consequential Costs of Cyber Security Breaches: Changes in Systematic Risk'
+  authors:
+  - Dennis D. Malliouris
+  - Andrew Simpson
+  authors_full:
+  - name: Dennis D. Malliouris
+    affiliation: University of Oxford
+  - name: Andrew Simpson
+    affiliation: University of Oxford
+  session_number: 1
+  session: Vulnerabilities, Risks, and Breaches
+  event_type: session
+  date: '2020-12-14'
+  time: '14:25'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final14.pdf
+  slides_url: null
+  file: weis2020_02_underlying-and-consequential-costs-of-cyber-security-breache.pdf
+  path: papers/weis2020/weis2020_02_underlying-and-consequential-costs-of-cyber-security-breache.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final14.pdf
+  error: null
+- id: weis2020_03
+  conference: weis2020
+  year: 2020
+  title: Cybersecurity Investments and the Cost of Capital
+  authors:
+  - Taha Havakhor
+  - Mohammad Rahman
+  - Tianjian Zhang
+  authors_full:
+  - name: Taha Havakhor
+    affiliation: Temple University
+  - name: Mohammad Rahman
+    affiliation: Purdue University
+  - name: Tianjian Zhang
+    affiliation: Oklahoma State University
+  session_number: 1
+  session: Vulnerabilities, Risks, and Breaches
+  event_type: session
+  date: '2020-12-14'
+  time: '14:40'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final16.pdf
+  slides_url: null
+  file: weis2020_03_cybersecurity-investments-and-the-cost-of-capital.pdf
+  path: papers/weis2020/weis2020_03_cybersecurity-investments-and-the-cost-of-capital.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final16.pdf
+  error: null
+- id: weis2020_04
+  conference: weis2020
+  year: 2020
+  title: 'Cyber incidents, security measures and financial returns: Empirical evidence for Dutch firms'
+  authors:
+  - Milena Dinkova
+  - Ramy El-Dardiry
+  - Bastiaan Overvest
+  authors_full:
+  - name: Milena Dinkova
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  - name: Ramy El-Dardiry
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  - name: Bastiaan Overvest
+    affiliation: CPB Netherlands Bureau for Economic Policy Analysis
+  session_number: 2
+  session: Firms and Investments
+  event_type: session
+  date: '2020-12-14'
+  time: '15:30'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final3.pdf
+  slides_url: null
+  file: weis2020_04_cyber-incidents-security-measures-and-financial-returns-empi.pdf
+  path: papers/weis2020/weis2020_04_cyber-incidents-security-measures-and-financial-returns-empi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final3.pdf
+  error: null
+- id: weis2020_05
+  conference: weis2020
+  year: 2020
+  title: Can Insider Trades Reliably Predict Cybersecurity Hazards in Public Firms?
+  authors:
+  - Taha Havakhor
+  - Obi Ogbanufe
+  - Anthony Vance
+  authors_full:
+  - name: Taha Havakhor
+    affiliation: Temple University
+  - name: Obi Ogbanufe
+    affiliation: Oklahoma State University
+  - name: Anthony Vance
+    affiliation: Temple University
+  session_number: 2
+  session: Firms and Investments
+  event_type: session
+  date: '2020-12-14'
+  time: '15:45'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final35.pdf
+  slides_url: null
+  file: weis2020_05_can-insider-trades-reliably-predict-cybersecurity-hazards-in.pdf
+  path: papers/weis2020/weis2020_05_can-insider-trades-reliably-predict-cybersecurity-hazards-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final35.pdf
+  error: null
+- id: weis2020_06
+  conference: weis2020
+  year: 2020
+  title: Provider Output and Downstream Firms’ Service Tier Choice
+  authors:
+  - Hooman Hidaji
+  - Lisa Yeo
+  authors_full:
+  - name: Hooman Hidaji
+    affiliation: University of Calgary
+  - name: Lisa Yeo
+    affiliation: University of California, Merced
+  session_number: 2
+  session: Firms and Investments
+  event_type: session
+  date: '2020-12-14'
+  time: '16:00'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final21.pdf
+  slides_url: null
+  file: weis2020_06_provider-output-and-downstream-firms-service-tier-choice.pdf
+  path: papers/weis2020/weis2020_06_provider-output-and-downstream-firms-service-tier-choice.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final21.pdf
+  error: null
+- id: weis2020_07
+  conference: weis2020
+  year: 2020
+  title: 'Cybercrime is (often) boring: maintaining the infrastructure of cybercrime economies'
+  authors:
+  - Ben Collier
+  - Richard Clayton
+  - Alice Hutchings
+  - Daniel Thomas
+  authors_full:
+  - name: Ben Collier
+    affiliation: University of Cambridge
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  - name: Daniel Thomas
+    affiliation: University of Strathclyde
+  session_number: 4
+  session: Measurements & Case Studies
+  event_type: session
+  date: '2020-12-15'
+  time: '14:00'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final10.pdf
+  slides_url: null
+  file: weis2020_07_cybercrime-is-often-boring-maintaining-the-infrastructure-of.pdf
+  path: papers/weis2020/weis2020_07_cybercrime-is-often-boring-maintaining-the-infrastructure-of.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final10.pdf
+  error: null
+- id: weis2020_08
+  conference: weis2020
+  year: 2020
+  title: 'SAVing the Internet: Explaining the Adoption of Source Address Validation by Internet Service Providers'
+  authors:
+  - Qasim Lone
+  - Maciej Korczyński
+  - Carlos H. Gañán
+  - Michel van Eeten
+  authors_full:
+  - name: Qasim Lone
+    affiliation: TU Delft
+  - name: Maciej Korczyński
+    affiliation: Univ. Grenoble Alpes
+  - name: Carlos H. Gañán
+    affiliation: TU Delft
+  - name: Michel van Eeten
+    affiliation: TU Delft
+  session_number: 4
+  session: Measurements & Case Studies
+  event_type: session
+  date: '2020-12-15'
+  time: '14:15'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final31.pdf
+  slides_url: null
+  file: weis2020_08_saving-the-internet-explaining-the-adoption-of-source-addres.pdf
+  path: papers/weis2020/weis2020_08_saving-the-internet-explaining-the-adoption-of-source-addres.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final31.pdf
+  error: null
+- id: weis2020_09
+  conference: weis2020
+  year: 2020
+  title: The Impact of the GDPR on Content Providers
+  authors:
+  - Vincent Lefrere
+  - Logan Warberg
+  - Cristobal Cheyre
+  - Veronica Marotta
+  - Alessandro Acquisti
+  authors_full:
+  - name: Vincent Lefrere
+    affiliation: Institut Mines-Télécom
+  - name: Logan Warberg
+    affiliation: Carnegie Mellon University
+  - name: Cristobal Cheyre
+    affiliation: Cornell University
+  - name: Veronica Marotta
+    affiliation: University of Minnesota Twin Cities
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 4
+  session: Measurements & Case Studies
+  event_type: session
+  date: '2020-12-15'
+  time: '14:30'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final43.pdf
+  slides_url: null
+  file: weis2020_09_the-impact-of-the-gdpr-on-content-providers.pdf
+  path: papers/weis2020/weis2020_09_the-impact-of-the-gdpr-on-content-providers.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final43.pdf
+  error: null
+- id: weis2020_10
+  conference: weis2020
+  year: 2020
+  title: An Economic Model for Quantum-Key Recovery Attacks
+  authors:
+  - Ben Harsha
+  - Jeremiah Blocki
+  authors_full:
+  - name: Ben Harsha
+    affiliation: Purdue University
+  - name: Jeremiah Blocki
+    affiliation: Purdue University
+  session_number: 5
+  session: Models
+  event_type: session
+  date: '2020-12-15'
+  time: '15:30'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final39.pdf
+  slides_url: null
+  file: weis2020_10_an-economic-model-for-quantum-key-recovery-attacks.pdf
+  path: papers/weis2020/weis2020_10_an-economic-model-for-quantum-key-recovery-attacks.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final39.pdf
+  error: null
+- id: weis2020_11
+  conference: weis2020
+  year: 2020
+  title: Security-Induced Lock-In in the Cloud
+  authors:
+  - Daniel Arce
+  authors_full:
+  - name: Daniel Arce
+    affiliation: UT Dallas
+  session_number: 5
+  session: Models
+  event_type: session
+  date: '2020-12-15'
+  time: '15:45'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final40.pdf
+  slides_url: null
+  file: weis2020_11_security-induced-lock-in-in-the-cloud.pdf
+  path: papers/weis2020/weis2020_11_security-induced-lock-in-in-the-cloud.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final40.pdf
+  error: null
+- id: weis2020_12
+  conference: weis2020
+  year: 2020
+  title: The Commodification of Consent
+  authors:
+  - Daniel Woods
+  - Rainer Böhme
+  authors_full:
+  - name: Daniel Woods
+    affiliation: University of Innsbruck
+  - name: Rainer Böhme
+    affiliation: University of Innsbruck
+  session_number: 5
+  session: Models
+  event_type: session
+  date: '2020-12-15'
+  time: '16:00'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final2.pdf
+  slides_url: null
+  file: weis2020_12_the-commodification-of-consent.pdf
+  path: papers/weis2020/weis2020_12_the-commodification-of-consent.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final2.pdf
+  error: null
+- id: weis2020_13
+  conference: weis2020
+  year: 2020
+  title: The Use of Autonomous Decision Systems
+  authors:
+  - Robin Dillon-Merrill
+  - Peter Madsen
+  - Bart Roets
+  - Taylan Topcu
+  - Kostas Triantis
+  authors_full:
+  - name: Robin Dillon-Merrill
+    affiliation: Georgetown
+  - name: Peter Madsen
+    affiliation: BYU
+  - name: Bart Roets
+    affiliation: INFRABEL
+  - name: Taylan Topcu
+    affiliation: Virginia Tech
+  - name: Kostas Triantis
+    affiliation: Virginia Tech
+  session_number: 6
+  session: Behavioral Aspects
+  event_type: session
+  date: '2020-12-15'
+  time: '17:00'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final13.pdf
+  slides_url: null
+  file: weis2020_13_the-use-of-autonomous-decision-systems.pdf
+  path: papers/weis2020/weis2020_13_the-use-of-autonomous-decision-systems.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final13.pdf
+  error: null
+- id: weis2020_14
+  conference: weis2020
+  year: 2020
+  title: 'Understanding the Knowledge Gap: How Security Awareness Influences the Adoption of Industrial IoT'
+  authors:
+  - Verena Schrama
+  - Carlos H. Gañán
+  - Doris Aschenbrenner
+  - Mark de Reuver
+  - Kevin Borgolte
+  - Tobias Fiebig
+  authors_full:
+  - name: Verena Schrama
+    affiliation: TU Delft
+  - name: Carlos H. Gañán
+    affiliation: TU Delft
+  - name: Doris Aschenbrenner
+    affiliation: TU Delft
+  - name: Mark de Reuver
+    affiliation: TU Delft
+  - name: Kevin Borgolte
+    affiliation: Princeton University
+  - name: Tobias Fiebig
+    affiliation: TU Delft
+  session_number: 6
+  session: Behavioral Aspects
+  event_type: session
+  date: '2020-12-15'
+  time: '17:15'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final23.pdf
+  slides_url: null
+  file: weis2020_14_understanding-the-knowledge-gap-how-security-awareness-influ.pdf
+  path: papers/weis2020/weis2020_14_understanding-the-knowledge-gap-how-security-awareness-influ.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final23.pdf
+  error: null
+- id: weis2020_15
+  conference: weis2020
+  year: 2020
+  title: A Qualitative Model of Older Adults’ Contextual Decision-Making About Information Sharing
+  authors:
+  - Alisa Frik
+  - Julia Bernd
+  - Serge Egelman
+  authors_full:
+  - name: Alisa Frik
+    affiliation: International Computer Science Institute, UC Berkeley
+  - name: Julia Bernd
+    affiliation: International Computer Science Institute, UC Berkeley
+  - name: Serge Egelman
+    affiliation: International Computer Science Institute, UC Berkeley
+  session_number: 6
+  session: Behavioral Aspects
+  event_type: session
+  date: '2020-12-15'
+  time: '17:30'
+  award: null
+  url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final42.pdf
+  slides_url: null
+  file: weis2020_15_a-qualitative-model-of-older-adults-contextual-decision-maki.pdf
+  path: papers/weis2020/weis2020_15_a-qualitative-model-of-older-adults-contextual-decision-maki.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2020.econinfosec.org/wp-content/uploads/sites/8/2020/06/weis20-final42.pdf
+  error: null

@@ -1,0 +1,166 @@
+name: WEIS 2026
+full_name: The 25th Workshop on the Economics of Information Security
+edition: 25
+year: 2026
+location: Berkeley, California, USA
+venue: Goldman Theater, David Brower Center, 2150 Allston Way, Berkeley, CA 94704
+start_date: '2026-06-02'
+end_date: '2026-06-03'
+website: https://weis2026.econinfosec.org/
+papers:
+- id: weis2026_01
+  title: Cybersecurity and Market Share in Digital Ecosystems with Network Externalities
+  authors:
+  - name: Daniel Arce
+  file: weis2026_01_cybersecurity-and-market-share-in-digital-ecosystems-with-ne.pdf
+  path: papers/weis2026/weis2026_01_cybersecurity-and-market-share-in-digital-ecosystems-with-ne.pdf
+- id: weis2026_02
+  title: 'LASB: A Liquidity-Adjusted Security Metric for Consensus Attacks'
+  authors:
+  - name: Ke Wang
+  - name: Wenbin Wu
+  - name: Alexander Neumueller
+  file: weis2026_02_lasb-a-liquidity-adjusted-security-metric-for-consensus-atta.pdf
+  path: papers/weis2026/weis2026_02_lasb-a-liquidity-adjusted-security-metric-for-consensus-atta.pdf
+- id: weis2026_03
+  title: Analyzing Investment Incentives under METI's New Rating System via a Stepwise Extension of the Gordon-Loeb Model
+  authors:
+  - name: Ryoma Kanai
+  - name: Kanta Matsuura
+  file: weis2026_03_analyzing-investment-incentives-under-meti-s-new-rating-syst.pdf
+  path: papers/weis2026/weis2026_03_analyzing-investment-incentives-under-meti-s-new-rating-syst.pdf
+- id: weis2026_04
+  title: 'Cybercrime and Prevention: Colonel Blotto in Social Engineering'
+  authors:
+  - name: Gergely Benkő
+  - name: Katalin Parti
+  - name: Gergely Biczók
+  file: weis2026_04_cybercrime-and-prevention-colonel-blotto-in-social-engineeri.pdf
+  path: papers/weis2026/weis2026_04_cybercrime-and-prevention-colonel-blotto-in-social-engineeri.pdf
+- id: weis2026_05
+  title: Stand-Alone Complex or Vibercrime? Exploring the Adoption and Innovation of GenAI Tools, Coding Assistants, and Agents within Cybercrime Ecosystems
+  authors:
+  - name: Jack Hughes
+  - name: Ben Collier
+  - name: Daniel Thomas
+  file: weis2026_05_stand-alone-complex-or-vibercrime-exploring-the-adoption-and.pdf
+  path: papers/weis2026/weis2026_05_stand-alone-complex-or-vibercrime-exploring-the-adoption-and.pdf
+- id: weis2026_06
+  title: Estimating the Social Cost of Corporate Data Breaches
+  authors:
+  - name: Lina Alkarmi
+  - name: Armin Sarabi
+  - name: Mingyan Liu
+  file: weis2026_06_estimating-the-social-cost-of-corporate-data-breaches.pdf
+  path: papers/weis2026/weis2026_06_estimating-the-social-cost-of-corporate-data-breaches.pdf
+- id: weis2026_07
+  title: How Do Cyber Attacks Impact Corporate Balance Sheets and Income Statements? An Empirical Study
+  authors:
+  - name: Teyyub Mutallimov
+  - name: Dana Itzhaki
+  - name: Tyler Moore
+  file: weis2026_07_how-do-cyber-attacks-impact-corporate-balance-sheets-and-inc.pdf
+  path: papers/weis2026/weis2026_07_how-do-cyber-attacks-impact-corporate-balance-sheets-and-inc.pdf
+- id: weis2026_08
+  title: 'The Impact of Cyber Attacks on Security Investment: Evidence from Firm-Level Panel Data'
+  authors:
+  - name: Abulfaz Hajizada
+  - name: Dana Etgar Itzhaki
+  - name: Noa Barnir
+  - name: Tyler Moore
+  - name: Neil Gandal
+  file: weis2026_08_the-impact-of-cyber-attacks-on-security-investment-evidence.pdf
+  path: papers/weis2026/weis2026_08_the-impact-of-cyber-attacks-on-security-investment-evidence.pdf
+- id: weis2026_09
+  title: Privacy Agents in the Field
+  authors:
+  - name: Aileen Nielsen
+  - name: Yafit Lev-Aretz
+  file: null
+  path: null
+- id: weis2026_10
+  title: Who Wants Privacy Anyway? Comparative Evidence on CBDC Design Preference
+  authors:
+  - name: Vagisha Srivastava
+  file: weis2026_10_who-wants-privacy-anyway-comparative-evidence-on-cbdc-design.pdf
+  path: papers/weis2026/weis2026_10_who-wants-privacy-anyway-comparative-evidence-on-cbdc-design.pdf
+- id: weis2026_11
+  title: 'Privacy Interventions and Publishers'' Revenues: Evidence on Long-Run Effects and Ad-Traffic Heterogeneity'
+  authors:
+  - name: Tobias Kircher
+  - name: Riley Grossman
+  - name: Mike Smith
+  - name: Alessandro Acquisti
+  - name: Cristian Borcea
+  - name: Yi Chen
+  - name: Cristobal Cheyre
+  file: null
+  path: null
+- id: weis2026_12
+  title: Ransomware Insurance and Strategic Ransom Demand
+  authors:
+  - name: Manos Perdikakis
+  file: weis2026_12_ransomware-insurance-and-strategic-ransom-demand.pdf
+  path: papers/weis2026/weis2026_12_ransomware-insurance-and-strategic-ransom-demand.pdf
+- id: weis2026_13
+  title: Disentangling the Sources of Cyber Risk Premia
+  authors:
+  - name: Loïc Maréchal
+  - name: Nathan Monnet
+  file: weis2026_13_disentangling-the-sources-of-cyber-risk-premia.pdf
+  path: papers/weis2026/weis2026_13_disentangling-the-sources-of-cyber-risk-premia.pdf
+- id: weis2026_14
+  title: Defending Against Intelligent Attackers at Large Scales
+  authors:
+  - name: Andrew Lohn
+  file: weis2026_14_defending-against-intelligent-attackers-at-large-scales.pdf
+  path: papers/weis2026/weis2026_14_defending-against-intelligent-attackers-at-large-scales.pdf
+- id: weis2026_15
+  title: '"People were not happy when admitting mistakes": Evolving Past Defensiveness in Running Coordinated Vulnerability Disclosure Programs'
+  authors:
+  - name: Sandra Rivera Pérez
+  - name: Amy Tjin Tjoen Jin
+  - name: Michel van Eeten
+  - name: Carlos Gañán
+  file: weis2026_15_people-were-not-happy-when-admitting-mistakes-evolving-past.pdf
+  path: papers/weis2026/weis2026_15_people-were-not-happy-when-admitting-mistakes-evolving-past.pdf
+- id: weis2026_16
+  title: 'Cybersecurity Ratings to Support Domain-Specific Financial Decisions: Applications to National Infrastructures, Cyberinsurance, Gordon-Loeb Model, and NPV Analysis'
+  authors:
+  - name: William Yurcik
+  - name: Gregory Pluta
+  - name: Fábio Miranda
+  file: weis2026_16_cybersecurity-ratings-to-support-domain-specific-financial-d.pdf
+  path: papers/weis2026/weis2026_16_cybersecurity-ratings-to-support-domain-specific-financial-d.pdf
+- id: weis2026_17
+  title: 'The Emergence of Public Key Infrastructures: Changing Authority Structures and the Automation of Trust in Cyberspace'
+  authors:
+  - name: Milton Mueller
+  file: weis2026_17_the-emergence-of-public-key-infrastructures-changing-authori.pdf
+  path: papers/weis2026/weis2026_17_the-emergence-of-public-key-infrastructures-changing-authori.pdf
+- id: weis2026_18
+  title: 'Time Will Tell: A Longitudinal Analysis of the Evolution of Security and Privacy of Three IoT Device Types'
+  authors:
+  - name: Swaathi Vetrivel
+  - name: Michel van Eeten
+  - name: Carlos Gañán
+  file: weis2026_18_time-will-tell-a-longitudinal-analysis-of-the-evolution-of-s.pdf
+  path: papers/weis2026/weis2026_18_time-will-tell-a-longitudinal-analysis-of-the-evolution-of-s.pdf
+- id: weis2026_19
+  title: '"I''m the mess that you wanted": Evaluating the Accuracy of WHOIS Asset Discovery Against Self-Reported Data'
+  authors:
+  - name: Yana Angelova
+  - name: Aksel Ethembabaoglu
+  - name: Rolf van Wegberg
+  - name: Carlos Gañán
+  - name: Michel van Eeten
+  file: weis2026_19_i-m-the-mess-that-you-wanted-evaluating-the-accuracy-of-whoi.pdf
+  path: papers/weis2026/weis2026_19_i-m-the-mess-that-you-wanted-evaluating-the-accuracy-of-whoi.pdf
+- id: weis2026_20
+  title: 'Domijn: The Security of Domain Registrars and the Risk of a Domain Name Takeover'
+  authors:
+  - name: Koen van Hove
+  - name: Jeroen van der Ham-de Vos
+  - name: Roland van Rijswijk-Deij
+  file: weis2026_20_domijn-the-security-of-domain-registrars-and-the-risk-of-a-d.pdf
+  path: papers/weis2026/weis2026_20_domijn-the-security-of-domain-registrars-and-the-risk-of-a-d.pdf

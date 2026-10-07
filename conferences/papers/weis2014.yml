@@ -1,0 +1,218 @@
+name: WEIS 2014
+full_name: The 13th Workshop on the Economics of Information Security
+edition: 13
+year: 2014
+location: State College, Pennsylvania, USA
+venue: Information Sciences and Technology (IST) Building, The Pennsylvania State University, University Park
+start_date: '2014-06-23'
+end_date: '2014-06-24'
+website: http://weis2014.econinfosec.org/
+papers:
+- id: weis2014_01
+  title: Understanding the Influence of Cybercrime Risk on the E-Service Adoption of European Internet Users
+  authors:
+  - name: Markus Riek
+    affiliation: University of Münster
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  - name: Tyler Moore
+    affiliation: Southern Methodist University
+  file: weis2014_01_understanding-the-influence-of-cybercrime-risk-on-the-e-serv.pdf
+  path: papers/weis2014/weis2014_01_understanding-the-influence-of-cybercrime-risk-on-the-e-serv.pdf
+- id: weis2014_02
+  title: Experimental Measurement of Attitudes Regarding Cybercrime
+  authors:
+  - name: James Graves
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  file: weis2014_02_experimental-measurement-of-attitudes-regarding-cybercrime.pdf
+  path: papers/weis2014/weis2014_02_experimental-measurement-of-attitudes-regarding-cybercrime.pdf
+- id: weis2014_03
+  title: 'Privacy versus Government Surveillance: Where Network Effects Meet Public Choice'
+  authors:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  file: weis2014_03_privacy-versus-government-surveillance-where-network-effects.pdf
+  path: papers/weis2014/weis2014_03_privacy-versus-government-surveillance-where-network-effects.pdf
+- id: weis2014_04
+  title: Government Surveillance and Incentives to Abuse Power
+  authors:
+  - name: Paul Laskowski
+    affiliation: UC Berkeley
+  - name: Benjamin Johnson
+    affiliation: Carnegie Mellon University
+  - name: Thomas Maillart
+    affiliation: UC Berkeley
+  - name: John Chuang
+    affiliation: UC Berkeley
+  file: weis2014_04_government-surveillance-and-incentives-to-abuse-power.pdf
+  path: papers/weis2014/weis2014_04_government-surveillance-and-incentives-to-abuse-power.pdf
+- id: weis2014_05
+  title: Should Payment Card Issuers Reissue Cards in Response to a Data Breach?
+  authors:
+  - name: James Graves
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University
+  file: weis2014_05_should-payment-card-issuers-reissue-cards-in-response-to-a-d.pdf
+  path: papers/weis2014/weis2014_05_should-payment-card-issuers-reissue-cards-in-response-to-a-d.pdf
+- id: weis2014_06
+  title: Automation and Disruption in Stolen Payment Card Markets
+  authors:
+  - name: Timothy Peacock
+    affiliation: Shape Security
+  - name: Allan Friedman
+    affiliation: George Washington University
+  file: null
+  path: null
+- id: weis2014_07
+  title: 'Defending Debit: A Historical Study of the Indirect Effects of the Durbin Amendment on Investment in Debit Card Security'
+  authors:
+  - name: Allison Miller
+    affiliation: Electronic Arts
+  file: null
+  path: null
+- id: weis2014_08
+  title: Empirically Characterizing Domain Abuse and the Revenue Impact of Blacklisting
+  authors:
+  - name: Neha Chachra
+    affiliation: UC San Diego
+  - name: Damon McCoy
+    affiliation: George Mason University
+  - name: Stefan Savage
+    affiliation: UC San Diego
+  - name: Geoffrey M. Voelker
+    affiliation: UC San Diego
+  file: weis2014_08_empirically-characterizing-domain-abuse-and-the-revenue-impa.pdf
+  path: papers/weis2014/weis2014_08_empirically-characterizing-domain-abuse-and-the-revenue-impa.pdf
+- id: weis2014_09
+  title: A Study of Whois Privacy and Proxy Service Abuse
+  authors:
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Tony Mansfield
+    affiliation: National Physical Laboratory
+  file: weis2014_09_a-study-of-whois-privacy-and-proxy-service-abuse.pdf
+  path: papers/weis2014/weis2014_09_a-study-of-whois-privacy-and-proxy-service-abuse.pdf
+- id: weis2014_10
+  title: Why Them? Extracting Intelligence about Target Selection from Zeus Financial Malware
+  authors:
+  - name: Samaneh Tajalizadehkhoob
+    affiliation: Delft University of Technology
+  - name: Hadi Asghari
+    affiliation: Delft University of Technology
+  - name: Carlos Gañán
+    affiliation: Delft University of Technology
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  file: null
+  path: null
+- id: weis2014_11
+  title: The Effect of Decentralized Behavioral Decision Making on System-Level Risk
+  authors:
+  - name: Kim Kaivanto
+    affiliation: Lancaster University
+  file: weis2014_11_the-effect-of-decentralized-behavioral-decision-making-on-sy.pdf
+  path: papers/weis2014/weis2014_11_the-effect-of-decentralized-behavioral-decision-making-on-sy.pdf
+- id: weis2014_12
+  title: Resilience in Information Stewardship
+  authors:
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University College London
+  - name: Julian Williams
+    affiliation: University of Durham
+  - name: Iffat Gheyas
+    affiliation: University of Durham
+  file: weis2014_12_resilience-in-information-stewardship.pdf
+  path: papers/weis2014/weis2014_12_resilience-in-information-stewardship.pdf
+- id: weis2014_13
+  title: Competition in the Crypto-Currency Market
+  authors:
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  - name: Hanna Halaburda
+    affiliation: Bank of Canada
+  file: weis2014_13_competition-in-the-cryptocurrency-market-2014-working-paper.pdf
+  path: papers/weis2014/weis2014_13_competition-in-the-cryptocurrency-market-2014-working-paper.pdf
+- id: weis2014_14
+  title: Incentive Engineering for Outsourced Computation in the Face of Collusion
+  authors:
+  - name: Mhr Khouzani
+    affiliation: Royal Holloway - University of London
+  - name: Viet Pham
+    affiliation: Royal Holloway - University of London
+  - name: Carlos Cid
+    affiliation: Royal Holloway - University of London
+  file: weis2014_14_incentive-engineering-for-outsourced-computation-in-the-face.pdf
+  path: papers/weis2014/weis2014_14_incentive-engineering-for-outsourced-computation-in-the-face.pdf
+- id: weis2014_15
+  title: Voluntary Participation in Cyber-Insurance Markets
+  authors:
+  - name: Parinaz Naghizadeh
+    affiliation: University of Michigan
+  - name: Mingyan Liu
+    affiliation: University of Michigan
+  file: weis2014_15_voluntary-participation-in-cyber-insurance-markets.pdf
+  path: papers/weis2014/weis2014_15_voluntary-participation-in-cyber-insurance-markets.pdf
+- id: weis2014_16
+  title: On Decentralizing Prediction Markets and Order Books
+  authors:
+  - name: Jeremy Clark
+    affiliation: Concordia University
+  - name: Joseph Bonneau
+    affiliation: Princeton University
+  - name: Edward Felten
+    affiliation: Princeton University
+  - name: Joshua Kroll
+    affiliation: Princeton University
+  - name: Andrew Miller
+    affiliation: University of Maryland
+  - name: Arvind Narayanan
+    affiliation: Princeton University
+  file: weis2014_16_on-decentralizing-prediction-markets-and-order-books.pdf
+  path: papers/weis2014/weis2014_16_on-decentralizing-prediction-markets-and-order-books.pdf
+- id: weis2014_17
+  title: Analysis of Japanese Loyalty Programs Considering Liquidity, Security Efforts, and Actual Security Levels
+  authors:
+  - name: Bongkot Jenjarrussakul
+    affiliation: University of Tokyo
+  - name: Kanta Matsuura
+    affiliation: University of Tokyo
+  file: null
+  path: null
+- id: weis2014_18
+  title: Framing and the Malleability of Privacy Choices
+  authors:
+  - name: Idris Adjerid
+    affiliation: University of Notre Dame
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: George Loewenstein
+    affiliation: Carnegie Mellon University
+  file: null
+  path: null
+- id: weis2014_19
+  title: 'Meaningful Healthcare Security: Does "Meaningful-Use" Attestation Improve Information Security Performance?'
+  authors:
+  - name: Juhee Kwon
+    affiliation: City University of Hong Kong
+  - name: M. Eric Johnson
+    affiliation: Vanderbilt University
+  file: weis2014_19_meaningful-healthcare-security-does-meaningful-use-attestati.pdf
+  path: papers/weis2014/weis2014_19_meaningful-healthcare-security-does-meaningful-use-attestati.pdf
+- id: weis2014_20
+  title: 'Aiming at a More Cost-Efficient Census Via Online Data Collection: Privacy Trade-Offs of Geo-Location'
+  authors:
+  - name: Laura Brandimarte
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: null
+  path: null

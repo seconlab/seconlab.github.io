@@ -1,0 +1,570 @@
+conference: weis2014
+name: WEIS 2014
+year: 2014
+papers_dir: papers/weis2014
+total: 20
+downloaded: 11
+failed: 9
+papers:
+- id: weis2014_01
+  conference: weis2014
+  year: 2014
+  title: Understanding the Influence of Cybercrime Risk on the E-Service Adoption of European Internet Users
+  authors:
+  - Markus Riek
+  - Rainer Böhme
+  - Tyler Moore
+  authors_full:
+  - name: Markus Riek
+    affiliation: University of Münster
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  - name: Tyler Moore
+    affiliation: Southern Methodist University
+  session_number: 1
+  session: Consumers and Cybercrime
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/RiekBoehmeMoore-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/RiekBoehmeMoore-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_02
+  conference: weis2014
+  year: 2014
+  title: Experimental Measurement of Attitudes Regarding Cybercrime
+  authors:
+  - James Graves
+  - Alessandro Acquisti
+  - Ross Anderson
+  authors_full:
+  - name: James Graves
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  session_number: 1
+  session: Consumers and Cybercrime
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/GravesAcquistiAnderson-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/GravesAcquistiAnderson-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_03
+  conference: weis2014
+  year: 2014
+  title: 'Privacy versus Government Surveillance: Where Network Effects Meet Public Choice'
+  authors:
+  - Ross Anderson
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  session_number: 2
+  session: Incentives for Pervasive Monitoring Threats
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Anderson-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Anderson-WEIS2014-Slides.pdf
+  file: weis2014_03_privacy-versus-government-surveillance-where-network-effects.pdf
+  path: papers/weis2014/weis2014_03_privacy-versus-government-surveillance-where-network-effects.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20151026121511id_/http://www.econinfosec.org/archive/weis2014/papers/Anderson-WEIS2014.pdf
+  error: null
+- id: weis2014_04
+  conference: weis2014
+  year: 2014
+  title: Government Surveillance and Incentives to Abuse Power
+  authors:
+  - Paul Laskowski
+  - Benjamin Johnson
+  - Thomas Maillart
+  - John Chuang
+  authors_full:
+  - name: Paul Laskowski
+    affiliation: UC Berkeley
+  - name: Benjamin Johnson
+    affiliation: Carnegie Mellon University
+  - name: Thomas Maillart
+    affiliation: UC Berkeley
+  - name: John Chuang
+    affiliation: UC Berkeley
+  session_number: 2
+  session: Incentives for Pervasive Monitoring Threats
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Laskowski-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Laskowski-WEIS2014-Slides.pdf
+  file: weis2014_04_government-surveillance-and-incentives-to-abuse-power.pdf
+  path: papers/weis2014/weis2014_04_government-surveillance-and-incentives-to-abuse-power.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20141220224412id_/http://weis2014.econinfosec.org/papers/Laskowski-WEIS2014.pdf
+  error: null
+- id: weis2014_05
+  conference: weis2014
+  year: 2014
+  title: Should Payment Card Issuers Reissue Cards in Response to a Data Breach?
+  authors:
+  - James Graves
+  - Alessandro Acquisti
+  - Nicolas Christin
+  authors_full:
+  - name: James Graves
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Nicolas Christin
+    affiliation: Carnegie Mellon University
+  session_number: 3
+  session: Credit and Debit Card Security
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/GravesAcquistiChristin-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/GravesAcquistiChristin-WEIS2014-Slides.pdf
+  file: weis2014_05_should-payment-card-issuers-reissue-cards-in-response-to-a-d.pdf
+  path: papers/weis2014/weis2014_05_should-payment-card-issuers-reissue-cards-in-response-to-a-d.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20150226062506id_/http://weis2014.econinfosec.org:80/papers/GravesAcquistiChristin-WEIS2014.pdf
+  error: null
+- id: weis2014_06
+  conference: weis2014
+  year: 2014
+  title: Automation and Disruption in Stolen Payment Card Markets
+  authors:
+  - Timothy Peacock
+  - Allan Friedman
+  authors_full:
+  - name: Timothy Peacock
+    affiliation: Shape Security
+  - name: Allan Friedman
+    affiliation: George Washington University
+  session_number: 3
+  session: Credit and Debit Card Security
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/PeacockFriedman-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/PeacockFriedman-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_07
+  conference: weis2014
+  year: 2014
+  title: 'Defending Debit: A Historical Study of the Indirect Effects of the Durbin Amendment on Investment in Debit Card Security'
+  authors:
+  - Allison Miller
+  authors_full:
+  - name: Allison Miller
+    affiliation: Electronic Arts
+  session_number: 3
+  session: Credit and Debit Card Security
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Miller-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Miller-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_08
+  conference: weis2014
+  year: 2014
+  title: Empirically Characterizing Domain Abuse and the Revenue Impact of Blacklisting
+  authors:
+  - Neha Chachra
+  - Damon McCoy
+  - Stefan Savage
+  - Geoffrey M. Voelker
+  authors_full:
+  - name: Neha Chachra
+    affiliation: UC San Diego
+  - name: Damon McCoy
+    affiliation: George Mason University
+  - name: Stefan Savage
+    affiliation: UC San Diego
+  - name: Geoffrey M. Voelker
+    affiliation: UC San Diego
+  session_number: 4
+  session: Understanding Cybercrime
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Chachra-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Chachra-WEIS2014-Slides.pdf
+  file: weis2014_08_empirically-characterizing-domain-abuse-and-the-revenue-impa.pdf
+  path: papers/weis2014/weis2014_08_empirically-characterizing-domain-abuse-and-the-revenue-impa.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2014_09
+  conference: weis2014
+  year: 2014
+  title: A Study of Whois Privacy and Proxy Service Abuse
+  authors:
+  - Richard Clayton
+  - Tony Mansfield
+  authors_full:
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Tony Mansfield
+    affiliation: National Physical Laboratory
+  session_number: 4
+  session: Understanding Cybercrime
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/ClaytonMansfield-WEIS2014.pdf
+  slides_url: null
+  file: weis2014_09_a-study-of-whois-privacy-and-proxy-service-abuse.pdf
+  path: papers/weis2014/weis2014_09_a-study-of-whois-privacy-and-proxy-service-abuse.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2014_10
+  conference: weis2014
+  year: 2014
+  title: Why Them? Extracting Intelligence about Target Selection from Zeus Financial Malware
+  authors:
+  - Samaneh Tajalizadehkhoob
+  - Hadi Asghari
+  - Carlos Gañán
+  - Michel van Eeten
+  authors_full:
+  - name: Samaneh Tajalizadehkhoob
+    affiliation: Delft University of Technology
+  - name: Hadi Asghari
+    affiliation: Delft University of Technology
+  - name: Carlos Gañán
+    affiliation: Delft University of Technology
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  session_number: 4
+  session: Understanding Cybercrime
+  event_type: session
+  date: '2014-06-23'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Tajalizadehkhoob-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Tajalizadehkhoob-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_11
+  conference: weis2014
+  year: 2014
+  title: The Effect of Decentralized Behavioral Decision Making on System-Level Risk
+  authors:
+  - Kim Kaivanto
+  authors_full:
+  - name: Kim Kaivanto
+    affiliation: Lancaster University
+  session_number: 5
+  session: Decision-Making, Incentives and Markets
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Kaivanto-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Kaivanto-WEIS2014-Slides.pdf
+  file: weis2014_11_the-effect-of-decentralized-behavioral-decision-making-on-sy.pdf
+  path: papers/weis2014/weis2014_11_the-effect-of-decentralized-behavioral-decision-making-on-sy.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20150226062523id_/http://weis2014.econinfosec.org:80/papers/Kaivanto-WEIS2014.pdf
+  error: null
+- id: weis2014_12
+  conference: weis2014
+  year: 2014
+  title: Resilience in Information Stewardship
+  authors:
+  - Christos Ioannidis
+  - David Pym
+  - Julian Williams
+  - Iffat Gheyas
+  authors_full:
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University College London
+  - name: Julian Williams
+    affiliation: University of Durham
+  - name: Iffat Gheyas
+    affiliation: University of Durham
+  session_number: 5
+  session: Decision-Making, Incentives and Markets
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Ioannidis-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Ioannidis-WEIS2014-Slides.pdf
+  file: weis2014_12_resilience-in-information-stewardship.pdf
+  path: papers/weis2014/weis2014_12_resilience-in-information-stewardship.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20150226062512id_/http://weis2014.econinfosec.org:80/papers/Ioannidis-WEIS2014.pdf
+  error: null
+- id: weis2014_13
+  conference: weis2014
+  year: 2014
+  title: Competition in the Crypto-Currency Market
+  authors:
+  - Neil Gandal
+  - Hanna Halaburda
+  authors_full:
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  - name: Hanna Halaburda
+    affiliation: Bank of Canada
+  session_number: 5
+  session: Decision-Making, Incentives and Markets
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/GandalHalaburda-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/GandalHalaburda-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_14
+  conference: weis2014
+  year: 2014
+  title: Incentive Engineering for Outsourced Computation in the Face of Collusion
+  authors:
+  - Mhr Khouzani
+  - Viet Pham
+  - Carlos Cid
+  authors_full:
+  - name: Mhr Khouzani
+    affiliation: Royal Holloway - University of London
+  - name: Viet Pham
+    affiliation: Royal Holloway - University of London
+  - name: Carlos Cid
+    affiliation: Royal Holloway - University of London
+  session_number: 5
+  session: Decision-Making, Incentives and Markets
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/KhouzaniPhamCid-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/KhouzaniPhamCid-WEIS2014-Slides.pdf
+  file: weis2014_14_incentive-engineering-for-outsourced-computation-in-the-face.pdf
+  path: papers/weis2014/weis2014_14_incentive-engineering-for-outsourced-computation-in-the-face.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2014_15
+  conference: weis2014
+  year: 2014
+  title: Voluntary Participation in Cyber-Insurance Markets
+  authors:
+  - Parinaz Naghizadeh
+  - Mingyan Liu
+  authors_full:
+  - name: Parinaz Naghizadeh
+    affiliation: University of Michigan
+  - name: Mingyan Liu
+    affiliation: University of Michigan
+  session_number: 6
+  session: Cryptocurrencies, Virtual Currencies and Cyberinsurance
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/NaghizadehLiu-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/NaghizadehLiu-WEIS2014-Slides.pdf
+  file: weis2014_15_voluntary-participation-in-cyber-insurance-markets.pdf
+  path: papers/weis2014/weis2014_15_voluntary-participation-in-cyber-insurance-markets.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20150226032952id_/http://weis2014.econinfosec.org:80/papers/NaghizadehLiu-WEIS2014.pdf
+  error: null
+- id: weis2014_16
+  conference: weis2014
+  year: 2014
+  title: On Decentralizing Prediction Markets and Order Books
+  authors:
+  - Jeremy Clark
+  - Joseph Bonneau
+  - Edward Felten
+  - Joshua Kroll
+  - Andrew Miller
+  - Arvind Narayanan
+  authors_full:
+  - name: Jeremy Clark
+    affiliation: Concordia University
+  - name: Joseph Bonneau
+    affiliation: Princeton University
+  - name: Edward Felten
+    affiliation: Princeton University
+  - name: Joshua Kroll
+    affiliation: Princeton University
+  - name: Andrew Miller
+    affiliation: University of Maryland
+  - name: Arvind Narayanan
+    affiliation: Princeton University
+  session_number: 6
+  session: Cryptocurrencies, Virtual Currencies and Cyberinsurance
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/Clark-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/Clark-WEIS2014-Slides.pdf
+  file: weis2014_16_on-decentralizing-prediction-markets-and-order-books.pdf
+  path: papers/weis2014/weis2014_16_on-decentralizing-prediction-markets-and-order-books.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2014_17
+  conference: weis2014
+  year: 2014
+  title: Analysis of Japanese Loyalty Programs Considering Liquidity, Security Efforts, and Actual Security Levels
+  authors:
+  - Bongkot Jenjarrussakul
+  - Kanta Matsuura
+  authors_full:
+  - name: Bongkot Jenjarrussakul
+    affiliation: University of Tokyo
+  - name: Kanta Matsuura
+    affiliation: University of Tokyo
+  session_number: 6
+  session: Cryptocurrencies, Virtual Currencies and Cyberinsurance
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/JenjarrussakulMatsuura-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/JenjarrussakulMatsuura-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_18
+  conference: weis2014
+  year: 2014
+  title: Framing and the Malleability of Privacy Choices
+  authors:
+  - Idris Adjerid
+  - Alessandro Acquisti
+  - George Loewenstein
+  authors_full:
+  - name: Idris Adjerid
+    affiliation: University of Notre Dame
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: George Loewenstein
+    affiliation: Carnegie Mellon University
+  session_number: 7
+  session: Experimental and Empirical Research on Privacy and Security
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/AdjeridAcquistiLoewenstein-WEIS2014.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2014_19
+  conference: weis2014
+  year: 2014
+  title: 'Meaningful Healthcare Security: Does "Meaningful-Use" Attestation Improve Information Security Performance?'
+  authors:
+  - Juhee Kwon
+  - M. Eric Johnson
+  authors_full:
+  - name: Juhee Kwon
+    affiliation: City University of Hong Kong
+  - name: M. Eric Johnson
+    affiliation: Vanderbilt University
+  session_number: 7
+  session: Experimental and Empirical Research on Privacy and Security
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/KwonJohnson-WEIS2014.pdf
+  slides_url: null
+  file: weis2014_19_meaningful-healthcare-security-does-meaningful-use-attestati.pdf
+  path: papers/weis2014/weis2014_19_meaningful-healthcare-security-does-meaningful-use-attestati.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2014_20
+  conference: weis2014
+  year: 2014
+  title: 'Aiming at a More Cost-Efficient Census Via Online Data Collection: Privacy Trade-Offs of Geo-Location'
+  authors:
+  - Laura Brandimarte
+  - Alessandro Acquisti
+  authors_full:
+  - name: Laura Brandimarte
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 7
+  session: Experimental and Empirical Research on Privacy and Security
+  event_type: session
+  date: '2014-06-24'
+  time: null
+  award: null
+  url: http://weis2014.econinfosec.org/papers/BrandimarteAcquisti-WEIS2014.pdf
+  slides_url: http://weis2014.econinfosec.org/presentations/BrandimarteAcquisti-WEIS2014-Slides.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)

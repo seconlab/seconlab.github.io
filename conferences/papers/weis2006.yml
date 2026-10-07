@@ -1,0 +1,227 @@
+name: WEIS 2006
+full_name: The Fifth Workshop on the Economics of Information Security
+edition: 5
+year: 2006
+location: Cambridge, England, UK
+venue: Robinson College, University of Cambridge
+start_date: '2006-06-26'
+end_date: '2006-06-28'
+website: http://weis2006.econinfosec.org/
+papers:
+- id: weis2006_01
+  title: Models and Measures for Correlation in Cyber-Insurance
+  authors:
+  - name: Rainer Boehme
+  - name: Gaurav Kataria
+  file: weis2006_01_models-and-measures-for-correlation-in-cyber-insurance.pdf
+  path: papers/weis2006/weis2006_01_models-and-measures-for-correlation-in-cyber-insurance.pdf
+- id: weis2006_02
+  title: The Effect of Stock Spam on Financial Markets
+  authors:
+  - name: Rainer Boehme
+  - name: Thorsten Holz
+  file: null
+  path: null
+- id: weis2006_03
+  title: The Economics of Digital Forensics
+  authors:
+  - name: Tyler Moore
+  file: weis2006_03_the-economics-of-digital-forensics.pdf
+  path: papers/weis2006/weis2006_03_the-economics-of-digital-forensics.pdf
+- id: weis2006_04
+  title: 'Understanding and Influencing Attackers'' Decisions: Implications for Security Investment Strategies'
+  authors:
+  - name: Marco Cremonini
+  - name: Dmitri Nizovtsev
+  file: weis2006_04_understanding-and-influencing-attackers-decisions-implicatio.pdf
+  path: papers/weis2006/weis2006_04_understanding-and-influencing-attackers-decisions-implicatio.pdf
+- id: weis2006_05
+  title: On the Gordon & Loeb Model for Information Security Investment
+  authors:
+  - name: Jan Willemson
+  file: weis2006_05_on-the-gordon-loeb-model-for-information-security-investment.pdf
+  path: papers/weis2006/weis2006_05_on-the-gordon-loeb-model-for-information-security-investment.pdf
+- id: weis2006_06
+  title: Economics of Information Security Investment in the Case of Simultaneous Attacks
+  authors:
+  - name: C. Derrick Huang
+  - name: Qing Hu
+  - name: Ravi S. Behara
+  file: weis2006_06_economics-of-information-security-investment-in-the-case-of.pdf
+  path: papers/weis2006/weis2006_06_economics-of-information-security-investment-in-the-case-of.pdf
+- id: weis2006_07
+  title: 'Enterprise Information Security: Who Should Manage it and How?'
+  authors:
+  - name: Vineet Kumar
+  - name: Rahul Telang
+  - name: Tridas Mukhopadhyay
+  file: weis2006_07_enterprise-information-security-who-should-manage-it-and-how.pdf
+  path: papers/weis2006/weis2006_07_enterprise-information-security-who-should-manage-it-and-how.pdf
+- id: weis2006_08
+  title: Hackers, Users, Information Security
+  authors:
+  - name: I.P.L. Png
+  - name: Candy Q. Tang
+  - name: Qiu-Hong Wang
+  file: weis2006_08_hackers-users-information-security.pdf
+  path: papers/weis2006/weis2006_08_hackers-users-information-security.pdf
+- id: weis2006_09
+  title: 'A Model for Opportunistic Network Exploits: The Case of P2P Worms'
+  authors:
+  - name: Michael Collins
+  - name: Carrie Gates
+  - name: Gaurav Kataria
+  file: weis2006_09_a-model-for-opportunistic-network-exploits-the-case-of-p2p-w.pdf
+  path: papers/weis2006/weis2006_09_a-model-for-opportunistic-network-exploits-the-case-of-p2p-w.pdf
+- id: weis2006_10
+  title: Predictors of Home-Based Wireless Security
+  authors:
+  - name: Matthew Hottell
+  - name: Drew Carter
+  - name: Matthew Deniszczuk
+  file: weis2006_10_predictors-of-home-based-wireless-security.pdf
+  path: papers/weis2006/weis2006_10_predictors-of-home-based-wireless-security.pdf
+- id: weis2006_11
+  title: Proof of Work can Work
+  authors:
+  - name: Debin Liu
+  - name: L Jean Camp
+  file: weis2006_11_proof-of-work-can-work.pdf
+  path: papers/weis2006/weis2006_11_proof-of-work-can-work.pdf
+- id: weis2006_12
+  title: The Topology of Covert Conflict
+  authors:
+  - name: Shishir Nagaraja
+  - name: Ross Anderson
+  file: weis2006_12_the-topology-of-covert-conflict.pdf
+  path: papers/weis2006/weis2006_12_the-topology-of-covert-conflict.pdf
+- id: weis2006_13
+  title: 'Costs to the U.S. Economy of Information Infrastructure Failures: Estimates from Field Studies and Economic Data'
+  authors:
+  - name: Scott Dynes
+  - name: Eva Andrijicic
+  - name: M Eric Johnson
+  file: weis2006_13_costs-to-the-u-s-economy-of-information-infrastructure-failu.pdf
+  path: papers/weis2006/weis2006_13_costs-to-the-u-s-economy-of-information-infrastructure-failu.pdf
+- id: weis2006_14
+  title: 'The Potential for Underinvestment in Internet Security: Implications for Regulatory Policy'
+  authors:
+  - name: Alfredo Garcia
+  - name: Barry Horowitz
+  file: weis2006_14_the-potential-for-underinvestment-in-internet-security-impli.pdf
+  path: papers/weis2006/weis2006_14_the-potential-for-underinvestment-in-internet-security-impli.pdf
+- id: weis2006_15
+  title: Bootstrapping the Adoption of Internet Security Protocols
+  authors:
+  - name: Andy Ozment
+  - name: Stuart E. Schechter
+  file: weis2006_15_bootstrapping-the-adoption-of-internet-security-protocols.pdf
+  path: papers/weis2006/weis2006_15_bootstrapping-the-adoption-of-internet-security-protocols.pdf
+- id: weis2006_16
+  title: The Economic Impact of Regulatory Information Disclosure on Information Security Investments, Competition, and Social Welfare
+  authors:
+  - name: Anindya Ghose
+  - name: Uday Rajan
+  file: weis2006_16_the-economic-impact-of-regulatory-information-disclosure-on.pdf
+  path: papers/weis2006/weis2006_16_the-economic-impact-of-regulatory-information-disclosure-on.pdf
+- id: weis2006_17
+  title: 'Opt In Versus Opt Out: A Free-Entry Analysis of Privacy Policies'
+  authors:
+  - name: Jan Bouckaert
+  - name: Hans Degryse
+  file: weis2006_17_opt-in-versus-opt-out-a-free-entry-analysis-of-privacy-polic.pdf
+  path: papers/weis2006/weis2006_17_opt-in-versus-opt-out-a-free-entry-analysis-of-privacy-polic.pdf
+- id: weis2006_18
+  title: Reliable, Usable Signaling to Defeat Masquerade Attacks
+  authors:
+  - name: L Jean Camp
+  file: weis2006_18_reliable-usable-signaling-to-defeat-masquerade-attacks.pdf
+  path: papers/weis2006/weis2006_18_reliable-usable-signaling-to-defeat-masquerade-attacks.pdf
+- id: weis2006_19
+  title: Economics of Security Patch Management
+  authors:
+  - name: Huseyin Cavusoglu
+  - name: Hasan Cavusoglu
+  - name: Jun Zhang
+  file: weis2006_19_economics-of-security-patch-management.pdf
+  path: papers/weis2006/weis2006_19_economics-of-security-patch-management.pdf
+- id: weis2006_20
+  title: Emerging Economic Models for Vulnerability Research
+  authors:
+  - name: Michael Sutton
+  - name: Frank Nagle
+  file: weis2006_20_emerging-economic-models-for-vulnerability-research.pdf
+  path: papers/weis2006/weis2006_20_emerging-economic-models-for-vulnerability-research.pdf
+- id: weis2006_21
+  title: Competitive and Strategic Effects in the Timing of Patch Release
+  authors:
+  - name: Ashish Arora
+  - name: Christopher M. Forman
+  - name: Anand Nandkumar
+  - name: Rahul Telang
+  file: weis2006_21_competitive-and-strategic-effects-in-the-timing-of-patch-rel.pdf
+  path: papers/weis2006/weis2006_21_competitive-and-strategic-effects-in-the-timing-of-patch-rel.pdf
+- id: weis2006_22
+  title: 'Private Sector Cyber Security Investment: An Empirical Analysis'
+  authors:
+  - name: Brent R. Rowe
+  - name: Michael P. Gallaher
+  file: weis2006_22_private-sector-cyber-security-investment-an-empirical-analys.pdf
+  path: papers/weis2006/weis2006_22_private-sector-cyber-security-investment-an-empirical-analys.pdf
+- id: weis2006_23
+  title: An Empirical Analysis of Security Investment in Countermeasures Based on an Enterprise Survey in Japan
+  authors:
+  - name: Wei Liu
+  - name: Hideyuki Tanaka
+  - name: Kanta Matsuura
+  file: weis2006_23_an-empirical-analysis-of-security-investment-in-countermeasu.pdf
+  path: papers/weis2006/weis2006_23_an-empirical-analysis-of-security-investment-in-countermeasu.pdf
+- id: weis2006_24
+  title: 'Justifying Spam and E-mail Virus Security Investments: A Case Study'
+  authors:
+  - name: Hemantha Herath
+  - name: Tejaswini Herath
+  file: weis2006_24_justifying-spam-and-e-mail-virus-security-investments-a-case.pdf
+  path: papers/weis2006/weis2006_24_justifying-spam-and-e-mail-virus-security-investments-a-case.pdf
+- id: weis2006_25
+  title: The Economics of Mass Surveillance and the Questionable Value of Anonymous Communications
+  authors:
+  - name: George Danezis
+  - name: Bettina Wittneben
+  file: weis2006_25_the-economics-of-mass-surveillance-and-the-questionable-valu.pdf
+  path: papers/weis2006/weis2006_25_the-economics-of-mass-surveillance-and-the-questionable-valu.pdf
+- id: weis2006_26
+  title: Is There a Cost to Privacy Breaches? An Event Study
+  authors:
+  - name: Alessandro Acquisti
+  - name: Allan Friedman
+  - name: Rahul Telang
+  file: weis2006_26_is-there-a-cost-to-privacy-breaches-an-event-study.pdf
+  path: papers/weis2006/weis2006_26_is-there-a-cost-to-privacy-breaches-an-event-study.pdf
+- id: weis2006_27
+  title: Financial Privacy for Free? US Consumers' Response to FACTA
+  authors:
+  - name: Alessandro Acquisti
+  - name: Bin Zhang
+  file: weis2006_27_financial-privacy-for-free-us-consumers-response-to-facta.pdf
+  path: papers/weis2006/weis2006_27_financial-privacy-for-free-us-consumers-response-to-facta.pdf
+- id: weis2006_28
+  title: 'Anonymity Loves Company: Usability and the Network Effect'
+  authors:
+  - name: Roger Dingledine
+  - name: Nick Mathewson
+  file: weis2006_28_anonymity-loves-company-usability-and-the-network-effect.pdf
+  path: papers/weis2006/weis2006_28_anonymity-loves-company-usability-and-the-network-effect.pdf
+- id: weis2006_29
+  title: 'Collaborative Scheduling: Threats and Promises'
+  authors:
+  - name: Rachel Greenstadt
+  - name: Michael D. Smith
+  file: weis2006_29_collaborative-scheduling-threats-and-promises.pdf
+  path: papers/weis2006/weis2006_29_collaborative-scheduling-threats-and-promises.pdf
+- id: weis2006_30
+  title: Adverse Selection in Online 'Trust' Certifications
+  authors:
+  - name: Benjamin Edelman
+  file: weis2006_30_adverse-selection-in-online-trust-certifications.pdf
+  path: papers/weis2006/weis2006_30_adverse-selection-in-online-trust-certifications.pdf

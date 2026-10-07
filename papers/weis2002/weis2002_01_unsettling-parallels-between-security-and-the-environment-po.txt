@@ -1,0 +1,158 @@
+
+	Unsettling Parallels Between Security and the Environment
+
+		       Ross Anderson
+
+The insecurity of the Internet has been compared to environmental
+pollution: running a vulnerable machine creates negative externalities
+as it becomes a potential vector for worms, distributed denial of
+service attacks and so on. Users do not therefore bear the full costs
+of their actions; this is now being used as an excuse for more
+government regulation, particularly by the European Union [1].
+
+So what can the information security community learn from the world of
+environmental economics?
+
+The standard view of environmental economics can be found in textbooks
+such as Kolstad [2], which presents it as an application of economics
+that took off in the 1970s. Its main problem has been in measuring
+people's willingness to pay to reduce pollution; its main contribution
+to economic theory is in non-market valuation; and its main visible
+contribution to the way we live is in mechanisms such as the tradable
+pollution permits used by cities in Germany. It is contrasted with
+`ecological economics', a more fundamentalist school whose
+practitioners are often ecologists who learned some economics rather
+than economists who studied the natural world. In this school, the
+philosophical emphasis is often on very long timescales, and the main
+practical contribution is the concept of energy audits. There is a
+distinct right-left split between the disciplines, with the former
+being typically interested in maximising the profit from natural
+resources and considering the latter to be naive.
+
+This already touches a number of chords for the security engineer.
+Our profession maintained a remarkable unanimity in the 1990s in the
+face of government attempts to introduce key escrow and regulate
+information security mechanisms generally, but in the last year or two
+has been separating into one group of people people happy to work on
+digital rights management systems, and another group of people who
+work on privacy, often with a commitment to free or open source
+software. The two groups are not yet at war, but are starting to drift
+visibly apart.
+
+With hindsight this is not too surprising. Given that information
+security, like physical security, is about power, the remarkable thing
+may be the length of time for which it was generally believed that
+cryptography would be on balance a liberating force.  Sooner or later,
+as predicted by Lessig [3], the men of power were bound to grasp the
+new levers of power, or to be joined at the top table by the new
+people who operated them. So perhaps the last twenty years' history of
+environmental economics holds useful omens for the near future of
+information security.
+
+So what is the hot topic in environmental economics right now?
+
+Without doubt, the most vigorous debate concerns Lomborg's book, `The
+Sceptical Environmentalist'. This argues that many of the frightening
+claims made about the environment in recent years have been
+exaggerated, and often wildly so: that deforestation and species
+extinction are not really a problem, that global warming is over-hyped
+and that environmental dollars should be spent instead on simple
+measures such as providing clean drinking water to the third world.
+The reasons for systematic exaggeration are just as interesting. Most
+of the players in the environmental business have an incentive to talk
+up the problem: this holds whether you are a professor of botany
+seeking funding for an expedition to Brazil, an engineer trying to
+sell flue-gas desulphurization equipment to a power station, or a
+bureaucrat trying to build up influence of the environmental agency
+you work for. The press can be replied on to report the most
+spectacular claims, and in the absence of solid data, all sorts of
+wild hypothesis are repeated often enough to mutate from urban legends
+into accepted `facts'.
+
+Does this not sound rather familiar to the security engineer?
+
+Environmental scaremongers tell us on Monday that the oil will run out
+in 25 years, bringing civilisation to a stop, and on Tuesday that
+global warming will drown East Anglia by the end of this century. No
+connection seems to be made; no-one stops to object that at most one
+of these predictions is likely to be true.  Security scaremongers tell
+us on Wednesday that email is so easy to tap on the Internet that we
+should beware for our credit card numbers, but when on Thursday the
+FBI say that tapping email on the Internet is so hard that they need a
+special `Carnivore' box at each ISP, the connection is again not made.
+If tapping email is really so much harder than opening the physical
+mail, are the dozens of encryption companies selling anything of value
+- or should the stock market regulators be taking a closer interest in
+their promoters?
+
+The security engineering community has, like the environmental science
+community, built-in incentives to overstate the problem. The typical
+infosec professional is a firewall vendor struggling to meet quarterly
+sales targets to prop up a sagging stock price, or a professor trying
+to mine the `cyberterrorism' industry for grants, or a policeman
+pitching for the budget to build up a computer crime agency. The
+players whose interest lies in understating the problem - whether ISPs
+who want customers to relax and spend hours online, or large software
+firms who want to downplay the latest vulnerability - do not generally
+feel able to make their case forcefully, any more than the oil or
+timber companies.  Banks rushed to warn customers about the risks of
+using credit cards on the net in the mid-1990s; but now that they can
+see the transaction charges greatly exceed the fraud, they are nervous
+about changing their tune too openly, and prefer to spend their
+energies quietly lobbying to have the risks of electronic fraud passed
+on to others.
+
+Over the last fifteen years, I have seen several information security
+fashions come and go. Recently the emphasis has been on network
+security, in the broad sense - which has tended to mean selling
+firewalls and encryption. Given that these technologies tackle only a
+minority of the typical firm's security problems, and that they were
+grossly oversold [4], the ebbing of that particular tide is to be
+welcomed. However, in the short breathing space before the next big
+thing arrives, it is time to ask the hard question: does the average
+firm spend too little on security, as the vendors say, or too much?
+
+My intuition is that many firms get it about right, or if anything
+spend slightly too much. Recently, some quantitative support for this
+view has been published by Soo Hoo, suggesting a return on security
+investment of around 20% - economically worthwhile, but below 30% ROI
+typically demanded for IT investments at the time of the study [5].
+His study also suggests that simple, cheap measures such as turning on
+screen locking features are much more worthwhile than the large
+projects (such as PKI to support network encryption and centralised
+access control) that many security vendors prefer to sell. The
+`executive summary' is `you could spend a bit less on security if you
+spent it smarter'. Refining this message must surely be of some value
+to industry.
+
+I also hope that by developing the economics of information security
+as a rigorous discipline, which provides researchers and vendors with
+continuous practical feedback, we can avoid the pitfall into which our
+environmental research colleagues have fallen. There, Lomborg's
+(overdue) deflation of the wild claims made by the more colourful NGOs
+and eco-scaremongers has also caused much anger and embarrassment to
+respectable scientists. 
+
+Rational and constructive criticism at regular intervals are what's
+needed. As the park ranger says, it's OK to have a fire every five
+years; but if you put them out aggressively and let the undergrowth
+accumulate for twenty-five years, then you have a serious problem.
+
+
+
+[1] European Commission, Network and Information Security: Proposal 
+    for a European Policy Approach, 2001,
+    <http://europa.eu.int/information_society/eeurope/news_library/pdf_files/netsec_en.pdf>
+
+[2] Charles D. Kolstad, Environmental Economics, Oxford University Press, 2000 
+
+[3] Lawrence Lessig, Code and other laws of cyberspace, Basic Books 1999
+
+[4] Ross Anderson, Security Engineering, Wiley 2001
+
+[5] Kevin Soo Hoo, How Much is Enough? A Risk Management Approach to
+    Computer Security, http://cisac.stanford.edu/docs/soohoo.pdf
+
+
+
+

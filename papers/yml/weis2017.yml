@@ -1,0 +1,646 @@
+conference: weis2017
+name: WEIS 2017
+year: 2017
+papers_dir: papers/weis2017
+total: 25
+downloaded: 23
+failed: 2
+papers:
+- id: weis2017_01
+  conference: weis2017
+  year: 2017
+  title: When to Invest in Security? Empirical Evidence and a Game-Theoretic Approach for Time-Based Security
+  authors:
+  - Sadegh Farhang
+  - Jens Grossklags
+  authors_full:
+  - name: Sadegh Farhang
+  - name: Jens Grossklags
+  session_number: 1
+  session: Security Investment and Performance
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_69.pdf
+  slides_url: null
+  file: weis2017_01_when-to-invest-in-security-empirical-evidence-and-a-game-the.pdf
+  path: papers/weis2017/weis2017_01_when-to-invest-in-security-empirical-evidence-and-a-game-the.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_69.pdf
+  error: null
+- id: weis2017_02
+  conference: weis2017
+  year: 2017
+  title: Inferring Security Performance of Providers from Noisy and Heterogenous Abuse Datasets
+  authors:
+  - Arman Noroozian
+  - Michael Ciere
+  - Maciej Korczynski
+  - Samaneh Tajalizadehkhoob
+  - Michel van Eeten
+  authors_full:
+  - name: Arman Noroozian
+  - name: Michael Ciere
+  - name: Maciej Korczynski
+  - name: Samaneh Tajalizadehkhoob
+  - name: Michel van Eeten
+  session_number: 1
+  session: Security Investment and Performance
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_60.pdf
+  slides_url: null
+  file: weis2017_02_inferring-security-performance-of-providers-from-noisy-and-h.pdf
+  path: papers/weis2017/weis2017_02_inferring-security-performance-of-providers-from-noisy-and-h.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_60.pdf
+  error: null
+- id: weis2017_03
+  conference: weis2017
+  year: 2017
+  title: The effect of competition intensity on software security – An empirical analysis of security patch release on the web browser market
+  authors:
+  - Arrah-Marie Jo
+  authors_full:
+  - name: Arrah-Marie Jo
+  session_number: 1
+  session: Security Investment and Performance
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_10.pdf
+  slides_url: null
+  file: weis2017_03_the-effect-of-competition-intensity-on-software-security-an.pdf
+  path: papers/weis2017/weis2017_03_the-effect-of-competition-intensity-on-software-security-an.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_10.pdf
+  error: null
+- id: weis2017_04
+  conference: weis2017
+  year: 2017
+  title: The Effects of Security Management on Security Events
+  authors:
+  - Frank Nagle
+  - Sam Ransbotham
+  - George Westerman
+  authors_full:
+  - name: Frank Nagle
+  - name: Sam Ransbotham
+  - name: George Westerman
+  session_number: 1
+  session: Security Investment and Performance
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_51.pdf
+  slides_url: null
+  file: weis2017_04_the-effects-of-security-management-on-security-events.pdf
+  path: papers/weis2017/weis2017_04_the-effects-of-security-management-on-security-events.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_51.pdf
+  error: null
+- id: weis2017_05
+  conference: weis2017
+  year: 2017
+  title: Cost of a Cyber Incident
+  authors:
+  - Olga Livingston
+  - Matthew Shabat
+  - Tony Cheesebrough
+  authors_full:
+  - name: Olga Livingston
+    affiliation: DHS
+  - name: Matthew Shabat
+    affiliation: DHS
+  - name: Tony Cheesebrough
+    affiliation: DHS
+  session_number: null
+  session: Government Perspectives
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: null
+  slides_url: null
+  file: null
+  path: null
+  status: no_url
+  source: null
+  downloaded_url: null
+  error: nessun url nel yml
+- id: weis2017_06
+  conference: weis2017
+  year: 2017
+  title: 'Privacy and Data Security: An Economic Perspective of Consumer Protection'
+  authors:
+  - Andrew Stivers
+  - Ginger Jin
+  authors_full:
+  - name: Andrew Stivers
+    affiliation: FTC
+  - name: Ginger Jin
+    affiliation: FTC
+  session_number: null
+  session: Government Perspectives
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_50.pdf
+  slides_url: null
+  file: weis2017_06_privacy-and-data-security-an-economic-perspective-of-consume.pdf
+  path: papers/weis2017/weis2017_06_privacy-and-data-security-an-economic-perspective-of-consume.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_50.pdf
+  error: null
+- id: weis2017_07
+  conference: weis2017
+  year: 2017
+  title: R&D Strategy for the Cyber Risk Economics (CYRIE) program, Cyber Security Division of DHS
+  authors:
+  - Erin Kenneally
+  authors_full:
+  - name: Erin Kenneally
+    affiliation: DHS
+  session_number: null
+  session: Government Perspectives
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/08/WEIS_2017_paper_cyrie.pdf
+  slides_url: null
+  file: weis2017_07_r-d-strategy-for-the-cyber-risk-economics-cyrie-program-cybe.pdf
+  path: papers/weis2017/weis2017_07_r-d-strategy-for-the-cyber-risk-economics-cyrie-program-cybe.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/08/WEIS_2017_paper_cyrie.pdf
+  error: null
+- id: weis2017_08
+  conference: weis2017
+  year: 2017
+  title: An Analysis of Pay-per-Install Economics Using Entity Graphs
+  authors:
+  - Platon Kotzias
+  - Juan Caballero
+  authors_full:
+  - name: Platon Kotzias
+  - name: Juan Caballero
+  session_number: 2
+  session: Impact on Businesses and Exchanges
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_45.pdf
+  slides_url: null
+  file: weis2017_08_an-analysis-of-pay-per-install-economics-using-entity-graphs.pdf
+  path: papers/weis2017/weis2017_08_an-analysis-of-pay-per-install-economics-using-entity-graphs.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_45.pdf
+  error: null
+- id: weis2017_09
+  conference: weis2017
+  year: 2017
+  title: 'Booted: An Analysis of a Payment Intervention on a DDoS-for-Hire Service'
+  authors:
+  - Ryan Brunt
+  - Prakhar Pandey
+  - Damon McCoy
+  authors_full:
+  - name: Ryan Brunt
+  - name: Prakhar Pandey
+  - name: Damon McCoy
+  session_number: 2
+  session: Impact on Businesses and Exchanges
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_46.pdf
+  slides_url: null
+  file: weis2017_09_booted-an-analysis-of-a-payment-intervention-on-a-ddos-for-h.pdf
+  path: papers/weis2017/weis2017_09_booted-an-analysis-of-a-payment-intervention-on-a-ddos-for-h.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_46.pdf
+  error: null
+- id: weis2017_10
+  conference: weis2017
+  year: 2017
+  title: Price Manipulation in the Bitcoin Ecosystem
+  authors:
+  - Neil Gandal
+  - JT Hamrick
+  - Tyler Moore
+  - Tali Oberman
+  authors_full:
+  - name: Neil Gandal
+  - name: JT Hamrick
+  - name: Tyler Moore
+  - name: Tali Oberman
+  session_number: 2
+  session: Impact on Businesses and Exchanges
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_21.pdf
+  slides_url: null
+  file: weis2017_10_price-manipulation-in-the-bitcoin-ecosystem.pdf
+  path: papers/weis2017/weis2017_10_price-manipulation-in-the-bitcoin-ecosystem.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_21.pdf
+  error: null
+- id: weis2017_11
+  conference: weis2017
+  year: 2017
+  title: 'Impact of Security Events and Fraudulent Transactions on Customer Loyalty: A Field Study'
+  authors:
+  - Sriram Somanchi
+  - Rahul Telang
+  authors_full:
+  - name: Sriram Somanchi
+  - name: Rahul Telang
+  session_number: 2
+  session: Impact on Businesses and Exchanges
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_57.pdf
+  slides_url: null
+  file: weis2017_11_impact-of-security-events-and-fraudulent-transactions-on-cus.pdf
+  path: papers/weis2017/weis2017_11_impact-of-security-events-and-fraudulent-transactions-on-cus.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_57.pdf
+  error: null
+- id: weis2017_12
+  conference: weis2017
+  year: 2017
+  title: 'Sometimes Three Rights Really Do Make a Wrong: Measuring Cybersecurity and Simpson’s Paradox'
+  authors:
+  - Eric Jardine
+  authors_full:
+  - name: Eric Jardine
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/07/WEIS_2017_paper_18.pdf
+  slides_url: null
+  file: weis2017_12_sometimes-three-rights-really-do-make-a-wrong-measuring-cybe.pdf
+  path: papers/weis2017/weis2017_12_sometimes-three-rights-really-do-make-a-wrong-measuring-cybe.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/07/WEIS_2017_paper_18.pdf
+  error: null
+- id: weis2017_13
+  conference: weis2017
+  year: 2017
+  title: 'The Work-Averse Cyber Attacker Model: Theory and Evidence From Two Million Attack Signatures'
+  authors:
+  - Luca Allodi
+  - Fabio Massacci
+  - Julian Williams
+  authors_full:
+  - name: Luca Allodi
+  - name: Fabio Massacci
+  - name: Julian Williams
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_13.pdf
+  slides_url: null
+  file: weis2017_13_the-work-averse-cyber-attacker-model-theory-and-evidence-fro.pdf
+  path: papers/weis2017/weis2017_13_the-work-averse-cyber-attacker-model-theory-and-evidence-fro.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_13.pdf
+  error: null
+- id: weis2017_14
+  conference: weis2017
+  year: 2017
+  title: 'Make Notifications Great Again: Learning How to Notify in the Age of Large-Scale Vulnerability Scanning'
+  authors:
+  - Orcun Cetin
+  - Carlos Gañán
+  - Maciej Korczyński
+  - Michel van Eeten
+  authors_full:
+  - name: Orcun Cetin
+  - name: Carlos Gañán
+  - name: Maciej Korczyński
+  - name: Michel van Eeten
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_17.pdf
+  slides_url: null
+  file: weis2017_14_make-notifications-great-again-learning-how-to-notify-in-the.pdf
+  path: papers/weis2017/weis2017_14_make-notifications-great-again-learning-how-to-notify-in-the.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_17.pdf
+  error: null
+- id: weis2017_15
+  conference: weis2017
+  year: 2017
+  title: Standardisation and Certification of the ‘Internet of Things’
+  authors:
+  - Eireann Leverett
+  - Richard Clayton
+  - Ross Anderson
+  authors_full:
+  - name: Eireann Leverett
+  - name: Richard Clayton
+  - name: Ross Anderson
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2017-06-26'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_23.pdf
+  slides_url: null
+  file: weis2017_15_standardisation-and-certification-of-the-internet-of-things.pdf
+  path: papers/weis2017/weis2017_15_standardisation-and-certification-of-the-internet-of-things.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_23.pdf
+  error: null
+- id: weis2017_16
+  conference: weis2017
+  year: 2017
+  title: Security Breaches in the U.S. Federal Government
+  authors:
+  - Min-Seok Pang
+  - Huseyin Tanriverdi
+  authors_full:
+  - name: Min-Seok Pang
+  - name: Huseyin Tanriverdi
+  session_number: 4
+  session: Security/Data Breaches
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_52.pdf
+  slides_url: null
+  file: weis2017_16_security-breaches-in-the-u-s-federal-government.pdf
+  path: papers/weis2017/weis2017_16_security-breaches-in-the-u-s-federal-government.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_52.pdf
+  error: null
+- id: weis2017_17
+  conference: weis2017
+  year: 2017
+  title: Do Hospital Data Breaches Reduce Patient Care Quality?
+  authors:
+  - Sung Choi
+  - M. Eric Johnson
+  authors_full:
+  - name: Sung Choi
+  - name: M. Eric Johnson
+  session_number: 4
+  session: Security/Data Breaches
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://arxiv.org/abs/1904.02058
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2017_18
+  conference: weis2017
+  year: 2017
+  title: Do Organizations Learn from a Data Breach?
+  authors:
+  - Joseph Buckman
+  - Jesse Bockstedt
+  - Matthew Hashim
+  - Tiemen Woutersen
+  authors_full:
+  - name: Joseph Buckman
+  - name: Jesse Bockstedt
+  - name: Matthew Hashim
+  - name: Tiemen Woutersen
+  session_number: 4
+  session: Security/Data Breaches
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_55.pdf
+  slides_url: null
+  file: weis2017_18_do-organizations-learn-from-a-data-breach.pdf
+  path: papers/weis2017/weis2017_18_do-organizations-learn-from-a-data-breach.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_55.pdf
+  error: null
+- id: weis2017_19
+  conference: weis2017
+  year: 2017
+  title: Estimating the size of the iceberg from its tip
+  authors:
+  - Fabio Bisogni
+  - Hadi Asghari
+  - Michel van Eeten
+  authors_full:
+  - name: Fabio Bisogni
+  - name: Hadi Asghari
+  - name: Michel van Eeten
+  session_number: 4
+  session: Security/Data Breaches
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_54.pdf
+  slides_url: null
+  file: weis2017_19_estimating-the-size-of-the-iceberg-from-its-tip.pdf
+  path: papers/weis2017/weis2017_19_estimating-the-size-of-the-iceberg-from-its-tip.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_54.pdf
+  error: null
+- id: weis2017_20
+  conference: weis2017
+  year: 2017
+  title: Privacy and Quality
+  authors:
+  - Yassine Lefouilli
+  - Ying Lei Toh
+  authors_full:
+  - name: Yassine Lefouilli
+  - name: Ying Lei Toh
+  session_number: 5
+  session: Privacy
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_12.pdf
+  slides_url: null
+  file: weis2017_20_privacy-and-quality.pdf
+  path: papers/weis2017/weis2017_20_privacy-and-quality.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_12.pdf
+  error: null
+- id: weis2017_21
+  conference: weis2017
+  year: 2017
+  title: An Empirical Investigation of the Antecedents and Consequences of Privacy Uncertainty in the Context of Mobile Apps
+  authors:
+  - Usman Aleem
+  - Hasan Cavusoglu
+  - Izak Benbasat
+  authors_full:
+  - name: Usman Aleem
+  - name: Hasan Cavusoglu
+  - name: Izak Benbasat
+  session_number: 5
+  session: Privacy
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_29.pdf
+  slides_url: null
+  file: weis2017_21_an-empirical-investigation-of-the-antecedents-and-consequenc.pdf
+  path: papers/weis2017/weis2017_21_an-empirical-investigation-of-the-antecedents-and-consequenc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_29.pdf
+  error: null
+- id: weis2017_22
+  conference: weis2017
+  year: 2017
+  title: 'Online Distractions, Website Blockers, and Economic Productivity: A Randomized Field Experiment'
+  authors:
+  - Veronica Marotta
+  - Alessandro Acquisti
+  authors_full:
+  - name: Veronica Marotta
+  - name: Alessandro Acquisti
+  session_number: 5
+  session: Privacy
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_26.pdf
+  slides_url: null
+  file: weis2017_22_online-distractions-website-blockers-and-economic-productivi.pdf
+  path: papers/weis2017/weis2017_22_online-distractions-website-blockers-and-economic-productivi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_26.pdf
+  error: null
+- id: weis2017_23
+  conference: weis2017
+  year: 2017
+  title: 'Content Analysis of Cyber Insurance Policies: How do carriers develop policies and price cyber risk?'
+  authors:
+  - Sasha Romanosky
+  - Lillian Ablon
+  - Andreas Kuehn
+  - Therese Jones
+  authors_full:
+  - name: Sasha Romanosky
+  - name: Lillian Ablon
+  - name: Andreas Kuehn
+  - name: Therese Jones
+  session_number: 6
+  session: Cyber Insurance
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_28.pdf
+  slides_url: null
+  file: weis2017_23_content-analysis-of-cyber-insurance-policies-how-do-carriers.pdf
+  path: papers/weis2017/weis2017_23_content-analysis-of-cyber-insurance-policies-how-do-carriers.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/06/WEIS_2017_paper_28.pdf
+  error: null
+- id: weis2017_24
+  conference: weis2017
+  year: 2017
+  title: Attack-Aware Cyber Insurance of Interdependent Computer Networks
+  authors:
+  - Rui Zhang
+  - Quanyan Zhu
+  authors_full:
+  - name: Rui Zhang
+  - name: Quanyan Zhu
+  session_number: 6
+  session: Cyber Insurance
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_38.pdf
+  slides_url: null
+  file: weis2017_24_attack-aware-cyber-insurance-of-interdependent-computer-netw.pdf
+  path: papers/weis2017/weis2017_24_attack-aware-cyber-insurance-of-interdependent-computer-netw.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_38.pdf
+  error: null
+- id: weis2017_25
+  conference: weis2017
+  year: 2017
+  title: 'Cyberinsurance and Public Policy: Self-Protection and Insurance with Endogenous Adversaries'
+  authors:
+  - Fabio Massacci
+  - Joe Swierzbinski
+  - Julian Williams
+  authors_full:
+  - name: Fabio Massacci
+  - name: Joe Swierzbinski
+  - name: Julian Williams
+  session_number: 6
+  session: Cyber Insurance
+  event_type: session
+  date: '2017-06-27'
+  time: null
+  award: null
+  url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_14.pdf
+  slides_url: null
+  file: weis2017_25_cyberinsurance-and-public-policy-self-protection-and-insuran.pdf
+  path: papers/weis2017/weis2017_25_cyberinsurance-and-public-policy-self-protection-and-insuran.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2017.econinfosec.org/wp-content/uploads/sites/3/2017/05/WEIS_2017_paper_14.pdf
+  error: null

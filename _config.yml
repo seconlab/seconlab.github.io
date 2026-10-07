@@ -1,8 +1,9 @@
 title: SECON
 description: Archive of conferences on the economics of information security
 
-# Ogni file conferences/yml/<slug>.yml diventa site.data.<slug>
-data_dir: conferences/yml
+# conferences/yml/<slug>.yml    -> site.data.yml.<slug>     (programma completo)
+# conferences/papers/<slug>.yml -> site.data.papers.<slug>  (elenco paper, pagina principale)
+data_dir: conferences
 
 plugins:
   - jekyll-seo-tag

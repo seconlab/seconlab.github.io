@@ -1,0 +1,250 @@
+name: WEIS 2012
+full_name: The 11th Workshop on the Economics of Information Security
+edition: 11
+year: 2012
+location: Berlin, Germany
+venue: Berlin Brandenburg Academy of Sciences (BBAW), Jaegerstrasse 22-23, 10117 Berlin (entrance Markgrafenstrasse 38)
+start_date: '2012-06-25'
+end_date: '2012-06-26'
+website: http://weis2012.econinfosec.org/
+papers:
+- id: weis2012_01
+  title: Empirical Analysis of Data Breach Litigation
+  authors:
+  - name: Sasha Romanosky
+    affiliation: Carnegie Mellon University
+  - name: David Hoffman
+    affiliation: Temple University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2012_01_empirical-analysis-of-data-breach-litigation.pdf
+  path: papers/weis2012/weis2012_01_empirical-analysis-of-data-breach-litigation.pdf
+- id: weis2012_02
+  title: Is Patient Data Better Protected in Competitive Healthcare Markets?
+  authors:
+  - name: Martin S. Gaynor
+    affiliation: Carnegie Mellon University
+  - name: Muhammad Zia Hydari
+    affiliation: Carnegie Mellon University
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  file: weis2012_02_is-patient-data-better-protected-in-competitive-healthcare-m.pdf
+  path: papers/weis2012/weis2012_02_is-patient-data-better-protected-in-competitive-healthcare-m.pdf
+- id: weis2012_03
+  title: The Privacy Economics of Voluntary Over-disclosure in Web Forms
+  authors:
+  - name: Sören Preibusch
+    affiliation: University of Cambridge
+  - name: Kat Krol
+    affiliation: University College London
+  - name: Alastair R. Beresford
+    affiliation: University of Cambridge
+  file: weis2012_03_the-privacy-economics-of-voluntary-over-disclosure-in-web-fo.pdf
+  path: papers/weis2012/weis2012_03_the-privacy-economics-of-voluntary-over-disclosure-in-web-fo.pdf
+- id: weis2012_04
+  title: 'Security Resources, Capabilities and Cultural Values: Links to Security Performance and Compliance'
+  authors:
+  - name: Juhee Kwon
+    affiliation: Dartmouth College
+  - name: M. Eric Johnson
+    affiliation: Dartmouth College
+  file: weis2012_04_security-resources-capabilities-and-cultural-values-links-to.pdf
+  path: papers/weis2012/weis2012_04_security-resources-capabilities-and-cultural-values-links-to.pdf
+- id: weis2012_05
+  title: 'Software Security Economics: Theory, in Practice'
+  authors:
+  - name: Stephan Neuhaus
+    affiliation: ETH Zürich
+  - name: Bernhard Plattner
+    affiliation: ETH Zürich
+  file: weis2012_05_software-security-economics-theory-in-practice.pdf
+  path: papers/weis2012/weis2012_05_software-security-economics-theory-in-practice.pdf
+- id: weis2012_06
+  title: Sectoral and Regional Interdependency of Japanese Firms under the Influence of Information Security Risks
+  authors:
+  - name: Bongkot Jenjarrussakul
+    affiliation: University of Tokyo
+  - name: Hideyuki Tanaka
+    affiliation: University of Tokyo
+  - name: Kanta Matsuura
+    affiliation: University of Tokyo
+  file: weis2012_06_sectoral-and-regional-interdependency-of-japanese-firms-unde.pdf
+  path: papers/weis2012/weis2012_06_sectoral-and-regional-interdependency-of-japanese-firms-unde.pdf
+- id: weis2012_07
+  title: Why Do Nigerian Scammers Say They Are From Nigeria?
+  authors:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  file: weis2012_07_why-do-nigerian-scammers-say-they-are-from-nigeria.pdf
+  path: papers/weis2012/weis2012_07_why-do-nigerian-scammers-say-they-are-from-nigeria.pdf
+- id: weis2012_08
+  title: 'Analysis of eCrime in Crowd-sourced Labor Markets: Mechanical Turk vs. Freelancer'
+  authors:
+  - name: Vaibhav Garg
+    affiliation: Indiana University
+  - name: Chris Kanich
+    affiliation: UC San Diego
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  file: weis2012_08_analysis-of-ecrime-in-crowd-sourced-labor-markets-mechanical.pdf
+  path: papers/weis2012/weis2012_08_analysis-of-ecrime-in-crowd-sourced-labor-markets-mechanical.pdf
+- id: weis2012_09
+  title: Can We Afford Integrity by Proof-of-Work? Scenarios Inspired by the Bitcoin Currency
+  authors:
+  - name: Jörg Becker
+    affiliation: University of Münster
+  - name: Dominic Breuker
+    affiliation: University of Münster
+  - name: Tobias Heide
+    affiliation: University of Münster
+  - name: Justus Holler
+    affiliation: University of Münster
+  - name: Hans Peter Rauer
+    affiliation: University of Münster
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  file: null
+  path: null
+- id: weis2012_10
+  title: Measuring the Cost of Cybercrime
+  authors:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  - name: Chris Barton
+    affiliation: Cloudmark
+  - name: Rainer Böhme
+    affiliation: University of Münster
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Michael Levi
+    affiliation: Cardiff University
+  - name: Tyler Moore
+    affiliation: Wellesley College
+  - name: Stefan Savage
+    affiliation: UC San Diego
+  file: weis2012_10_measuring-the-cost-of-cybercrime.pdf
+  path: papers/weis2012/weis2012_10_measuring-the-cost-of-cybercrime.pdf
+- id: weis2012_11
+  title: A Closer Look at Information Security Costs
+  authors:
+  - name: Matthias Brecht
+    affiliation: University of Regensburg
+  - name: Thomas Nowey
+    affiliation: Krones AG
+  file: weis2012_11_a-closer-look-at-information-security-costs.pdf
+  path: papers/weis2012/weis2012_11_a-closer-look-at-information-security-costs.pdf
+- id: weis2012_12
+  title: IT Security Investment and Gordon-Loeb's 1/e Rule
+  authors:
+  - name: Yuliy Baryshnikov
+    affiliation: University of Illinois at Urbana-Champaign
+  file: weis2012_12_it-security-investment-and-gordon-loeb-s-1-e-rule.pdf
+  path: papers/weis2012/weis2012_12_it-security-investment-and-gordon-loeb-s-1-e-rule.pdf
+- id: weis2012_13
+  title: Who Sometimes Violates the Rule of the Organizations? An Empirical Study on Information Security Behaviors and Awareness
+  authors:
+  - name: Toshihiko Takemura
+    affiliation: Kansai University
+  - name: Ayako Komatsu
+    affiliation: Information Technology Promotion Agency, Japan
+  file: weis2012_13_who-sometimes-violates-the-rule-of-the-organizations-an-empi.pdf
+  path: papers/weis2012/weis2012_13_who-sometimes-violates-the-rule-of-the-organizations-an-empi.pdf
+- id: weis2012_14
+  title: To Invest or Not to Invest? Assessing the Economic Viability of a Policy and Security Configuration Management Tool
+  authors:
+  - name: Lukas Demetz
+    affiliation: University of Innsbruck
+  - name: Daniel Bachlechner
+    affiliation: University of Innsbruck
+  file: weis2012_14_to-invest-or-not-to-invest-assessing-the-economic-viability.pdf
+  path: papers/weis2012/weis2012_14_to-invest-or-not-to-invest-assessing-the-economic-viability.pdf
+- id: weis2012_15
+  title: 'Online Promiscuity: Prophylactic Patching and the Spread of Computer Transmitted Infections'
+  authors:
+  - name: Timothy Kelley
+    affiliation: Indiana University
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  file: weis2012_15_online-promiscuity-prophylactic-patching-and-the-spread-of-c.pdf
+  path: papers/weis2012/weis2012_15_online-promiscuity-prophylactic-patching-and-the-spread-of-c.pdf
+- id: weis2012_16
+  title: Contagion in Cybersecurity Attacks
+  authors:
+  - name: Adrian Baldwin
+    affiliation: Hewlett-Packard Laboratories
+  - name: Iffat Gheyas
+    affiliation: University of Aberdeen
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University of Aberdeen
+  - name: Julian Williams
+    affiliation: University of Aberdeen
+  file: weis2012_16_contagion-in-cybersecurity-attacks.pdf
+  path: papers/weis2012/weis2012_16_contagion-in-cybersecurity-attacks.pdf
+- id: weis2012_17
+  title: The Effect of Fraud Investigation Cost on Pay-Per-Click Advertising
+  authors:
+  - name: Min Chen
+    affiliation: Richard Stockton College of New Jersey
+  - name: Varghese Jacob
+    affiliation: University of Texas at Dallas
+  - name: Suresh Radhakrishnan
+    affiliation: University of Texas at Dallas
+  - name: Young Ryu
+    affiliation: University of Texas at Dallas
+  file: null
+  path: null
+- id: weis2012_18
+  title: 'Ad-blocking Games: Monetizing Online Content Under the Threat of Ad Avoidance'
+  authors:
+  - name: Nevena Vratonjic
+    affiliation: EPFL Lausanne
+  - name: Mohammad Hossein Manshaei
+    affiliation: Isfahan University of Technology, Iran
+  - name: Jens Grossklags
+    affiliation: Penn State University
+  - name: Jean-Pierre Hubaux
+    affiliation: EPFL Lausanne
+  file: weis2012_18_ad-blocking-games-monetizing-online-content-under-the-threat.pdf
+  path: papers/weis2012/weis2012_18_ad-blocking-games-monetizing-online-content-under-the-threat.pdf
+- id: weis2012_19
+  title: 'Choice Architecture and Smartphone Privacy: There''s a Price for That'
+  authors:
+  - name: Serge Egelman
+    affiliation: UC Berkeley
+  - name: Adrienne Porter Felt
+    affiliation: UC Berkeley
+  - name: David Wagner
+    affiliation: UC Berkeley
+  file: weis2012_19_choice-architecture-and-smartphone-privacy-there-s-a-price-f.pdf
+  path: papers/weis2012/weis2012_19_choice-architecture-and-smartphone-privacy-there-s-a-price-f.pdf
+- id: weis2012_20
+  title: Would You Sell Your Mother's Data? Personal Data Disclosure in a Simulated Credit Card Application
+  authors:
+  - name: Miguel Malheiros
+    affiliation: University College London
+  - name: Sascha Brostoff
+    affiliation: University College London
+  - name: Charlene Jennett
+    affiliation: University College London
+  - name: Angela Sasse
+    affiliation: University College London
+  file: weis2012_20_would-you-sell-your-mother-s-data-personal-data-disclosure-i.pdf
+  path: papers/weis2012/weis2012_20_would-you-sell-your-mother-s-data-personal-data-disclosure-i.pdf
+- id: weis2012_21
+  title: '''Maybe We Spend Too Much?'''
+  authors:
+  - name: Bruce Schneier
+    affiliation: BT Counterpane
+  file: null
+  path: null
+- id: weis2012_22
+  title: '''No, We Don''t Spend Enough!'''
+  authors:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  file: null
+  path: null

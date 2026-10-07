@@ -1,0 +1,132 @@
+name: WEIS 2021
+full_name: The 20th Workshop on the Economics of Information Security
+edition: 20
+year: 2021
+location: Virtual (online)
+venue: Online
+start_date: '2021-06-28'
+end_date: '2021-06-29'
+website: https://weis2021.econinfosec.org/
+papers:
+- id: weis2021_01
+  title: 'Measuring the Deterioration of Trust on the Dark Web: Evidence from Operation Bayonet'
+  authors:
+  - name: Scott Lee Chua
+  file: weis2021_01_measuring-the-deterioration-of-trust-on-the-dark-web-evidenc.pdf
+  path: papers/weis2021/weis2021_01_measuring-the-deterioration-of-trust-on-the-dark-web-evidenc.pdf
+- id: weis2021_02
+  title: Measuring Cybercrime as a Service (CaaS) Offerings in a Cybercrime Forum
+  authors:
+  - name: Ugur Akyazi
+  - name: Michel van Eeten
+  - name: Carlos Ganan
+  file: weis2021_02_measuring-cybercrime-as-a-service-caas-offerings-in-a-cyberc.pdf
+  path: papers/weis2021/weis2021_02_measuring-cybercrime-as-a-service-caas-offerings-in-a-cyberc.pdf
+- id: weis2021_03
+  title: 'Silicon Den: Cybercrime is Entrepreneurship'
+  authors:
+  - name: Ross Anderson
+  - name: Rainer Böhme
+  - name: Richard Clayton
+  - name: Ben Collier
+  file: weis2021_03_silicon-den-cybercrime-is-entrepreneurship.pdf
+  path: papers/weis2021/weis2021_03_silicon-den-cybercrime-is-entrepreneurship.pdf
+- id: weis2021_04
+  title: 'How Cyber Insurance Shapes Incident Response: A Mixed Methods Study'
+  authors:
+  - name: Daniel W Woods
+  - name: Rainer Böhme
+  file: weis2021_04_how-cyber-insurance-shapes-incident-response-a-mixed-methods.pdf
+  path: papers/weis2021/weis2021_04_how-cyber-insurance-shapes-incident-response-a-mixed-methods.pdf
+- id: weis2021_05
+  title: 'Cybersecurity Information Sharing: Analysing an Email Corpus of Coordinated Vulnerability Disclosure'
+  authors:
+  - name: Kiran Sridhar
+  - name: Allen Householder
+  - name: Jonathan Spring
+  - name: Daniel Woods
+  file: weis2021_05_cybersecurity-information-sharing-analysing-an-email-corpus.pdf
+  path: papers/weis2021/weis2021_05_cybersecurity-information-sharing-analysing-an-email-corpus.pdf
+- id: weis2021_06
+  title: 'The value of data: Estimating the value individuals put on access to their computer files'
+  authors:
+  - name: Anna Cartwright
+  - name: Edward Cartwright
+  - name: Lian Xue
+  file: weis2021_06_the-value-of-data-estimating-the-value-individuals-put-on-ac.pdf
+  path: papers/weis2021/weis2021_06_the-value-of-data-estimating-the-value-individuals-put-on-ac.pdf
+- id: weis2021_07
+  title: 'IoT Marketplace: Willingness-To-Pay vs. Willingness-To-Accept'
+  authors:
+  - name: Shakthidhar Gopavaram
+  - name: Jayati Dev
+  - name: Sanchari Das
+  - name: L. Jean Camp
+  file: weis2021_07_iot-marketplace-willingness-to-pay-vs-willingness-to-accept.pdf
+  path: papers/weis2021/weis2021_07_iot-marketplace-willingness-to-pay-vs-willingness-to-accept.pdf
+- id: weis2021_08
+  title: 'Super-Spreaders: Quantifying the Role of IoT Manufacturers in Device Infections'
+  authors:
+  - name: Elsa Rodriguez
+  - name: Arman Noroozian
+  - name: Michel Van Eeten
+  - name: Carlos Gañán
+  file: weis2021_08_super-spreaders-quantifying-the-role-of-iot-manufacturers-in.pdf
+  path: papers/weis2021/weis2021_08_super-spreaders-quantifying-the-role-of-iot-manufacturers-in.pdf
+- id: weis2021_09
+  title: 'On the Benefits of Bug Bounty Programs: A Study of Chromium Vulnerabilities'
+  authors:
+  - name: Amutheezan Sivagnanam
+  - name: Soodeh Atefi
+  - name: Afiya Ayman
+  - name: Jens Grossklags
+  - name: Aron Laszka
+  file: weis2021_09_on-the-benefits-of-bug-bounty-programs-a-study-of-chromium-v.pdf
+  path: papers/weis2021/weis2021_09_on-the-benefits-of-bug-bounty-programs-a-study-of-chromium-v.pdf
+- id: weis2021_10
+  title: The Impact of Data Breach Announcements on Company Value in European Markets
+  authors:
+  - name: Adrian Ford
+  - name: Ameer Al-Nemrat
+  - name: Seyed Ali Ghorashi
+  - name: Julia Davidson
+  file: weis2021_10_the-impact-of-data-breach-announcements-on-company-value-in.pdf
+  path: papers/weis2021/weis2021_10_the-impact-of-data-breach-announcements-on-company-value-in.pdf
+- id: weis2021_11
+  title: 'Surprisingly Small: The Effect of Trade Secret Breaches on Firm Performance'
+  authors:
+  - name: Nicola Searle
+  - name: Andrew Vivian
+  file: weis2021_11_surprisingly-small-the-effect-of-trade-secret-breaches-on-fi.pdf
+  path: papers/weis2021/weis2021_11_surprisingly-small-the-effect-of-trade-secret-breaches-on-fi.pdf
+- id: weis2021_12
+  title: 'Behavioral advertising and consumer welfare: An empirical investigation'
+  authors:
+  - name: Eduardo Abraham Schnadower Mustri
+  - name: Alessandro Acquisti
+  - name: Idris Adjerid
+  file: weis2021_12_behavioral-advertising-and-consumer-welfare-an-empirical-inv.pdf
+  path: papers/weis2021/weis2021_12_behavioral-advertising-and-consumer-welfare-an-empirical-inv.pdf
+- id: weis2021_13
+  title: A Model of Information Security and Competition
+  authors:
+  - name: Alexandre de Corniere
+  - name: Greg Taylor
+  file: weis2021_13_a-model-of-information-security-and-competition.pdf
+  path: papers/weis2021/weis2021_13_a-model-of-information-security-and-competition.pdf
+- id: weis2021_14
+  title: 'Deterrence, Backup, or Insurance: A Game-Theoretic Analysis of Ransomware'
+  authors:
+  - name: Tongxin Yin
+  - name: Armin Sarabi
+  - name: Mingyan Liu
+  file: weis2021_14_deterrence-backup-or-insurance-a-game-theoretic-analysis-of.pdf
+  path: papers/weis2021/weis2021_14_deterrence-backup-or-insurance-a-game-theoretic-analysis-of.pdf
+- id: weis2021_15
+  title: 'Omnichannel Cybersecurity: Optimizing Security by Leveraging Asymmetric Motivation'
+  authors:
+  - name: Spencer Oriot
+  - name: Josiah Dykstra
+  - name: Adam Williams
+  file: weis2021_15_omnichannel-cybersecurity-optimizing-security-by-leveraging.pdf
+  path: papers/weis2021/weis2021_15_omnichannel-cybersecurity-optimizing-security-by-leveraging.pdf

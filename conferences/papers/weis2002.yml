@@ -1,0 +1,166 @@
+name: WEIS 2002
+full_name: Workshop on Economics and Information Security
+edition: 1
+year: 2002
+location: Berkeley, California, USA
+venue: School of Information Management and Systems (SIMS), University of California, Berkeley
+start_date: '2002-05-16'
+end_date: '2002-05-17'
+website: http://www2.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/
+papers:
+- id: weis2002_01
+  title: Maybe we spend too much?
+  authors:
+  - name: Ross Anderson
+  file: weis2002_01_unsettling-parallels-between-security-and-the-environment-po.txt
+  path: papers/weis2002/weis2002_01_unsettling-parallels-between-security-and-the-environment-po.txt
+- id: weis2002_02
+  title: No, we don't spend enough!
+  authors:
+  - name: Bruce Schneier
+  file: weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc
+  path: papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc
+- id: weis2002_03
+  title: Improving Information Flow in the Information Security Market
+  authors:
+  - name: Carl Landwehr
+  file: weis2002_03_improving-information-flow-in-the-information-security-marke.doc
+  path: papers/weis2002/weis2002_03_improving-information-flow-in-the-information-security-marke.doc
+- id: weis2002_04
+  title: The Principle of Distributed Accounting
+  authors:
+  - name: John McHugh
+  file: weis2002_04_the-principle-of-distributed-accounting.ps
+  path: papers/weis2002/weis2002_04_the-principle-of-distributed-accounting.ps
+- id: weis2002_05
+  title: Non-Technical Influences on the Design of the Java Security Architecture
+  authors:
+  - name: Li Gong
+  file: weis2002_05_non-technical-influences-on-the-design-of-the-java-security.txt
+  path: papers/weis2002/weis2002_05_non-technical-influences-on-the-design-of-the-java-security.txt
+- id: weis2002_06
+  title: The Measure of Information Security is Dollars
+  authors:
+  - name: Bob Blakley
+  file: weis2002_06_the-measure-of-information-security-is-dollars.pdf
+  path: papers/weis2002/weis2002_06_the-measure-of-information-security-is-dollars.pdf
+- id: weis2002_07
+  title: 'Marketplace Incentives to Prevent Piracy: An Incentive for Security?'
+  authors:
+  - name: Jean Camp
+  file: weis2002_07_marketplace-incentives-to-prevent-piracy-an-incentive-for-se.txt
+  path: papers/weis2002/weis2002_07_marketplace-incentives-to-prevent-piracy-an-incentive-for-se.txt
+- id: weis2002_08
+  title: Privacy, Economics, and Price Discrimination on the Internet
+  authors:
+  - name: Andrew Odlyzko
+  file: weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-a.txt
+  path: papers/weis2002/weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-a.txt
+- id: weis2002_09
+  title: How Much Is Enough? A Risk Management Approach to Computer Security
+  authors:
+  - name: Kevin Soo Hoo
+  file: weis2002_09_how-much-is-enough-a-risk-management-approach-to-computer-se.doc
+  path: papers/weis2002/weis2002_09_how-much-is-enough-a-risk-management-approach-to-computer-se.doc
+- id: weis2002_10
+  title: Dynamics and Equilibria of Information Security Investments
+  authors:
+  - name: Brian Carini
+  file: weis2002_10_dynamics-and-equilibria-of-information-security-investments.doc
+  path: papers/weis2002/weis2002_10_dynamics-and-equilibria-of-information-security-investments.doc
+- id: weis2002_11
+  title: Diverging economic incentives caused by innovation for security updates on an information network
+  authors:
+  - name: Kin Sing Leung
+  file: weis2002_11_diverging-economic-incentives-caused-by-innovation-for-secur.pdf
+  path: papers/weis2002/weis2002_11_diverging-economic-incentives-caused-by-innovation-for-secur.pdf
+- id: weis2002_12
+  title: Agents' privacy in distributed algorithmic mechanisms
+  authors:
+  - name: Rahul Sami
+  file: weis2002_12_agents-privacy-in-distributed-algorithmic-mechanisms-positio.pdf
+  path: papers/weis2002/weis2002_12_agents-privacy-in-distributed-algorithmic-mechanisms-positio.pdf
+- id: weis2002_13
+  title: System Reliability and Free Riding
+  authors:
+  - name: Hal Varian
+  file: weis2002_13_system-reliability-and-free-riding.pdf
+  path: papers/weis2002/weis2002_13_system-reliability-and-free-riding.pdf
+- id: weis2002_14
+  title: 'Security of Personal Information and Privacy: Economic Incentives and Technological Solutions'
+  authors:
+  - name: Alessandro Acquisti
+  file: weis2002_14_security-of-personal-information-and-privacy-economic-incent.doc
+  path: papers/weis2002/weis2002_14_security-of-personal-information-and-privacy-economic-incent.doc
+- id: weis2002_15
+  title: Distributed algorithmic mechanism design and network security
+  authors:
+  - name: John Mitchell
+  file: weis2002_15_distributed-algorithmic-mechanism-design-and-network-securit.pdf
+  path: papers/weis2002/weis2002_15_distributed-algorithmic-mechanism-design-and-network-securit.pdf
+- id: weis2002_16
+  title: Economic Barriers to the Deployment of Existing Privacy Technologies
+  authors:
+  - name: Tomas Sander
+  file: weis2002_16_economic-barriers-to-the-deployment-of-existing-privacy-tech.pdf
+  path: papers/weis2002/weis2002_16_economic-barriers-to-the-deployment-of-existing-privacy-tech.pdf
+- id: weis2002_17
+  title: Quantitatively Differentiating System Security
+  authors:
+  - name: Stuart Schechter
+  file: weis2002_17_quantitatively-differentiating-system-security.pdf
+  path: papers/weis2002/weis2002_17_quantitatively-differentiating-system-security.pdf
+- id: weis2002_18
+  title: Using economics to model threats and security in distributed computing
+  authors:
+  - name: Yvo Desmedt
+  file: weis2002_18_using-economics-to-model-threats-and-security-in-distributed.ps
+  path: papers/weis2002/weis2002_18_using-economics-to-model-threats-and-security-in-distributed.ps
+- id: weis2002_19
+  title: Causes and Remedies for Social Acceptance of Network Insecurity
+  authors:
+  - name: Mike Fisk
+  file: weis2002_19_causes-and-remedies-for-social-acceptance-of-network-insecur.pdf
+  path: papers/weis2002/weis2002_19_causes-and-remedies-for-social-acceptance-of-network-insecur.pdf
+- id: weis2002_20
+  title: Liability Transfers in Network Exchanges
+  authors:
+  - name: Rafael Yahalom
+  file: weis2002_20_liability-transfers-in-network-exchanges.ps
+  path: papers/weis2002/weis2002_20_liability-transfers-in-network-exchanges.ps
+- id: weis2002_21
+  title: 'Cyberinsurance: A Market Solution to Internet Security Market Failure'
+  authors:
+  - name: William Yurcik
+  file: weis2002_21_cyberinsurance-a-market-solution-to-internet-security-market.pdf
+  path: papers/weis2002/weis2002_21_cyberinsurance-a-market-solution-to-internet-security-market.pdf
+- id: weis2002_22
+  title: Software development, Intellectual Property Rights, and IT Security
+  authors:
+  - name: Robert Gehring
+  file: weis2002_22_software-development-intellectual-property-rights-and-it-sec.pdf
+  path: papers/weis2002/weis2002_22_software-development-intellectual-property-rights-and-it-sec.pdf
+- id: weis2002_23
+  title: Cognitive Hacking and the Value of Information
+  authors:
+  - name: Paul Thompson
+  file: weis2002_23_cognitive-hacking-and-the-value-of-information.doc
+  path: papers/weis2002/weis2002_23_cognitive-hacking-and-the-value-of-information.doc
+- id: weis2002_24
+  title: 'An Economics Perspective on the Sharing of Information Related to Security Breaches: Concepts and Empirical Evidence'
+  authors:
+  - name: Larry Gordon
+  file: weis2002_24_an-economics-perspective-on-the-sharing-of-information-relat.doc
+  path: papers/weis2002/weis2002_24_an-economics-perspective-on-the-sharing-of-information-relat.doc
+- id: weis2002_25
+  title: Experience of the French Gendarmerie
+  authors:
+  - name: Thomas-Xavier Martin
+  file: weis2002_25_experience-of-the-french-gendarmerie-position-paper.txt
+  path: papers/weis2002/weis2002_25_experience-of-the-french-gendarmerie-position-paper.txt
+- id: weis2002_26
+  title: 'Internet TAO: The Microeconomics of Internet Standards-Setting'
+  authors:
+  - name: Barb Fox
+  file: weis2002_26_internet-tao-the-microeconomics-of-internet-standards-settin.doc
+  path: papers/weis2002/weis2002_26_internet-tao-the-microeconomics-of-internet-standards-settin.doc

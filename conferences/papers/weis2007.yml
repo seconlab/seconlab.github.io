@@ -1,0 +1,276 @@
+name: WEIS 2007
+full_name: The Sixth Workshop on the Economics of Information Security
+edition: 6
+year: 2007
+location: Pittsburgh, PA, USA
+venue: Carnegie Mellon University (Collaborative Innovation Center, Room 1201)
+start_date: '2007-06-07'
+end_date: '2007-06-08'
+website: http://weis2007.econinfosec.org/
+papers:
+- id: weis2007_01
+  title: 'The legitimate vulnerability market: the secretive world of 0-day exploit sales'
+  authors:
+  - name: Charles Miller
+    affiliation: Independent Security Evaluators
+  file: weis2007_01_the-legitimate-vulnerability-market-the-secretive-world-of-0.pdf
+  path: papers/weis2007/weis2007_01_the-legitimate-vulnerability-market-the-secretive-world-of-0.pdf
+- id: weis2007_02
+  title: Inadvertent Disclosure - Information Leaks in the Extended Enterprise
+  authors:
+  - name: M. Eric Johnson
+    affiliation: Dartmouth College
+  - name: Scott Dynes
+    affiliation: Dartmouth College
+  file: weis2007_02_inadvertent-disclosure-information-leaks-in-the-extended-ent.pdf
+  path: papers/weis2007/weis2007_02_inadvertent-disclosure-information-leaks-in-the-extended-ent.pdf
+- id: weis2007_03
+  title: 'Network Security: Vulnerabilities and Disclosure Policy'
+  authors:
+  - name: Jay Pil Choi
+    affiliation: Michigan State University
+  - name: Chaim Fershtman
+    affiliation: Tel Aviv University
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  file: weis2007_03_network-security-vulnerabilities-and-disclosure-policy.doc
+  path: papers/weis2007/weis2007_03_network-security-vulnerabilities-and-disclosure-policy.doc
+- id: weis2007_04
+  title: 'The Countervailing Incentive of Restricted Patch Distribution: Economic and Policy Implications'
+  authors:
+  - name: Mohammad S. Rahman
+    affiliation: Purdue University
+  - name: Karthik Kannan
+    affiliation: Purdue University
+  - name: Mohit Tawarmalani
+    affiliation: Purdue University
+  file: weis2007_04_the-countervailing-incentive-of-restricted-patch-distributio.pdf
+  path: papers/weis2007/weis2007_04_the-countervailing-incentive-of-restricted-patch-distributio.pdf
+- id: weis2007_05
+  title: 'On the Viability of Privacy-Enhancing Technologies in a Self-Regulated Business-to-Consumer Market: Will Privacy Remain a Luxury Good?'
+  authors:
+  - name: Rainer Böhme
+    affiliation: Technische Universität Dresden
+  - name: Sven Koble
+    affiliation: Technische Universität Dresden
+  file: weis2007_05_on-the-viability-of-privacy-enhancing-technologies-in-a-self.pdf
+  path: papers/weis2007/weis2007_05_on-the-viability-of-privacy-enhancing-technologies-in-a-self.pdf
+- id: weis2007_06
+  title: 'When 25 Cents is too much: An Experiment on Willingness-To-Sell and Willingness-To-Protect Personal Information'
+  authors:
+  - name: Jens Grossklags
+    affiliation: University of California at Berkeley
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2007_06_when-25-cents-is-too-much-an-experiment-on-willingness-to-se.pdf
+  path: papers/weis2007/weis2007_06_when-25-cents-is-too-much-an-experiment-on-willingness-to-se.pdf
+- id: weis2007_07
+  title: Optimally Securing Enterprise Information Systems and Assets
+  authors:
+  - name: Vineet Kumar
+    affiliation: Carnegie Mellon University
+  - name: Rahul Telang
+    affiliation: Carnegie Mellon University
+  - name: Tridas Mukhopadhyay
+    affiliation: Carnegie Mellon University
+  file: weis2007_07_optimally-securing-enterprise-information-systems-and-assets.pdf
+  path: papers/weis2007/weis2007_07_optimally-securing-enterprise-information-systems-and-assets.pdf
+- id: weis2007_08
+  title: Interdependence of Reliability and Security
+  authors:
+  - name: Peter Honeyman
+    affiliation: University of Michigan
+  - name: Galina A. Schwartz
+    affiliation: University of California Berkeley
+  - name: Ari Van Assche
+    affiliation: HEC Montréal
+  file: weis2007_08_interdependence-of-reliability-and-security.pdf
+  path: papers/weis2007/weis2007_08_interdependence-of-reliability-and-security.pdf
+- id: weis2007_09
+  title: A Framework for Classifying and Comparing Models of Cyber Security Investment to Support Policy and Decision-Making
+  authors:
+  - name: Rachel Rue
+    affiliation: RAND Corporation
+  - name: Shari Lawrence Pfleeger
+    affiliation: RAND Corporation
+  - name: David Ortiz
+    affiliation: RAND Corporation
+  file: weis2007_09_a-framework-for-classifying-and-comparing-models-of-cyber-se.pdf
+  path: papers/weis2007/weis2007_09_a-framework-for-classifying-and-comparing-models-of-cyber-se.pdf
+- id: weis2007_10
+  title: Growth and sustainability of MSSP networks
+  authors:
+  - name: Alok Gupta
+    affiliation: University of Minnesota
+  - name: Dmitry Zhdanov
+    affiliation: University of Minnesota
+  file: weis2007_10_growth-and-sustainability-of-mssp-networks.pdf
+  path: papers/weis2007/weis2007_10_growth-and-sustainability-of-mssp-networks.pdf
+- id: weis2007_11
+  title: Will Outsourcing IT Security Lead to a Higher Social Level of Security?
+  authors:
+  - name: Brent Rowe
+    affiliation: RTI International
+  file: weis2007_11_will-outsourcing-it-security-lead-to-a-higher-social-level-o.pdf
+  path: papers/weis2007/weis2007_11_will-outsourcing-it-security-lead-to-a-higher-social-level-o.pdf
+- id: weis2007_12
+  title: Measuring Security Investment Benefit for Off the Shelf Software Systems - A Stakeholder Value Driven Approach
+  authors:
+  - name: Yue Chen
+    affiliation: University of Southern California
+  - name: Barry Boehm
+    affiliation: University of Southern California
+  - name: Luke Sheppard
+    affiliation: University of Southern California
+  file: null
+  path: null
+- id: weis2007_13
+  title: 'Incentive Design for Free but No Free Disposal Services: The Case of Personalization under Privacy Concerns'
+  authors:
+  - name: Ramnath K. Chellappa
+    affiliation: Emory University Atlanta
+  - name: Shivendu Shivendu
+    affiliation: University of Southern California
+  file: null
+  path: null
+- id: weis2007_14
+  title: 'The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study'
+  authors:
+  - name: Janice Tsai
+    affiliation: Carnegie Mellon University
+  - name: Serge Egelman
+    affiliation: Carnegie Mellon University
+  - name: Lorrie Cranor
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  file: weis2007_14_the-effect-of-online-privacy-information-on-purchasing-behav.pdf
+  path: papers/weis2007/weis2007_14_the-effect-of-online-privacy-information-on-purchasing-behav.pdf
+- id: weis2007_15
+  title: Economics of User Segmentation, Profiling, and Detection in Security
+  authors:
+  - name: Srinivasan Raghunathan
+    affiliation: The University of Texas at Dallas
+  - name: Huseyin Cavusoglu
+    affiliation: The University of Texas at Dallas
+  - name: Byungwan Koh
+    affiliation: The University of Texas at Dallas
+  - name: Bin Mai
+    affiliation: Northwestern State University
+  file: weis2007_15_economics-of-user-segmentation-profiling-and-detection-in-se.doc
+  path: papers/weis2007/weis2007_15_economics-of-user-segmentation-profiling-and-detection-in-se.doc
+- id: weis2007_16
+  title: 'The Deterrent Effect of Enforcement Against Computer Hackers: Cross-Country Evidence'
+  authors:
+  - name: Ivan Png
+    affiliation: National University of Singapore
+  - name: Chen Yu Wang
+    affiliation: National University of Singapore
+  file: weis2007_16_the-deterrent-effect-of-enforcement-against-computer-hackers.pdf
+  path: papers/weis2007/weis2007_16_the-deterrent-effect-of-enforcement-against-computer-hackers.pdf
+- id: weis2007_17
+  title: An Empirical Analysis of the Current State of Phishing Attack and Defence
+  authors:
+  - name: Tyler Moore
+    affiliation: University of Cambridge
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  file: weis2007_17_an-empirical-analysis-of-the-current-state-of-phishing-attac.pdf
+  path: papers/weis2007/weis2007_17_an-empirical-analysis-of-the-current-state-of-phishing-attac.pdf
+- id: weis2007_18
+  title: Privacy, Network Effects and Electronic Medical Record Technology Adoption
+  authors:
+  - name: Amalia R. Miller
+    affiliation: University of Virginia
+  - name: Catherine E. Tucker
+    affiliation: MIT
+  file: weis2007_18_privacy-network-effects-and-electronic-medical-record-techno.pdf
+  path: papers/weis2007/weis2007_18_privacy-network-effects-and-electronic-medical-record-techno.pdf
+- id: weis2007_19
+  title: Writing an economics paper - A tutorial for information security experts
+  authors:
+  - name: Neil Gandal
+    affiliation: Tel Aviv University
+  file: weis2007_19_writing-an-economics-paper-a-tutorial-for-information-securi.pdf
+  path: papers/weis2007/weis2007_19_writing-an-economics-paper-a-tutorial-for-information-securi.pdf
+- id: weis2007_20
+  title: 'Assessing the Value of Investments in Network Security Operations: A Systems Analytics Approach'
+  authors:
+  - name: Jonathan Griffin
+    affiliation: HP Laboratories
+  - name: Brian Monahan
+    affiliation: HP Laboratories
+  - name: David Pym
+    affiliation: HP Laboratories
+  - name: Mike Wonham
+    affiliation: HP Laboratories
+  - name: Mike Yearworth
+    affiliation: HP Laboratories
+  file: weis2007_20_assessing-the-value-of-investments-in-network-security-opera.pdf
+  path: papers/weis2007/weis2007_20_assessing-the-value-of-investments-in-network-security-opera.pdf
+- id: weis2007_21
+  title: 'The Gordon-Loeb Investment Model Generalized: Time Dependent Multiple Threats and Breach Losses over an Investment Period'
+  authors:
+  - name: Rolf Hulthen
+    affiliation: TeliaSonera
+  file: null
+  path: null
+- id: weis2007_22
+  title: 'An Uneasy Relationship: Cyber Security Information Sharing, Communications Privacy, and the Boundaries of the Firm'
+  authors:
+  - name: Aaron Burstein
+    affiliation: University of California, Berkeley
+  file: null
+  path: null
+- id: weis2007_23
+  title: Hiding, Seeking, and the Evolution of Privacy Behavior
+  authors:
+  - name: Stefan Dodds
+    affiliation: Carleton University
+  file: null
+  path: null
+- id: weis2007_24
+  title: A Reputation Mechanism for Software Vulnerability Disclosure and Patch Release
+  authors:
+  - name: Xia Zhao
+    affiliation: University of Texas at Austin
+  - name: Jianqing Chen
+    affiliation: University of Texas at Austin
+  - name: Andrew B. Whinston
+    affiliation: University of Texas at Austin
+  file: null
+  path: null
+- id: weis2007_25
+  title: A Survival Analysis of Disclosed Security Breaches
+  authors:
+  - name: Xiaodong Jin
+  - name: Dan Yomine
+  file: null
+  path: null
+- id: weis2007_26
+  title: Mental Models of Computer Security Risks
+  authors:
+  - name: Farzaneh Asgharpour
+    affiliation: Indiana University
+  - name: Debin Liu
+    affiliation: Indiana University
+  - name: L. Jean Camp
+    affiliation: Indiana University
+  file: weis2007_26_mental-models-of-computer-security-risks.pdf
+  path: papers/weis2007/weis2007_26_mental-models-of-computer-security-risks.pdf
+- id: weis2007_27
+  title: 'Cyber-Insurance: Copula Pricing Framework and Implications for Risk Management'
+  authors:
+  - name: Hemantha S. B. Herath
+    affiliation: Brock University
+  - name: Tejaswini C. Herath
+    affiliation: University at Buffalo
+  file: weis2007_27_cyber-insurance-copula-pricing-framework-and-implications-fo.pdf
+  path: papers/weis2007/weis2007_27_cyber-insurance-copula-pricing-framework-and-implications-fo.pdf
+- id: weis2007_28
+  title: Strategic Defense and Attack of Complex Networks
+  authors:
+  - name: Kjell Hausken
+    affiliation: University of Stavanger
+  file: weis2007_28_strategic-defense-and-attack-of-complex-networks.doc
+  path: papers/weis2007/weis2007_28_strategic-defense-and-attack-of-complex-networks.doc

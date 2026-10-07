@@ -1,0 +1,63 @@
+      Privacy, Economics, and Price Discrimination on the Internet
+
+                         Andrew Odlyzko
+
+                   Digital Technology Center
+                    University of Minnesota
+
+                       odlyzko@umn.edu
+               http://www.dtc.umn.edu/~odlyzko
+
+
+Abstract
+Why is privacy eroding?  There is wide concern about political and social
+impact of the increasingly detailed data collection and processing about
+our activities.  However, most of the developments that reduce privacy
+are coming from corporations, which care about money, not politics.
+The thesis of this talk is that what really motivates these enterprises
+(even though they often do not realize it clearly themselves) is the
+strong incentive to price discriminate.  This incentive is the result
+of the economics of the Internet, with high fixed and extremely low
+marginal costs.  It is the same incentive that has led to the airline
+yield management system, with a complex and constantly changing array
+of prices.  It is also the same incentive that led railroads to invent a
+variety of price and quality differentiation schemes in the 19th century.
+Privacy intrusions serve to provide the information that allows sellers
+to determine buyers' willingness to pay as well as to prevent arbitrage.
+Modern technology is thus both increasing the incentives to price
+discriminate and providing better means to do so.
+
+Contrary to a frequently made assumption, rice discrimination does not
+mean there is a monopoly or "market power."  There are many examples,
+from telephones a century ago to airlines in recent years, which show that
+often, increased competition leads to increases in price discrimination.
+
+Economically, price discrimination is usually regarded as desirable,
+since it increases the efficiency of the economy.  That is why it is
+often promoted by governments, either through explicit mandates or
+through indirect means.  On the other hand, price discrimination often
+arouses strong opposition from the public.  There are various findings
+in behavioral economics that help explain this opposition in principle.
+However, as is often the case, there is a question of what laboratory
+experiments might mean in practice.  Thus it may be very illuminating
+to observe what happened when price discrimination was practiced in
+a very intrusive and extensive fashion.  The example of 19th century
+railroads in the US and UK shows that their discriminatory practices
+were the main irritant that motivated the protest movements that led to
+government regulation.  This suggests that overt differential pricing
+will continue to be resisted.
+
+There is no easy resolution to the conflict between sellers' incentives
+to price discriminate and buyers' resistance to such measures.
+The continuing tension between these two factors will have important
+consequences for the nature of the economy.  It will also determine
+which technologies will be adopted widely.  Governments will likely
+play a role in controlling pricing, although their roles will probably
+be ambiguous.  Sellers are likely to rely on bundling, since that
+allows them to extract more consumer surplus and also to conceal the
+extent of price discrimination.  Micropayments and auctions are likely
+to play a smaller role than is often expected.  In general, because
+of the strong conflicting influences, privacy is likely to prove an
+intractable problem that will be prominent on the the public agenda for
+the foreseeable future.
+

@@ -1,0 +1,580 @@
+conference: weis2002
+name: WEIS 2002
+year: 2002
+papers_dir: papers/weis2002
+total: 26
+downloaded: 6
+failed: 20
+papers:
+- id: weis2002_01
+  conference: weis2002
+  year: 2002
+  title: Maybe we spend too much?
+  authors:
+  - Ross Anderson
+  authors_full:
+  - name: Ross Anderson
+  session_number: null
+  session: Welcome
+  event_type: opening
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/37.txt
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_02
+  conference: weis2002
+  year: 2002
+  title: No, we don't spend enough!
+  authors:
+  - Bruce Schneier
+  authors_full:
+  - name: Bruce Schneier
+  session_number: null
+  session: Welcome
+  event_type: opening
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/18.doc
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_03
+  conference: weis2002
+  year: 2002
+  title: Improving Information Flow in the Information Security Market
+  authors:
+  - Carl Landwehr
+  authors_full:
+  - name: Carl Landwehr
+  session_number: 1
+  session: History of security economics
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/11.doc
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/landwehr.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_04
+  conference: weis2002
+  year: 2002
+  title: The Principle of Distributed Accounting
+  authors:
+  - John McHugh
+  authors_full:
+  - name: John McHugh
+  session_number: 1
+  session: History of security economics
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/08.ps
+  slides_url: null
+  file: weis2002_04_the-principle-of-distributed-accounting.ps
+  path: papers/weis2002/weis2002_04_the-principle-of-distributed-accounting.ps
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040214064411id_/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/08.ps
+  error: null
+- id: weis2002_05
+  conference: weis2002
+  year: 2002
+  title: Non-Technical Influences on the Design of the Java Security Architecture
+  authors:
+  - Li Gong
+  authors_full:
+  - name: Li Gong
+  session_number: 1
+  session: History of security economics
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/47.txt
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_06
+  conference: weis2002
+  year: 2002
+  title: The Measure of Information Security is Dollars
+  authors:
+  - Bob Blakley
+  authors_full:
+  - name: Bob Blakley
+  session_number: 2
+  session: Metrics and markets
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/54.pdf
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/blakley.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_07
+  conference: weis2002
+  year: 2002
+  title: 'Marketplace Incentives to Prevent Piracy: An Incentive for Security?'
+  authors:
+  - Jean Camp
+  authors_full:
+  - name: Jean Camp
+  session_number: 2
+  session: Metrics and markets
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/29.txt
+  slides_url: null
+  file: weis2002_07_marketplace-incentives-to-prevent-piracy-an-incentive-for-se.txt
+  path: papers/weis2002/weis2002_07_marketplace-incentives-to-prevent-piracy-an-incentive-for-se.txt
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20020808144808id_/http://www.sims.berkeley.edu:80/resources/affiliates/workshops/econsecurity/econws/29.txt
+  error: null
+- id: weis2002_08
+  conference: weis2002
+  year: 2002
+  title: Privacy, Economics, and Price Discrimination on the Internet
+  authors:
+  - Andrew Odlyzko
+  authors_full:
+  - name: Andrew Odlyzko
+  session_number: 2
+  session: Metrics and markets
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/52.txt
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/odlyzko.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_09
+  conference: weis2002
+  year: 2002
+  title: How Much Is Enough? A Risk Management Approach to Computer Security
+  authors:
+  - Kevin Soo Hoo
+  authors_full:
+  - name: Kevin Soo Hoo
+  session_number: 3
+  session: Optimal Investments in Information Security
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/06.doc
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/soohoo.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_10
+  conference: weis2002
+  year: 2002
+  title: Dynamics and Equilibria of Information Security Investments
+  authors:
+  - Brian Carini
+  authors_full:
+  - name: Brian Carini
+  session_number: 3
+  session: Optimal Investments in Information Security
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/34.doc
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/carini.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_11
+  conference: weis2002
+  year: 2002
+  title: Diverging economic incentives caused by innovation for security updates on an information network
+  authors:
+  - Kin Sing Leung
+  authors_full:
+  - name: Kin Sing Leung
+  session_number: 3
+  session: Optimal Investments in Information Security
+  event_type: session
+  date: '2002-05-16'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/19.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_12
+  conference: weis2002
+  year: 2002
+  title: Agents' privacy in distributed algorithmic mechanisms
+  authors:
+  - Rahul Sami
+  authors_full:
+  - name: Rahul Sami
+  session_number: 4
+  session: Economic Theory Applied to Information Security
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/05.pdf
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/sami.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_13
+  conference: weis2002
+  year: 2002
+  title: System Reliability and Free Riding
+  authors:
+  - Hal Varian
+  authors_full:
+  - name: Hal Varian
+  session_number: 4
+  session: Economic Theory Applied to Information Security
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/49.pdf
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/hal.pdf
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_14
+  conference: weis2002
+  year: 2002
+  title: 'Security of Personal Information and Privacy: Economic Incentives and Technological Solutions'
+  authors:
+  - Alessandro Acquisti
+  authors_full:
+  - name: Alessandro Acquisti
+  session_number: 4
+  session: Economic Theory Applied to Information Security
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/36.doc
+  slides_url: null
+  file: weis2002_14_security-of-personal-information-and-privacy-economic-incent.doc
+  path: papers/weis2002/weis2002_14_security-of-personal-information-and-privacy-economic-incent.doc
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2002_15
+  conference: weis2002
+  year: 2002
+  title: Distributed algorithmic mechanism design and network security
+  authors:
+  - John Mitchell
+  authors_full:
+  - name: John Mitchell
+  session_number: 5
+  session: Incentive-compatibility of technical mechanisms
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/42.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_16
+  conference: weis2002
+  year: 2002
+  title: Economic Barriers to the Deployment of Existing Privacy Technologies
+  authors:
+  - Tomas Sander
+  authors_full:
+  - name: Tomas Sander
+  session_number: 5
+  session: Incentive-compatibility of technical mechanisms
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/23.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_17
+  conference: weis2002
+  year: 2002
+  title: Quantitatively Differentiating System Security
+  authors:
+  - Stuart Schechter
+  authors_full:
+  - name: Stuart Schechter
+  session_number: 5
+  session: Incentive-compatibility of technical mechanisms
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/31.pdf
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/schechter.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_18
+  conference: weis2002
+  year: 2002
+  title: Using economics to model threats and security in distributed computing
+  authors:
+  - Yvo Desmedt
+  authors_full:
+  - name: Yvo Desmedt
+  session_number: 5
+  session: Incentive-compatibility of technical mechanisms
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/33.ps
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/desmedt.ppt
+  file: weis2002_18_using-economics-to-model-threats-and-security-in-distributed.ps
+  path: papers/weis2002/weis2002_18_using-economics-to-model-threats-and-security-in-distributed.ps
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2002_19
+  conference: weis2002
+  year: 2002
+  title: Causes and Remedies for Social Acceptance of Network Insecurity
+  authors:
+  - Mike Fisk
+  authors_full:
+  - name: Mike Fisk
+  session_number: 6
+  session: Liability
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/35.pdf
+  slides_url: null
+  file: weis2002_19_causes-and-remedies-for-social-acceptance-of-network-insecur.pdf
+  path: papers/weis2002/weis2002_19_causes-and-remedies-for-social-acceptance-of-network-insecur.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2002_20
+  conference: weis2002
+  year: 2002
+  title: Liability Transfers in Network Exchanges
+  authors:
+  - Rafael Yahalom
+  authors_full:
+  - name: Rafael Yahalom
+  session_number: 6
+  session: Liability
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/46.ps
+  slides_url: null
+  file: weis2002_20_liability-transfers-in-network-exchanges.ps
+  path: papers/weis2002/weis2002_20_liability-transfers-in-network-exchanges.ps
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2002_21
+  conference: weis2002
+  year: 2002
+  title: 'Cyberinsurance: A Market Solution to Internet Security Market Failure'
+  authors:
+  - William Yurcik
+  authors_full:
+  - name: William Yurcik
+  session_number: 6
+  session: Liability
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/53.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_22
+  conference: weis2002
+  year: 2002
+  title: Software development, Intellectual Property Rights, and IT Security
+  authors:
+  - Robert Gehring
+  authors_full:
+  - name: Robert Gehring
+  session_number: 6
+  session: Liability
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/44.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_23
+  conference: weis2002
+  year: 2002
+  title: Cognitive Hacking and the Value of Information
+  authors:
+  - Paul Thompson
+  authors_full:
+  - name: Paul Thompson
+  session_number: 7
+  session: Other issues
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/15.doc
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_24
+  conference: weis2002
+  year: 2002
+  title: 'An Economics Perspective on the Sharing of Information Related to Security Breaches: Concepts and Empirical Evidence'
+  authors:
+  - Larry Gordon
+  authors_full:
+  - name: Larry Gordon
+  session_number: 7
+  session: Other issues
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/51.doc
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_25
+  conference: weis2002
+  year: 2002
+  title: Experience of the French Gendarmerie
+  authors:
+  - Thomas-Xavier Martin
+  authors_full:
+  - name: Thomas-Xavier Martin
+  session_number: 7
+  session: Other issues
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/13.txt
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2002_26
+  conference: weis2002
+  year: 2002
+  title: 'Internet TAO: The Microeconomics of Internet Standards-Setting'
+  authors:
+  - Barb Fox
+  authors_full:
+  - name: Barb Fox
+  session_number: 7
+  session: Other issues
+  event_type: session
+  date: '2002-05-17'
+  time: null
+  award: null
+  url: https://web.archive.org/web/2003/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/econws/12.doc
+  slides_url: https://web.archive.org/web/2004/http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/slides/fox.ppt
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)

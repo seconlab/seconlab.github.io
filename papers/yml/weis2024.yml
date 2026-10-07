@@ -1,0 +1,525 @@
+conference: weis2024
+name: WEIS 2024
+year: 2024
+papers_dir: papers/weis2024
+total: 18
+downloaded: 18
+failed: 0
+papers:
+- id: weis2024_01
+  conference: weis2024
+  year: 2024
+  title: 'Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity'
+  authors:
+  - Raviv Murciano-Goroff
+  - Ran Zhuo
+  - Shane Greenstein
+  authors_full:
+  - name: Raviv Murciano-Goroff
+    affiliation: Boston University
+  - name: Ran Zhuo
+    affiliation: University of Michigan
+  - name: Shane Greenstein
+    affiliation: Harvard Business School and NBER
+    presenter: true
+  session_number: 1
+  session: 'Plenary: Upgraded Software and Embedded Improvements: A Puzzle of User Heterogeneity'
+  event_type: keynote
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Upgraded-Software-and-Embedded-Improvements-RMG_RZ_SG_4_5_24-b9162779094bcdbc.pdf
+  slides_url: null
+  file: weis2024_01_upgraded-software-and-embedded-improvements-a-puzzle-of-user.pdf
+  path: papers/weis2024/weis2024_01_upgraded-software-and-embedded-improvements-a-puzzle-of-user.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Upgraded-Software-and-Embedded-Improvements-RMG_RZ_SG_4_5_24-b9162779094bcdbc.pdf
+  error: null
+- id: weis2024_02
+  conference: weis2024
+  year: 2024
+  title: Role of Formal Alliances in Creating Capacity for the Global Diffusion of National Cybersecurity Strategies
+  authors:
+  - Nadiya Kostyuk
+  - Evgenia Sidorova
+  authors_full:
+  - name: Nadiya Kostyuk
+    affiliation: Georgia Institute of Technology
+  - name: Evgenia Sidorova
+    affiliation: Georgia Institute of Technology
+  session_number: 1
+  session: Government Policy
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Kostyuk-Sidorova-WEIS-2024-9356574e1f44fb9b.pdf
+  slides_url: null
+  file: weis2024_02_role-of-formal-alliances-in-creating-capacity-for-the-global.pdf
+  path: papers/weis2024/weis2024_02_role-of-formal-alliances-in-creating-capacity-for-the-global.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Kostyuk-Sidorova-WEIS-2024-9356574e1f44fb9b.pdf
+  error: null
+- id: weis2024_03
+  conference: weis2024
+  year: 2024
+  title: The Case for an Icelandic Cyber Exploitation and Defense (ICED) Force for NATO Coalition Operations
+  authors:
+  - Johan Sigholm
+  - Bjarni Már Magnússon
+  - Magnús Skjöld
+  - Theodor Gislason
+  - Gregory Falco
+  authors_full:
+  - name: Johan Sigholm
+    affiliation: Swedish Defense University
+  - name: Bjarni Már Magnússon
+    affiliation: Bifröst University
+  - name: Magnús Skjöld
+    affiliation: Bifröst University
+  - name: Theodor Gislason
+    affiliation: Syndis
+  - name: Gregory Falco
+    affiliation: Cornell University
+  session_number: 1
+  session: Government Policy
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Sigholm-et-al-WEIS-2024-e93596156775b757.pdf
+  slides_url: null
+  file: weis2024_03_the-case-for-an-icelandic-cyber-exploitation-and-defense-ice.pdf
+  path: papers/weis2024/weis2024_03_the-case-for-an-icelandic-cyber-exploitation-and-defense-ice.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Sigholm-et-al-WEIS-2024-e93596156775b757.pdf
+  error: null
+- id: weis2024_04
+  conference: weis2024
+  year: 2024
+  title: What has the U.S. government gained by formalizing Team Telecom? ―Team Telecom and the FCC's Dual Security Approach
+  authors:
+  - Anna Oriishi
+  authors_full:
+  - name: Anna Oriishi
+    affiliation: Keio University
+  session_number: 1
+  session: Government Policy
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Oriishi-WEIS-2024-6baaad07bb2ea64a.pdf
+  slides_url: null
+  file: weis2024_04_what-has-the-u-s-government-gained-by-formalizing-team-telec.pdf
+  path: papers/weis2024/weis2024_04_what-has-the-u-s-government-gained-by-formalizing-team-telec.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Oriishi-WEIS-2024-6baaad07bb2ea64a.pdf
+  error: null
+- id: weis2024_05
+  conference: weis2024
+  year: 2024
+  title: 'Non-governmental Governance of Trust on the Internet: WebPKI as Public Good'
+  authors:
+  - Vagisha Srivastava
+  - Karl Grindal
+  - Milton Mueller
+  authors_full:
+  - name: Vagisha Srivastava
+    affiliation: Georgia Institute of Technology
+  - name: Karl Grindal
+    affiliation: University of New Hampshire
+  - name: Milton Mueller
+    affiliation: Georgia Institute of Technology
+  session_number: 2
+  session: Collective Action
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Grindal-et-al-WEIS-2024-0836cad1909f1424.pdf
+  slides_url: null
+  file: weis2024_05_non-governmental-governance-of-trust-on-the-internet-webpki.pdf
+  path: papers/weis2024/weis2024_05_non-governmental-governance-of-trust-on-the-internet-webpki.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Grindal-et-al-WEIS-2024-0836cad1909f1424.pdf
+  error: null
+- id: weis2024_06
+  conference: weis2024
+  year: 2024
+  title: 'Breaking the Ice: Using Transparency to Overcome the Cold Start Problem in an Underground Market'
+  authors:
+  - Tina Marjanov
+  - Konstantinos Ioannidis
+  - Tom Hyndman
+  - Nicolas Seyedzadeh
+  - Alice Hutchings
+  authors_full:
+  - name: Tina Marjanov
+    affiliation: University of Cambridge
+  - name: Konstantinos Ioannidis
+    affiliation: University of Cambridge
+  - name: Tom Hyndman
+    affiliation: University of Cambridge
+  - name: Nicolas Seyedzadeh
+    affiliation: University of Cambridge
+  - name: Alice Hutchings
+    affiliation: University of Cambridge
+  session_number: 2
+  session: Collective Action
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Marhanov-et-al-WEIS-2024-882be19db0669a0d.pdf
+  slides_url: null
+  file: weis2024_06_breaking-the-ice-using-transparency-to-overcome-the-cold-sta.pdf
+  path: papers/weis2024/weis2024_06_breaking-the-ice-using-transparency-to-overcome-the-cold-sta.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Marhanov-et-al-WEIS-2024-882be19db0669a0d.pdf
+  error: null
+- id: weis2024_07
+  conference: weis2024
+  year: 2024
+  title: 'Peer(ing) Pressure: Achieving Social Action at Scale in the Internet Infrastructure'
+  authors:
+  - Ben Collier
+  - Richard Clayton
+  authors_full:
+  - name: Ben Collier
+    affiliation: University of Edinburgh
+  - name: Richard Clayton
+    affiliation: University of Cambridge
+  session_number: 2
+  session: Collective Action
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Collier-Clayton-WEIS-2024-ffa15dae44564608.pdf
+  slides_url: null
+  file: weis2024_07_peer-ing-pressure-achieving-social-action-at-scale-in-the-in.pdf
+  path: papers/weis2024/weis2024_07_peer-ing-pressure-achieving-social-action-at-scale-in-the-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Collier-Clayton-WEIS-2024-ffa15dae44564608.pdf
+  error: null
+- id: weis2024_08
+  conference: weis2024
+  year: 2024
+  title: Data Risk, Firm Growth and Innovation
+  authors:
+  - Roxana Mihet
+  - Orlando M. Da Costa Gomes
+  - Kumar Rishabh
+  authors_full:
+  - name: Roxana Mihet
+    affiliation: HEC Lausanne & Swiss Finance Institute
+  - name: Orlando M. Da Costa Gomes
+    affiliation: Lisbon Accounting and Finance University
+  - name: Kumar Rishabh
+    affiliation: HEC Lausanne & University of Basel
+  session_number: 3
+  session: Cyber Risk
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Mihet-et-al-WEIS-2024-e018fa2d109b38b5.pdf
+  slides_url: null
+  file: weis2024_08_data-risk-firm-growth-and-innovation.pdf
+  path: papers/weis2024/weis2024_08_data-risk-firm-growth-and-innovation.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Mihet-et-al-WEIS-2024-e018fa2d109b38b5.pdf
+  error: null
+- id: weis2024_09
+  conference: weis2024
+  year: 2024
+  title: Cyber Risk and the Cross-Section of Stock Returns
+  authors:
+  - Loïc Maréchal
+  - Daniel Celeny
+  authors_full:
+  - name: Loïc Maréchal
+    affiliation: University of Lausanne
+  - name: Daniel Celeny
+    affiliation: Armasuisse S+T
+  session_number: 3
+  session: Cyber Risk
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Celeny-Marechal-WEIS-2024-2b398e501aecec2b.pdf
+  slides_url: null
+  file: weis2024_09_cyber-risk-and-the-cross-section-of-stock-returns.pdf
+  path: papers/weis2024/weis2024_09_cyber-risk-and-the-cross-section-of-stock-returns.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Celeny-Marechal-WEIS-2024-2b398e501aecec2b.pdf
+  error: null
+- id: weis2024_10
+  conference: weis2024
+  year: 2024
+  title: A History of Cyber Risk Transfer
+  authors:
+  - Daniel Woods
+  - Josephine Wolff
+  authors_full:
+  - name: Daniel Woods
+    affiliation: University of Edinburgh & British University in Dubai
+  - name: Josephine Wolff
+    affiliation: Tufts University
+  session_number: 3
+  session: Cyber Risk
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Woods-Wolff-WEIS-2024-1d637be6612f21cd.pdf
+  slides_url: null
+  file: weis2024_10_a-history-of-cyber-risk-transfer.pdf
+  path: papers/weis2024/weis2024_10_a-history-of-cyber-risk-transfer.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Woods-Wolff-WEIS-2024-1d637be6612f21cd.pdf
+  error: null
+- id: weis2024_11
+  conference: weis2024
+  year: 2024
+  title: 'Beyond Technicalities: Assessing Cyber Risk by Incorporating Human Factors'
+  authors:
+  - Sasha Romanosky
+  - Wenjing Huang
+  - Joe Uchill
+  authors_full:
+  - name: Sasha Romanosky
+    affiliation: RAND Corporation
+  - name: Wenjing Huang
+    affiliation: RAND Corporation
+  - name: Joe Uchill
+    affiliation: RAND Corporation
+  session_number: 4
+  session: Measuring and Managing Security
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Huang-et-al-WEIS-2024-6c2cb82a0ed036cd.pdf
+  slides_url: null
+  file: weis2024_11_beyond-technicalities-assessing-cyber-risk-by-incorporating.pdf
+  path: papers/weis2024/weis2024_11_beyond-technicalities-assessing-cyber-risk-by-incorporating.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Huang-et-al-WEIS-2024-6c2cb82a0ed036cd.pdf
+  error: null
+- id: weis2024_12
+  conference: weis2024
+  year: 2024
+  title: 'Implementation of Information Security Controls Now or Later: Delay Discounting of Losses and Gains'
+  authors:
+  - Marte Marjorie Søgnen
+  - Adam Szekeres
+  - Einar Arthur Snekkenes
+  authors_full:
+  - name: Marte Marjorie Søgnen
+    affiliation: NTNU
+  - name: Adam Szekeres
+    affiliation: NTNU
+  - name: Einar Arthur Snekkenes
+    affiliation: NTNU
+  session_number: 4
+  session: Measuring and Managing Security
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Sognen-et-al-WEIS-2024-b79a39046a0b5535.pdf
+  slides_url: null
+  file: weis2024_12_implementation-of-information-security-controls-now-or-later.pdf
+  path: papers/weis2024/weis2024_12_implementation-of-information-security-controls-now-or-later.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Sognen-et-al-WEIS-2024-b79a39046a0b5535.pdf
+  error: null
+- id: weis2024_13
+  conference: weis2024
+  year: 2024
+  title: 'Prioritizing Investments in Cybersecurity: Empirical Evidence from an Event Study on the Determinants of Cyberattack Costs'
+  authors:
+  - Daniel Celeny
+  - Loïc Maréchal
+  - Evgueni Rousselot
+  - Alain Mermoud
+  - Mathias Humbert
+  authors_full:
+  - name: Daniel Celeny
+    affiliation: EPFL & Armasuisse S+T
+  - name: Loïc Maréchal
+    affiliation: University of Lausanne
+  - name: Evgueni Rousselot
+    affiliation: Armasuisse S+T
+  - name: Alain Mermoud
+    affiliation: Armasuisse S+T
+  - name: Mathias Humbert
+    affiliation: University of Lausanne
+  session_number: 4
+  session: Measuring and Managing Security
+  event_type: session
+  date: '2024-04-09'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Celeny-et-al-WEIS-2024-e1141bd52ac52852.pdf
+  slides_url: null
+  file: weis2024_13_prioritizing-investments-in-cybersecurity-empirical-evidence.pdf
+  path: papers/weis2024/weis2024_13_prioritizing-investments-in-cybersecurity-empirical-evidence.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Celeny-et-al-WEIS-2024-e1141bd52ac52852.pdf
+  error: null
+- id: weis2024_14
+  conference: weis2024
+  year: 2024
+  title: Valuation of Confidentiality and Availability in a Personal Ransomware Attack Scenario
+  authors:
+  - Freya Gassmann
+  - Janina Beck
+  - Nora Gourmelon
+  - Zinaida Benenson
+  authors_full:
+  - name: Freya Gassmann
+    affiliation: Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau
+  - name: Janina Beck
+    affiliation: Boston Consulting Group
+  - name: Nora Gourmelon
+    affiliation: University of Erlangen-Nuremberg
+  - name: Zinaida Benenson
+    affiliation: University of Erlangen-Nuremberg
+  session_number: 5
+  session: Cyber Incidents
+  event_type: session
+  date: '2024-04-10'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Gassmann-et-al-WEIS-2024-d0143d18832e5629.pdf
+  slides_url: null
+  file: weis2024_14_valuation-of-confidentiality-and-availability-in-a-personal.pdf
+  path: papers/weis2024/weis2024_14_valuation-of-confidentiality-and-availability-in-a-personal.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Gassmann-et-al-WEIS-2024-d0143d18832e5629.pdf
+  error: null
+- id: weis2024_15
+  conference: weis2024
+  year: 2024
+  title: Using Simulations to Determine Economic Cost of a Cyber Attack
+  authors:
+  - Nina Sokol
+  - Viktoria Kežman
+  - Stjepan Groš
+  authors_full:
+  - name: Nina Sokol
+    affiliation: University of Zagreb
+  - name: Viktoria Kežman
+    affiliation: University of Zagreb
+  - name: Stjepan Groš
+    affiliation: University of Zagreb
+  session_number: 5
+  session: Cyber Incidents
+  event_type: session
+  date: '2024-04-10'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Sokol-et-al-WEIS-2024-dcb05051cd454be3.pdf
+  slides_url: null
+  file: weis2024_15_using-simulations-to-determine-economic-cost-of-a-cyber-atta.pdf
+  path: papers/weis2024/weis2024_15_using-simulations-to-determine-economic-cost-of-a-cyber-atta.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Sokol-et-al-WEIS-2024-dcb05051cd454be3.pdf
+  error: null
+- id: weis2024_16
+  conference: weis2024
+  year: 2024
+  title: The Welfare Effects of Ad-Blocking
+  authors:
+  - Fengyang Lin
+  - Cristobal Cheyre
+  - Alessandro Acquisti
+  authors_full:
+  - name: Fengyang Lin
+    affiliation: Cornell University
+  - name: Cristobal Cheyre
+    affiliation: Cornell University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2024-04-10'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Lin-et-al-WEIS-2024-697170d783304862.pdf
+  slides_url: null
+  file: weis2024_16_the-welfare-effects-of-ad-blocking.pdf
+  path: papers/weis2024/weis2024_16_the-welfare-effects-of-ad-blocking.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Lin-et-al-WEIS-2024-697170d783304862.pdf
+  error: null
+- id: weis2024_17
+  conference: weis2024
+  year: 2024
+  title: Have I Seen you Before? Measuring the Value of Tracking for Digital Advertising
+  authors:
+  - Grazia Cecere
+  - Sarah Lemaire
+  authors_full:
+  - name: Grazia Cecere
+    affiliation: Institut Mines Telecom Business School
+  - name: Sarah Lemaire
+    affiliation: JRC, Seville
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2024-04-10'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/04/Cecere-Lemaire-WEIS-2024-9d01fea563285ceb.pdf
+  slides_url: null
+  file: weis2024_17_have-i-seen-you-before-measuring-the-value-of-tracking-for-d.pdf
+  path: papers/weis2024/weis2024_17_have-i-seen-you-before-measuring-the-value-of-tracking-for-d.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/04/Cecere-Lemaire-WEIS-2024-9d01fea563285ceb.pdf
+  error: null
+- id: weis2024_18
+  conference: weis2024
+  year: 2024
+  title: 'Competition and Cybercrime: An Application to Healthcare Digitization'
+  authors:
+  - Chitra Marti
+  authors_full:
+  - name: Chitra Marti
+    affiliation: New York University
+  session_number: 6
+  session: Privacy
+  event_type: session
+  date: '2024-04-10'
+  time: null
+  award: null
+  url: https://weis.utdallas.edu/files/2024/03/Marti-WEIS-2024-88cf353cf1d1cbbf.pdf
+  slides_url: null
+  file: weis2024_18_competition-and-cybercrime-an-application-to-healthcare-digi.pdf
+  path: papers/weis2024/weis2024_18_competition-and-cybercrime-an-application-to-healthcare-digi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/e/1380/files/2024/03/Marti-WEIS-2024-88cf353cf1d1cbbf.pdf
+  error: null

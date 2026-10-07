@@ -1,0 +1,179 @@
+name: WEIS 2011
+full_name: The 10th Workshop on the Economics of Information Security
+edition: 10
+year: 2011
+location: Fairfax, VA, USA
+venue: The Mason Inn Conference Center & Hotel, 4352 Mason Pond Drive, Fairfax, Virginia 22030 (George Mason University, Fairfax Campus)
+start_date: '2011-06-14'
+end_date: '2011-06-15'
+website: http://weis2011.econinfosec.org/
+papers:
+- id: weis2011_01
+  title: The Impact of Immediate Disclosure on Attack Diffusion and Volume
+  authors:
+  - name: Sam Ransbotham
+  - name: Sabyasachi Mitra
+  file: null
+  path: null
+- id: weis2011_02
+  title: Where Do All the Attacks Go?
+  authors:
+  - name: Dinei Florencio
+  - name: Cormac Herley
+  file: weis2011_02_where-do-all-the-attacks-go.pdf
+  path: papers/weis2011/weis2011_02_where-do-all-the-attacks-go.pdf
+- id: weis2011_03
+  title: Sex, Lies and Cyber-crime Surveys
+  authors:
+  - name: Dinei Florencio
+  - name: Cormac Herley
+  file: weis2011_03_sex-lies-and-cyber-crime-surveys.pdf
+  path: papers/weis2011/weis2011_03_sex-lies-and-cyber-crime-surveys.pdf
+- id: weis2011_04
+  title: The Underground Economy of Fake Antivirus Software
+  authors:
+  - name: Brett Stone-Gross
+  - name: Ryan Abman
+  - name: Richard A. Kemmerer
+  - name: Christopher Kruegel
+  - name: Douglas G. Steigerwald
+  file: weis2011_04_the-underground-economy-of-fake-antivirus-software-2013-jour.pdf
+  path: papers/weis2011/weis2011_04_the-underground-economy-of-fake-antivirus-software-2013-jour.pdf
+- id: weis2011_05
+  title: The Inconvenient Truth about Web Certificates
+  authors:
+  - name: Nevena Vratonjic
+  - name: Julien Freudiger
+  - name: Vincent Bindschaedler
+  - name: Jean-Pierre Hubaux
+  file: weis2011_05_the-inconvenient-truth-about-web-certificates-repository-cop.pdf
+  path: papers/weis2011/weis2011_05_the-inconvenient-truth-about-web-certificates-repository-cop.pdf
+- id: weis2011_06
+  title: Social Networks, Personalized Advertising, and Privacy Controls
+  authors:
+  - name: Catherine Tucker
+  file: weis2011_06_social-networks-personalized-advertising-and-privacy-control.pdf
+  path: papers/weis2011/weis2011_06_social-networks-personalized-advertising-and-privacy-control.pdf
+- id: weis2011_07
+  title: Economic Tussles in Federated Identity Management
+  authors:
+  - name: Susan Landau
+  - name: Tyler Moore
+  file: weis2011_07_economic-tussles-in-federated-identity-management.pdf
+  path: papers/weis2011/weis2011_07_economic-tussles-in-federated-identity-management.pdf
+- id: weis2011_08
+  title: Negative Information Looms Longer than Positive Information
+  authors:
+  - name: Laura Brandimarte
+  - name: Alessandro Acquisti
+  - name: Joachim Vosgerau
+  file: null
+  path: null
+- id: weis2011_09
+  title: Resilience of the Internet Interconnection Ecosystem
+  authors:
+  - name: Chris Hall
+  - name: Ross Anderson
+  - name: Richard Clayton
+  - name: Evangelos Ouzounis
+  - name: Panagiotis Trimintzios
+  file: weis2011_09_resilience-of-the-internet-interconnection-ecosystem.pdf
+  path: papers/weis2011/weis2011_09_resilience-of-the-internet-interconnection-ecosystem.pdf
+- id: weis2011_10
+  title: Modeling Internet-Scale Policies for Cleaning up Malware
+  authors:
+  - name: Steven Hofmeyr
+  - name: Tyler Moore
+  - name: Stephanie Forrest
+  - name: Benjamin Edwards
+  - name: George Stelle
+  file: weis2011_10_modeling-internet-scale-policies-for-cleaning-up-malware.pdf
+  path: papers/weis2011/weis2011_10_modeling-internet-scale-policies-for-cleaning-up-malware.pdf
+- id: weis2011_11
+  title: 'Fixed Costs, Investment Rigidities, and Risk Aversion in Information Security: A Utility-theoretic Approach'
+  authors:
+  - name: Christos Ioannidis
+  - name: David Pym
+  - name: Julian Williams
+  file: weis2011_11_fixed-costs-investment-rigidities-and-risk-aversion-in-infor.pdf
+  path: papers/weis2011/weis2011_11_fixed-costs-investment-rigidities-and-risk-aversion-in-infor.pdf
+- id: weis2011_12
+  title: Who Should be Responsible for Software Security? A Comparative Analysis of Liability Policies in Network Environments
+  authors:
+  - name: Terrence August
+  - name: Tunay Tunca
+  file: weis2011_12_who-should-be-responsible-for-software-security-a-comparativ.pdf
+  path: papers/weis2011/weis2011_12_who-should-be-responsible-for-software-security-a-comparativ.pdf
+- id: weis2011_13
+  title: An Organizational Learning Perspective on Proactive vs. Reactive investment in Information Security
+  authors:
+  - name: Juhee Kwon
+  - name: M. Eric Johnson
+  file: weis2011_13_an-organizational-learning-perspective-on-proactive-vs-react.pdf
+  path: papers/weis2011/weis2011_13_an-organizational-learning-perspective-on-proactive-vs-react.pdf
+- id: weis2011_14
+  title: 'Assessing Home Internet Users'' Demand for Security: Will They Pay ISPs?'
+  authors:
+  - name: Dallas Wood
+  - name: Brent Rowe
+  file: null
+  path: null
+- id: weis2011_15
+  title: Presentation 1
+  authors: []
+  file: null
+  path: null
+- id: weis2011_16
+  title: Presentation 2
+  authors: []
+  file: null
+  path: null
+- id: weis2011_17
+  title: 'Information Targeting and Coordination: An Experimental Study'
+  authors:
+  - name: Matthew Hashim
+  - name: Sandra Maximiano
+  - name: Karthik Kannan
+  file: weis2011_17_information-targeting-and-coordination-an-experimental-study.pdf
+  path: papers/weis2011/weis2011_17_information-targeting-and-coordination-an-experimental-study.pdf
+- id: weis2011_18
+  title: Security Standardization in the Presence of Unverifiable Control
+  authors:
+  - name: Chul H. Lee
+  - name: Xianjun Geng
+  - name: Srinivasan Raghunathan
+  file: null
+  path: null
+- id: weis2011_19
+  title: Economic Methods and Decision Making by Security Professionals
+  authors:
+  - name: Simon Shiu
+  - name: Adrian Baldwin
+  - name: Yolanta Beres
+  - name: Marco Cassa Mont
+  - name: Geoff Duggan
+  file: null
+  path: null
+- id: weis2011_20
+  title: 'Real Name Verification Law on the Internet: a Poison or Cure for Privacy?'
+  authors:
+  - name: Daegon Cho
+  file: null
+  path: null
+- id: weis2011_21
+  title: Health Disclosure Laws and Health Information Exchanges
+  authors:
+  - name: Idris Adjerid
+  - name: Alessandro Acquisti
+  - name: Rema Padman
+  - name: Rahul Telang
+  - name: Julia Adler-Milstein
+  file: null
+  path: null
+- id: weis2011_22
+  title: 'The Privacy Landscape: Product Differentiation on Data Collection'
+  authors:
+  - name: Sören Preibusch
+  - name: Joseph Bonneau
+  file: weis2011_22_the-privacy-landscape-product-differentiation-on-data-collec.pdf
+  path: papers/weis2011/weis2011_22_the-privacy-landscape-product-differentiation-on-data-collec.pdf

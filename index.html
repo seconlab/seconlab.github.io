@@ -1,35 +1,63 @@
 ---
 layout: default
 ---
-<h2>Conferences</h2>
-
-{% comment %} Build "year|slug" strings so the hash can be sorted by year {% endcomment %}
+{% comment %} Build "year|slug" strings so conferences/papers/*.yml can be sorted by year {% endcomment %}
 {% assign entries = "" | split: "" %}
-{% for item in site.data %}
+{% assign total_papers = 0 %}
+{% assign total_files = 0 %}
+{% for item in site.data.papers %}
   {% if item[1].name %}
     {% assign entry = item[1].year | append: "|" | append: item[0] %}
     {% assign entries = entries | push: entry %}
+    {% assign total_papers = total_papers | plus: item[1].papers.size %}
+    {% assign files = item[1].papers | where_exp: "p", "p.file != nil" %}
+    {% assign total_files = total_files | plus: files.size %}
   {% endif %}
 {% endfor %}
 {% assign entries = entries | sort | reverse %}
 
+<p>{{ entries | size }} conferences, {{ total_papers }} papers ({{ total_files }} files available).</p>
+
+<p>
+{% for entry in entries %}
+  {% assign slug = entry | split: "|" | last %}
+  <a href="#{{ slug }}">{{ site.data.papers[slug].year }}</a>{% unless forloop.last %} · {% endunless %}
+{% endfor %}
+</p>
+
+{% for entry in entries %}
+{% assign slug = entry | split: "|" | last %}
+{% assign c = site.data.papers[slug] %}
+{% assign files = c.papers | where_exp: "p", "p.file != nil" %}
+
+<h2 id="{{ slug }}">{{ c.name }}</h2>
 <table>
-  <thead>
-    <tr><th>Year</th><th>Conference</th><th>Location</th><th>Dates</th><th>Files</th></tr>
-  </thead>
   <tbody>
-  {% for entry in entries %}
-    {% assign slug = entry | split: "|" | last %}
-    {% assign c = site.data[slug] %}
+    {% if c.full_name %}<tr><th>Full name</th><td>{{ c.full_name }}</td></tr>{% endif %}
+    {% if c.start_date %}<tr><th>Dates</th><td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td></tr>{% endif %}
+    {% if c.location %}<tr><th>Location</th><td>{{ c.location }}</td></tr>{% endif %}
+    {% if c.venue %}<tr><th>Venue</th><td>{{ c.venue }}</td></tr>{% endif %}
+    {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a></td></tr>{% endif %}
+    <tr><th>Papers</th><td>{{ c.papers | size }} ({{ files | size }} files available)</td></tr>
+    <tr><th>More</th><td>
+      {% if site.data.yml[slug] %}<a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}">Full programme</a> · {% endif %}
+      <a href="{{ '/conferences/papers/' | append: slug | append: '.yml' | relative_url }}">{{ slug }}.yml</a>
+    </td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead><tr><th>#</th><th>Title</th><th>Authors</th><th>File</th></tr></thead>
+  <tbody>
+  {% for p in c.papers %}
     <tr>
-      <td>{{ c.year }}</td>
-      <td><a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}"><strong>{{ c.name }}</strong></a><br><small>{{ c.full_name }}</small></td>
-      <td>{{ c.location }}</td>
-      <td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td>
-      <td><a href="{{ '/conferences/yml/' | append: slug | append: '.yml' | relative_url }}">yml</a></td>
+      <td>{{ forloop.index }}</td>
+      <td>{% if p.file %}<a href="{{ '/' | append: p.path | relative_url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</td>
+      <td><small>{% include people.html people=p.authors %}</small></td>
+      <td>{% if p.file %}<a href="{{ '/' | append: p.path | relative_url }}">{{ p.file | split: "." | last | upcase }}</a>{% else %}<em>not available</em>{% endif %}</td>
     </tr>
   {% endfor %}
   </tbody>
 </table>
-
-<p><small>{{ entries | size }} conference{% if entries.size != 1 %}s{% endif %} in the archive.</small></p>
+<p><a href="#content">Top</a></p>
+{% endfor %}

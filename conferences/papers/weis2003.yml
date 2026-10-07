@@ -1,0 +1,163 @@
+name: WEIS 2003
+full_name: 2nd Annual Workshop on Economics and Information Security
+edition: 2
+year: 2003
+location: College Park, Maryland, USA
+venue: Robert H. Smith School of Business, University of Maryland, 1412 Van Munching Hall, Rouse Room
+start_date: '2003-05-29'
+end_date: '2003-05-30'
+website: http://www.cpppe.umd.edu/rhsmith3/
+papers:
+- id: weis2003_01
+  title: Cryptology and Competition Policy - Issues with 'Trusted Computing'
+  authors:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  file: weis2003_01_cryptology-and-competition-policy-issues-with-trusted-comput.pdf
+  path: papers/weis2003/weis2003_01_cryptology-and-competition-policy-issues-with-trusted-comput.pdf
+- id: weis2003_02
+  title: How Much is Stronger DRM Worth?
+  authors:
+  - name: Stephen R. Lewis
+    affiliation: University of Cambridge
+  file: weis2003_02_how-much-is-stronger-drm-worth.pdf
+  path: papers/weis2003/weis2003_02_how-much-is-stronger-drm-worth.pdf
+- id: weis2003_03
+  title: Trusted Computing, Peer-to-Peer Distribution, and the Economics of Pirated Entertainment
+  authors:
+  - name: Stuart E. Schechter
+    affiliation: Harvard University
+  - name: Rachel A. Greenstadt
+    affiliation: Harvard University
+  - name: Michael D. Smith
+    affiliation: Harvard University
+  file: weis2003_03_trusted-computing-peer-to-peer-distribution-and-the-economic.pdf
+  path: papers/weis2003/weis2003_03_trusted-computing-peer-to-peer-distribution-and-the-economic.pdf
+- id: weis2003_04
+  title: Quantifying the Value of IT Security Mechanisms and Setting Up an Effective Security Architecture
+  authors:
+  - name: Huseyin Cavusoglu
+    affiliation: University of Texas at Dallas
+  - name: Srinivasan Raghunathan
+    affiliation: University of Texas at Dallas
+  - name: Birendra Mishra
+    affiliation: University of Texas at Dallas
+  file: weis2003_04_quantifying-the-value-of-it-security-mechanisms-and-setting.pdf
+  path: papers/weis2003/weis2003_04_quantifying-the-value-of-it-security-mechanisms-and-setting.pdf
+- id: weis2003_05
+  title: Evaluating Damages Caused By Information Systems Security Incidents
+  authors:
+  - name: Fariborz Farahmand
+    affiliation: Georgia Institute of Technology
+  - name: Shamkant B. Navathe
+    affiliation: Georgia Institute of Technology
+  - name: Gunter P. Sharp
+    affiliation: Georgia Institute of Technology
+  - name: Philip H. Enslow
+    affiliation: Georgia Institute of Technology
+  file: weis2003_05_evaluating-damages-caused-by-information-systems-security-in.pdf
+  path: papers/weis2003/weis2003_05_evaluating-damages-caused-by-information-systems-security-in.pdf
+- id: weis2003_06
+  title: The Paradoxical Value of Privacy
+  authors:
+  - name: Paul Syverson
+    affiliation: Naval Research Laboratory
+  file: weis2003_06_the-paradoxical-value-of-privacy.pdf
+  path: papers/weis2003/weis2003_06_the-paradoxical-value-of-privacy.pdf
+- id: weis2003_07
+  title: 'Why We Can''t be Bothered to Read Privacy Policies: Models of Privacy Economics as a Lemons Market'
+  authors:
+  - name: Tony Vila
+    affiliation: Harvard University
+  - name: Rachel Greenstadt
+    affiliation: Harvard University
+  - name: David Molnar
+    affiliation: Harvard University
+  file: weis2003_07_why-we-can-t-be-bothered-to-read-privacy-policies-models-of.pdf
+  path: papers/weis2003/weis2003_07_why-we-can-t-be-bothered-to-read-privacy-policies-models-of.pdf
+- id: weis2003_08
+  title: 'Paying for Privacy: Consumers and Infrastructures'
+  authors:
+  - name: Adam Shostack
+    affiliation: Informed Security
+  file: weis2003_08_paying-for-privacy-consumers-and-infrastructures-slides.pdf
+  path: papers/weis2003/weis2003_08_paying-for-privacy-consumers-and-infrastructures-slides.pdf
+- id: weis2003_09
+  title: 'Losses, Gains, and Hyperbolic Discounting: An Experimental Approach to Information Security Attitudes and Behaviors'
+  authors:
+  - name: Alessandro Acquisti
+    affiliation: University of California, Berkeley
+  - name: Jens Grossklags
+    affiliation: University of California, Berkeley
+  file: weis2003_09_losses-gains-and-hyperbolic-discounting-an-experimental-appr.pdf
+  path: papers/weis2003/weis2003_09_losses-gains-and-hyperbolic-discounting-an-experimental-appr.pdf
+- id: weis2003_10
+  title: Making Security Manifest
+  authors:
+  - name: Allan Friedman
+    affiliation: Harvard University
+  - name: L. Jean Camp
+    affiliation: Harvard University
+  file: weis2003_10_making-security-manifest.pdf
+  path: papers/weis2003/weis2003_10_making-security-manifest.pdf
+- id: weis2003_11
+  title: 'Evaluating Security Systems: A Five-Step Process'
+  authors:
+  - name: Bruce Schneier
+    affiliation: Counterpane Internet Security
+  file: weis2003_11_evaluating-security-systems-a-five-step-process.pdf
+  path: papers/weis2003/weis2003_11_evaluating-security-systems-a-five-step-process.pdf
+- id: weis2003_12
+  title: The Economic Consequences of Sharing Security Information
+  authors:
+  - name: Esther Gal-Or
+    affiliation: University of Pittsburgh
+  - name: Anindya Ghose
+    affiliation: Carnegie Mellon University
+  file: weis2003_12_the-economic-consequences-of-sharing-security-information.pdf
+  path: papers/weis2003/weis2003_12_the-economic-consequences-of-sharing-security-information.pdf
+- id: weis2003_13
+  title: Economic Aspects of Controlling Capital Investments in Cyberspace Security for Critical Infrastructure Assets
+  authors:
+  - name: Lawrence A. Gordon
+    affiliation: University of Maryland
+  - name: Martin P. Loeb
+    affiliation: University of Maryland
+  - name: William Lucyshyn
+    affiliation: Defense Advanced Research Projects Agency and University of Maryland
+  file: weis2003_13_economic-aspects-of-controlling-capital-investments-in-cyber.pdf
+  path: papers/weis2003/weis2003_13_economic-aspects-of-controlling-capital-investments-in-cyber.pdf
+- id: weis2003_14
+  title: Interfering in e-Contracting
+  authors:
+  - name: Patrick Legros
+    affiliation: Université Libre de Bruxelles
+  - name: Andrew F. Newman
+    affiliation: Institute for Advanced Study, Princeton University and University College London
+  file: weis2003_14_interference-in-e-contracting.pdf
+  path: papers/weis2003/weis2003_14_interference-in-e-contracting.pdf
+- id: weis2003_15
+  title: 'Security and Lock-In: The Case of the U.S. Cable Industry'
+  authors:
+  - name: Tom Lookabaugh
+    affiliation: University of Colorado
+  - name: Douglas C. Sicker
+    affiliation: University of Colorado
+  file: weis2003_15_security-and-lock-in-the-case-of-the-u-s-cable-industry.pdf
+  path: papers/weis2003/weis2003_15_security-and-lock-in-the-case-of-the-u-s-cable-industry.pdf
+- id: weis2003_16
+  title: We Want Security But We Hate It. The Foundations of Security Technoeconomics in the Social World
+  authors:
+  - name: Mauro Sandrini
+    affiliation: Teramo University
+  file: weis2003_16_we-want-security-but-we-hate-it-the-foundations-of-security.pdf
+  path: papers/weis2003/weis2003_16_we-want-security-but-we-hate-it-the-foundations-of-security.pdf
+- id: weis2003_17
+  title: 'How and Why More Secure Technologies Succeed in Legacy Markets: Lessons from the Success of SSH'
+  authors:
+  - name: Nicholas Rosasco
+    affiliation: University of Maryland, Baltimore County
+  - name: David Larochelle
+    affiliation: University of Virginia
+  file: weis2003_17_how-and-why-more-secure-technologies-succeed-in-legacy-marke.pdf
+  path: papers/weis2003/weis2003_17_how-and-why-more-secure-technologies-succeed-in-legacy-marke.pdf

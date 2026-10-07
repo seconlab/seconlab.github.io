@@ -1,0 +1,227 @@
+name: WEIS 2019
+full_name: The 18th Workshop on the Economics of Information Security
+edition: 18
+year: 2019
+location: Boston, Massachusetts, USA
+venue: Harvard School of Engineering and Applied Sciences, Maxwell Dworkin G-115 (Lessing Lecture Hall)
+start_date: '2019-06-03'
+end_date: '2019-06-04'
+website: https://weis2019.econinfosec.org/
+papers:
+- id: weis2019_01
+  title: A Research Agenda for Cyber Risk and Cyber Insurance
+  authors:
+  - name: Gregory Falco
+  - name: Martin Eling
+  - name: Danielle Jablanski
+  - name: Lawrence A. Gordon
+  - name: Shaun Shuxun Wang
+  - name: Joan Schmit
+  - name: Russell Thomas
+  - name: Mauro Elvedi
+  - name: Thomas Maillart
+  - name: Emy Donavan
+  - name: Simon Dejung
+  - name: Matthias Weber
+  - name: Eric Durand
+  - name: Franklin Nutter
+  - name: Uzi Scheffer
+  - name: Gil Arazi
+  - name: Gilbert Ohana
+  - name: Herb Lin
+  file: weis2019_01_a-research-agenda-for-cyber-risk-and-cyber-insurance.pdf
+  path: papers/weis2019/weis2019_01_a-research-agenda-for-cyber-risk-and-cyber-insurance.pdf
+- id: weis2019_02
+  title: Valuing Cybersecurity Research Datasets
+  authors:
+  - name: Tyler Moore
+  - name: Erin Kenneally
+  - name: Michael Collett
+  - name: Prakash Thapa
+  file: weis2019_02_valuing-cybersecurity-research-datasets.pdf
+  path: papers/weis2019/weis2019_02_valuing-cybersecurity-research-datasets.pdf
+- id: weis2019_03
+  title: Measuring the Changing Cost of Cybercrime
+  authors:
+  - name: Ross Anderson
+  - name: Chris Barton
+  - name: Rainer Böhme
+  - name: Richard Clayton
+  - name: Carlos Ganan
+  - name: Tom Grasso
+  - name: Michael Levi
+  - name: Marie Vasek
+  - name: Tyler Moore
+  file: weis2019_03_measuring-the-changing-cost-of-cybercrime.pdf
+  path: papers/weis2019/weis2019_03_measuring-the-changing-cost-of-cybercrime.pdf
+- id: weis2019_04
+  title: 'The County Fair Cyber Loss Distribution: Drawing Inferences from Insurance Prices'
+  authors:
+  - name: Daniel Woods
+  - name: Tyler Moore
+  - name: Andrew Simpson
+  file: weis2019_04_the-county-fair-cyber-loss-distribution-drawing-inferences-f.pdf
+  path: papers/weis2019/weis2019_04_the-county-fair-cyber-loss-distribution-drawing-inferences-f.pdf
+- id: weis2019_05
+  title: 'The Stock Market Impact of Information Security Investments: The Case of Security Standards'
+  authors:
+  - name: Dennis D. Malliouris
+  - name: Andrew C. Simpson
+  file: weis2019_05_the-stock-market-impact-of-information-security-investments.pdf
+  path: papers/weis2019/weis2019_05_the-stock-market-impact-of-information-security-investments.pdf
+- id: weis2019_06
+  title: Exponential Discounting in Security Games of Timing
+  authors:
+  - name: Jonathan Merlevede
+  - name: Benjamin Johnson
+  - name: Jens Grossklags
+  - name: Tom Holvoet
+  file: weis2019_06_exponential-discounting-in-security-games-of-timing.pdf
+  path: papers/weis2019/weis2019_06_exponential-discounting-in-security-games-of-timing.pdf
+- id: weis2019_07
+  title: Economics of Ransomware Attacks
+  authors:
+  - name: Terrence August
+  - name: Duy Dao
+  - name: Marius Florin Niculescu
+  file: weis2019_07_economics-of-ransomware-attacks.pdf
+  path: papers/weis2019/weis2019_07_economics-of-ransomware-attacks.pdf
+- id: weis2019_08
+  title: Cybersecurity and Platform Competition
+  authors:
+  - name: Daniel Arce
+  file: weis2019_08_cybersecurity-and-platform-competition.pdf
+  path: papers/weis2019/weis2019_08_cybersecurity-and-platform-competition.pdf
+- id: weis2019_09
+  title: Improving Vulnerability Remediation Through Better Exploit Prediction
+  authors:
+  - name: Jay Jacobs
+  - name: Sasha Romanosky
+  - name: Idris Adjerid
+  - name: Wade Baker
+  file: weis2019_09_improving-vulnerability-remediation-through-better-exploit-p.pdf
+  path: papers/weis2019/weis2019_09_improving-vulnerability-remediation-through-better-exploit-p.pdf
+- id: weis2019_10
+  title: 'Bug Bounty Programs, Security Investment and Law Enforcement: A Security Game Perspective'
+  authors:
+  - name: Jiali Zhou
+  - name: Kai-Lung Hui
+  file: weis2019_10_bug-bounty-programs-security-investment-and-law-enforcement.pdf
+  path: papers/weis2019/weis2019_10_bug-bounty-programs-security-investment-and-law-enforcement.pdf
+- id: weis2019_11
+  title: 'Identifying the Arbitrageurs on Mt. Gox: First Evidence from the Leaked Dataset'
+  authors:
+  - name: Pietro Saggese
+  - name: Rainer Böhme
+  file: weis2019_11_identifying-the-arbitrageurs-on-mt-gox-first-evidence-from-t.pdf
+  path: papers/weis2019/weis2019_11_identifying-the-arbitrageurs-on-mt-gox-first-evidence-from-t.pdf
+- id: weis2019_12
+  title: Does Sharing Make My Data More Insecure? An Empirical Study on Health Information Exchange and Data Breaches
+  authors:
+  - name: Leting Zhang
+  - name: Min-Seok Pang
+  - name: Sunil Wattal
+  file: weis2019_12_does-sharing-make-my-data-more-insecure-an-empirical-study-o.pdf
+  path: papers/weis2019/weis2019_12_does-sharing-make-my-data-more-insecure-an-empirical-study-o.pdf
+- id: weis2019_13
+  title: Hey Google, What Exactly Do Your Security Patches Tell Us? A Large-Scale Empirical Study on Android Patched Vulnerabilities
+  authors:
+  - name: Sadegh Farhang
+  - name: Mehmet Bahadir Kirdan
+  - name: Aron Laszka
+  - name: Jens Grossklags
+  file: weis2019_13_hey-google-what-exactly-do-your-security-patches-tell-us-a-l.pdf
+  path: papers/weis2019/weis2019_13_hey-google-what-exactly-do-your-security-patches-tell-us-a-l.pdf
+- id: weis2019_14
+  title: Why Bitcoin will Fail to Scale
+  authors:
+  - name: Nikhil Malik
+  - name: Manmohan Aseri
+  - name: Param Vir Singh
+  - name: Kannan Srinivasan
+  file: weis2019_14_why-bitcoin-will-fail-to-scale.pdf
+  path: papers/weis2019/weis2019_14_why-bitcoin-will-fail-to-scale.pdf
+- id: weis2019_15
+  title: The Economics of Cryptocurrency Pump and Dump Schemes
+  authors:
+  - name: James Hamrick
+  - name: Farhang Rouhi
+  - name: Arghya Mukherjee
+  - name: Amir Feder
+  - name: Neil Gandal
+  - name: Tyler Moore
+  - name: Marie Vasek
+  file: weis2019_15_the-economics-of-cryptocurrency-pump-and-dump-schemes.pdf
+  path: papers/weis2019/weis2019_15_the-economics-of-cryptocurrency-pump-and-dump-schemes.pdf
+- id: weis2019_16
+  title: 'A Deep Dive into Bitcoin Mining Pools: An Empirical Analysis of Mining Shares'
+  authors:
+  - name: Matteo Romiti
+  - name: Aljosha Judmayer
+  - name: Alexei Zamyatin
+  - name: Bernhard Haslhofer
+  file: weis2019_16_a-deep-dive-into-bitcoin-mining-pools-an-empirical-analysis.pdf
+  path: papers/weis2019/weis2019_16_a-deep-dive-into-bitcoin-mining-pools-an-empirical-analysis.pdf
+- id: weis2019_17
+  title: 'Diversification Across Mining Pools: Optimal Mining Strategies under PoW'
+  authors:
+  - name: Panagiotis Chatzigiannis
+  - name: Foteini Baldimtsi
+  - name: Igor Griva
+  - name: Jiasun Li
+  file: weis2019_17_diversification-across-mining-pools-optimal-mining-strategie.pdf
+  path: papers/weis2019/weis2019_17_diversification-across-mining-pools-optimal-mining-strategie.pdf
+- id: weis2019_18
+  title: 'The Economic Cost of Cybersecurity Breaches: A Broad-Based Analysis'
+  authors:
+  - name: Jacob Haislip
+  - name: Kalin Kolev
+  - name: Robert Pinsker
+  - name: Thomas Steffen
+  file: weis2019_18_the-economic-cost-of-cybersecurity-breaches-a-broad-based-an.pdf
+  path: papers/weis2019/weis2019_18_the-economic-cost-of-cybersecurity-breaches-a-broad-based-an.pdf
+- id: weis2019_19
+  title: Software Vulnerability Disclosure and Security Investment
+  authors:
+  - name: Arrah-Marie Jo
+  file: weis2019_19_software-vulnerability-disclosure-and-security-investment.pdf
+  path: papers/weis2019/weis2019_19_software-vulnerability-disclosure-and-security-investment.pdf
+- id: weis2019_20
+  title: Do Data Breach Disclosure Laws Increase Firms’ Investment in Securing Their Digital Infrastructure?
+  authors:
+  - name: Raviv Murciano-Goroff
+  file: weis2019_20_do-data-breach-disclosure-laws-increase-firms-investment-in.pdf
+  path: papers/weis2019/weis2019_20_do-data-breach-disclosure-laws-increase-firms-investment-in.pdf
+- id: weis2019_21
+  title: 'Fixing HTTPS Misconfigurations at Scale: An Experiment with Security Notifications'
+  authors:
+  - name: Eric Zeng
+  - name: Frank Li
+  - name: Emily Stark
+  - name: Adrienne Porter Felt
+  - name: Parisa Tabriz
+  file: weis2019_21_fixing-https-misconfigurations-at-scale-an-experiment-with-s.pdf
+  path: papers/weis2019/weis2019_21_fixing-https-misconfigurations-at-scale-an-experiment-with-s.pdf
+- id: weis2019_22
+  title: 'Delaying Informed Consent: An Empirical Investigation of Mobile Apps’ Upgrade Decisions'
+  authors:
+  - name: Raveesh Mayya
+  - name: Siva Viswanathan
+  file: weis2019_22_delaying-informed-consent-an-empirical-investigation-of-mobi.pdf
+  path: papers/weis2019/weis2019_22_delaying-informed-consent-an-empirical-investigation-of-mobi.pdf
+- id: weis2019_23
+  title: 'The Impact of Ad-Blockers on Consumer Behavior: A Lab Experiment'
+  authors:
+  - name: Alisa Frik
+  - name: Amelia Haviland
+  - name: Alessandro Acquisti
+  file: weis2019_23_the-impact-of-ad-blockers-on-consumer-behavior-a-lab-experim.pdf
+  path: papers/weis2019/weis2019_23_the-impact-of-ad-blockers-on-consumer-behavior-a-lab-experim.pdf
+- id: weis2019_24
+  title: 'Online Tracking and Publishers’ Revenues: An Empirical Analysis'
+  authors:
+  - name: Veronica Marotta
+  - name: Vibhanshu Abhishek
+  - name: Alessandro Acquisti
+  file: weis2019_24_online-tracking-and-publishers-revenues-an-empirical-analysi.pdf
+  path: papers/weis2019/weis2019_24_online-tracking-and-publishers-revenues-an-empirical-analysi.pdf

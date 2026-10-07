@@ -1,0 +1,450 @@
+conference: weis2003
+name: WEIS 2003
+year: 2003
+papers_dir: papers/weis2003
+total: 17
+downloaded: 11
+failed: 6
+papers:
+- id: weis2003_01
+  conference: weis2003
+  year: 2003
+  title: Cryptology and Competition Policy - Issues with 'Trusted Computing'
+  authors:
+  - Ross Anderson
+  authors_full:
+  - name: Ross Anderson
+    affiliation: University of Cambridge
+  session_number: 1
+  session: Trusted Computing and DRM
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331203225/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_anderson.pdf
+  slides_url: null
+  file: weis2003_01_cryptology-and-competition-policy-issues-with-trusted-comput.pdf
+  path: papers/weis2003/weis2003_01_cryptology-and-competition-policy-issues-with-trusted-comput.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331203225id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_anderson.pdf
+  error: null
+- id: weis2003_02
+  conference: weis2003
+  year: 2003
+  title: How Much is Stronger DRM Worth?
+  authors:
+  - Stephen R. Lewis
+  authors_full:
+  - name: Stephen R. Lewis
+    affiliation: University of Cambridge
+  session_number: 1
+  session: Trusted Computing and DRM
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331224038/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_lewis.pdf
+  slides_url: null
+  file: weis2003_02_how-much-is-stronger-drm-worth.pdf
+  path: papers/weis2003/weis2003_02_how-much-is-stronger-drm-worth.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331224038id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session1_lewis.pdf
+  error: null
+- id: weis2003_03
+  conference: weis2003
+  year: 2003
+  title: Trusted Computing, Peer-to-Peer Distribution, and the Economics of Pirated Entertainment
+  authors:
+  - Stuart E. Schechter
+  - Rachel A. Greenstadt
+  - Michael D. Smith
+  authors_full:
+  - name: Stuart E. Schechter
+    affiliation: Harvard University
+  - name: Rachel A. Greenstadt
+    affiliation: Harvard University
+  - name: Michael D. Smith
+    affiliation: Harvard University
+  session_number: 1
+  session: Trusted Computing and DRM
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20030916214212/http://www.eecs.harvard.edu/~stuart/papers/eis03.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_04
+  conference: weis2003
+  year: 2003
+  title: Quantifying the Value of IT Security Mechanisms and Setting Up an Effective Security Architecture
+  authors:
+  - Huseyin Cavusoglu
+  - Srinivasan Raghunathan
+  - Birendra Mishra
+  authors_full:
+  - name: Huseyin Cavusoglu
+    affiliation: University of Texas at Dallas
+  - name: Srinivasan Raghunathan
+    affiliation: University of Texas at Dallas
+  - name: Birendra Mishra
+    affiliation: University of Texas at Dallas
+  session_number: 2
+  session: Security Intrusion
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20030619085556/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session2_cavusoglu.raghunathan.mishra.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_05
+  conference: weis2003
+  year: 2003
+  title: Evaluating Damages Caused By Information Systems Security Incidents
+  authors:
+  - Fariborz Farahmand
+  - Shamkant B. Navathe
+  - Gunter P. Sharp
+  - Philip H. Enslow
+  authors_full:
+  - name: Fariborz Farahmand
+    affiliation: Georgia Institute of Technology
+  - name: Shamkant B. Navathe
+    affiliation: Georgia Institute of Technology
+  - name: Gunter P. Sharp
+    affiliation: Georgia Institute of Technology
+  - name: Philip H. Enslow
+    affiliation: Georgia Institute of Technology
+  session_number: 2
+  session: Security Intrusion
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20030619143829/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session2_farahmand.navathe.sharp.enslow.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_06
+  conference: weis2003
+  year: 2003
+  title: The Paradoxical Value of Privacy
+  authors:
+  - Paul Syverson
+  authors_full:
+  - name: Paul Syverson
+    affiliation: Naval Research Laboratory
+  session_number: 3
+  session: Privacy Policies
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20031204142325/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_syverson.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_07
+  conference: weis2003
+  year: 2003
+  title: 'Why We Can''t be Bothered to Read Privacy Policies: Models of Privacy Economics as a Lemons Market'
+  authors:
+  - Tony Vila
+  - Rachel Greenstadt
+  - David Molnar
+  authors_full:
+  - name: Tony Vila
+    affiliation: Harvard University
+  - name: Rachel Greenstadt
+    affiliation: Harvard University
+  - name: David Molnar
+    affiliation: Harvard University
+  session_number: 3
+  session: Privacy Policies
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040401005811/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_molnar.greenstadt.vila.pdf
+  slides_url: null
+  file: weis2003_07_why-we-can-t-be-bothered-to-read-privacy-policies-models-of.pdf
+  path: papers/weis2003/weis2003_07_why-we-can-t-be-bothered-to-read-privacy-policies-models-of.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040401005811id_/http://www.cpppe.umd.edu:80/rhsmith3/papers/Final_session3_molnar.greenstadt.vila.pdf
+  error: null
+- id: weis2003_08
+  conference: weis2003
+  year: 2003
+  title: 'Paying for Privacy: Consumers and Infrastructures'
+  authors:
+  - Adam Shostack
+  authors_full:
+  - name: Adam Shostack
+    affiliation: Informed Security
+  session_number: 3
+  session: Privacy Policies
+  event_type: session
+  date: '2003-05-29'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20030622224248/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session3_shostack_privacy.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_09
+  conference: weis2003
+  year: 2003
+  title: 'Losses, Gains, and Hyperbolic Discounting: An Experimental Approach to Information Security Attitudes and Behaviors'
+  authors:
+  - Alessandro Acquisti
+  - Jens Grossklags
+  authors_full:
+  - name: Alessandro Acquisti
+    affiliation: University of California, Berkeley
+  - name: Jens Grossklags
+    affiliation: University of California, Berkeley
+  session_number: 6
+  session: Alternative Approaches to Security Processes
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331220308/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_acquisti.grossklags.pdf
+  slides_url: null
+  file: weis2003_09_losses-gains-and-hyperbolic-discounting-an-experimental-appr.pdf
+  path: papers/weis2003/weis2003_09_losses-gains-and-hyperbolic-discounting-an-experimental-appr.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331220308id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_acquisti.grossklags.pdf
+  error: null
+- id: weis2003_10
+  conference: weis2003
+  year: 2003
+  title: Making Security Manifest
+  authors:
+  - Allan Friedman
+  - L. Jean Camp
+  authors_full:
+  - name: Allan Friedman
+    affiliation: Harvard University
+  - name: L. Jean Camp
+    affiliation: Harvard University
+  session_number: 6
+  session: Alternative Approaches to Security Processes
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331210021/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_camp.friedman.pdf
+  slides_url: null
+  file: weis2003_10_making-security-manifest.pdf
+  path: papers/weis2003/weis2003_10_making-security-manifest.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331210021id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_camp.friedman.pdf
+  error: null
+- id: weis2003_11
+  conference: weis2003
+  year: 2003
+  title: 'Evaluating Security Systems: A Five-Step Process'
+  authors:
+  - Bruce Schneier
+  authors_full:
+  - name: Bruce Schneier
+    affiliation: Counterpane Internet Security
+  session_number: 6
+  session: Alternative Approaches to Security Processes
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040723085439/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_schneier.pdf
+  slides_url: null
+  file: weis2003_11_evaluating-security-systems-a-five-step-process.pdf
+  path: papers/weis2003/weis2003_11_evaluating-security-systems-a-five-step-process.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040723085439id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session6_schneier.pdf
+  error: null
+- id: weis2003_12
+  conference: weis2003
+  year: 2003
+  title: The Economic Consequences of Sharing Security Information
+  authors:
+  - Esther Gal-Or
+  - Anindya Ghose
+  authors_full:
+  - name: Esther Gal-Or
+    affiliation: University of Pittsburgh
+  - name: Anindya Ghose
+    affiliation: Carnegie Mellon University
+  session_number: 7
+  session: Asymmetric Information Aspects of Information Security
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040401002342/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_galor.ghose.pdf
+  slides_url: null
+  file: weis2003_12_the-economic-consequences-of-sharing-security-information.pdf
+  path: papers/weis2003/weis2003_12_the-economic-consequences-of-sharing-security-information.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040401002342id_/http://www.cpppe.umd.edu:80/rhsmith3/papers/Final_session7_galor.ghose.pdf
+  error: null
+- id: weis2003_13
+  conference: weis2003
+  year: 2003
+  title: Economic Aspects of Controlling Capital Investments in Cyberspace Security for Critical Infrastructure Assets
+  authors:
+  - Lawrence A. Gordon
+  - Martin P. Loeb
+  - William Lucyshyn
+  authors_full:
+  - name: Lawrence A. Gordon
+    affiliation: University of Maryland
+  - name: Martin P. Loeb
+    affiliation: University of Maryland
+  - name: William Lucyshyn
+    affiliation: Defense Advanced Research Projects Agency and University of Maryland
+  session_number: 7
+  session: Asymmetric Information Aspects of Information Security
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331162911/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_lucyshyn.loeb.gordon.pdf
+  slides_url: null
+  file: weis2003_13_economic-aspects-of-controlling-capital-investments-in-cyber.pdf
+  path: papers/weis2003/weis2003_13_economic-aspects-of-controlling-capital-investments-in-cyber.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331162911id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_lucyshyn.loeb.gordon.pdf
+  error: null
+- id: weis2003_14
+  conference: weis2003
+  year: 2003
+  title: Interfering in e-Contracting
+  authors:
+  - Patrick Legros
+  - Andrew F. Newman
+  authors_full:
+  - name: Patrick Legros
+    affiliation: Université Libre de Bruxelles
+  - name: Andrew F. Newman
+    affiliation: Institute for Advanced Study, Princeton University and University College London
+  session_number: 7
+  session: Asymmetric Information Aspects of Information Security
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040328233343/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session7_legros.newman.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2003_15
+  conference: weis2003
+  year: 2003
+  title: 'Security and Lock-In: The Case of the U.S. Cable Industry'
+  authors:
+  - Tom Lookabaugh
+  - Douglas C. Sicker
+  authors_full:
+  - name: Tom Lookabaugh
+    affiliation: University of Colorado
+  - name: Douglas C. Sicker
+    affiliation: University of Colorado
+  session_number: 8
+  session: Practical Cases and Problems
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040723090941/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session8_lookabaugh.sicker.pdf
+  slides_url: null
+  file: weis2003_15_security-and-lock-in-the-case-of-the-u-s-cable-industry.pdf
+  path: papers/weis2003/weis2003_15_security-and-lock-in-the-case-of-the-u-s-cable-industry.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040723090941id_/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session8_lookabaugh.sicker.pdf
+  error: null
+- id: weis2003_16
+  conference: weis2003
+  year: 2003
+  title: We Want Security But We Hate It. The Foundations of Security Technoeconomics in the Social World
+  authors:
+  - Mauro Sandrini
+  authors_full:
+  - name: Mauro Sandrini
+    affiliation: Teramo University
+  session_number: 8
+  session: Practical Cases and Problems
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20040331205947/http://www.cpppe.umd.edu/rhsmith3/papers/Final_session8_sandrini.pdf
+  slides_url: null
+  file: weis2003_16_we-want-security-but-we-hate-it-the-foundations-of-security.pdf
+  path: papers/weis2003/weis2003_16_we-want-security-but-we-hate-it-the-foundations-of-security.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20040331205947id_/http://www.cpppe.umd.edu:80/rhsmith3/papers/Final_session8_sandrini.pdf
+  error: null
+- id: weis2003_17
+  conference: weis2003
+  year: 2003
+  title: 'How and Why More Secure Technologies Succeed in Legacy Markets: Lessons from the Success of SSH'
+  authors:
+  - Nicholas Rosasco
+  - David Larochelle
+  authors_full:
+  - name: Nicholas Rosasco
+    affiliation: University of Maryland, Baltimore County
+  - name: David Larochelle
+    affiliation: University of Virginia
+  session_number: 8
+  session: Practical Cases and Problems
+  event_type: session
+  date: '2003-05-30'
+  time: null
+  award: null
+  url: https://web.archive.org/web/20060625065258/http://www.cs.virginia.edu/~drl7x/sshVsTelnetWeb3.pdf
+  slides_url: null
+  file: weis2003_17_how-and-why-more-secure-technologies-succeed-in-legacy-marke.pdf
+  path: papers/weis2003/weis2003_17_how-and-why-more-secure-technologies-succeed-in-legacy-marke.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20080905051753id_/http://www.cs.virginia.edu/~drl7x/sshVsTelnetWeb3.pdf
+  error: null

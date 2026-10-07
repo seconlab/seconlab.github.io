@@ -190,7 +190,7 @@ program:
           affiliation: "MIT"
         papers:
           - title: "Nonbanks and Risk in Retail Payments"
-            url: "http://weis2008.econinfosec.org/papers/Sullivan.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Sullivan.pdf"
             authors:
               - name: "Stuart Weiner"
                 affiliation: "Federal Reserve Bank-Kansas City"
@@ -200,7 +200,7 @@ program:
               - name: "Simonetta Rosati"
                 affiliation: "European Central Bank"
           - title: "Do Data Breach Disclosure Laws Reduce Identity Theft?"
-            url: "http://weis2008.econinfosec.org/papers/Romanosky.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Romanosky.pdf"
             authors:
               - name: "Sasha Romanosky"
                 affiliation: "Carnegie Mellon University"
@@ -210,7 +210,7 @@ program:
               - name: "Alessandro Acquisti"
                 affiliation: "Carnegie Mellon University"
           - title: "Security Economics and European Policy"
-            url: "http://weis2008.econinfosec.org/papers/MooreSecurity.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/MooreSecurity.pdf"
             authors:
               - name: "Ross Anderson"
                 affiliation: "University of Cambridge"
@@ -276,7 +276,7 @@ program:
           affiliation: "University of Maryland"
         papers:
           - title: "Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents"
-            url: "http://weis2008.econinfosec.org/papers/Grossklags.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Grossklags.pdf"
             authors:
               - name: "Jens Grossklags"
                 affiliation: "UC Berkeley"
@@ -286,7 +286,7 @@ program:
               - name: "John Chuang"
                 affiliation: "School of Information, UC Berkeley"
           - title: "BORIS – Business-Oriented Management of Information Security"
-            url: "http://weis2008.econinfosec.org/papers/Sowa.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Sowa.pdf"
             authors:
               - name: "Sebastian Sowa"
                 affiliation: "Ruhr-University of Bochum"
@@ -296,13 +296,13 @@ program:
               - name: "Roland Gabriel"
                 affiliation: "Ruhr-University of Bochum"
           - title: "Productivity Space of Information Security in an Extension of the Gordon-Loeb's Investment Model"
-            url: "http://weis2008.econinfosec.org/papers/Matsuura.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Matsuura.pdf"
             authors:
               - name: "Kanta Matsuura"
                 affiliation: "The University of Tokyo"
                 presenter: true
           - title: "Communicating the Economic Value of Security Investments; Value at Security Risk"
-            url: "http://weis2008.econinfosec.org/papers/Hulthen.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Hulthen.pdf"
             authors:
               - name: "Rolf Hulthén"
                 affiliation: "TeliaSonera AB"
@@ -322,7 +322,7 @@ program:
           affiliation: "Indiana University"
         papers:
           - title: "Modelling the Human and Technological Costs and Benefits of USB Memory Stick Security"
-            url: "http://weis2008.econinfosec.org/papers/Pym.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Pym.pdf"
             authors:
               - name: "Adam Beautement"
                 affiliation: "UCL"
@@ -342,7 +342,7 @@ program:
               - name: "Mike Wonham"
                 affiliation: "HP Labs"
           - title: "Information Governance: Flexibility and Control through Escalation and Incentives"
-            url: "http://weis2008.econinfosec.org/papers/Zhao.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Zhao.pdf"
             authors:
               - name: "Xia Zhao"
                 affiliation: "Dartmouth College"
@@ -350,7 +350,7 @@ program:
               - name: "Eric Johnson"
                 affiliation: "Dartmouth College"
           - title: "Firms' Optimal Digital Rights Management (DRM) Strategies: The Effects of Public Copy Protection and DRM Compatibility"
-            url: "http://weis2008.econinfosec.org/papers/Bae.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Bae.pdf"
             authors:
               - name: "Sang Hoo Bae"
                 affiliation: "Clark University"
@@ -358,7 +358,7 @@ program:
               - name: "Pilsik Choi"
                 affiliation: "Clark University"
           - title: "Diffusion and Adoption of IPv6 in the United States"
-            url: "http://weis2008.econinfosec.org/papers/Elmore.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Elmore.pdf"
             authors:
               - name: "Hillary Elmore"
                 affiliation: "Indiana University Bloomington"
@@ -413,7 +413,7 @@ program:
           affiliation: "University of Cambridge"
         papers:
           - title: "Reinterpreting the Disclosure Debate for Web Infections"
-            url: "http://weis2008.econinfosec.org/papers/Greenstadt.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Greenstadt.pdf"
             authors:
               - name: "Oliver Day"
                 affiliation: "Harvard University"
@@ -423,7 +423,7 @@ program:
               - name: "Brandon Palmen"
                 affiliation: "Harvard University"
           - title: "The Impact of Incentives on Notice and Take-down"
-            url: "http://weis2008.econinfosec.org/papers/MooreImpact.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/MooreImpact.pdf"
             authors:
               - name: "Tyler Moore"
                 affiliation: "University of Cambridge"
@@ -431,7 +431,7 @@ program:
               - name: "Richard Clayton"
                 affiliation: "University of Cambridge"
           - title: "Studying Malicious Websites and the Underground Economy on the Chinese Web"
-            url: "http://weis2008.econinfosec.org/papers/Holz.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Holz.pdf"
             authors:
               - name: "Jianwei Zhuge"
                 affiliation: "Peking University"
@@ -447,7 +447,7 @@ program:
               - name: "Wei Zou"
                 affiliation: "Peking University"
           - title: "Botnet Economics: Uncertainty Matters"
-            url: "http://weis2008.econinfosec.org/papers/Liao.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Liao.pdf"
             authors:
               - name: "Zhen Li"
                 affiliation: "Albion College"
@@ -500,7 +500,7 @@ program:
           affiliation: "Carnegie Mellon University"
         papers:
           - title: "The Impact of Information Disclosure on Stock Market Returns: The Sarbanes-Oxley Act and the Role of Media as an Information Intermediary"
-            url: "http://weis2008.econinfosec.org/papers/Ghose.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Ghose.pdf"
             authors:
               - name: "Karthik Balakrishnan"
                 affiliation: "NYU Stern School"
@@ -510,7 +510,7 @@ program:
               - name: "Panos Ipeirotis"
                 affiliation: "NYU Stern School"
           - title: "Reading the Disclosures with New Eyes: Bridging the Gap between Information Security Disclosures and Incidents"
-            url: "http://weis2008.econinfosec.org/papers/Wang.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Wang.pdf"
             authors:
               - name: "Ta-Wei Wang"
                 affiliation: "Purdue University"
@@ -520,7 +520,7 @@ program:
               - name: "Karthik Kannan"
                 affiliation: "Purdue University"
           - title: "Cyber Insurance as an Incentive for IT Security"
-            url: "http://weis2008.econinfosec.org/papers/Lelarge.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Lelarge.pdf"
             authors:
               - name: "Jean Bolot"
                 affiliation: "Sprint"
@@ -542,25 +542,25 @@ program:
           affiliation: "Carnegie Mellon University"
         papers:
           - title: "The Economics of Covert Community Detection and Hiding"
-            url: "http://weis2008.econinfosec.org/papers/Nagaraja.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Nagaraja.pdf"
             authors:
               - name: "Shishir Nagaraja"
                 affiliation: "University of Cambridge"
                 presenter: true
           - title: "Conformity or Diversity: Social Implications of Transparency in Personal Data Processing"
-            url: "http://weis2008.econinfosec.org/papers/Bohme.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Bohme.pdf"
             authors:
               - name: "Rainer Böhme"
                 affiliation: "TU Dresden"
                 presenter: true
           - title: "Is Distributed Trust More Trustworthy?"
-            url: "http://weis2008.econinfosec.org/papers/Nielsen.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Nielsen.pdf"
             authors:
               - name: "Kurt Nielsen"
                 affiliation: "University of Copenhagen"
                 presenter: true
           - title: "Competition for Information under Privacy Concerns"
-            url: "http://weis2008.econinfosec.org/papers/Chellappa.pdf"
+            url: "https://web.archive.org/web/20120402113331/http://weis2008.econinfosec.org/papers/Chellappa.pdf"
             authors:
               - name: "Ramnath Chellappa"
                 affiliation: "Emory University"

@@ -1,0 +1,586 @@
+conference: weis2018
+name: WEIS 2018
+year: 2018
+papers_dir: papers/weis2018
+total: 22
+downloaded: 22
+failed: 0
+papers:
+- id: weis2018_01
+  conference: weis2018
+  year: 2018
+  title: Designing organizations for cyber security resilience
+  authors:
+  - Marshall Kuypers
+  - Thomas Maillart
+  authors_full:
+  - name: Marshall Kuypers
+  - name: Thomas Maillart
+  session_number: 1
+  session: Studying the Defender
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_50.pdf
+  slides_url: null
+  file: weis2018_01_designing-organizations-for-cyber-security-resilience.pdf
+  path: papers/weis2018/weis2018_01_designing-organizations-for-cyber-security-resilience.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_50.pdf
+  error: null
+- id: weis2018_02
+  conference: weis2018
+  year: 2018
+  title: On the effort for security maintenance of open source components
+  authors:
+  - Stanislav Dashevskyi
+  - Achim D. Brucker
+  - Fabio Massacci
+  authors_full:
+  - name: Stanislav Dashevskyi
+  - name: Achim D. Brucker
+  - name: Fabio Massacci
+  session_number: 1
+  session: Studying the Defender
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_19.pdf
+  slides_url: null
+  file: weis2018_02_on-the-effort-for-security-maintenance-of-open-source-compon.pdf
+  path: papers/weis2018/weis2018_02_on-the-effort-for-security-maintenance-of-open-source-compon.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_19.pdf
+  error: null
+- id: weis2018_03
+  conference: weis2018
+  year: 2018
+  title: Domain registration policy strategies and the fight against online crime
+  authors:
+  - Janos Szurdi
+  - Nicolas Christin
+  authors_full:
+  - name: Janos Szurdi
+  - name: Nicolas Christin
+  session_number: 1
+  session: Studying the Defender
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_45.pdf
+  slides_url: null
+  file: weis2018_03_domain-registration-policy-strategies-and-the-fight-against.pdf
+  path: papers/weis2018/weis2018_03_domain-registration-policy-strategies-and-the-fight-against.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_45.pdf
+  error: null
+- id: weis2018_04
+  conference: weis2018
+  year: 2018
+  title: 'Issued for abuse: measuring the underground trade in code signing certificates'
+  authors:
+  - Kristián Kozák
+  - Bum Jun Kwon
+  - Doowon Kim
+  - Tudor Dumitraş
+  authors_full:
+  - name: Kristián Kozák
+  - name: Bum Jun Kwon
+  - name: Doowon Kim
+  - name: Tudor Dumitraş
+  session_number: 2
+  session: Studying the Underground
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_14.pdf
+  slides_url: null
+  file: weis2018_04_issued-for-abuse-measuring-the-underground-trade-in-code-sig.pdf
+  path: papers/weis2018/weis2018_04_issued-for-abuse-measuring-the-underground-trade-in-code-sig.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_14.pdf
+  error: null
+- id: weis2018_05
+  conference: weis2018
+  year: 2018
+  title: Ransomware payments in the Bitcoin ecosystem
+  authors:
+  - Masarah Paquet-Clouston
+  - Bernhard Haslhofer
+  - Benoit Dupont
+  authors_full:
+  - name: Masarah Paquet-Clouston
+  - name: Bernhard Haslhofer
+  - name: Benoit Dupont
+  session_number: 2
+  session: Studying the Underground
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_21.pdf
+  slides_url: null
+  file: weis2018_05_ransomware-payments-in-the-bitcoin-ecosystem.pdf
+  path: papers/weis2018/weis2018_05_ransomware-payments-in-the-bitcoin-ecosystem.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_21.pdf
+  error: null
+- id: weis2018_06
+  conference: weis2018
+  year: 2018
+  title: 'To pay or not: game theoretic models of ransomware'
+  authors:
+  - Edward Cartwright
+  - Julio Hernandez-Castro
+  - Anna Stepanova
+  authors_full:
+  - name: Edward Cartwright
+  - name: Julio Hernandez-Castro
+  - name: Anna Stepanova
+  session_number: 2
+  session: Studying the Underground
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_25.pdf
+  slides_url: null
+  file: weis2018_06_to-pay-or-not-game-theoretic-models-of-ransomware.pdf
+  path: papers/weis2018/weis2018_06_to-pay-or-not-game-theoretic-models-of-ransomware.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_25.pdf
+  error: null
+- id: weis2018_07
+  conference: weis2018
+  year: 2018
+  title: The rise and fall of cryptocurrencies
+  authors:
+  - Amir Feder
+  - Neil Gandal
+  - JT Hamrick
+  - Tyler Moore
+  - Marie Vasek
+  authors_full:
+  - name: Amir Feder
+  - name: Neil Gandal
+  - name: JT Hamrick
+  - name: Tyler Moore
+  - name: Marie Vasek
+  session_number: 3
+  session: Cryptocurrencies and the Real World
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_29.pdf
+  slides_url: null
+  file: weis2018_07_the-rise-and-fall-of-cryptocurrencies.pdf
+  path: papers/weis2018/weis2018_07_the-rise-and-fall-of-cryptocurrencies.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_29.pdf
+  error: null
+- id: weis2018_08
+  conference: weis2018
+  year: 2018
+  title: Virtual currencies and fundamental rights
+  authors:
+  - Christian Rückert
+  authors_full:
+  - name: Christian Rückert
+  session_number: 3
+  session: Cryptocurrencies and the Real World
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_31.pdf
+  slides_url: null
+  file: weis2018_08_virtual-currencies-and-fundamental-rights.pdf
+  path: papers/weis2018/weis2018_08_virtual-currencies-and-fundamental-rights.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_31.pdf
+  error: null
+- id: weis2018_09
+  conference: weis2018
+  year: 2018
+  title: Bitcoin redux
+  authors:
+  - Ross Anderson
+  - Ilia Shumailov
+  - Alessandro Rietmann
+  - Mansoor Ahmed
+  authors_full:
+  - name: Ross Anderson
+  - name: Ilia Shumailov
+  - name: Alessandro Rietmann
+  - name: Mansoor Ahmed
+  session_number: 3
+  session: Cryptocurrencies and the Real World
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_38.pdf
+  slides_url: null
+  file: weis2018_09_bitcoin-redux.pdf
+  path: papers/weis2018/weis2018_09_bitcoin-redux.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_38.pdf
+  error: null
+- id: weis2018_10
+  conference: weis2018
+  year: 2018
+  title: 'Better late(r) than never: Increasing cyber-security compliance by reducing present bias'
+  authors:
+  - Alisa Frik
+  - Eyal Peer
+  - Marian Harbach
+  - Nathan Malkin
+  - Serge Egelman
+  authors_full:
+  - name: Alisa Frik
+  - name: Eyal Peer
+  - name: Marian Harbach
+  - name: Nathan Malkin
+  - name: Serge Egelman
+  session_number: 4
+  session: Education and Behavior
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_42.pdf
+  slides_url: null
+  file: weis2018_10_better-late-r-than-never-increasing-cyber-security-complianc.pdf
+  path: papers/weis2018/weis2018_10_better-late-r-than-never-increasing-cyber-security-complianc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_42.pdf
+  error: null
+- id: weis2018_11
+  conference: weis2018
+  year: 2018
+  title: 'The effect of security education and expertise on security assessments: the case of software vulnerabilities'
+  authors:
+  - Luca Allodi
+  - Marco Cremonini
+  - Fabio Massacci
+  - Woohyun Shim
+  authors_full:
+  - name: Luca Allodi
+  - name: Marco Cremonini
+  - name: Fabio Massacci
+  - name: Woohyun Shim
+  session_number: 4
+  session: Education and Behavior
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://arxiv.org/pdf/1808.06547.pdf
+  slides_url: null
+  file: weis2018_11_the-effect-of-security-education-and-expertise-on-security-a.pdf
+  path: papers/weis2018/weis2018_11_the-effect-of-security-education-and-expertise-on-security-a.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://arxiv.org/pdf/1808.06547
+  error: null
+- id: weis2018_12
+  conference: weis2018
+  year: 2018
+  title: Does online piracy make computers insecure? Evidence from panel data
+  authors:
+  - Rahul Telang
+  authors_full:
+  - name: Rahul Telang
+  session_number: 4
+  session: Education and Behavior
+  event_type: session
+  date: '2018-06-18'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_57.pdf
+  slides_url: null
+  file: weis2018_12_does-online-piracy-make-computers-insecure-evidence-from-pan.pdf
+  path: papers/weis2018/weis2018_12_does-online-piracy-make-computers-insecure-evidence-from-pan.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_57.pdf
+  error: null
+- id: weis2018_13
+  conference: weis2018
+  year: 2018
+  title: 'The price of cyber (in)security: evidence from the Italian private sector'
+  authors:
+  - Claudia Biancotti
+  authors_full:
+  - name: Claudia Biancotti
+  session_number: 5
+  session: Cyber Risk Quantification and Insurance
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_3.pdf
+  slides_url: null
+  file: weis2018_13_the-price-of-cyber-in-security-evidence-from-the-italian-pri.pdf
+  path: papers/weis2018/weis2018_13_the-price-of-cyber-in-security-evidence-from-the-italian-pri.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_3.pdf
+  error: null
+- id: weis2018_14
+  conference: weis2018
+  year: 2018
+  title: Embracing and controlling risk dependency in cyber insurance policy underwriting
+  authors:
+  - Mohammad Mahdi Khalili
+  - Mingyan Liu
+  - Sasha Romanosky
+  authors_full:
+  - name: Mohammad Mahdi Khalili
+  - name: Mingyan Liu
+  - name: Sasha Romanosky
+  session_number: 5
+  session: Cyber Risk Quantification and Insurance
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_41.pdf
+  slides_url: null
+  file: weis2018_14_embracing-and-controlling-risk-dependency-in-cyber-insurance.pdf
+  path: papers/weis2018/weis2018_14_embracing-and-controlling-risk-dependency-in-cyber-insurance.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_41.pdf
+  error: null
+- id: weis2018_15
+  conference: weis2018
+  year: 2018
+  title: Monte Carlo methods to investigate how aggregated cyber insurance claims data impacts security investments
+  authors:
+  - Daniel W. Woods
+  - Andrew C. Simpson
+  authors_full:
+  - name: Daniel W. Woods
+  - name: Andrew C. Simpson
+  session_number: 5
+  session: Cyber Risk Quantification and Insurance
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_16.pdf
+  slides_url: null
+  file: weis2018_15_monte-carlo-methods-to-investigate-how-aggregated-cyber-insu.pdf
+  path: papers/weis2018/weis2018_15_monte-carlo-methods-to-investigate-how-aggregated-cyber-insu.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_16.pdf
+  error: null
+- id: weis2018_16
+  conference: weis2018
+  year: 2018
+  title: 'Incentives for human agents to share security information: a model and an empirical test'
+  authors:
+  - Alain Mermoud
+  - Marcus Matthias Keupp
+  - Kévin Huguenin
+  - Maximilian Palmié
+  - Dimitri Percia David
+  authors_full:
+  - name: Alain Mermoud
+  - name: Marcus Matthias Keupp
+  - name: Kévin Huguenin
+  - name: Maximilian Palmié
+  - name: Dimitri Percia David
+  session_number: 6
+  session: Information Sharing and Privacy
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_7.pdf
+  slides_url: null
+  file: weis2018_16_incentives-for-human-agents-to-share-security-information-a.pdf
+  path: papers/weis2018/weis2018_16_incentives-for-human-agents-to-share-security-information-a.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_7.pdf
+  error: null
+- id: weis2018_17
+  conference: weis2018
+  year: 2018
+  title: 'Information disclosure and security policy design: a large-scale randomization experiment in Pan-Asia'
+  authors:
+  - Yun-Sik Choi
+  - Shu He
+  - Yunhui Zhuang
+  - Gene Moo Lee
+  - Alvin Chung Man Leung
+  - Andrew Whinston
+  authors_full:
+  - name: Yun-Sik Choi
+  - name: Shu He
+  - name: Yunhui Zhuang
+  - name: Gene Moo Lee
+  - name: Alvin Chung Man Leung
+  - name: Andrew Whinston
+  session_number: 6
+  session: Information Sharing and Privacy
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_51.pdf
+  slides_url: null
+  file: weis2018_17_information-disclosure-and-security-policy-design-a-large-sc.pdf
+  path: papers/weis2018/weis2018_17_information-disclosure-and-security-policy-design-a-large-sc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/06/WEIS_2018_paper_51.pdf
+  error: null
+- id: weis2018_18
+  conference: weis2018
+  year: 2018
+  title: An analysis of the effectiveness of the EU data breach notification obligation
+  authors:
+  - Bernold Nieuwesteeg
+  - Michael Faure
+  authors_full:
+  - name: Bernold Nieuwesteeg
+  - name: Michael Faure
+  session_number: 6
+  session: Information Sharing and Privacy
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_9.pdf
+  slides_url: null
+  file: weis2018_18_an-analysis-of-the-effectiveness-of-the-eu-data-breach-notif.pdf
+  path: papers/weis2018/weis2018_18_an-analysis-of-the-effectiveness-of-the-eu-data-breach-notif.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_9.pdf
+  error: null
+- id: weis2018_19
+  conference: weis2018
+  year: 2018
+  title: 'Sponsored search advertisement and consumer prices: an empirical investigation'
+  authors:
+  - Eduardo Abraham Schnadower Mustri
+  - Alessandro Acquisti
+  - Idris Adjerid
+  authors_full:
+  - name: Eduardo Abraham Schnadower Mustri
+  - name: Alessandro Acquisti
+  - name: Idris Adjerid
+  session_number: 6
+  session: Information Sharing and Privacy
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_46.pdf
+  slides_url: null
+  file: weis2018_19_sponsored-search-advertisement-and-consumer-prices-an-empiri.pdf
+  path: papers/weis2018/weis2018_19_sponsored-search-advertisement-and-consumer-prices-an-empiri.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_46.pdf
+  error: null
+- id: weis2018_20
+  conference: weis2018
+  year: 2018
+  title: A trading market to incentivize secure software
+  authors:
+  - Malvika Rao
+  - Georg Link
+  - Don Marti
+  - Andy Leak
+  - Rich Bodo
+  authors_full:
+  - name: Malvika Rao
+  - name: Georg Link
+  - name: Don Marti
+  - name: Andy Leak
+  - name: Rich Bodo
+  session_number: 7
+  session: Markets and Signals
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_27.pdf
+  slides_url: null
+  file: weis2018_20_a-trading-market-to-incentivize-secure-software.pdf
+  path: papers/weis2018/weis2018_20_a-trading-market-to-incentivize-secure-software.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2016/09/WEIS_2018_paper_27.pdf
+  error: null
+- id: weis2018_21
+  conference: weis2018
+  year: 2018
+  title: A bug bounty perspective on the disclosure of web vulnerabilities
+  authors:
+  - Jukka Ruohonen
+  - Luca Allodi
+  authors_full:
+  - name: Jukka Ruohonen
+  - name: Luca Allodi
+  session_number: 7
+  session: Markets and Signals
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_33.pdf
+  slides_url: null
+  file: weis2018_21_a-bug-bounty-perspective-on-the-disclosure-of-web-vulnerabil.pdf
+  path: papers/weis2018/weis2018_21_a-bug-bounty-perspective-on-the-disclosure-of-web-vulnerabil.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_33.pdf
+  error: null
+- id: weis2018_22
+  conference: weis2018
+  year: 2018
+  title: Analysis of leaky deception for network security using signaling games with evidence
+  authors:
+  - Jeffrey Pawlick
+  - Edward Colbert
+  - Quanyan Zhu
+  authors_full:
+  - name: Jeffrey Pawlick
+  - name: Edward Colbert
+  - name: Quanyan Zhu
+  session_number: 7
+  session: Markets and Signals
+  event_type: session
+  date: '2018-06-19'
+  time: null
+  award: null
+  url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_54.pdf
+  slides_url: null
+  file: weis2018_22_analysis-of-leaky-deception-for-network-security-using-signa.pdf
+  path: papers/weis2018/weis2018_22_analysis-of-leaky-deception-for-network-security-using-signa.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2018.econinfosec.org/wp-content/uploads/sites/5/2018/05/WEIS_2018_paper_54.pdf
+  error: null

@@ -1,0 +1,576 @@
+conference: weis2013
+name: WEIS 2013
+year: 2013
+papers_dir: papers/weis2013
+total: 20
+downloaded: 4
+failed: 16
+papers:
+- id: weis2013_01
+  conference: weis2013
+  year: 2013
+  title: 'Sustainability in Information Stewardship: Time Preferences, Externalities, and Social Co-ordination'
+  authors:
+  - Christos Ioannidis
+  - David Pym
+  - Julian Williams
+  authors_full:
+  - name: Christos Ioannidis
+    affiliation: University of Bath
+  - name: David Pym
+    affiliation: University of Aberdeen
+  - name: Julian Williams
+    affiliation: University of Aberdeen
+  session_number: 1
+  session: Understanding Information Security through Economic Frameworks
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/IoannidisPymWilliamsWEIS2013.pdf
+  slides_url: null
+  file: weis2013_01_sustainability-in-information-stewardship-time-preferences-e.pdf
+  path: papers/weis2013/weis2013_01_sustainability-in-information-stewardship-time-preferences-e.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20160701014116id_/http://www.econinfosec.org/archive/weis2013/papers/IoannidisPymWilliamsWEIS2013.pdf
+  error: null
+- id: weis2013_02
+  conference: weis2013
+  year: 2013
+  title: How Bad Is It? – A Branching Activity Model to Estimate the Impact of Information Security Breaches
+  authors:
+  - Russell Thomas
+  - Marcin Antkiewicz
+  - Patrick Florer
+  - Suzanne Widup
+  - Matthew Woodyard
+  authors_full:
+  - name: Russell Thomas
+    affiliation: George Mason University
+  - name: Marcin Antkiewicz
+    affiliation: Qualys, Inc.
+  - name: Patrick Florer
+    affiliation: Risk Centric Security, Inc.
+  - name: Suzanne Widup
+    affiliation: Verizon Communications, Inc.
+  - name: Matthew Woodyard
+    affiliation: Zions Bancorporation
+  session_number: 1
+  session: Understanding Information Security through Economic Frameworks
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/ThomasWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_03
+  conference: weis2013
+  year: 2013
+  title: Cloud Implications on Software Network Structure and Security Risks
+  authors:
+  - Terrence August
+  - Marius Niculescu
+  - Hyoduk Shin
+  authors_full:
+  - name: Terrence August
+    affiliation: University of California, San Diego, Rady School of Management
+  - name: Marius Niculescu
+    affiliation: Georgia Institute of Technology
+  - name: Hyoduk Shin
+    affiliation: University of California, San Diego, Rady School of Management
+  session_number: 1
+  session: Understanding Information Security through Economic Frameworks
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/AugustNiculescuShinWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_04
+  conference: weis2013
+  year: 2013
+  title: The More Social Cues, The Less Trolling? An Empirical Study of Online Commenting Behavior
+  authors:
+  - Daegon Cho
+  - Alessandro Acquisti
+  authors_full:
+  - name: Daegon Cho
+    affiliation: Carnegie Mellon University
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  session_number: 2
+  session: The Value of Information
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/ChoWEIS2013.pdf
+  slides_url: null
+  file: weis2013_04_the-more-social-cues-the-less-trolling-an-empirical-study-of.pdf
+  path: papers/weis2013/weis2013_04_the-more-social-cues-the-less-trolling-an-empirical-study-of.pdf
+  status: downloaded
+  source: existing
+  downloaded_url: null
+  error: null
+- id: weis2013_05
+  conference: weis2013
+  year: 2013
+  title: Consumer Flexibility, Data Quality and Targeted Pricing
+  authors:
+  - Geza Sapi
+  - Irina Suleymanova
+  authors_full:
+  - name: Geza Sapi
+    affiliation: Düsseldorf Institute for Competition Economics
+  - name: Irina Suleymanova
+    affiliation: Düsseldorf Institute for Competition Economics
+  session_number: 2
+  session: The Value of Information
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/SapiSuleymanovaWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_06
+  conference: weis2013
+  year: 2013
+  title: Privacy Controls and Information Disclosure Behavior of Online Social Network Users
+  authors:
+  - Huseyin Cavusoglu
+  - Tuan Phan
+  - Hasan Cavusoglu
+  authors_full:
+  - name: Huseyin Cavusoglu
+    affiliation: University of Texas
+  - name: Tuan Phan
+    affiliation: National University of Singapore
+  - name: Hasan Cavusoglu
+    affiliation: University of British Columbia
+  session_number: 2
+  session: The Value of Information
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/CavusogluWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_07
+  conference: weis2013
+  year: 2013
+  title: The Value of Privacy in Web Search
+  authors:
+  - Sören Preibusch
+  authors_full:
+  - name: Sören Preibusch
+    affiliation: Microsoft Research Cambridge UK
+  session_number: 2
+  session: The Value of Information
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/PreibuschWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_08
+  conference: weis2013
+  year: 2013
+  title: 'Einstein on the Breach: Surveillance Technology, Cybersecurity, and Organizational Change'
+  authors:
+  - Andreas Kuehn
+  - Milton Mueller
+  authors_full:
+  - name: Andreas Kuehn
+    affiliation: Syracuse University, School of Information Studies
+  - name: Milton Mueller
+    affiliation: Syracuse University, School of Information Studies
+  session_number: 3
+  session: Cybersecurity Policy
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/MuellerKuehnWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_09
+  conference: weis2013
+  year: 2013
+  title: The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries
+  authors:
+  - Joshua Kroll
+  - Ian Davey
+  - Edward Felten
+  authors_full:
+  - name: Joshua Kroll
+    affiliation: Princeton University
+  - name: Ian Davey
+    affiliation: Princeton University
+  - name: Edward Felten
+    affiliation: Princeton University
+  session_number: 3
+  session: Cybersecurity Policy
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/KrollDaveyFeltenWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_10
+  conference: weis2013
+  year: 2013
+  title: On the Viability of Using Liability to Incentivise Internet Security
+  authors:
+  - Huw Fryer
+  - Roksana Moore
+  - Tim Chown
+  authors_full:
+  - name: Huw Fryer
+    affiliation: University of Southampton
+  - name: Roksana Moore
+    affiliation: University of Southampton
+  - name: Tim Chown
+    affiliation: University of Southampton
+  session_number: 3
+  session: Cybersecurity Policy
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/FryerMooreChownWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_11
+  conference: weis2013
+  year: 2013
+  title: 'Improving Internet Security Through Social Information and Social Comparison: A Field Quasi-Experiment'
+  authors:
+  - Qian Tang
+  - Leigh Linden
+  - John Quarterman
+  - Andrew Whinston
+  authors_full:
+  - name: Qian Tang
+    affiliation: University of Texas at Austin
+  - name: Leigh Linden
+    affiliation: University of Texas at Austin
+  - name: John Quarterman
+    affiliation: Quarterman Creations
+  - name: Andrew Whinston
+    affiliation: University of Texas at Austin
+  session_number: 3
+  session: Cybersecurity Policy
+  event_type: session
+  date: '2013-06-11'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/TangWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_12
+  conference: weis2013
+  year: 2013
+  title: 'Small World: Collisions Among Attacks in a Finite Population'
+  authors:
+  - Cormac Herley
+  authors_full:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  session_number: 4
+  session: Dynamics of Attack and Defense
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/HerleyWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_13
+  conference: weis2013
+  year: 2013
+  title: A Behavioral Investigation of the FlipIt Game
+  authors:
+  - Alan Nochenson
+  - Jens Grossklags
+  authors_full:
+  - name: Alan Nochenson
+    affiliation: The Pennsylvania State University
+  - name: Jens Grossklags
+    affiliation: The Pennsylvania State University
+  session_number: 4
+  session: Dynamics of Attack and Defense
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/NochensonGrossklagsWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_14
+  conference: weis2013
+  year: 2013
+  title: 'Breaking Our Password Hash Habit: Why the Sharing of Users'' Password Choices for Defensive Analysis Is an Underprovisioned Social Good, and What We Can Do to Encourage It'
+  authors:
+  - Cormac Herley
+  - Stuart Schechter
+  authors_full:
+  - name: Cormac Herley
+    affiliation: Microsoft Research
+  - name: Stuart Schechter
+    affiliation: Microsoft Research
+  session_number: 4
+  session: Dynamics of Attack and Defense
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/SchechterHerleyWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_15
+  conference: weis2013
+  year: 2013
+  title: Security Economics in the HTTPS Value Chain
+  authors:
+  - Hadi Asghari
+  - Michel van Eeten
+  - Axel Arnbak
+  - Nico van Eijk
+  authors_full:
+  - name: Hadi Asghari
+    affiliation: Delft University of Technology
+  - name: Michel van Eeten
+    affiliation: Delft University of Technology
+  - name: Axel Arnbak
+    affiliation: University of Amsterdam
+  - name: Nico van Eijk
+    affiliation: University of Amsterdam
+  session_number: 5
+  session: Incentives in Technology
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/AsghariWEIS2013.pdf
+  slides_url: null
+  file: weis2013_15_security-economics-in-the-https-value-chain.pdf
+  path: papers/weis2013/weis2013_15_security-economics-in-the-https-value-chain.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20151030022810id_/http://www.econinfosec.org/archive/weis2013/papers/AsghariWEIS2013.pdf
+  error: null
+- id: weis2013_16
+  conference: weis2013
+  year: 2013
+  title: 'Analyzing Incentives for Protocol Compliance in Complex Domains: A Case Study of Introduction-Based Routing'
+  authors:
+  - Michael Wellman
+  - Tae Hyung Kim
+  - Quang Duong
+  authors_full:
+  - name: Michael Wellman
+    affiliation: University of Michigan
+  - name: Tae Hyung Kim
+    affiliation: University of Michigan
+  - name: Quang Duong
+    affiliation: University of Michigan
+  session_number: 5
+  session: Incentives in Technology
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/WellmanKimDuongWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_17
+  conference: weis2013
+  year: 2013
+  title: Incentive Analysis of Bidirectional Filtering in the Internet
+  authors:
+  - Mhr Khouzani
+  - Soumya Sen
+  - Ness B. Shroff
+  authors_full:
+  - name: Mhr Khouzani
+    affiliation: University of Southern California
+  - name: Soumya Sen
+    affiliation: Princeton University
+  - name: Ness B. Shroff
+    affiliation: The Ohio State University
+  session_number: 5
+  session: Incentives in Technology
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/KhouzaniSenShroffWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_18
+  conference: weis2013
+  year: 2013
+  title: Are They Actually Any Different? Comparing 3,422 Financial Institutions' Privacy Practices
+  authors:
+  - Lorrie Cranor
+  - Kelly Idouchi
+  - Pedro Leon
+  - Blase Ur
+  - Manya Sleeper
+  authors_full:
+  - name: Lorrie Cranor
+    affiliation: Carnegie Mellon University
+  - name: Kelly Idouchi
+    affiliation: Carnegie Mellon University
+  - name: Pedro Leon
+    affiliation: Carnegie Mellon University
+  - name: Blase Ur
+    affiliation: Carnegie Mellon University
+  - name: Manya Sleeper
+    affiliation: Carnegie Mellon University
+  session_number: 6
+  session: Data Privacy Policy
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/CranorWEIS2013.pdf
+  slides_url: null
+  file: weis2013_18_are-they-actually-any-different-comparing-3-422-financial-in.pdf
+  path: papers/weis2013/weis2013_18_are-they-actually-any-different-comparing-3-422-financial-in.pdf
+  status: downloaded
+  source: wayback
+  downloaded_url: https://web.archive.org/web/20190917151840id_/https://www.econinfosec.org/archive/weis2013/papers/CranorWEIS2013.pdf
+  error: null
+- id: weis2013_19
+  conference: weis2013
+  year: 2013
+  title: 'Data Harvesting 2.0: From the Visible to the Invisible Web'
+  authors:
+  - Claude Castelluccia
+  - Stephane Grumbach
+  - Lukasz Olejnik
+  authors_full:
+  - name: Claude Castelluccia
+    affiliation: INRIA
+  - name: Stephane Grumbach
+    affiliation: INRIA
+  - name: Lukasz Olejnik
+    affiliation: INRIA
+  session_number: 6
+  session: Data Privacy Policy
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/GrumbachWEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)
+- id: weis2013_20
+  conference: weis2013
+  year: 2013
+  title: An Experiment in Hiring Discrimination via Online Social Networks
+  authors:
+  - Alessandro Acquisti
+  - Christina Fong
+  authors_full:
+  - name: Alessandro Acquisti
+    affiliation: Carnegie Mellon University
+  - name: Christina Fong
+    affiliation: Carnegie Mellon University
+  session_number: 6
+  session: Data Privacy Policy
+  event_type: session
+  date: '2013-06-12'
+  time: null
+  award: null
+  url: http://weis2013.econinfosec.org/papers/AcquistiFong-abstract-WEIS2013.pdf
+  slides_url: null
+  file: null
+  path: null
+  status: failed
+  source: null
+  downloaded_url: null
+  error: download fallito (diretto + wayback)

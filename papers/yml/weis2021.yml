@@ -1,0 +1,402 @@
+conference: weis2021
+name: WEIS 2021
+year: 2021
+papers_dir: papers/weis2021
+total: 15
+downloaded: 15
+failed: 0
+papers:
+- id: weis2021_01
+  conference: weis2021
+  year: 2021
+  title: 'Measuring the Deterioration of Trust on the Dark Web: Evidence from Operation Bayonet'
+  authors:
+  - Scott Lee Chua
+  authors_full:
+  - name: Scott Lee Chua
+  session_number: 1
+  session: Cybercrime
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-chua.pdf
+  slides_url: null
+  file: weis2021_01_measuring-the-deterioration-of-trust-on-the-dark-web-evidenc.pdf
+  path: papers/weis2021/weis2021_01_measuring-the-deterioration-of-trust-on-the-dark-web-evidenc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-chua.pdf
+  error: null
+- id: weis2021_02
+  conference: weis2021
+  year: 2021
+  title: Measuring Cybercrime as a Service (CaaS) Offerings in a Cybercrime Forum
+  authors:
+  - Ugur Akyazi
+  - Michel van Eeten
+  - Carlos Ganan
+  authors_full:
+  - name: Ugur Akyazi
+  - name: Michel van Eeten
+  - name: Carlos Ganan
+  session_number: 1
+  session: Cybercrime
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-akyazi.pdf
+  slides_url: null
+  file: weis2021_02_measuring-cybercrime-as-a-service-caas-offerings-in-a-cyberc.pdf
+  path: papers/weis2021/weis2021_02_measuring-cybercrime-as-a-service-caas-offerings-in-a-cyberc.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-akyazi.pdf
+  error: null
+- id: weis2021_03
+  conference: weis2021
+  year: 2021
+  title: 'Silicon Den: Cybercrime is Entrepreneurship'
+  authors:
+  - Ross Anderson
+  - Rainer Böhme
+  - Richard Clayton
+  - Ben Collier
+  authors_full:
+  - name: Ross Anderson
+  - name: Rainer Böhme
+  - name: Richard Clayton
+  - name: Ben Collier
+  session_number: 1
+  session: Cybercrime
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-anderson.pdf
+  slides_url: null
+  file: weis2021_03_silicon-den-cybercrime-is-entrepreneurship.pdf
+  path: papers/weis2021/weis2021_03_silicon-den-cybercrime-is-entrepreneurship.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-anderson.pdf
+  error: null
+- id: weis2021_04
+  conference: weis2021
+  year: 2021
+  title: 'How Cyber Insurance Shapes Incident Response: A Mixed Methods Study'
+  authors:
+  - Daniel W Woods
+  - Rainer Böhme
+  authors_full:
+  - name: Daniel W Woods
+  - name: Rainer Böhme
+  session_number: 2
+  session: Post-Breach Activities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-woods.pdf
+  slides_url: null
+  file: weis2021_04_how-cyber-insurance-shapes-incident-response-a-mixed-methods.pdf
+  path: papers/weis2021/weis2021_04_how-cyber-insurance-shapes-incident-response-a-mixed-methods.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-woods.pdf
+  error: null
+- id: weis2021_05
+  conference: weis2021
+  year: 2021
+  title: 'Cybersecurity Information Sharing: Analysing an Email Corpus of Coordinated Vulnerability Disclosure'
+  authors:
+  - Kiran Sridhar
+  - Allen Householder
+  - Jonathan Spring
+  - Daniel Woods
+  authors_full:
+  - name: Kiran Sridhar
+  - name: Allen Householder
+  - name: Jonathan Spring
+  - name: Daniel Woods
+  session_number: 2
+  session: Post-Breach Activities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sridhar.pdf
+  slides_url: null
+  file: weis2021_05_cybersecurity-information-sharing-analysing-an-email-corpus.pdf
+  path: papers/weis2021/weis2021_05_cybersecurity-information-sharing-analysing-an-email-corpus.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sridhar.pdf
+  error: null
+- id: weis2021_06
+  conference: weis2021
+  year: 2021
+  title: 'The value of data: Estimating the value individuals put on access to their computer files'
+  authors:
+  - Anna Cartwright
+  - Edward Cartwright
+  - Lian Xue
+  authors_full:
+  - name: Anna Cartwright
+  - name: Edward Cartwright
+  - name: Lian Xue
+  session_number: 2
+  session: Post-Breach Activities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-cartwright.pdf
+  slides_url: null
+  file: weis2021_06_the-value-of-data-estimating-the-value-individuals-put-on-ac.pdf
+  path: papers/weis2021/weis2021_06_the-value-of-data-estimating-the-value-individuals-put-on-ac.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-cartwright.pdf
+  error: null
+- id: weis2021_07
+  conference: weis2021
+  year: 2021
+  title: 'IoT Marketplace: Willingness-To-Pay vs. Willingness-To-Accept'
+  authors:
+  - Shakthidhar Gopavaram
+  - Jayati Dev
+  - Sanchari Das
+  - L. Jean Camp
+  authors_full:
+  - name: Shakthidhar Gopavaram
+  - name: Jayati Dev
+  - name: Sanchari Das
+  - name: L. Jean Camp
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-gopavaram.pdf
+  slides_url: null
+  file: weis2021_07_iot-marketplace-willingness-to-pay-vs-willingness-to-accept.pdf
+  path: papers/weis2021/weis2021_07_iot-marketplace-willingness-to-pay-vs-willingness-to-accept.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-gopavaram.pdf
+  error: null
+- id: weis2021_08
+  conference: weis2021
+  year: 2021
+  title: 'Super-Spreaders: Quantifying the Role of IoT Manufacturers in Device Infections'
+  authors:
+  - Elsa Rodriguez
+  - Arman Noroozian
+  - Michel Van Eeten
+  - Carlos Gañán
+  authors_full:
+  - name: Elsa Rodriguez
+  - name: Arman Noroozian
+  - name: Michel Van Eeten
+  - name: Carlos Gañán
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-rodriguez.pdf
+  slides_url: null
+  file: weis2021_08_super-spreaders-quantifying-the-role-of-iot-manufacturers-in.pdf
+  path: papers/weis2021/weis2021_08_super-spreaders-quantifying-the-role-of-iot-manufacturers-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-rodriguez.pdf
+  error: null
+- id: weis2021_09
+  conference: weis2021
+  year: 2021
+  title: 'On the Benefits of Bug Bounty Programs: A Study of Chromium Vulnerabilities'
+  authors:
+  - Amutheezan Sivagnanam
+  - Soodeh Atefi
+  - Afiya Ayman
+  - Jens Grossklags
+  - Aron Laszka
+  authors_full:
+  - name: Amutheezan Sivagnanam
+  - name: Soodeh Atefi
+  - name: Afiya Ayman
+  - name: Jens Grossklags
+  - name: Aron Laszka
+  session_number: 3
+  session: Vulnerabilities
+  event_type: session
+  date: '2021-06-28'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sivagnanam.pdf
+  slides_url: null
+  file: weis2021_09_on-the-benefits-of-bug-bounty-programs-a-study-of-chromium-v.pdf
+  path: papers/weis2021/weis2021_09_on-the-benefits-of-bug-bounty-programs-a-study-of-chromium-v.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-sivagnanam.pdf
+  error: null
+- id: weis2021_10
+  conference: weis2021
+  year: 2021
+  title: The Impact of Data Breach Announcements on Company Value in European Markets
+  authors:
+  - Adrian Ford
+  - Ameer Al-Nemrat
+  - Seyed Ali Ghorashi
+  - Julia Davidson
+  authors_full:
+  - name: Adrian Ford
+  - name: Ameer Al-Nemrat
+  - name: Seyed Ali Ghorashi
+  - name: Julia Davidson
+  session_number: 4
+  session: Empirical Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-ford.pdf
+  slides_url: null
+  file: weis2021_10_the-impact-of-data-breach-announcements-on-company-value-in.pdf
+  path: papers/weis2021/weis2021_10_the-impact-of-data-breach-announcements-on-company-value-in.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-ford.pdf
+  error: null
+- id: weis2021_11
+  conference: weis2021
+  year: 2021
+  title: 'Surprisingly Small: The Effect of Trade Secret Breaches on Firm Performance'
+  authors:
+  - Nicola Searle
+  - Andrew Vivian
+  authors_full:
+  - name: Nicola Searle
+  - name: Andrew Vivian
+  session_number: 4
+  session: Empirical Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-searle.pdf
+  slides_url: null
+  file: weis2021_11_surprisingly-small-the-effect-of-trade-secret-breaches-on-fi.pdf
+  path: papers/weis2021/weis2021_11_surprisingly-small-the-effect-of-trade-secret-breaches-on-fi.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-searle.pdf
+  error: null
+- id: weis2021_12
+  conference: weis2021
+  year: 2021
+  title: 'Behavioral advertising and consumer welfare: An empirical investigation'
+  authors:
+  - Eduardo Abraham Schnadower Mustri
+  - Alessandro Acquisti
+  - Idris Adjerid
+  authors_full:
+  - name: Eduardo Abraham Schnadower Mustri
+  - name: Alessandro Acquisti
+  - name: Idris Adjerid
+  session_number: 4
+  session: Empirical Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-schnadower.pdf
+  slides_url: null
+  file: weis2021_12_behavioral-advertising-and-consumer-welfare-an-empirical-inv.pdf
+  path: papers/weis2021/weis2021_12_behavioral-advertising-and-consumer-welfare-an-empirical-inv.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-schnadower.pdf
+  error: null
+- id: weis2021_13
+  conference: weis2021
+  year: 2021
+  title: A Model of Information Security and Competition
+  authors:
+  - Alexandre de Corniere
+  - Greg Taylor
+  authors_full:
+  - name: Alexandre de Corniere
+  - name: Greg Taylor
+  session_number: 5
+  session: Strategic Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-de-corniere.pdf
+  slides_url: null
+  file: weis2021_13_a-model-of-information-security-and-competition.pdf
+  path: papers/weis2021/weis2021_13_a-model-of-information-security-and-competition.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-de-corniere.pdf
+  error: null
+- id: weis2021_14
+  conference: weis2021
+  year: 2021
+  title: 'Deterrence, Backup, or Insurance: A Game-Theoretic Analysis of Ransomware'
+  authors:
+  - Tongxin Yin
+  - Armin Sarabi
+  - Mingyan Liu
+  authors_full:
+  - name: Tongxin Yin
+  - name: Armin Sarabi
+  - name: Mingyan Liu
+  session_number: 5
+  session: Strategic Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-yin.pdf
+  slides_url: null
+  file: weis2021_14_deterrence-backup-or-insurance-a-game-theoretic-analysis-of.pdf
+  path: papers/weis2021/weis2021_14_deterrence-backup-or-insurance-a-game-theoretic-analysis-of.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-yin.pdf
+  error: null
+- id: weis2021_15
+  conference: weis2021
+  year: 2021
+  title: 'Omnichannel Cybersecurity: Optimizing Security by Leveraging Asymmetric Motivation'
+  authors:
+  - Spencer Oriot
+  - Josiah Dykstra
+  - Adam Williams
+  authors_full:
+  - name: Spencer Oriot
+  - name: Josiah Dykstra
+  - name: Adam Williams
+  session_number: 5
+  session: Strategic Models
+  event_type: session
+  date: '2021-06-29'
+  time: null
+  award: null
+  url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-oriot.pdf
+  slides_url: null
+  file: weis2021_15_omnichannel-cybersecurity-optimizing-security-by-leveraging.pdf
+  path: papers/weis2021/weis2021_15_omnichannel-cybersecurity-optimizing-security-by-leveraging.pdf
+  status: downloaded
+  source: direct
+  downloaded_url: https://weis2021.econinfosec.org/wp-content/uploads/sites/9/2021/06/weis21-oriot.pdf
+  error: null
