@@ -37,6 +37,8 @@ from download_papers import SESSION, WAYBACK_RE, YML_DIR  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "websites"
+# registro dei siti scaricati (slug -> url, source live|wayback): letto da index.html come site.data.websites
+REGISTRY = ROOT / "conferences" / "websites.yml"
 TIMEOUT = 30
 
 
@@ -150,7 +152,17 @@ def mirror(yml_path, force=False, dry_run=False):
     # wget ritorna 8 anche per singoli 404 dentro un mirror altrimenti riuscito
     ok = code in (0, 8) if source == "live" else code == 0
     log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}\n")
+    if ok and not dry_run:
+        update_registry(slug, url, source)
     return source if ok else "failed"
+
+
+def update_registry(slug, url, source):
+    reg = yaml.safe_load(REGISTRY.read_text(encoding="utf-8")) if REGISTRY.exists() else {}
+    reg = reg or {}
+    reg[slug] = {"url": url, "source": source, "mirrored": time.strftime("%Y-%m-%d")}
+    REGISTRY.write_text(yaml.safe_dump(dict(sorted(reg.items())), allow_unicode=True, sort_keys=False),
+                        encoding="utf-8")
 
 
 def main():

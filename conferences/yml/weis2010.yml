@@ -484,6 +484,7 @@ program:
             authors:
               - name: "Haruo Takasaki"
           - title: "Announcements"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             authors:
               - name: "Russell Cameron Thomas"
           - title: "Passwords and Intimacy"

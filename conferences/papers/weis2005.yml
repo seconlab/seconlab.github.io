@@ -231,13 +231,6 @@ papers:
   - name: Sunil Wattal
   file: weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
   path: papers/weis2005/weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
-- id: weis2005_32
-  title: Keynote address
-  authors:
-  - name: Ann Cavoukian
-    affiliation: Information and Privacy Commissioner of Ontario, Canada
-  file: null
-  path: null
 - id: weis2005_33
   title: 'Protecting Online Privacy: Self-Regulation, Mandatory Standards, or Caveat Emptor'
   authors:

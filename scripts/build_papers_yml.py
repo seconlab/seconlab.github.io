@@ -68,6 +68,8 @@ def build(yml_path):
 
     entries = []
     for i, p in enumerate(papers, start=1):
+        if not p["is_paper"]:
+            continue
         prefix = f"{slug}_{i:02d}"
         f = find_file(dest_dir, prefix) if dest_dir.is_dir() else None
         entries.append({

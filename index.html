@@ -37,10 +37,11 @@ layout: default
     {% if c.start_date %}<tr><th>Dates</th><td>{{ c.start_date }}{% if c.end_date and c.end_date != c.start_date %} – {{ c.end_date }}{% endif %}</td></tr>{% endif %}
     {% if c.location %}<tr><th>Location</th><td>{{ c.location }}</td></tr>{% endif %}
     {% if c.venue %}<tr><th>Venue</th><td>{{ c.venue }}</td></tr>{% endif %}
-    {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a></td></tr>{% endif %}
+    {% assign w = site.data.websites[slug] %}
+    {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a>{% if w.source == "wayback" %} <em>(offline)</em>{% endif %}</td></tr>{% endif %}
     {% assign mirror_prefix = '/websites/' | append: slug | append: '/index.' %}
     {% assign mirror = site.static_files | where_exp: "f", "f.path contains mirror_prefix" | sort: "path" %}
-    {% if mirror.size > 0 %}<tr><th>Archived website</th><td><a href="{{ mirror.first.path | relative_url }}">Browse the archived copy</a></td></tr>{% endif %}
+    {% if mirror.size > 0 %}<tr><th>Archived website</th><td><a href="{{ mirror.first.path | relative_url }}">Browse the archived copy</a>{% if w.source == "wayback" %} <small>(from the Wayback Machine)</small>{% endif %}</td></tr>{% endif %}
     <tr><th>Papers</th><td>{{ c.papers | size }} ({{ files | size }} files available)</td></tr>
     <!--<tr><th>More</th><td>
       {% if site.data.yml[slug] %}<a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}">Full programme</a> · {% endif %}

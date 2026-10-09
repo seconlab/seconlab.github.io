@@ -353,6 +353,7 @@ program:
           affiliation: "Information and Privacy Commissioner of Ontario, Canada"
         papers:
           - title: "Keynote address"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "https://web.archive.org/web/2005/http://infosecon.net/workshop/slides/weis_keynote.ppt"
             authors:
               - name: "Ann Cavoukian"
