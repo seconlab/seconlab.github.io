@@ -118,16 +118,6 @@ papers:
   - name: Brent Rowe
   file: weis2011_14_assessing-home-internet-users-demand-for-security-will-they.pdf
   path: papers/weis2011/weis2011_14_assessing-home-internet-users-demand-for-security-will-they.pdf
-- id: weis2011_15
-  title: Presentation 1
-  authors: []
-  file: null
-  path: null
-- id: weis2011_16
-  title: Presentation 2
-  authors: []
-  file: null
-  path: null
 - id: weis2011_17
   title: 'Information Targeting and Coordination: An Experimental Study'
   authors:

@@ -301,9 +301,11 @@ program:
             affiliation: ""
         papers:
           - title: "Presentation 1"
+            paper: false  # panel slides, non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2011.econinfosec.org/presentations/Croson%20GMU%20CyberSecurity%20Panel.pptx"
             note: "Panelist not named on the program (slide file: Croson GMU CyberSecurity Panel.pptx)."
           - title: "Presentation 2"
+            paper: false  # panel slides, non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2011.econinfosec.org/presentations/Landwher%20--%20110615%20NSF%20TwC%20for%20WEIS.pptx"
             note: "Panelist not named on the program (slide file: Landwher -- 110615 NSF TwC for WEIS.pptx)."
 

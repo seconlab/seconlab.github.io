@@ -41,7 +41,7 @@ layout: default
     {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a>{% if w.source == "wayback" %} <em>(offline)</em>{% endif %}</td></tr>{% endif %}
     {% assign mirror_prefix = '/websites/' | append: slug | append: '/index.' %}
     {% assign mirror = site.static_files | where_exp: "f", "f.path contains mirror_prefix" | sort: "path" %}
-    {% if mirror.size > 0 %}<tr><th>Archived website</th><td><a href="{{ mirror.first.path | relative_url }}">Browse the archived copy</a>{% if w.source == "wayback" %} <small>(from the Wayback Machine)</small>{% endif %}</td></tr>{% endif %}
+    {% if mirror.size > 0 %}<tr><th>Local website copy</th><td><a href="{{ mirror.first.path | relative_url }}">Browse the local copy</a>{% if w.source == "wayback" %} <small>(from the Wayback Machine)</small>{% endif %}</td></tr>{% endif %}
     <tr><th>Papers</th><td>{{ c.papers | size }} ({{ files | size }} files available)</td></tr>
     <!--<tr><th>More</th><td>
       {% if site.data.yml[slug] %}<a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}">Full programme</a> · {% endif %}

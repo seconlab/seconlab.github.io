@@ -1,7 +1,9 @@
-# Generato da scripts/mirror_websites.py: siti scaricati in websites/<slug>/.
-# source: live = sito originale ancora online; wayback = sito offline, copia dalla Wayback Machine.
 weis2007:
   url: https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/index.htm
+  source: wayback
+  mirrored: '2026-10-09'
+weis2008:
+  url: https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/index.htm
   source: wayback
   mirrored: '2026-10-09'
 weis2016:
