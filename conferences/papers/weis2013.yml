@@ -32,8 +32,8 @@ papers:
     affiliation: Verizon Communications, Inc.
   - name: Matthew Woodyard
     affiliation: Zions Bancorporation
-  file: null
-  path: null
+  file: weis2013_02_how-bad-is-it.pdf
+  path: papers/weis2013/weis2013_02_how-bad-is-it.pdf
 - id: weis2013_03
   title: Cloud Implications on Software Network Structure and Security Risks
   authors:
