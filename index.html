@@ -39,10 +39,10 @@ layout: default
     {% if c.venue %}<tr><th>Venue</th><td>{{ c.venue }}</td></tr>{% endif %}
     {% if c.website %}<tr><th>Website</th><td><a href="{{ c.website }}">{{ c.website }}</a></td></tr>{% endif %}
     <tr><th>Papers</th><td>{{ c.papers | size }} ({{ files | size }} files available)</td></tr>
-    <tr><th>More</th><td>
+    <!--<tr><th>More</th><td>
       {% if site.data.yml[slug] %}<a href="{{ '/conferences/pages/' | append: slug | append: '.html' | relative_url }}">Full programme</a> · {% endif %}
       <a href="{{ '/conferences/papers/' | append: slug | append: '.yml' | relative_url }}">{{ slug }}.yml</a>
-    </td></tr>
+    </td></tr>-->
   </tbody>
 </table>
 
