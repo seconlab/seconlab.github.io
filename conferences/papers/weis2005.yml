@@ -104,15 +104,15 @@ papers:
   title: Privacy as a Base for Confidentiality
   authors:
   - name: Sabah S. Al-Fedaghi
-  file: null
-  path: null
+  file: weis2005_14_privacy-as-a-base-for-confidentiality-weis-manuscript.pdf
+  path: papers/weis2005/weis2005_14_privacy-as-a-base-for-confidentiality-weis-manuscript.pdf
 - id: weis2005_15
   title: Cost Tradeoffs For Information Security Assurance
   authors:
   - name: Ritesh Kumar Tiwari
   - name: Kamalakar Karlapalem
-  file: null
-  path: null
+  file: weis2005_15_cost-tradeoffs-for-information-security-assurance-weis-manus.pdf
+  path: papers/weis2005/weis2005_15_cost-tradeoffs-for-information-security-assurance-weis-manus.pdf
 - id: weis2005_16
   title: The Role of Architecture in DRM Vendor Economics
   authors:
@@ -126,8 +126,8 @@ papers:
   - name: Paul Judge
   - name: Dmitri Alperovitch
   - name: Weilai Yang
-  file: null
-  path: null
+  file: weis2005_17_understanding-and-reversing-the-profit-model-of-spam-positio.pdf
+  path: papers/weis2005/weis2005_17_understanding-and-reversing-the-profit-model-of-spam-positio.pdf
 - id: weis2005_18
   title: 'Evaluating Information Security Investments from Attackers Perspective: the Return-On-Attack (ROA)'
   authors:
@@ -177,8 +177,8 @@ papers:
   title: Bridging the Gap Between Computer Security and Legal Requirements
   authors:
   - name: Christopher E. Everett
-  file: null
-  path: null
+  file: weis2005_24_bridging-the-gap-between-computer-security-and-legal-require.pdf
+  path: papers/weis2005/weis2005_24_bridging-the-gap-between-computer-security-and-legal-require.pdf
 - id: weis2005_25
   title: Cyber-Insurance Revisited
   authors:
@@ -231,14 +231,21 @@ papers:
   - name: Sunil Wattal
   file: weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
   path: papers/weis2005/weis2005_31_impact-of-software-vulnerability-announcements-on-the-market.pdf
+- id: weis2005_32
+  title: Keynote address
+  authors:
+  - name: Ann Cavoukian
+    affiliation: Information and Privacy Commissioner of Ontario, Canada
+  file: null
+  path: null
 - id: weis2005_33
   title: 'Protecting Online Privacy: Self-Regulation, Mandatory Standards, or Caveat Emptor'
   authors:
   - name: Zhulei Tang
   - name: Yu (Jeffrey) Hu
   - name: Michael D. Smith
-  file: null
-  path: null
+  file: weis2005_33_protecting-online-privacy-self-regulation-mandatory-standard.pdf
+  path: papers/weis2005/weis2005_33_protecting-online-privacy-self-regulation-mandatory-standard.pdf
 - id: weis2005_34
   title: Uncertainty, Ambiguity and Privacy
   authors:
@@ -251,8 +258,8 @@ papers:
   authors:
   - name: Rachel Greenstadt
   - name: Michael D. Smith
-  file: null
-  path: null
+  file: weis2005_35_protecting-personal-information-obstacles-and-directions-wei.pdf
+  path: papers/weis2005/weis2005_35_protecting-personal-information-obstacles-and-directions-wei.pdf
 - id: weis2005_36
   title: Quantifying Privacy Choices with Experimental Economics
   authors:

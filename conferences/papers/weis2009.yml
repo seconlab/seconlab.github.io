@@ -15,8 +15,8 @@ papers:
     affiliation: Carnegie Mellon University
   - name: Ralph Gross
     affiliation: Carnegie Mellon University
-  file: null
-  path: null
+  file: weis2009_01_social-insecurity-the-unintended-consequences-of-identity-fr.pdf
+  path: papers/weis2009/weis2009_01_social-insecurity-the-unintended-consequences-of-identity-fr.pdf
 - id: weis2009_02
   title: Data Breaches and Identity Theft
   authors:
@@ -73,8 +73,8 @@ papers:
     affiliation: Carnegie Mellon University
   - name: George Loewenstein
     affiliation: Carnegie Mellon University
-  file: null
-  path: null
+  file: weis2009_07_the-impact-of-relative-standards-on-the-propensity-to-disclo.pdf
+  path: papers/weis2009/weis2009_07_the-impact-of-relative-standards-on-the-propensity-to-disclo.pdf
 - id: weis2009_08
   title: 'The Policy Maker''s Anguish: regulating personal data behaviour between paradoxes and dilemmas'
   authors:

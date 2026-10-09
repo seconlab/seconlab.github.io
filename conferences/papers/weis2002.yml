@@ -54,8 +54,8 @@ papers:
   title: Privacy, Economics, and Price Discrimination on the Internet
   authors:
   - name: Andrew Odlyzko
-  file: weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-a.txt
-  path: papers/weis2002/weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-a.txt
+  file: weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-e.pdf
+  path: papers/weis2002/weis2002_08_privacy-economics-and-price-discrimination-on-the-internet-e.pdf
 - id: weis2002_09
   title: How Much Is Enough? A Risk Management Approach to Computer Security
   authors:

@@ -72,15 +72,15 @@ papers:
     affiliation: National University of Singapore
   - name: Hasan Cavusoglu
     affiliation: University of British Columbia
-  file: null
-  path: null
+  file: weis2013_06_do-privacy-controls-influence-content-generation-and-sharing.pdf
+  path: papers/weis2013/weis2013_06_do-privacy-controls-influence-content-generation-and-sharing.pdf
 - id: weis2013_07
   title: The Value of Privacy in Web Search
   authors:
   - name: Sören Preibusch
     affiliation: Microsoft Research Cambridge UK
-  file: null
-  path: null
+  file: weis2013_07_the-value-of-privacy-in-web-search-weis-manuscript.pdf
+  path: papers/weis2013/weis2013_07_the-value-of-privacy-in-web-search-weis-manuscript.pdf
 - id: weis2013_08
   title: 'Einstein on the Breach: Surveillance Technology, Cybersecurity, and Organizational Change'
   authors:
@@ -88,8 +88,8 @@ papers:
     affiliation: Syracuse University, School of Information Studies
   - name: Milton Mueller
     affiliation: Syracuse University, School of Information Studies
-  file: null
-  path: null
+  file: weis2013_08_einstein-on-the-breach-surveillance-technology-cybersecurity.pdf
+  path: papers/weis2013/weis2013_08_einstein-on-the-breach-surveillance-technology-cybersecurity.pdf
 - id: weis2013_09
   title: The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries
   authors:
@@ -110,8 +110,8 @@ papers:
     affiliation: University of Southampton
   - name: Tim Chown
     affiliation: University of Southampton
-  file: null
-  path: null
+  file: weis2013_10_on-the-viability-of-using-liability-to-incentivise-internet.pdf
+  path: papers/weis2013/weis2013_10_on-the-viability-of-using-liability-to-incentivise-internet.pdf
 - id: weis2013_11
   title: 'Improving Internet Security Through Social Information and Social Comparison: A Field Quasi-Experiment'
   authors:
@@ -123,15 +123,15 @@ papers:
     affiliation: Quarterman Creations
   - name: Andrew Whinston
     affiliation: University of Texas at Austin
-  file: null
-  path: null
+  file: weis2013_11_improving-internet-security-through-social-information-and-s.pdf
+  path: papers/weis2013/weis2013_11_improving-internet-security-through-social-information-and-s.pdf
 - id: weis2013_12
   title: 'Small World: Collisions Among Attacks in a Finite Population'
   authors:
   - name: Cormac Herley
     affiliation: Microsoft Research
-  file: null
-  path: null
+  file: weis2013_12_small-world-collisions-among-attackers-in-a-finite-populatio.pdf
+  path: papers/weis2013/weis2013_12_small-world-collisions-among-attackers-in-a-finite-populatio.pdf
 - id: weis2013_13
   title: A Behavioral Investigation of the FlipIt Game
   authors:
@@ -183,8 +183,8 @@ papers:
     affiliation: Princeton University
   - name: Ness B. Shroff
     affiliation: The Ohio State University
-  file: null
-  path: null
+  file: weis2013_17_incentive-analysis-of-bidirectional-threat-filtering-in-the.pdf
+  path: papers/weis2013/weis2013_17_incentive-analysis-of-bidirectional-threat-filtering-in-the.pdf
 - id: weis2013_18
   title: Are They Actually Any Different? Comparing 3,422 Financial Institutions' Privacy Practices
   authors:
@@ -218,5 +218,5 @@ papers:
     affiliation: Carnegie Mellon University
   - name: Christina Fong
     affiliation: Carnegie Mellon University
-  file: null
-  path: null
+  file: weis2013_20_an-experiment-in-hiring-discrimination-via-online-social-net.pdf
+  path: papers/weis2013/weis2013_20_an-experiment-in-hiring-discrimination-via-online-social-net.pdf

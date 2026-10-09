@@ -37,8 +37,8 @@ papers:
     affiliation: Alberta
   - name: Lisa Yeo
     affiliation: Alberta
-  file: null
-  path: null
+  file: weis2010_03_market-impact-on-it-security-spending-weis-2010-manuscript.pdf
+  path: papers/weis2010/weis2010_03_market-impact-on-it-security-spending-weis-2010-manuscript.pdf
 - id: weis2010_04
   title: 'Outsourcing Information Security: Contracting Issues and Security Implications'
   authors:
@@ -186,8 +186,8 @@ papers:
     affiliation: ICSI Berkeley
   - name: Galina Schwartz
     affiliation: ICSI Berkeley
-  file: null
-  path: null
+  file: weis2010_20_modeling-cyber-insurance-towards-a-unifying-framework-weis-m.pdf
+  path: papers/weis2010/weis2010_20_modeling-cyber-insurance-towards-a-unifying-framework-weis-m.pdf
 - id: weis2010_21
   title: The Plight of the Targeted Attacker in a World of Scale
   authors:
@@ -229,8 +229,8 @@ papers:
     affiliation: UCL
   - name: David Pym
     affiliation: Aberdeen
-  file: null
-  path: null
+  file: weis2010_25_structured-systems-economics-for-security-management-weis-ma.pdf
+  path: papers/weis2010/weis2010_25_structured-systems-economics-for-security-management-weis-ma.pdf
 - id: weis2010_26
   title: ISPs as Cyberecurity Providers
   authors:
@@ -277,6 +277,12 @@ papers:
   title: Consumer Acceptance for Secondary Use
   authors:
   - name: Haruo Takasaki
+  file: null
+  path: null
+- id: weis2010_34
+  title: Announcements
+  authors:
+  - name: Russell Cameron Thomas
   file: null
   path: null
 - id: weis2010_35

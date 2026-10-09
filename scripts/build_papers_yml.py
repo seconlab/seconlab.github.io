@@ -46,13 +46,15 @@ HEADER_KEYS = ("name", "full_name", "edition", "year", "location", "venue",
                "start_date", "end_date", "website")
 
 
+EXT_RANK = {".pdf": 0, ".docx": 1, ".doc": 1, ".ps": 2, ".txt": 3}
+
+
 def find_file(dest_dir, prefix):
-    """Primo file <prefix>_* nella cartella; preferisce il paper alle slide."""
-    hits = sorted(p for p in dest_dir.glob(f"{prefix}_*") if p.suffix.lower() != ".yml")
+    """Miglior file <prefix>_* nella cartella: paper prima delle slide, pdf prima di doc/ps/txt."""
+    hits = [p for p in dest_dir.glob(f"{prefix}_*") if p.suffix.lower() != ".yml"]
     if not hits:
         return None
-    main = [p for p in hits if not p.stem.endswith("-slides")]
-    return (main or hits)[0]
+    return min(hits, key=lambda p: (p.stem.endswith("-slides"), EXT_RANK.get(p.suffix.lower(), 9), p.name))
 
 
 def build(yml_path):

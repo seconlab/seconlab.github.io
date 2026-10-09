@@ -13,8 +13,8 @@ papers:
   authors:
   - name: Sam Ransbotham
   - name: Sabyasachi Mitra
-  file: null
-  path: null
+  file: weis2011_01_the-impact-of-immediate-disclosure-on-attack-diffusion-and-v.pdf
+  path: papers/weis2011/weis2011_01_the-impact-of-immediate-disclosure-on-attack-diffusion-and-v.pdf
 - id: weis2011_02
   title: Where Do All the Attacks Go?
   authors:
@@ -116,8 +116,8 @@ papers:
   authors:
   - name: Dallas Wood
   - name: Brent Rowe
-  file: null
-  path: null
+  file: weis2011_14_assessing-home-internet-users-demand-for-security-will-they.pdf
+  path: papers/weis2011/weis2011_14_assessing-home-internet-users-demand-for-security-will-they.pdf
 - id: weis2011_15
   title: Presentation 1
   authors: []
@@ -142,8 +142,8 @@ papers:
   - name: Chul H. Lee
   - name: Xianjun Geng
   - name: Srinivasan Raghunathan
-  file: null
-  path: null
+  file: weis2011_18_security-standardization-in-the-presence-of-unverifiable-con.pdf
+  path: papers/weis2011/weis2011_18_security-standardization-in-the-presence-of-unverifiable-con.pdf
 - id: weis2011_19
   title: Economic Methods and Decision Making by Security Professionals
   authors:
@@ -152,14 +152,14 @@ papers:
   - name: Yolanta Beres
   - name: Marco Cassa Mont
   - name: Geoff Duggan
-  file: null
-  path: null
+  file: weis2011_19_economic-methods-and-decision-making-by-security-professiona.pdf
+  path: papers/weis2011/weis2011_19_economic-methods-and-decision-making-by-security-professiona.pdf
 - id: weis2011_20
   title: 'Real Name Verification Law on the Internet: a Poison or Cure for Privacy?'
   authors:
   - name: Daegon Cho
-  file: null
-  path: null
+  file: weis2011_20_real-name-verification-law-on-the-internet-a-poison-or-cure.pdf
+  path: papers/weis2011/weis2011_20_real-name-verification-law-on-the-internet-a-poison-or-cure.pdf
 - id: weis2011_21
   title: Health Disclosure Laws and Health Information Exchanges
   authors:
@@ -168,8 +168,8 @@ papers:
   - name: Rema Padman
   - name: Rahul Telang
   - name: Julia Adler-Milstein
-  file: null
-  path: null
+  file: weis2011_21_impact-of-health-disclosure-laws-on-health-information-excha.pdf
+  path: papers/weis2011/weis2011_21_impact-of-health-disclosure-laws-on-health-information-excha.pdf
 - id: weis2011_22
   title: 'The Privacy Landscape: Product Differentiation on Data Collection'
   authors:

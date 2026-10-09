@@ -20,8 +20,8 @@ papers:
   authors:
   - name: Rainer Boehme
   - name: Thorsten Holz
-  file: null
-  path: null
+  file: weis2006_02_the-effect-of-stock-spam-on-financial-markets-2006-working-p.pdf
+  path: papers/weis2006/weis2006_02_the-effect-of-stock-spam-on-financial-markets-2006-working-p.pdf
 - id: weis2006_03
   title: The Economics of Digital Forensics
   authors:

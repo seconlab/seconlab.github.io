@@ -10,7 +10,8 @@ Per ogni conferences/yml/<slug>.yml:
 
 Requisiti:
   brew install wget
-  gem install wayback_machine_downloader      (con Ruby >= 3: export PATH="/opt/homebrew/opt/ruby/bin:$PATH")
+  gem install wayback_machine_downloader_straw   (fork mantenuto, con retry; con Ruby >= 3:
+                                                  export PATH="/opt/homebrew/opt/ruby/bin:$PATH")
 
 Uso:
   python3 scripts/mirror_websites.py                 # tutte le conferenze
@@ -24,6 +25,7 @@ import argparse
 import shutil
 import subprocess
 import sys
+import time
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -82,21 +84,40 @@ def wget_cmd(url, dest):
     ]
 
 
+def find_wayback_tool():
+    """Eseguibile del gem: su PATH oppure nella bin dir dei gem Homebrew (non sempre in PATH)."""
+    found = shutil.which("wayback_machine_downloader")
+    if found:
+        return found
+    hits = sorted(Path("/opt/homebrew/lib/ruby/gems").glob("*/bin/wayback_machine_downloader"))
+    return str(hits[-1]) if hits else None
+
+
 def wayback_cmd(url, dest):
     """Scarica da Wayback l'intero sito originale, fino allo snapshot indicato nell'URL (se presente)."""
     m = WAYBACK_RE.match(url)
     original = m.group(2) if m else url
-    cmd = ["wayback_machine_downloader", original, "-d", str(dest), "-c", "3"]
+    # il tool scarica tutto cio' che inizia con l'URL dato: serve la cartella, non index.htm
+    original = original if original.endswith("/") else original.rsplit("/", 1)[0] + "/"
+    cmd = [find_wayback_tool(), original, "-d", str(dest), "-c", "3"]
     if m:
         cmd += ["--to", m.group(1)]
     return cmd
 
 
-def run(cmd, dry_run):
+def run(cmd, dry_run, retries=1):
+    """Esegue il comando; con retries>1 riprova dopo una pausa (Wayback risponde spesso 503)."""
     log("   $ " + " ".join(cmd))
     if dry_run:
         return 0
-    return subprocess.call(cmd)
+    for attempt in range(1, retries + 1):
+        code = subprocess.call(cmd)
+        if code == 0 or attempt == retries:
+            return code
+        wait = 30 * attempt
+        log(f"   exit={code}, riprovo tra {wait}s ({attempt}/{retries})")
+        time.sleep(wait)
+    return code
 
 
 def mirror(yml_path, force=False, dry_run=False):
@@ -113,19 +134,19 @@ def mirror(yml_path, force=False, dry_run=False):
         return "existing"
 
     if WAYBACK_RE.match(url) or not is_live(url):
-        if not shutil.which("wayback_machine_downloader"):
-            log("   wayback_machine_downloader non installato: gem install wayback_machine_downloader")
+        if not find_wayback_tool():
+            log("   wayback_machine_downloader non installato: gem install wayback_machine_downloader_straw")
             return "missing_tool"
-        cmd, source = wayback_cmd(url, dest), "wayback"
+        cmd, source, retries = wayback_cmd(url, dest), "wayback", 4
     else:
         if not shutil.which("wget"):
             log("   wget non installato: brew install wget")
             return "missing_tool"
-        cmd, source = wget_cmd(url, dest), "live"
+        cmd, source, retries = wget_cmd(url, dest), "live", 1
 
     if not dry_run:
         dest.mkdir(parents=True, exist_ok=True)
-    code = run(cmd, dry_run)
+    code = run(cmd, dry_run, retries)
     # wget ritorna 8 anche per singoli 404 dentro un mirror altrimenti riuscito
     ok = code in (0, 8) if source == "live" else code == 0
     log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}\n")

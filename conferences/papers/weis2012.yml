@@ -103,8 +103,8 @@ papers:
     affiliation: University of Münster
   - name: Rainer Böhme
     affiliation: University of Münster
-  file: null
-  path: null
+  file: weis2012_09_can-we-afford-integrity-by-proof-of-work-scenarios-inspired.pdf
+  path: papers/weis2012/weis2012_09_can-we-afford-integrity-by-proof-of-work-scenarios-inspired.pdf
 - id: weis2012_10
   title: Measuring the Cost of Cybercrime
   authors:
@@ -195,8 +195,8 @@ papers:
     affiliation: University of Texas at Dallas
   - name: Young Ryu
     affiliation: University of Texas at Dallas
-  file: null
-  path: null
+  file: weis2012_17_the-effect-of-fraud-investigation-cost-on-pay-per-click-adve.pdf
+  path: papers/weis2012/weis2012_17_the-effect-of-fraud-investigation-cost-on-pay-per-click-adve.pdf
 - id: weis2012_18
   title: 'Ad-blocking Games: Monetizing Online Content Under the Threat of Ad Avoidance'
   authors:

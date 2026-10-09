@@ -80,8 +80,8 @@ papers:
   authors:
   - name: Adam Shostack
     affiliation: Informed Security
-  file: weis2003_08_paying-for-privacy-consumers-and-infrastructures-slides.pdf
-  path: papers/weis2003/weis2003_08_paying-for-privacy-consumers-and-infrastructures-slides.pdf
+  file: weis2003_08_people-won-t-pay-for-privacy-reconsidered-weis-paper.pdf
+  path: papers/weis2003/weis2003_08_people-won-t-pay-for-privacy-reconsidered-weis-paper.pdf
 - id: weis2003_09
   title: 'Losses, Gains, and Hyperbolic Discounting: An Experimental Approach to Information Security Attitudes and Behaviors'
   authors:

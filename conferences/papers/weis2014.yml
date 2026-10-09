@@ -68,15 +68,15 @@ papers:
     affiliation: Shape Security
   - name: Allan Friedman
     affiliation: George Washington University
-  file: null
-  path: null
+  file: weis2014_06_automation-and-disruption-in-stolen-payment-card-markets-wei.pdf
+  path: papers/weis2014/weis2014_06_automation-and-disruption-in-stolen-payment-card-markets-wei.pdf
 - id: weis2014_07
   title: 'Defending Debit: A Historical Study of the Indirect Effects of the Durbin Amendment on Investment in Debit Card Security'
   authors:
   - name: Allison Miller
     affiliation: Electronic Arts
-  file: null
-  path: null
+  file: weis2014_07_defending-debit-a-historical-study-of-the-indirect-effects-o.pdf
+  path: papers/weis2014/weis2014_07_defending-debit-a-historical-study-of-the-indirect-effects-o.pdf
 - id: weis2014_08
   title: Empirically Characterizing Domain Abuse and the Revenue Impact of Blacklisting
   authors:
@@ -110,8 +110,8 @@ papers:
     affiliation: Delft University of Technology
   - name: Michel van Eeten
     affiliation: Delft University of Technology
-  file: null
-  path: null
+  file: weis2014_10_why-them-extracting-intelligence-about-target-selection-from.pdf
+  path: papers/weis2014/weis2014_10_why-them-extracting-intelligence-about-target-selection-from.pdf
 - id: weis2014_11
   title: The Effect of Decentralized Behavioral Decision Making on System-Level Risk
   authors:
@@ -185,8 +185,8 @@ papers:
     affiliation: University of Tokyo
   - name: Kanta Matsuura
     affiliation: University of Tokyo
-  file: null
-  path: null
+  file: weis2014_17_analysis-of-japanese-loyalty-programs-considering-liquidity.pdf
+  path: papers/weis2014/weis2014_17_analysis-of-japanese-loyalty-programs-considering-liquidity.pdf
 - id: weis2014_18
   title: Framing and the Malleability of Privacy Choices
   authors:
@@ -196,8 +196,8 @@ papers:
     affiliation: Carnegie Mellon University
   - name: George Loewenstein
     affiliation: Carnegie Mellon University
-  file: null
-  path: null
+  file: weis2014_18_framing-and-the-malleability-of-privacy-choices-weis-manuscr.pdf
+  path: papers/weis2014/weis2014_18_framing-and-the-malleability-of-privacy-choices-weis-manuscr.pdf
 - id: weis2014_19
   title: 'Meaningful Healthcare Security: Does "Meaningful-Use" Attestation Improve Information Security Performance?'
   authors:
@@ -214,5 +214,5 @@ papers:
     affiliation: Carnegie Mellon University
   - name: Alessandro Acquisti
     affiliation: Carnegie Mellon University
-  file: null
-  path: null
+  file: weis2014_20_aiming-at-a-more-cost-efficient-census-via-online-data-colle.pdf
+  path: papers/weis2014/weis2014_20_aiming-at-a-more-cost-efficient-census-via-online-data-colle.pdf

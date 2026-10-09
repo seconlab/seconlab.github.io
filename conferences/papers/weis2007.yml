@@ -122,8 +122,8 @@ papers:
     affiliation: University of Southern California
   - name: Luke Sheppard
     affiliation: University of Southern California
-  file: null
-  path: null
+  file: weis2007_12_measuring-security-investment-benefit-for-off-the-shelf-soft.pdf
+  path: papers/weis2007/weis2007_12_measuring-security-investment-benefit-for-off-the-shelf-soft.pdf
 - id: weis2007_13
   title: 'Incentive Design for Free but No Free Disposal Services: The Case of Personalization under Privacy Concerns'
   authors:
@@ -131,8 +131,8 @@ papers:
     affiliation: Emory University Atlanta
   - name: Shivendu Shivendu
     affiliation: University of Southern California
-  file: null
-  path: null
+  file: weis2007_13_incentive-design-for-free-but-no-free-disposal-services-the.pdf
+  path: papers/weis2007/weis2007_13_incentive-design-for-free-but-no-free-disposal-services-the.pdf
 - id: weis2007_14
   title: 'The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study'
   authors:
@@ -220,8 +220,8 @@ papers:
   authors:
   - name: Aaron Burstein
     affiliation: University of California, Berkeley
-  file: null
-  path: null
+  file: weis2007_22_an-uneasy-relationship-cyber-security-information-sharing-co.pdf
+  path: papers/weis2007/weis2007_22_an-uneasy-relationship-cyber-security-information-sharing-co.pdf
 - id: weis2007_23
   title: Hiding, Seeking, and the Evolution of Privacy Behavior
   authors:
@@ -238,8 +238,8 @@ papers:
     affiliation: University of Texas at Austin
   - name: Andrew B. Whinston
     affiliation: University of Texas at Austin
-  file: null
-  path: null
+  file: weis2007_24_a-reputation-based-mechanism-for-software-vulnerability-disc.pdf
+  path: papers/weis2007/weis2007_24_a-reputation-based-mechanism-for-software-vulnerability-disc.pdf
 - id: weis2007_25
   title: A Survival Analysis of Disclosed Security Breaches
   authors:

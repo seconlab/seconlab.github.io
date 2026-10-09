@@ -1,0 +1,122 @@
+   The Sixth Workshop on the Economics of Information Security
+                            (WEIS 2007)
+
+                    The Heinz School and CyLab
+                    Carnegie Mellon University
+                       Pittsburgh (PA), USA
+                          June 7-8, 2007
+
+                 http://weis2007.econinfosec.org/
+
+
+            S E C O N D   C A L L   F O R   P A P E R S
+
+
+                  Submissions due: March 1, 2007
+
+
+How much should we spend on security? What incentives really drive
+privacy  decisions?  What  are  the  trade-offs  that individuals,
+firms,  and  governments face when allocating resources to protect
+data  assets?  Are  there  good ways to distribute risks and align
+goals when securing information systems?
+
+The  2007 Workshop on the Economics of Information Security builds
+on the success of the previous five Workshops and invites original
+research  papers on topics related to the economics of information
+security  and  the  economics  of  privacy.  Security  and privacy
+threats rarely have purely technical causes. Economic, behavioral,
+and  legal  factors  often contribute as much as technology to the
+dependability   of  information  and  information  systems.  Until
+recently,  research  in  security and dependability focused almost
+exclusively  on  technical  factors,  rather  than incentives. The
+application  of economic analysis to these problems has now become
+an exciting and fruitful area of research.
+
+We  encourage  economists,  computer  scientists,  business school
+researchers,  law  scholars,  security and privacy specialists, as
+well  as  industry experts to submit their research and attend the
+Workshop.  Suggested  topics  include  (but  are  not  limited to)
+empirical and theoretical economic studies of:
+
+
+- Optimal security investment
+- Software and system dependability
+- Privacy, confidentiality, and anonymity
+- Vulnerabilities, patching, and disclosure
+- DRM and trusted computing
+- Trust and reputation systems
+- Security models and metrics
+- Behavioral security and privacy
+- Information systems liability and insurance
+- Information threat modeling and risk management
+- Phishing and spam
+
+
+**Important dates**
+
+- Submissions due: March 1, 2007
+- Notification of acceptance: April 10, 2007
+- Workshop: June 7-8, 2007
+
+Papers  should be submitted online by 11:59 EST on Thursday, March
+1, 2007.
+
+Submitted  manuscripts  should  represent  significant  and  novel
+research  contributions.  Please  note  that  WEIS  has  no formal
+formatting  guidelines.  Previous contributors spanned fields from
+economics  and  psychology  to computer science and law, each with
+different  norms  and  expectations  about  manuscript  length and
+formatting.  Advisable  rules  of  thumb  include: using past WEIS
+accepted  papers  as  templates  and  adhering to your community's
+publication standards.
+
+There  will  be  no printed proceedings for this Workshop. As with
+the  preceding  Workshops,  accepted  papers will be posted on the
+Workshop site.
+
+For more information please email: weis-07@andrew.cmu.edu or visit
+http://weis2007.econinfosec.org/.
+
+
+**Program committee**
+
+Chairs
+Alessandro Acquisti (Carnegie Mellon University)
+Rahul Telang (Carnegie Mellon University)
+
+Committee
+Ross Anderson (Cambridge University)
+Jean Camp (Indiana University)
+Huseyin Cavusoglu (UT Dallas)
+Neil Gandal (Tel Aviv University)
+Anindya Ghose (New York University)
+Larry Gordon (University of Maryland)
+Jens Grossklags (UC Berkeley)
+Eric Johnson (Dartmouth College)
+Marty Loeb (University of Maryland)
+Tyler Moore (Cambridge University)
+Andrew Odlyzko (University of Minnesota)
+Ivan Png (National University of Singapore)
+Stuart Schechter (MIT Lincoln Laboratory)
+Bruce Schneier (BT Counterpane)
+Peter Swire (Ohio State University)
+Curtis Taylor (Duke University)
+Hal Varian (UC Berkeley)
+
+
+**Hosts and sponsors**
+
+WEIS  2007  is hosted by the Heinz School and by CyLab at Carnegie
+Mellon  University.  WEIS  2007  is supported by the Heinz School,
+CyLab, the Institute for Information Infrastructure Protection
+(I3P), and Microsoft.
+
+
+**Past workshops**
+
+2002: Berkeley (http://www2.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/)
+2003: Maryland (http://www.cpppe.umd.edu/rhsmith3/)
+2004: Minnesota (http://www.dtc.umn.edu/weis2004/)
+2005: Harvard (http://infosecon.net/workshop/index.php)
+2006: Cambridge (http://weis2006.econinfosec.org/)

@@ -42,8 +42,8 @@ papers:
   - name: Alessandro Acquisti
   - name: Laura Brandimarte
   - name: Jeff Hancock
-  file: null
-  path: null
+  file: weis2015_05_a-sense-of-privacy-later-full-manuscript.pdf
+  path: papers/weis2015/weis2015_05_a-sense-of-privacy-later-full-manuscript.pdf
 - id: weis2015_06
   title: What is a Cookie Worth?
   authors:
