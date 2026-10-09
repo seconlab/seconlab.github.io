@@ -108,7 +108,8 @@ def wayback_cmd(url, dest, year=None):
     original = m.group(2) if m else url
     # il tool scarica tutto cio' che inizia con l'URL dato: serve la cartella, non index.htm
     original = original if original.endswith("/") else original.rsplit("/", 1)[0] + "/"
-    cmd = [find_wayback_tool(), original, "-d", str(dest), "-c", "3"]
+    # --local riscrive i link assoluti (http://host/...) in relativi, per navigare la copia offline
+    cmd = [find_wayback_tool(), original, "-d", str(dest), "-c", "3", "--local"]
     if year:
         cmd += ["--to", f"{int(year) + 3}1231"]
     return cmd
@@ -150,6 +151,25 @@ def run(cmd, dry_run, retries=1):
     return code
 
 
+def site_subpath(url):
+    """Cartella del sito sul server originale (es. /resources/affiliates/workshops/econsecurity/)."""
+    m = WAYBACK_RE.match(url)
+    path = urlparse(m.group(2) if m else url).path
+    return path if path.endswith("/") else path.rsplit("/", 1)[0] + "/"
+
+
+def entry_page(dest, url, source):
+    """Pagina iniziale della copia, relativa a dest. Wayback conserva il path originale, wget no."""
+    base = dest.joinpath(*[p for p in site_subpath(url).split("/") if p]) if source == "wayback" else dest
+    if not base.is_dir():
+        base = dest
+    for name in ("index.html", "index.htm", "index.php", "default.htm", "default.html", "home.htm", "home.html"):
+        if (base / name).is_file():
+            return (base / name).relative_to(dest).as_posix()
+    pages = sorted(base.glob("*.htm*"))
+    return pages[0].relative_to(dest).as_posix() if pages else None
+
+
 def mirror(yml_path, force=False, dry_run=False):
     slug = yml_path.stem
     data = yaml.safe_load(yml_path.read_text(encoding="utf-8")) or {}
@@ -181,7 +201,9 @@ def mirror(yml_path, force=False, dry_run=False):
     ok = code in (0, 8) if source == "live" else code == 0
     log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}")
     if ok and not dry_run:
-        update_registry(slug, url, source)
+        index = entry_page(dest, url, source)
+        update_registry(slug, url, source, index)
+        log(f"   pagina iniziale: {index}")
         miss = missing_assets(dest)
         if miss:
             log(f"   file mancanti ({len(miss)}): " + ", ".join(miss[:8]) + (" ..." if len(miss) > 8 else ""))
@@ -189,10 +211,10 @@ def mirror(yml_path, force=False, dry_run=False):
     return source if ok else "failed"
 
 
-def update_registry(slug, url, source):
+def update_registry(slug, url, source, index=None):
     reg = yaml.safe_load(REGISTRY.read_text(encoding="utf-8")) if REGISTRY.exists() else {}
     reg = reg or {}
-    reg[slug] = {"url": url, "source": source, "mirrored": time.strftime("%Y-%m-%d")}
+    reg[slug] = {"url": url, "source": source, "index": index, "mirrored": time.strftime("%Y-%m-%d")}
     REGISTRY.write_text(yaml.safe_dump(dict(sorted(reg.items())), allow_unicode=True, sort_keys=False),
                         encoding="utf-8")
 

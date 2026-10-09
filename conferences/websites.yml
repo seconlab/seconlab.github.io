@@ -1,32 +1,40 @@
 weis2002:
   url: http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/
   source: wayback
+  index: resources/affiliates/workshops/econsecurity/index.html
   mirrored: '2026-10-09'
 weis2003:
   url: https://web.archive.org/web/20031204213309/http://www.cpppe.umd.edu/rhsmith3/
   source: wayback
+  index: rhsmith3/index.html
   mirrored: '2026-10-09'
 weis2004:
   url: http://www.dtc.umn.edu/weis2004/
   source: wayback
+  index: weis2004/index.html
   mirrored: '2026-10-09'
 weis2007:
   url: https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/index.htm
   source: wayback
+  index: index.html
   mirrored: '2026-10-09'
 weis2008:
   url: https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/index.htm
   source: wayback
+  index: index.html
   mirrored: '2026-10-09'
 weis2010:
   url: https://web.archive.org/web/20150815065631/http://weis2010.econinfosec.org/
   source: wayback
+  index: index.html
   mirrored: '2026-10-09'
 weis2016:
   url: https://weis2016.econinfosec.org/
   source: live
+  index: index.html
   mirrored: '2026-10-09'
 weis2022:
   url: https://weis2022.econinfosec.org/
   source: live
+  index: index.html
   mirrored: '2026-10-09'
