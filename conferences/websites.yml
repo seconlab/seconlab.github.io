@@ -1,3 +1,15 @@
+weis2002:
+  url: http://www.sims.berkeley.edu/resources/affiliates/workshops/econsecurity/
+  source: wayback
+  mirrored: '2026-10-09'
+weis2003:
+  url: https://web.archive.org/web/20031204213309/http://www.cpppe.umd.edu/rhsmith3/
+  source: wayback
+  mirrored: '2026-10-09'
+weis2004:
+  url: http://www.dtc.umn.edu/weis2004/
+  source: wayback
+  mirrored: '2026-10-09'
 weis2007:
   url: https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/index.htm
   source: wayback

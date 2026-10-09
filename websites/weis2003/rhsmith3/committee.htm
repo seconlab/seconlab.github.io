@@ -1,0 +1,119 @@
+<html><!-- #BeginTemplate "/Templates/rhsmith2.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>Untitled Document</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000066" vlink="#000000" onLoad="MM_preloadImages('images/homedown.jpg','images/agendadown.jpg','images/committeedown.jpg','images/lodgingdown.jpg','images/usefullinksdown.jpg','images/homeover.jpg','images/agendaover.jpg','images/committeeover.jpg','images/lodgingover.jpg','images/usefullinksover.jpg')">
+<table width="100%" border="0" align="left">
+  <tr align="left" valign="middle"> 
+    <td colspan="4" align="left" valign="middle"> 
+      <p align="center"><img src="images/flag.jpg" width="300" height="151"></p>
+    </td>
+    <td colspan="2" align="center"> 
+      <div align="center"><font size="+2">2nd Annual Workshop<br>
+        &#147;Economics and Information Security&#148; </font></div>
+      <p align="center"><font size="+2">May 29-30, 2003 </font></p>
+      <p align="center"><font size="+1"><a href="http://www.rhsmith.umd.edu"><font size="3">Robert 
+        H. Smith School of Business</font></a><font size="3"><br>
+        Center for Public Policy and Private Enterprise</font></font> <font size="3"><br align="center">
+        <a href="http://www.umd.edu">University of Maryland </a></font>
+      <p align="center">&nbsp; 
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="6"> 
+      <table border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr> 
+          <td><a href="http://www.cpppe.umd.edu/rhsmith3/" onClick="MM_nbGroup('down','group1','Home','images/homedown.jpg',1)" onMouseOver="MM_nbGroup('over','Home','images/homeover.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="Home" src="images/home.jpg" border="0" onLoad="" width="100" height="30"></a></td>
+          <td><a href="http://www.cpppe.umd.edu/rhsmith3/agenda.htm" onClick="MM_nbGroup('down','group1','Agenda','images/agendadown.jpg',1)" onMouseOver="MM_nbGroup('over','Agenda','images/agendaover.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="Agenda" src="images/agenda.jpg" border="0" onLoad="" width="100" height="30"></a></td>
+          <td><a href="http://www.cpppe.umd.edu/rhsmith3/committee.htm" onClick="MM_nbGroup('down','group1','Committee','images/committeedown.jpg',1)" onMouseOver="MM_nbGroup('over','Committee','images/committeeover.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="Committee" src="images/committee.jpg" border="0" onLoad="" width="100" height="30"></a></td>
+          <td><a href="http://www.cpppe.umd.edu/rhsmith3/lodging.htm" onClick="MM_nbGroup('down','group1','Lodging','images/lodgingdown.jpg',1)" onMouseOver="MM_nbGroup('over','Lodging','images/lodgingover.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="Lodging" src="images/lodging.jpg" border="0" onLoad="" width="100" height="30"></a></td>
+          <td><a href="http://www.cpppe.umd.edu/rhsmith3/usefullinks.htm" onClick="MM_nbGroup('down','group1','Usefullinks','images/usefullinksdown.jpg',1)" onMouseOver="MM_nbGroup('over','Usefullinks','images/usefullinksover.jpg','',1)" onMouseOut="MM_nbGroup('out')"><img name="Usefullinks" src="images/usefullinks.jpg" border="0" onLoad="" width="150" height="30"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="6">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="6"> 
+      <p> <i> </i> 
+      <!-- #BeginEditable "main" --><font size="+3"><i><font face="Times New Roman, Times, serif">Program 
+      Committee </font></i></font> 
+      <p align="center"><a href="http://www.cl.cam.ac.uk/%7Erja14/">Ross Anderson 
+        (program co-chair)</a></p>
+      <p align="center"> <a href="http://www.rhsmith.umd.edu/accounting/lgordon/">Larry 
+        Gordon (program co-chair)</a> </p>
+      <p align="center"><a href="http://www.counterpane.com/schneier.html">Bruce 
+        Schneier</a></p>
+      <p align="center"><a href="http://www.ljean.net/">Jean Camp </a></p>
+      <p align="center"><a href="http://www.rhsmith.umd.edu/accounting/mloeb/">Marty 
+        Loeb (general chair) </a></p>
+      <p align="center"><a href="http://www.sims.berkeley.edu/%7Etygar/">Doug 
+        Tygar </a></p>
+      <p align="center"><a href="http://java.sun.com/people/gong/">Li Gong </a></p>
+      <p align="center"><a href="http://www.dtc.umn.edu/%7Eodlyzko/">Andrew Odlyzko 
+        </a></p>
+      <p align="center"><a href="http://www.sims.berkeley.edu/%7Ehal/">Hal Varian 
+        </a></p>
+      <p></p>
+      <p> </p>
+      <!-- #EndEditable --></td>
+  </tr>
+</table>
+</body>
+<!-- #EndTemplate --></html>
