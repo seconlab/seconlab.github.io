@@ -175,6 +175,7 @@ program:
             affiliation: "Dean, Tuck School of Business at Dartmouth"
         papers:
           - title: "Conference Welcome and Overview"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2008.econinfosec.org/panels/WelcomeEJ.pdf"
             authors:
               - name: "M. Eric Johnson"
@@ -246,6 +247,7 @@ program:
             moderator: true
         papers:
           - title: "Communicating Security – The Role of Media: A Journalistic Perspective (panel slides)"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2008.econinfosec.org/panels/CommunicatingSecurity.pdf"
 
       - type: panel
@@ -264,6 +266,7 @@ program:
             moderator: true
         papers:
           - title: "CISO Perspective – Evaluating and Communicating Information Risk (panel slides)"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2008.econinfosec.org/panels/CISO.pdf"
 
       - type: session
@@ -479,6 +482,7 @@ program:
             moderator: true
         papers:
           - title: "Investigating and Prosecuting Cybercrime (panel slides)"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2008.econinfosec.org/panels/Cybercrime.pdf"
 
       - type: keynote

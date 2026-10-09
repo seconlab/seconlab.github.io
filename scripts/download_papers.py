@@ -255,7 +255,7 @@ def collect_papers(data):
                 authors = p.get("authors") or []
                 out.append({
                     "title": p["title"].strip(),
-                    "is_paper": p.get("paper", True),
+                    "is_paper": p.get("paper", ev.get("paper", True)),
                     "url": p.get("url"),
                     "slides_url": p.get("slides"),
                     "award": p.get("award"),

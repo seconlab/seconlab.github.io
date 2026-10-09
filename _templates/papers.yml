@@ -19,6 +19,8 @@ venue: "Venue name"
 start_date: "2027-06-01"
 end_date: "2027-06-02"
 website: "https://example.org/"
+# opzionale: copia del sito su Wayback Machine (o altro archivio) se il sito originale e' offline
+archive_url: "https://web.archive.org/web/2027/https://example.org/"
 papers:
 - id: weis2027_01
   title: "Title of the first paper"

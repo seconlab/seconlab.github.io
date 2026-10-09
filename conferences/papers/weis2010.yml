@@ -7,6 +7,7 @@ venue: 'Northwest Building, School of Engineering and Applied Sciences (SEAS), H
 start_date: '2010-06-07'
 end_date: '2010-06-08'
 website: http://weis2010.econinfosec.org/
+archive_url: https://web.archive.org/web/20150815065631/http://weis2010.econinfosec.org/
 papers:
 - id: weis2010_01
   title: 'Data Breaches and Identity Theft: When is Mandatory Disclosure Optimal?'
@@ -163,13 +164,6 @@ papers:
     affiliation: Georgetown
   file: weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
   path: papers/weis2010/weis2010_17_information-security-policy-in-the-u-s-retail-payments-indus.pdf
-- id: weis2010_18
-  title: Panel presentation (slides only)
-  authors:
-  - name: Ross Anderson
-    affiliation: Cambridge
-  file: null
-  path: null
 - id: weis2010_19
   title: 'Self Hosting vs. Cloud Hosting: Accounting for the security impact of hosting in the cloud'
   authors:
@@ -231,75 +225,3 @@ papers:
     affiliation: Aberdeen
   file: weis2010_25_structured-systems-economics-for-security-management-weis-ma.pdf
   path: papers/weis2010/weis2010_25_structured-systems-economics-for-security-management-weis-ma.pdf
-- id: weis2010_26
-  title: ISPs as Cyberecurity Providers
-  authors:
-  - name: Brent Rowe
-  file: null
-  path: null
-- id: weis2010_27
-  title: Security as Goodwill?
-  authors:
-  - name: Doron Becker
-  file: null
-  path: null
-- id: weis2010_28
-  title: Security Investment with Penetration Testing
-  authors:
-  - name: Mark Felegyhazi
-  file: null
-  path: null
-- id: weis2010_29
-  title: Chip and PIN Policy
-  authors:
-  - name: Steven Murdoch
-  file: null
-  path: null
-- id: weis2010_30
-  title: Policy Recommendations for Improving Cybersecurity
-  authors:
-  - name: Tyler Moore
-  file: null
-  path: null
-- id: weis2010_31
-  title: Product-Validation Systems and EIS
-  authors:
-  - name: Kanta Matsuura
-  file: null
-  path: null
-- id: weis2010_32
-  title: Rewards for Returning Lost Property
-  authors:
-  - name: Jonathan Anderson
-  file: null
-  path: null
-- id: weis2010_33
-  title: Consumer Acceptance for Secondary Use
-  authors:
-  - name: Haruo Takasaki
-  file: null
-  path: null
-- id: weis2010_35
-  title: Passwords and Intimacy
-  authors:
-  - name: Joseph Bonneau
-  file: null
-  path: null
-- id: weis2010_36
-  title: Incentive-based Access Control
-  authors:
-  - name: Debin Liu
-  file: weis2010_36_beyond-risk-based-access-control-towards-incentive-based-acc.pdf
-  path: papers/weis2010/weis2010_36_beyond-risk-based-access-control-towards-incentive-based-acc.pdf
-- id: weis2010_37
-  title: Determining the Difficulty of Security Problems
-  authors:
-  - name: Steve Borbash
-  file: null
-  path: null
-- id: weis2010_38
-  title: We Have Data!
-  authors:
-  - name: Roger Dingledine
-  file: null
-  path: null

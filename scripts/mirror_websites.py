@@ -18,16 +18,19 @@ Uso:
   python3 scripts/mirror_websites.py weis2022        # solo alcune
   python3 scripts/mirror_websites.py --dry-run       # mostra solo cosa farebbe
   python3 scripts/mirror_websites.py --force         # riscarica anche se websites/<slug>/ esiste gia'
+  python3 scripts/mirror_websites.py --check         # elenca i file mancanti (immagini, pdf...) nelle copie esistenti
 
 Nota: le copie da Wayback possono essere incomplete (file mai archiviati, pagine dinamiche vuote).
+Rilanciare con --force su una copia Wayback scarica solo i file mancanti (quelli presenti vengono saltati).
 """
 import argparse
+import re
 import shutil
 import subprocess
 import sys
 import time
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 import requests
 import yaml
@@ -95,16 +98,41 @@ def find_wayback_tool():
     return str(hits[-1]) if hits else None
 
 
-def wayback_cmd(url, dest):
-    """Scarica da Wayback l'intero sito originale, fino allo snapshot indicato nell'URL (se presente)."""
+def wayback_cmd(url, dest, year=None):
+    """Scarica da Wayback l'intero sito originale.
+
+    Limite temporale: fine dell'anno della conferenza + 3. Non si usa il timestamp del singolo snapshot
+    perche' immagini e pdf spesso sono stati archiviati anni dopo le pagine html.
+    """
     m = WAYBACK_RE.match(url)
     original = m.group(2) if m else url
     # il tool scarica tutto cio' che inizia con l'URL dato: serve la cartella, non index.htm
     original = original if original.endswith("/") else original.rsplit("/", 1)[0] + "/"
     cmd = [find_wayback_tool(), original, "-d", str(dest), "-c", "3"]
-    if m:
-        cmd += ["--to", m.group(1)]
+    if year:
+        cmd += ["--to", f"{int(year) + 3}1231"]
     return cmd
+
+
+SRC_RE = re.compile(r"""(?:src|href)\s*=\s*["']([^"'#?]+)""", re.I)
+
+
+def missing_assets(dest):
+    """Riferimenti locali (immagini, css, pdf...) citati nelle pagine html ma assenti su disco."""
+    missing = set()
+    for page in dest.rglob("*.htm*"):
+        text = page.read_text(encoding="utf-8", errors="ignore")
+        # i listing automatici di Apache ("Index of /papers") citano icone e file mai archiviati: rumore
+        if re.search(r"<title>\s*Index of /", text, re.I):
+            continue
+        for ref in SRC_RE.findall(text):
+            ref = unquote(ref.strip())
+            if not ref or "://" in ref or ref.startswith(("mailto:", "javascript:", "data:", "//")):
+                continue
+            target = (dest if ref.startswith("/") else page.parent) / ref.lstrip("/")
+            if not target.exists() and not (target.parent / (target.name + ".html")).exists():
+                missing.add(str(target.relative_to(dest)) if target.is_relative_to(dest) else ref)
+    return sorted(missing)
 
 
 def run(cmd, dry_run, retries=1):
@@ -139,7 +167,7 @@ def mirror(yml_path, force=False, dry_run=False):
         if not find_wayback_tool():
             log("   wayback_machine_downloader non installato: gem install wayback_machine_downloader_straw")
             return "missing_tool"
-        cmd, source, retries = wayback_cmd(url, dest), "wayback", 4
+        cmd, source, retries = wayback_cmd(url, dest, data.get("year")), "wayback", 4
     else:
         if not shutil.which("wget"):
             log("   wget non installato: brew install wget")
@@ -151,9 +179,13 @@ def mirror(yml_path, force=False, dry_run=False):
     code = run(cmd, dry_run, retries)
     # wget ritorna 8 anche per singoli 404 dentro un mirror altrimenti riuscito
     ok = code in (0, 8) if source == "live" else code == 0
-    log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}\n")
+    log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}")
     if ok and not dry_run:
         update_registry(slug, url, source)
+        miss = missing_assets(dest)
+        if miss:
+            log(f"   file mancanti ({len(miss)}): " + ", ".join(miss[:8]) + (" ..." if len(miss) > 8 else ""))
+    log("")
     return source if ok else "failed"
 
 
@@ -170,6 +202,7 @@ def main():
     ap.add_argument("slugs", nargs="*", help="slug delle conferenze (es. weis2022). Default: tutte")
     ap.add_argument("--force", action="store_true", help="riscarica anche se la cartella esiste")
     ap.add_argument("--dry-run", action="store_true", help="mostra i comandi senza eseguirli")
+    ap.add_argument("--check", action="store_true", help="non scarica: elenca solo i file mancanti nelle copie esistenti")
     args = ap.parse_args()
 
     if args.slugs:
@@ -179,6 +212,17 @@ def main():
             sys.exit("yml non trovati: " + ", ".join(str(m) for m in missing))
     else:
         yml_files = sorted(YML_DIR.glob("*.yml"))
+
+    if args.check:
+        for yml_path in yml_files:
+            dest = OUT_DIR / yml_path.stem
+            if not dest.is_dir():
+                continue
+            miss = missing_assets(dest)
+            log(f"== {yml_path.stem}: {len(miss)} file mancanti")
+            for m in miss:
+                log(f"   {m}")
+        return
 
     results = {}
     for yml_path in yml_files:

@@ -7,14 +7,8 @@ venue: Tuck School of Business at Dartmouth College (Spanos Auditorium, Room 100
 start_date: '2008-06-25'
 end_date: '2008-06-28'
 website: http://weis2008.econinfosec.org/
+archive_url: https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/index.htm
 papers:
-- id: weis2008_01
-  title: Conference Welcome and Overview
-  authors:
-  - name: M. Eric Johnson
-    affiliation: Tuck School of Business at Dartmouth
-  file: null
-  path: null
 - id: weis2008_02
   title: Nonbanks and Risk in Retail Payments
   authors:
@@ -53,16 +47,6 @@ papers:
     presenter: true
   file: weis2008_04_security-economics-and-european-policy.pdf
   path: papers/weis2008/weis2008_04_security-economics-and-european-policy.pdf
-- id: weis2008_05
-  title: 'Communicating Security – The Role of Media: A Journalistic Perspective (panel slides)'
-  authors: []
-  file: null
-  path: null
-- id: weis2008_06
-  title: CISO Perspective – Evaluating and Communicating Information Risk (panel slides)
-  authors: []
-  file: null
-  path: null
 - id: weis2008_07
   title: 'Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents'
   authors:
@@ -209,11 +193,6 @@ papers:
     affiliation: University of Notre Dame
   file: weis2008_18_botnet-economics-uncertainty-matters.pdf
   path: papers/weis2008/weis2008_18_botnet-economics-uncertainty-matters.pdf
-- id: weis2008_19
-  title: Investigating and Prosecuting Cybercrime (panel slides)
-  authors: []
-  file: null
-  path: null
 - id: weis2008_20
   title: 'The Impact of Information Disclosure on Stock Market Returns: The Sarbanes-Oxley Act and the Role of Media as an Information Intermediary'
   authors:

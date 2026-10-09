@@ -365,6 +365,7 @@ program:
               - name: "Mark MacCarthy"
                 affiliation: "Georgetown"
           - title: "Panel presentation (slides only)"
+            paper: false  # non e' un paper: escluso dall'elenco, ma mantiene la numerazione
             slides: "http://weis2010.econinfosec.org/papers/panel/weis2010_anderson_r_pres2.pdf"
             note: "No paper; presentation only."
             authors:
@@ -453,6 +454,7 @@ program:
       - type: rump_session
         title: "Rump Session"
         time: "17:00-18:30"
+        paper: false  # talk brevi, non paper: tutte le voci sotto sono escluse dall'elenco (numerazione invariata)
         papers:
           - title: "ISPs as Cyberecurity Providers"
             slides: "http://weis2010.econinfosec.org/papers/rump/weis2010_rowe_pres.pdf"

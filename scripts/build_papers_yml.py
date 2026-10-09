@@ -65,6 +65,9 @@ def build(yml_path):
 
     out = {k: data[k] for k in HEADER_KEYS if data.get(k) is not None}
     out.setdefault("year", year_from_slug(slug, data))
+    archive = data.get("archive_urls") or {}
+    if archive.get("home") or archive.get("wayback_home"):
+        out["archive_url"] = archive.get("home") or archive.get("wayback_home")
 
     entries = []
     for i, p in enumerate(papers, start=1):
