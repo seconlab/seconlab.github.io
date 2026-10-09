@@ -1,8 +1,8 @@
-title: SECON
-description: Archive of conferences on the economics of information security
+title: WEIS
+description: Papers of conferences on the economics of information security
 
-# conferences/yml/<slug>.yml    -> site.data.yml.<slug>     (programma completo)
-# conferences/papers/<slug>.yml -> site.data.papers.<slug>  (elenco paper, pagina principale)
+# conferences/yml/<slug>.yml    -> site.data.yml.<slug>      (complete program)
+# conferences/papers/<slug>.yml -> site.data.papers.<slug>  (main page)
 data_dir: conferences
 
 plugins:
