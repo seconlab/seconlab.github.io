@@ -1,0 +1,72 @@
+
+body {background-color: #ffffff; color: #000000;
+	padding-left:12em;
+	width:600px;}
+
+p, ul, ol, table, td, dt, dd {font-family: Arial, Helvetica,
+sans-serif;
+width: 600px; }
+li {padding: 3px 0 1px  0;}
+pre, tt {font-family: Courier, monospace; font-size: 90%;}
+.noshow, .noshowsmall, div.docbox {display: none;}
+
+a {text-decoration:none; }
+a:link {color: #003399; font-family: Arial, Helvetica, sans-serif;}
+a:visited {color: #cc3333; font-family: Arial, Helvetica, sans-serif;}
+a:link:hover, a:visited:hover {text-decoration: underline; font-family:
+Arial, Helvetica, sans-serif;}
+a[href]:active {color: #cc0000; font-family: Arial, Helvetica, sans-serif;}
+
+a.bread {font-size: 80%; font-weight: bold;}
+a.small {font-size: 80%; }
+a.univbread {font-size: 90%; font-weight: bold;}
+p.small {font-size: 90%;}
+p.smallc {font-size: 90%; text-align:center; font-weight: bold;}
+p.bread {padding-top: 0px; margin-top: 0px;}
+p.foot {font-size: 110%; text-align:center;}
+div.c3 {text-align: center}
+p.colour { font-family: Arial, Helvetica, sans-serif; font-size:
+110%; border: none; width: 100%; background: #99ccff; text-align: center;}
+
+h1 {font-weight: bold; font-size: 150%; color: #990000; font-family: Arial, Helvetica, sans-serif;width: 600px;}
+h2 {font-weight: bold; font-size: 110%; color: #333333; font-family: Arial, Helvetica, sans-serif;width: 600px;}
+h3 {font-weight: bold; font-style: italic; font-size: 100%; color: #333333; font-family:
+Arial, Helvetica, sans-serif;width: 600px;}
+h4 {font-weight: bold; font-size: 90%; color: #333333; font-family: Arial, Helvetica, sans-serif;width: 600px;}
+h5 {font-weight: bold; font-size: 80%; color: #333333; font-family: Arial, Helvetica, sans-serif;width: 600px;}
+li {font-family: Arial, Helvetica, sans-serif}
+
+    ul.navbar {
+  		list-style-type: none;
+			font-size: 110%;
+			font-weight: bold;
+      padding: 0;
+      margin: 0;
+		position: absolute;		
+      top: 9.5em;
+      left: 1em;
+      width: 10em }
+	 
+	 ul.navbar li {
+			background: white;
+      margin: 0.4em 0;
+      
+    	}
+
+	ul.title {list-style-type: none;
+      padding: 0;
+      margin: 0;
+			position: absolute;
+      top: 2em;
+      left: 3em;
+      width: 12em}
+	
+address
+{
+font-family: Arial, Helvetica,
+sans-serif;
+width: 600px;
+font-style: italic;
+font-size: 80%;
+border-top: thin solid #888888;
+}

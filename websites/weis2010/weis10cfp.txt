@@ -1,0 +1,113 @@
+9th Workshop on the Economics of Information Security (WEIS)
+June 7-8, 2010
+Harvard University, Cambridge, MA, USA
+
+CALL FOR PAPERS
+
+http://weis2010.econinfosec.org/cfp.html
+
+IMPORTANT DATES
+
+    Submissions due: February 22, 2010
+    Notification of acceptance: April 2, 2010
+    Workshop: June 7-8, 2010
+
+Information security continues to grow in importance, as threats
+proliferate, privacy erodes, and attackers find new sources of value.
+Yet the security of information systems depends on more than just 
+technology.  Good security requires an understanding of the incentives 
+and tradeoffs inherent to the behavior of systems and organizations. As 
+society’s dependence on information technology has deepened, policy 
+makers, including the President of the United States, have taken 
+notice.  Now more than ever, careful research is needed to accurately 
+characterize threats and countermeasures, in both the public and 
+private sectors.
+
+The Workshop on the Economics of Information Security (WEIS) is the 
+leading forum for interdisciplinary scholarship on information 
+security, combining expertise from the fields of economics, social 
+science, business, law, policy and computer science. Prior workshops 
+have explored the role of incentives between attackers and defenders, 
+identified market failures dogging Internet security, and assessed 
+investments in cyber-defense. This workshop will build on past efforts 
+using empirical and analytic tools to not only understand threats, but 
+also strengthen security through novel evaluations of available 
+solutions. How should information risk be modeled given the constraints 
+of rare incidence and high interdependence? How do individuals’ and 
+organizations’ perceptions of privacy and security color their decision 
+making?  How can we move towards a more secure information 
+infrastructure and code base while accounting for the incentives of 
+stakeholders? 
+
+We encourage economists, computer scientists, business school
+researchers, legal scholars, security and privacy specialists, as well 
+as industry experts to submit their research and attend the workshop. 
+Suggested topics include (but are not limited to) empirical and 
+theoretical studies of:
+
+- Optimal investment in information security
+- Online crime (including botnets, phishing and spam)
+- Models and analysis of online crime 
+- Risk management and cyberinsurance 
+- Security standards and regulation 
+- Cybersecurity policy 
+- Privacy, confidentiality and anonymity 
+- Behavioral security and privacy 
+- Security models and metrics
+- Psychology of risk and security
+- Vulnerability discovery, disclosure, and patching
+- Cyberwar strategy and game theory
+- Incentives for information sharing and cooperation
+
+We highlight two key areas of particular focus for this year’s 
+workshop.  First, we encourage submissions that consider the design and 
+evaluation of policy solutions for improving information security.  
+Second, given the importance of data-driven decision making, we 
+encourage submissions with empirical components.  A selection of papers 
+accepted to this workshop will appear in an edited volume designed to 
+help policy makers, managers, researchers and practitioners better 
+understand the information security landscape.
+
+Papers should be submitted online by 23:59 PST on Monday, February 22, 
+2010, preferably in PDF format.  Submitted manuscripts should represent 
+significant and novel research contributions. Please note that WEIS has 
+no formal formatting guidelines. Previous contributors spanned fields 
+from economics and psychology to computer science and law, each with 
+different norms and expectations about manuscript length and 
+formatting. Advisable rules of thumb include: using past WEIS accepted 
+papers as templates and adhering to your community's publication 
+standards.
+
+WEIS is co-located with the 11th ACM Conference on Electronic Commerce, 
+June 9-11, 2010.  
+
+PROGRAM COMMITTEE
+
+Alessandro Acquisti, Carnegie Mellon University 
+Ross Anderson, University of Cambridge 
+Rainer Böhme, ICSI Berkeley 
+Jean Camp, Indiana University 
+Huseyin Cavusoglu, University of Texas at Dallas 
+Nicolas Christin, Carnegie Mellon University 
+Benjamin Edelman, Harvard Business School 
+Allan Friedman, Harvard University (General Chair) 
+Neil Gandal, Tel Aviv University 
+Dan Geer, In-Q-Tel 
+Lawrence Gordon, University of Maryland 
+Jens Grossklags, Princeton University 
+Thorsten Holz, Technical University of Vienna 
+M. Eric Johnson, Dartmouth Tuck School of Business 
+Martin Loeb, University of Maryland 
+Tyler Moore, Harvard University (Program Chair) 
+Andrew Odlyzko, University of Minnesota 
+David Pym, HP Labs and University of Bath 
+Brent Rowe, RTI 
+Stuart Schechter, Microsoft Research 
+Bruce Schneier, BT Counterpane 
+Rick Sullivan, Federal Reserve Bank of Kansas City 
+Latanya Sweeney, Carnegie Mellon University 
+Rahul Telang, Carnegie Mellon University 
+Catherine Tucker, MIT 
+Michel van Eeten, Delft University of Technology 
+Hal Varian, Google and UC Berkeley 
+Jonathan Zittrain, Harvard Law School
