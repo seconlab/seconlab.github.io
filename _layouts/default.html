@@ -22,6 +22,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ header_title }}</h1>
       <h2 class="project-tagline">{{ header_description }}</h2>
+      {% if page.announcement %}<p class="project-announcement">{{ page.announcement }}</p>{% endif %}
       {% if page.url != "/" %}
         <a href="{{ '/' | relative_url }}" class="btn">All conferences</a>
       {% endif %}

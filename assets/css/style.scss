@@ -2,3 +2,13 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.project-announcement {
+  margin-bottom: 1.5rem;
+  color: #fff;
+
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+}

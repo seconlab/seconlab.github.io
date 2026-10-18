@@ -1,5 +1,6 @@
 ---
 layout: default
+announcement: WEIS 2027 will be held in June 2027 in Munich, Germany. Please visit <a href="https://weis2027.econinfosec.org">https://weis2027.econinfosec.org</a> for more details.
 ---
 {% comment %} Build "year|slug" strings so conferences/papers/*.yml can be sorted by year {% endcomment %}
 {% assign entries = "" | split: "" %}
@@ -15,8 +16,6 @@ layout: default
   {% endif %}
 {% endfor %}
 {% assign entries = entries | sort | reverse %}
-
-<p>WEIS 2027 will be held in June 2027 in Munich, Germany. Please visit <a href="https://weis2027.econinfosec.org">https://weis2027.econinfosec.org</a> for more details.</p>
 
 <p>{{ entries | size }} conferences, {{ total_papers }} papers ({{ total_files }} files available).</p>
 
