@@ -1,0 +1,156 @@
+<html>
+<head>
+<title>WEIS05</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="keywords here">
+<meta name="description" content="description here">
+<meta name="author" content="myfreetemplates.com">
+<meta name="robots" content="index, follow"> <!-- (robot commands: all, none, index, no index, follow, no follow) -->
+<meta name="revisit-after" content="30 days">
+<meta name="distribution" content="global"> 
+<meta name="rating" content="general">
+<meta name="content-language" content="english">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body style="margin:5">
+<div align="center">
+  <table width=14 border=0 cellpadding=0 cellspacing=0>
+    <tr> 
+      <td width=755><html>
+
+<head>
+
+<title>WEIS05</title>
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+
+<meta name="keywords" content="keywords here">
+
+<meta name="description" content="description here">
+
+<meta name="author" content="myfreetemplates.com">
+
+<meta name="robots" content="index, follow"> <!-- (robot commands: all, none, index, no index, follow, no follow) -->
+
+<meta name="revisit-after" content="30 days">
+
+<meta name="distribution" content="global"> 
+
+<meta name="rating" content="general">
+
+<meta name="content-language" content="english">
+
+<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body style="margin:5">
+
+<div align="center">
+
+  <table width=755 border=0 cellpadding=0 cellspacing=0>
+
+    <tr>
+
+    <td width="35"><img src="images/topleft.gif" width=35 height=92></td>
+
+    <td width="216" background="images/pixi_topgrey.gif"><a href=""><img src="images/toplogo.gif" width=216 height=92 border="0"></a></td>
+
+      <td width="490" valign="bottom" background="images/pixi_topgrey.gif"><img src="images/toplogoright.gif" width="490" height="91"></td>
+
+    <td width="14"><img src="images/topright.gif" width=14 height=92></td>
+
+  </tr>
+
+  <tr>
+
+    <td width="35"> <img src="images/navleft.gif" width=35 height=33></td>
+
+      <td colspan=2 background="images/navbg.gif" class="menuLink"> <a href="../workshop/index.php" class="menuLink">home</a> 
+        | <a href="../workshop/aims.php" class="menuLink">conference 
+        aims</a> | <a href="../workshop/participate.php" class="menuLink">call 
+        for participation</a> | <a href="../workshop/schedule.php" class="menuLink">schedule</a> 
+        | <a href="../workshop/register.php" class="menuLink">register</a> 
+        | <a href="../workshop/past.php" class="menuLink">past 
+        workshops</a> | <a href="../workshop/travel.php" class="menuLink">travel 
+        & hotel</a> | <a href="mailto:infosecon@infosecon.net" target="_blank" class="menuLink">contact 
+        us </a></td>
+
+    <td width="14"> <img src="images/navright.gif" width=14 height=33></td>
+
+  </tr>
+
+</table>
+
+  
+
+</div>
+
+</body>
+
+</html>
+
+<!-- Provided by MyFreeTemplates.com -->
+
+</td>
+    </tr>
+  </table>
+  <table width=755 border=0 cellpadding=0 cellspacing=0>
+    <tr> 
+      <td width="611" height="380" valign="top"> 
+        <h1><br>
+         <h1> Applications</h1>
+        <p><img src="http://www.ksg.harvard.edu/apply/images/admpics/Taub-ext.jpg" width="400" height="208"></p>
+
+       
+        <h1>ONE WEEK SUBMISSION WINDOW</h1>
+
+<p><strong>
+<B> Scholarships</B>:<A HREF="http://www.thei3p">I3P</A> has provided several student registration scholarships and two travel scholarships. In order to apply please send a 100 word email to infosecon at this domain. You will be notified before April 15 if you have been awarded support and how much. Your email should state that you are a student; the area of expertise; your program; and you interest in the event. </strong>
+        <p>PLEASE NOTE: Thursday, June 2 and Friday, June 3, 2005 
+          are extremely busy days around Harvard Square. Harvard and MIT are both 
+          holding reunions and commencement ceremonies on and near those dates. 
+          Please make your reservations at one of the nearby hotals as soon as 
+          possible.</strong></p>
+	     <p>&nbsp;</p></td>
+      <td width=144 valign="top" style="padding:25px"> <h1>&nbsp;</h1>
+        </td>
+    </tr>
+  </table>
+<table border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td width=755><html>
+<head>
+<title>WEIS05</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="keywords here">
+<meta name="description" content="description here">
+<meta name="author" content="myfreetemplates.com">
+<meta name="robots" content="index, follow"> <!-- (robot commands: all, none, index, no index, follow, no follow) -->
+<meta name="revisit-after" content="30 days">
+<meta name="distribution" content="global"> 
+<meta name="rating" content="general">
+<meta name="content-language" content="english">
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body style="margin:5">
+<div align="center">
+  <table border=0 cellpadding=0 cellspacing=0>
+    <tr>
+      <td width="35"><img src="images/baseleft.gif" width=35 height=52 align="top"></td>
+      <td width="706" height="51" valign="middle" class="basebg">&copy;Copyright 
+        2005.</td>
+      <td width="14"><img src="images/baseright.gif" width=14 height=52 align="top"></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
+<!-- Provided by MyFreeTemplates.com -->
+</td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
+<!-- Provided by MyFreeTemplates.com -->

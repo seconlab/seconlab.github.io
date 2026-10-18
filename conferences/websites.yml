@@ -13,16 +13,26 @@ weis2004:
   source: wayback
   index: weis2004/index.html
   mirrored: '2026-10-09'
+weis2005:
+  url: http://infosecon.net/workshop/index.php
+  source: wayback
+  index: workshop/index.html
+  mirrored: '2026-10-10'
+weis2006:
+  url: https://www.econinfosec.org/archive/weis2006/index.html
+  source: live
+  index: index.html
+  mirrored: '2026-10-10'
 weis2007:
   url: https://web.archive.org/web/20071130003925/http://weis2007.econinfosec.org/index.htm
   source: wayback
   index: index.html
-  mirrored: '2026-10-09'
+  mirrored: '2026-10-10'
 weis2008:
   url: https://web.archive.org/web/20090602162456/http://weis2008.econinfosec.org/index.htm
   source: wayback
   index: index.html
-  mirrored: '2026-10-09'
+  mirrored: '2026-10-10'
 weis2010:
   url: https://web.archive.org/web/20150815065631/http://weis2010.econinfosec.org/
   source: wayback

@@ -1,0 +1,52 @@
+/*
+Created by MyFreeTemplates Design Lab
+Authored by Joseph De Araujo
+*/
+
+body,td,p,input,select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+ul {
+	list-style: square inside url('../images/arrow.gif')
+}
+
+.menuLink{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+a.menuLink:hover{
+	text-decoration:underline;
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #C32020;
+}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #C32020;
+.emp {
+	font-weight: bold;
+	font-size: 12px;
+	color: #C32020;
+}
+
+
+
+.basebg{
+background-color: #666666;
+color:#CCCCCC;
+}
+
+.move{
+margin-left: 2%;
+}
+
+

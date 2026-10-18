@@ -1,0 +1,77 @@
+
+                The Fifth Workshop on the Economics of 
+                   Information Security (WEIS 2006)
+
+                http://www.cl.cam.ac.uk/~twm29/WEIS06/
+
+                   University of Cambridge, England
+                            June 26-28, 2006
+
+                     C A L L   F O R   P A P E R S
+
+                       Submissions due: March 20
+
+Do we spend enough on hunting down bad guys on the Internet? Do we not 
+spend enough? Or do we spend too much?
+
+One of the most exciting and rapidly-growing fields at the boundary 
+between technology and the social sciences is the economics of 
+information security.  Many security and privacy failures are not 
+purely technical: for example, the person best placed to protect a 
+system may be poorly motivated if the costs of system failure fall on 
+others.  Many pressing problems, such as spam, are unlikely to be 
+solved by purely technical means, as they have economic and policy 
+aspects too.  Building dependable systems also raises questions such as
+open versus closed systems, the pricing of vulnerabilities and the 
+frequency of patching.  The 'economics of bugs' are of growing 
+importance to both vendors and users.
+
+Now that both crime and conflict are becoming virtualised, many of the 
+lessons learned by information security economists may travel to other 
+security applications, such as law enforcement.  Law enforcement 
+concerns such as traffic analysis impact on information security costs 
+and practices in turn.  For these and other reasons, the confluence 
+between information security and economics is of growing importance.
+
+Information security mechanisms are increasingly used not just to 
+protect against malicious attacks, but also to protect monopolies, 
+differentiate products and segment markets.  There are deep questions
+about the economics and politics of DRM, of locking printers to the 
+maker's cartridges, and of practices such as region coding.
+
+Original research papers are sought for the Fifth Workshop on the 
+Economics of Information Security.  Topics of interest include the 
+dependability of open source and free software, the interaction of 
+networks with crime and conflict, the economics of digital rights 
+management and trusted computing, liability and insurance, reputation, 
+privacy, risk perception, the economics of trust, the return on 
+security investment, and economic perspectives on spam.
+
+Important dates
+* Submissions due: March 20, 2006
+* Notification of acceptance: April 24, 2006
+* Workshop: June 26-28, 2006
+
+Papers should be sent by noon GMT on Monday, March 20, 2006 to
+weis-06@cl.cam.ac.uk.  For more information please visit 
+http://www.cl.cam.ac.uk/~twm29/WEIS06/
+
+WEIS 2006 is co-located with the Sixth Workshop on Privacy Enhancing 
+Technologies (PET), to be held June 28-30, 2006.  
+
+Program committee:
+
+Chair
+Ross Anderson (Cambridge)
+
+Committee
+Alessandro Acquisti (Carnegie Mellon)
+Jean Camp (University of Indiana)
+Huseyin Cavusoglu (Tulane University)
+Larry Gordon (University of Maryland)
+Marty Loeb (University of Maryland)
+Andrew Odlyzko (University of Minnesota)
+Stuart Schechter (MIT Lincoln Laboratory)
+Bruce Schneier (Counterpane)
+Rahul Telang (Carnegie Mellon)
+Hal Varian (UC Berkeley)
