@@ -22,15 +22,18 @@ Uso:
 
 Nota: le copie da Wayback possono essere incomplete (file mai archiviati, pagine dinamiche vuote).
 Rilanciare con --force su una copia Wayback scarica solo i file mancanti (quelli presenti vengono saltati).
+Le copie esistenti vengono normalizzate anche senza --force: link .shtml e snapshot
+.php diventano navigabili su GitHub Pages, senza eseguire codice server-side.
 """
 import argparse
+import os
 import re
 import shutil
 import subprocess
 import sys
 import time
 from pathlib import Path
-from urllib.parse import unquote, urlparse
+from urllib.parse import unquote, urlparse, urlunparse
 
 import requests
 import yaml
@@ -116,6 +119,63 @@ def wayback_cmd(url, dest, year=None):
 
 
 SRC_RE = re.compile(r"""(?:src|href)\s*=\s*["']([^"'#?]+)""", re.I)
+LOCAL_REF_RE = re.compile(
+    r"""(\b(?:href|src|background)\s*=\s*)(["']?)([^"'\s<>]+)\2""", re.I,
+)
+REFRESH_RE = re.compile(
+    r"""(<meta\b[^>]*\bcontent\s*=\s*["'][^"']*\burl\s*=\s*)([^"'\s<>;]+)""", re.I,
+)
+
+
+def normalize_local_links(dest, url):
+    """Conserva gli originali PHP e pubblica copie HTML con collegamenti locali."""
+    dest = dest.resolve()
+    original_url = WAYBACK_RE.sub(r"\2", url)
+    host = urlparse(original_url).netloc.lower().removeprefix("www.")
+    for page in sorted(dest.rglob("*.php")):
+        body = page.read_bytes()
+        if not re.search(br"<(?:html\b|!doctype\s+html\b)", body, re.I) or re.search(br"<\?php\b|<\?=", body, re.I):
+            raise ValueError(f"Snapshot PHP non statico: {page}")
+        page.with_suffix(".php.html").write_bytes(body)
+
+    def local_ref(page, ref):
+        parsed = urlparse(ref)
+        if parsed.scheme or parsed.netloc:
+            if parsed.scheme not in ("", "http", "https") or parsed.netloc.lower().removeprefix("www.") != host:
+                return ref
+            target = dest / unquote(parsed.path).lstrip("/")
+        elif parsed.path.startswith("/"):
+            target = dest / unquote(parsed.path).lstrip("/")
+        elif parsed.path:
+            target = page.parent / unquote(parsed.path)
+        else:
+            return ref
+        target = target.resolve()
+        if not target.is_relative_to(dest):
+            return ref
+        if target.suffix.lower() == ".php":
+            target = target.with_suffix(".php.html")
+        elif target.suffix.lower() == ".shtml":
+            target = target.with_suffix(".html")
+        if not target.is_file():
+            return ref
+        path = Path(os.path.relpath(target, page.parent)).as_posix()
+        return urlunparse(("", "", path, parsed.params, parsed.query, parsed.fragment))
+
+    changed = 0
+    for page in sorted(dest.rglob("*.htm*")):
+        body = page.read_bytes()
+        text = body.decode("latin-1")
+        updated = LOCAL_REF_RE.sub(
+            lambda match: match[1] + match[2] + local_ref(page, match[3]) + match[2], text,
+        )
+        updated = REFRESH_RE.sub(
+            lambda match: match[1] + local_ref(page, match[2]), updated,
+        )
+        if updated != text:
+            page.write_bytes(updated.encode("latin-1"))
+            changed += 1
+    log(f"   collegamenti locali normalizzati in {changed} pagine")
 
 
 def missing_assets(dest):
@@ -181,6 +241,8 @@ def mirror(yml_path, force=False, dry_run=False):
         return "no_url"
     if dest.exists() and any(dest.iterdir()) and not force:
         log(f"   gia' presente: {dest.relative_to(ROOT)} (usa --force per riscaricare)")
+        if not dry_run:
+            normalize_local_links(dest, url)
         return "existing"
 
     if WAYBACK_RE.match(url) or not is_live(url):
@@ -201,6 +263,7 @@ def mirror(yml_path, force=False, dry_run=False):
     ok = code in (0, 8) if source == "live" else code == 0
     log(f"   {'OK' if ok else 'ERRORE'} [{source}] exit={code}")
     if ok and not dry_run:
+        normalize_local_links(dest, url)
         index = entry_page(dest, url, source)
         update_registry(slug, url, source, index)
         log(f"   pagina iniziale: {index}")
